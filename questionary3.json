@@ -780,7 +780,7 @@
         },
         {
             "evaluacion": 3,
-            "temario": "Farmacia hospitalaria",
+            "temario": "Información farmacoterapéutica en un SFH",
             "preguntas": [
                 {
                     "id": 71,
@@ -1221,7 +1221,7 @@
         },
         {
             "evaluacion": 4,
-            "temario": "Farmacia hospitalaria",
+            "temario": "Almacenamiento y distribución",
             "preguntas": [
                 {
                     "id": 111,
@@ -2108,7 +2108,7 @@
         },
         {
             "evaluacion": 6,
-            "temario": "Farmacia hospitalaria",
+            "temario": "Dispensación a pacientes ingresados",
             "preguntas": [
                 {
                     "id": 191,

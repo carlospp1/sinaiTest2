@@ -1,155 +1,166 @@
 <!DOCTYPE html>
 <html lang="es">
-	<head>
-		<meta charset="UTF-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		<title>Resultados de los Tests</title>
-		<link rel="stylesheet" href="styles.css" />
-		<link
-			rel="icon"
-			type="image/png"
-			href="https://cdn-icons-png.flaticon.com/512/6581/6581934.png"
-		/>
-		<link
-			rel="stylesheet"
-			href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
-		/>
-	</head>
-	<body>
-		<header>
-			<div class="menu-btn">
-				<a
-					href="index.html?test=all"
-					class="nav-button"
-					title="Volver a la página principal"
-				>
-					<i class="fas fa-arrow-left"></i>
-				</a>
-			</div>
-		</header>
-		<div class="spinner" id="spinner">
-			<!-- Puedes usar un spinner de Font Awesome o cualquier otro que prefieras -->
-			<i class="fas fa-spinner fa-spin"></i>
-		</div>
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Resultados de los Tests</title>
+        <link rel="stylesheet" href="styles.css" />
+        <link
+            rel="icon"
+            type="image/png"
+            href="https://cdn-icons-png.flaticon.com/512/6581/6581934.png"
+        />
+        <link
+            rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
+        />
+    </head>
+    <body>
+        <header>
+            <div class="menu-btn">
+                <a
+                    href="index.html?test=all"
+                    class="nav-button"
+                    title="Volver a la página principal"
+                >
+                    <i class="fas fa-arrow-left"></i>
+                </a>
+            </div>
+        </header>
+        <div class="spinner" id="spinner">
+            <!-- Puedes usar un spinner de Font Awesome o cualquier otro que prefieras -->
+            <i class="fas fa-spinner fa-spin"></i>
+        </div>
 
-		<div class="resultsPage hidden">
-			<div
-				style="display: flex;
-			align-items: center;
-			justify-content: center;
-		}"
-			>
-				<h1>Resultados de los Tests</h1>
-			</div>
-			<div class="resultTable">
-				<table id="results-table">
-					<thead>
-						<tr>
-							<th>Test</th>
-							<th>Aprobados</th>
-							<th>Reprobados</th>
-						</tr>
-					</thead>
-					<tbody id="results-container">
-						<!-- Los resultados se insertarán aquí -->
-					</tbody>
-				</table>
-			</div>
-		</div>
-		<script>
-			document.addEventListener("DOMContentLoaded", async function () {
-				const resultsContainer = document.getElementById("results-container");
-				const resultsData = JSON.parse(localStorage.getItem("results") || "{}");
-				const testDetails = [];
+        <div class="resultsPage hidden">
+            <div
+                style="
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                "
+            >
+                <h1>Resultados de los Tests</h1>
+            </div>
+            <div class="resultTable">
+                <table id="results-table">
+                    <thead>
+                        <tr>
+                            <th>Test</th>
+                            <th>Aprobados</th>
+                            <th>Reprobados</th>
+                        </tr>
+                    </thead>
+                    <tbody id="results-container">
+                        <!-- Los resultados se insertarán aquí -->
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <script>
+            document.addEventListener('DOMContentLoaded', async function () {
+                const resultsContainer =
+                    document.getElementById('results-container')
+                const resultsData = JSON.parse(
+                    localStorage.getItem('results') || '{}'
+                )
+                const testDetails = []
 
-				// Supongamos que hay 7 archivos JSON para cargar
-				for (let i = 1; i <= 7; i++) {
-					try {
-						const data = await fetch(`questionary${i}.json`).then((response) =>
-							response.json()
-						);
-						testDetails[i] = {
-							title: data.title,
-							themes: data.theme.map((t) => ({
-								id: t.evaluacion,
-								name: t.temario,
-							})),
-						};
-					} catch (error) {
-						console.error(`Error loading JSON for test ${i}:`, error);
-						testDetails[i] = {
-							title: `Test ${i} (details not available)`,
-							themes: [],
-						};
-					}
-				}
+                // Supongamos que hay 7 archivos JSON para cargar
+                for (let i = 1; i <= 7; i++) {
+                    try {
+                        const data = await fetch(`questionary${i}.json`).then(
+                            (response) => response.json()
+                        )
+                        testDetails[i] = {
+                            title: data.title,
+                            themes: data.theme.map((t) => ({
+                                id: t.evaluacion,
+                                name: t.temario,
+                            })),
+                        }
+                    } catch (error) {
+                        console.error(
+                            `Error loading JSON for test ${i}:`,
+                            error
+                        )
+                        testDetails[i] = {
+                            title: `Test ${i} (details not available)`,
+                            themes: [],
+                        }
+                    }
+                }
 
-				if (Object.keys(resultsData).length === 0 && testDetails.length === 0) {
-					resultsContainer.innerHTML =
-						"<tr><td colspan='3'>No hay resultados para mostrar.</td></tr>";
-					return;
-				}
+                if (
+                    Object.keys(resultsData).length === 0 &&
+                    testDetails.length === 0
+                ) {
+                    resultsContainer.innerHTML =
+                        "<tr><td colspan='3'>No hay resultados para mostrar.</td></tr>"
+                    return
+                }
 
-				let resultsHTML = "";
-				// Process the general test results
-				if (resultsData["results_all"]) {
-					resultsHTML += `<tr>
+                let resultsHTML = ''
+                // Process the general test results
+                if (resultsData['results_all']) {
+                    resultsHTML += `<tr>
 												<td><strong>Test Farmacia</strong></td>
-												<td>${resultsData["results_all"].aprobados}</td>
-												<td>${resultsData["results_all"].reprobados}</td>
-											</tr>`;
-				} else {
-					resultsHTML += `<tr class="unattempted">
+												<td>${resultsData['results_all'].aprobados}</td>
+												<td>${resultsData['results_all'].reprobados}</td>
+											</tr>`
+                } else {
+                    resultsHTML += `<tr class="unattempted">
 												<td><strong>Test Farmacia</strong></td>
 												<td colspan="2">No haz atendido esta evaluación.</td>
-											</tr>`;
-				}
+											</tr>`
+                }
 
-				// Process each test and its themes
-				testDetails.forEach((details, index) => {
-					if (!details || index === 0) return; // Skip if no details or 'general' test
+                // Process each test and its themes
+                testDetails.forEach((details, index) => {
+                    if (!details || index === 0) return // Skip if no details or 'general' test
 
-					// Main test entry
-					const mainResultKey = `results_${index}`;
-					const mainResults = resultsData[mainResultKey];
-					if (mainResults) {
-						resultsHTML += `<tr>
+                    // Main test entry
+                    const mainResultKey = `results_${index}`
+                    const mainResults = resultsData[mainResultKey]
+                    if (mainResults) {
+                        resultsHTML += `<tr>
 													<td><strong>${details.title}</strong></td>
 													<td>${mainResults.aprobados}</td>
 													<td>${mainResults.reprobados}</td>
-												</tr>`;
-					} else {
-						resultsHTML += `<tr class="unattempted">
+												</tr>`
+                    } else {
+                        resultsHTML += `<tr class="unattempted">
 													<td><strong>${details.title}</strong></td>
 													<td colspan="2">No haz atendido esta evaluación.</td>
-												</tr>`;
-					}
+												</tr>`
+                    }
 
-					// Theme entries
-					details.themes.forEach((theme) => {
-						const themeResultKey = `results_${index}_${theme.id}`;
-						const themeResults = resultsData[themeResultKey];
-						if (themeResults) {
-							resultsHTML += `<tr>
+                    // Theme entries
+                    details.themes.forEach((theme) => {
+                        const themeResultKey = `results_${index}_${theme.id}`
+                        const themeResults = resultsData[themeResultKey]
+                        if (themeResults) {
+                            resultsHTML += `<tr>
 														<td style="padding-left: 20px;">${theme.name}</td>
 														<td>${themeResults.aprobados}</td>
 														<td>${themeResults.reprobados}</td>
-													</tr>`;
-						} else {
-							resultsHTML += `<tr class="unattempted">
+													</tr>`
+                        } else {
+                            resultsHTML += `<tr class="unattempted">
 														<td style="padding-left: 20px;">${theme.name}</td>
 														<td colspan="2">No haz atendido esta evaluación.</td>
-													</tr>`;
-						}
-					});
-				});
+													</tr>`
+                        }
+                    })
+                })
 
-				resultsContainer.innerHTML = resultsHTML;
-				setTimeout(() => {
-					document.getElementById("spinner").style.display = "none";
-					document.querySelector(".resultsPage").style.display = "block";
-				}, 400);
-			});
-		</script>
-	</body>
+                resultsContainer.innerHTML = resultsHTML
+                setTimeout(() => {
+                    document.getElementById('spinner').style.display = 'none'
+                    document.querySelector('.resultsPage').style.display =
+                        'block'
+                }, 400)
+            })
+        </script>
+    </body>
 </html>
