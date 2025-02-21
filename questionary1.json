@@ -1,0 +1,954 @@
+{
+    "title": "Dispensación de Productos Farmacéuticos",
+    "theme": [
+        {
+            "evaluacion": 1,
+            "temario": "Servicios básicos en la oficina de farmacia",
+            "preguntas": [
+                {
+                    "id": 1,
+                    "pregunta": "¿Qué información NO proporciona el prospecto de un medicamento?",
+                    "opciones": [
+                        "Efectos secundarios posibles",
+                        "Instrucciones para el uso del medicamento",
+                        "Información científica detallada",
+                        "Datos de conservación del medicamento"
+                    ],
+                    "respuestaCorrecta": "Información científica detallada"
+                },
+                {
+                    "id": 2,
+                    "pregunta": "Según la Ley 16/1997 de regulación de servicios de las Oficinas de Farmacia (OF), se establece que las farmacias son:",
+                    "opciones": [
+                        "Establecimientos sanitarios públicos",
+                        "Establecimientos comerciales",
+                        "Establecimientos sanitarios privados de interés público",
+                        "Todas las respuestas son correctas"
+                    ],
+                    "respuestaCorrecta": "Establecimientos sanitarios privados de interés público"
+                },
+                {
+                    "id": 3,
+                    "pregunta": "¿Cuál es el objetivo principal del protocolo PASITAMAE en la consulta farmacéutica?",
+                    "opciones": [
+                        "Realizar un diagnóstico médico",
+                        "Evaluar la eficacia de los medicamentos",
+                        "Supervisar la calidad de los medicamentos",
+                        "Identificar y tratar problemas de salud menores"
+                    ],
+                    "respuestaCorrecta": "Identificar y tratar problemas de salud menores"
+                },
+                {
+                    "id": 4,
+                    "pregunta": "¿Qué documento sirve para proporcionar información al paciente sobre el uso correcto de los medicamentos?",
+                    "opciones": [
+                        "Nomenclátor de facturación",
+                        "Catálogo de Medicamentos",
+                        "Ficha técnica",
+                        "Prospecto"
+                    ],
+                    "respuestaCorrecta": "Prospecto"
+                },
+                {
+                    "id": 5,
+                    "pregunta": "¿Cuál es una de las actividades de las oficinas de farmacia en educación sanitaria?",
+                    "opciones": [
+                        "Promover hábitos de vida saludables",
+                        "Proveer atención psicológica profesional",
+                        "Realizar cirugías menores",
+                        "Desarrollar nuevos medicamentos"
+                    ],
+                    "respuestaCorrecta": "Promover hábitos de vida saludables"
+                }
+            ]
+        },
+        {
+            "evaluacion": 2,
+            "temario": "El medicamento",
+            "preguntas": [
+                {
+                    "id": 11,
+                    "pregunta": "En el libro recetario de la Oficina de Farmacia deben registrarse:",
+                    "opciones": [
+                        "Fórmulas magistrales",
+                        "Medicamentos de uso humano destinado a uso veterinario",
+                        "Todas las respuestas son correctas",
+                        "Psicótropos de las listas II, III y IV"
+                    ],
+                    "respuestaCorrecta": "Todas las respuestas son correctas"
+                },
+                {
+                    "id": 12,
+                    "pregunta": "¿Cuál es la diferencia entre un medicamento genérico y un medicamento original?",
+                    "opciones": [
+                        "El medicamento original tiene una patente que el genérico no tiene",
+                        "El medicamento genérico es más caro que el original",
+                        "El medicamento genérico tiene una composición diferente al original",
+                        "El medicamento original no requiere prescripción médica"
+                    ],
+                    "respuestaCorrecta": "El medicamento original tiene una patente que el genérico no tiene"
+                },
+                {
+                    "id": 13,
+                    "pregunta": "¿Qué es una fórmula magistral?",
+                    "opciones": [
+                        "Medicamento elaborado a partir de plantas medicinales",
+                        "Medicamento destinado a un paciente individualizado preparado por un farmacéutico",
+                        "Medicamento que incluye sustancias psicótropas o estupefacientes en su composición",
+                        "Medicamento descrito en Formulario Nacional"
+                    ],
+                    "respuestaCorrecta": "Medicamento destinado a un paciente individualizado preparado por un farmacéutico"
+                },
+                {
+                    "id": 14,
+                    "pregunta": "¿Qué tipo de medicamento necesita visado de inspección para su financiación?",
+                    "opciones": [
+                        "Medicamentos de diagnóstico hospitalario",
+                        "Estupefacientes",
+                        "Medicamentos homeopáticos",
+                        "Medicamentos OTC"
+                    ],
+                    "respuestaCorrecta": "Medicamentos de diagnóstico hospitalario"
+                },
+                {
+                    "id": 15,
+                    "pregunta": "¿Qué medicamentos se utilizan para diagnosticar en el medio hospitalario pero pueden administrarse fuera del hospital?",
+                    "opciones": [
+                        "Medicamentos de uso hospitalario",
+                        "Medicamentos OTC",
+                        "Medicamentos biológicos",
+                        "Medicamentos de diagnóstico hospitalario"
+                    ],
+                    "respuestaCorrecta": "Medicamentos de diagnóstico hospitalario"
+                },
+                {
+                    "id": 16,
+                    "pregunta": "¿Qué tipo de medicamentos no están sujetos a prescripción médica?",
+                    "opciones": [
+                        "Medicamentos de diagnóstico hospitalario",
+                        "Medicamentos de uso hospitalario",
+                        "Medicamentos OTC",
+                        "Medicamentos con visado de inspección"
+                    ],
+                    "respuestaCorrecta": "Medicamentos OTC"
+                },
+                {
+                    "id": 17,
+                    "pregunta": "En cuanto al número de envases por receta, pueden prescribirse hasta cuatro envases de:",
+                    "opciones": [
+                        "Medicamentos que contengan sustancias estupefacientes incluidas en la lista I de la Convención Única de 1961 de estupefacientes, siempre que no supere un mes de tratamiento",
+                        "Medicamentos de diagnóstico hospitalario",
+                        "Viales multidosis (excepto cartuchos multidosis) de insulinas",
+                        "Todas las respuestas son correctas"
+                    ],
+                    "respuestaCorrecta": "Todas las respuestas son correctas"
+                },
+                {
+                    "id": 18,
+                    "pregunta": "¿Qué tipo de medicamento se elabora a partir de organismos vivos?",
+                    "opciones": [
+                        "Medicamento psicótropo",
+                        "Medicamento huérfano",
+                        "Medicamento homeopático",
+                        "Medicamento biológico"
+                    ],
+                    "respuestaCorrecta": "Medicamento biológico"
+                },
+                {
+                    "id": 19,
+                    "pregunta": "¿Cuál es la definición más exacta de medicamento?",
+                    "opciones": [
+                        "Preparación biológica que proporciona inmunidad adquirida contra una enfermedad específica",
+                        "Toda sustancia destinada a ser usada en seres humanos para prevenir enfermedades",
+                        "Premezcla de piensos medicamentosos",
+                        "Toda sustancia o combinación destinada a prevenir, diagnosticar, tratar o curar enfermedades"
+                    ],
+                    "respuestaCorrecta": "Toda sustancia o combinación destinada a prevenir, diagnosticar, tratar o curar enfermedades"
+                },
+                {
+                    "id": 20,
+                    "pregunta": "Los medicamentos de uso hospitalario:",
+                    "opciones": [
+                        "Ninguna respuesta es cierta",
+                        "Se usan en el medio hospitalario o centros asistenciales autorizados",
+                        "Se pueden prescribir en órdenes de dispensación",
+                        "Se dispensan en OF"
+                    ],
+                    "respuestaCorrecta": "Se usan en el medio hospitalario o centros asistenciales autorizados"
+                }
+            ]
+        },
+        {
+            "evaluacion": 3,
+            "temario": "Acondicionamiento del Medicamento",
+            "preguntas": [
+                {
+                    "id": 21,
+                    "pregunta": "El prospecto:",
+                    "opciones": [
+                        "Se elabora a partir de la información de la ficha técnica",
+                        "Incluye un apartado con el título Farmacocinética",
+                        "Es un documento que las empresas fabricantes pueden adjuntar a los medicamentos que fabrican, si consideran que se debe facilitar información relevante",
+                        "Es un documento técnico que está dirigido al personal sanitario"
+                    ],
+                    "respuestaCorrecta": "Se elabora a partir de la información de la ficha técnica"
+                },
+                {
+                    "id": 22,
+                    "pregunta": "¿Qué documento recoge las condiciones de uso autorizadas de un medicamento y la información científica esencial?",
+                    "opciones": [
+                        "Ficha técnica",
+                        "Libro recetario",
+                        "Formulario Nacional",
+                        "Prospecto"
+                    ],
+                    "respuestaCorrecta": "Ficha técnica"
+                },
+                {
+                    "id": 23,
+                    "pregunta": "Un cícero a la izquierda de las siglas A.S.S.S. en un cupón precinto identifica que:",
+                    "opciones": [
+                        "Es un medicamento de especial control médico",
+                        "El medicamento requiere un visado de inspección para su dispensación a cargo al SNS",
+                        "Es un medicamento para diagnóstico hospitalario",
+                        "Se trata de un medicamento de aportación reducida"
+                    ],
+                    "respuestaCorrecta": "Se trata de un medicamento de aportación reducida"
+                },
+                {
+                    "id": 24,
+                    "pregunta": "Un dato que aparece en todos los cupones precinto es:",
+                    "opciones": [
+                        "Un cícero",
+                        "Las siglas AEMPS",
+                        "Nombre del laboratorio farmacéutico",
+                        "Barra negra en la parte superior del cupón"
+                    ],
+                    "respuestaCorrecta": "Nombre del laboratorio farmacéutico"
+                },
+                {
+                    "id": 25,
+                    "pregunta": "¿Qué significa el cupón precinto diferenciado?",
+                    "opciones": [
+                        "Pictograma de fotosensibilidad",
+                        "Código nacional",
+                        "Visado de inspección",
+                        "Código de barras bidimensional"
+                    ],
+                    "respuestaCorrecta": "Visado de inspección"
+                },
+                {
+                    "id": 26,
+                    "pregunta": "¿Qué información debe contener el blíster de medicamento?",
+                    "opciones": [
+                        "Código nacional",
+                        "Nombre del medicamento y fecha de caducidad",
+                        "Periodo de validez tras apertura",
+                        "Cupón precinto"
+                    ],
+                    "respuestaCorrecta": "Nombre del medicamento y fecha de caducidad"
+                },
+                {
+                    "id": 27,
+                    "pregunta": "¿Qué garantiza el código Datamatrix en los medicamentos?",
+                    "opciones": [
+                        "Cupón precinto diferenciado",
+                        "Mejora en los precios de referencia",
+                        "Identificación y trazabilidad",
+                        "Control de seguridad"
+                    ],
+                    "respuestaCorrecta": "Identificación y trazabilidad"
+                },
+                {
+                    "id": 28,
+                    "pregunta": "¿Cuál de estos materiales no se utiliza en el acondicionamiento primario?",
+                    "opciones": ["Vidrio", "Aluminio", "Cartón", "Plástico"],
+                    "respuestaCorrecta": "Cartón"
+                },
+                {
+                    "id": 29,
+                    "pregunta": "¿Qué información mínima debe aparecer en las ampollas?",
+                    "opciones": [
+                        "Fecha de caducidad y lote",
+                        "Listado de excipientes",
+                        "Precauciones especiales de conservación",
+                        "Propiedades farmacodinámicas"
+                    ],
+                    "respuestaCorrecta": "Fecha de caducidad y lote"
+                },
+                {
+                    "id": 30,
+                    "pregunta": "¿Qué siglas no se van a encontrar en el cartonaje de un medicamento que se dispensa a un paciente en una oficina de farmacia?",
+                    "opciones": ["H", "EFG", "DH", "TLD"],
+                    "respuestaCorrecta": "H"
+                }
+            ]
+        },
+        {
+            "evaluacion": 4,
+            "temario": "Vías de Administración",
+            "preguntas": [
+                {
+                    "id": 31,
+                    "pregunta": "¿Cuál es una ventaja de los parches transdérmicos?",
+                    "opciones": [
+                        "Evitan el primer paso hepático",
+                        "Causan dolor al aplicarse",
+                        "Alta irritación de la piel",
+                        "Requieren alta concentración del fármaco"
+                    ],
+                    "respuestaCorrecta": "Evitan el primer paso hepático"
+                },
+                {
+                    "id": 32,
+                    "pregunta": "¿Qué vía se utiliza principalmente en situaciones de emergencia?",
+                    "opciones": [
+                        "Subcutánea",
+                        "Intravenosa",
+                        "Oral",
+                        "Intradérmica"
+                    ],
+                    "respuestaCorrecta": "Intravenosa"
+                },
+                {
+                    "id": 33,
+                    "pregunta": "¿Qué forma farmacéutica favorece la absorción del principio activo a través de la piel para un efecto sistémico?",
+                    "opciones": ["Colirio", "Supositorio", "Parches", "Pomada"],
+                    "respuestaCorrecta": "Parches"
+                },
+                {
+                    "id": 34,
+                    "pregunta": "¿Qué ventaja presenta la vía de administración rectal?",
+                    "opciones": [
+                        "La absorción es más rápida que la vía oral",
+                        "Solo permite la acción local",
+                        "No provoca molestias al paciente",
+                        "Es la vía preferida en adultos"
+                    ],
+                    "respuestaCorrecta": "La absorción es más rápida que la vía oral"
+                },
+                {
+                    "id": 35,
+                    "pregunta": "¿Cuál es la técnica adecuada para aplicar gotas óticas en un adulto?",
+                    "opciones": [
+                        "Colocar la cabeza hacia abajo",
+                        "Instilar directamente en el pabellón auditivo sin ninguna técnica",
+                        "Tirar de la oreja hacia arriba y hacia atrás",
+                        "Tirar de la oreja hacia abajo y hacia atrás"
+                    ],
+                    "respuestaCorrecta": "Tirar de la oreja hacia abajo y hacia atrás"
+                },
+                {
+                    "id": 36,
+                    "pregunta": "¿Qué forma farmacéutica líquida contiene alta concentración de glucosa?",
+                    "opciones": ["Jarabe", "Suspensión", "Elixir", "Emulsión"],
+                    "respuestaCorrecta": "Jarabe"
+                },
+                {
+                    "id": 37,
+                    "pregunta": "¿Cuál de las siguientes es una condición que debe cumplir un medicamento inyectable?",
+                    "opciones": [
+                        "Contener pirógenos",
+                        "Ser isotónico",
+                        "Ser liposoluble",
+                        "Estar en forma sólida"
+                    ],
+                    "respuestaCorrecta": "Ser isotónico"
+                },
+                {
+                    "id": 38,
+                    "pregunta": "¿Qué forma farmacéutica es una preparación semisólida?",
+                    "opciones": [
+                        "Colirio",
+                        "Cápsula",
+                        "Solución oral",
+                        "Pomada"
+                    ],
+                    "respuestaCorrecta": "Pomada"
+                },
+                {
+                    "id": 39,
+                    "pregunta": "¿Qué caracteriza a las formas farmacéuticas de acción sostenida?",
+                    "opciones": [
+                        "El medicamento actúa solo en el intestino",
+                        "La liberación del principio activo se da en picos",
+                        "El principio activo se libera de forma constante y prolongada",
+                        "El principio activo se libera de manera rápida"
+                    ],
+                    "respuestaCorrecta": "El principio activo se libera de forma constante y prolongada"
+                },
+                {
+                    "id": 40,
+                    "pregunta": "¿Qué función principal cumplen los excipientes en un medicamento?",
+                    "opciones": [
+                        "Reducir el efecto del principio activo",
+                        "Recubrir el principio activo",
+                        "Facilitar la administración y mejorar las características del medicamento",
+                        "Curar la enfermedad"
+                    ],
+                    "respuestaCorrecta": "Facilitar la administración y mejorar las características del medicamento"
+                }
+            ]
+        },
+        {
+            "evaluacion": 5,
+            "temario": "Biofarmacia y Farmacocinética",
+            "preguntas": [
+                {
+                    "id": 41,
+                    "pregunta": "Las reacciones alérgicas a un medicamento se consideran:",
+                    "opciones": ["Tipo C", "Tipo A", "Tipo D", "Tipo B"],
+                    "respuestaCorrecta": "Tipo B"
+                },
+                {
+                    "id": 42,
+                    "pregunta": "¿Qué significa biodisponibilidad (BD)?",
+                    "opciones": [
+                        "La eficacia terapéutica de un fármaco",
+                        "El porcentaje del fármaco que llega intacto a la circulación sistémica",
+                        "La cantidad de fármaco excretado en la orina",
+                        "La velocidad con la que el fármaco se libera"
+                    ],
+                    "respuestaCorrecta": "El porcentaje del fármaco que llega intacto a la circulación sistémica"
+                },
+                {
+                    "id": 43,
+                    "pregunta": "¿Cuál es el mecanismo de absorción más común de los fármacos en el intestino delgado?",
+                    "opciones": [
+                        "Endocitosis",
+                        "Difusión pasiva",
+                        "Transporte activo",
+                        "Difusión facilitada"
+                    ],
+                    "respuestaCorrecta": "Difusión pasiva"
+                },
+                {
+                    "id": 44,
+                    "pregunta": "¿En qué parte del sistema digestivo ocurre principalmente la absorción de medicamentos administrados por vía oral?",
+                    "opciones": ["Esófago", "Duodeno", "Colon", "Estómago"],
+                    "respuestaCorrecta": "Duodeno"
+                },
+                {
+                    "id": 45,
+                    "pregunta": "¿Cuál es la fase del proceso LADME en la que el fármaco se desplaza a los órganos donde ejercerá su acción?",
+                    "opciones": [
+                        "Metabolismo",
+                        "Excreción",
+                        "Distribución",
+                        "Liberación"
+                    ],
+                    "respuestaCorrecta": "Distribución"
+                },
+                {
+                    "id": 46,
+                    "pregunta": "¿Qué tipo de fármaco se une a un receptor, pero no genera respuesta?",
+                    "opciones": [
+                        "Antagonista",
+                        "Modulador alostérico",
+                        "Agonista",
+                        "Inhibidor de enzima"
+                    ],
+                    "respuestaCorrecta": "Antagonista"
+                },
+                {
+                    "id": 47,
+                    "pregunta": "La incidencia de reacciones adversas es mayor en:",
+                    "opciones": [
+                        "Pacientes jóvenes",
+                        "Pacientes con tratamiento corto",
+                        "Pacientes con un solo medicamento",
+                        "Adultos mayores"
+                    ],
+                    "respuestaCorrecta": "Adultos mayores"
+                },
+                {
+                    "id": 48,
+                    "pregunta": "¿Qué tipo de fármaco es más probable que se absorba más rápidamente?",
+                    "opciones": [
+                        "Un fármaco en solución",
+                        "Un fármaco con baja solubilidad en agua",
+                        "Un fármaco en forma de comprimido",
+                        "Un fármaco de liberación retardada"
+                    ],
+                    "respuestaCorrecta": "Un fármaco en solución"
+                },
+                {
+                    "id": 49,
+                    "pregunta": "Un fármaco es considerado más potente cuando:",
+                    "opciones": [
+                        "Tiene un efecto prolongado",
+                        "Se necesita una dosis menor para lograr el mismo efecto",
+                        "Provoca menos efectos secundarios",
+                        "Es menos eficaz"
+                    ],
+                    "respuestaCorrecta": "Se necesita una dosis menor para lograr el mismo efecto"
+                },
+                {
+                    "id": 50,
+                    "pregunta": "La relación dosis-respuesta ayuda a:",
+                    "opciones": [
+                        "Evaluar la absorción del fármaco",
+                        "Medir el tiempo de excreción",
+                        "Determinar el índice terapéutico y la potencia de un fármaco",
+                        "Identificar los efectos secundarios"
+                    ],
+                    "respuestaCorrecta": "Determinar el índice terapéutico y la potencia de un fármaco"
+                }
+            ]
+        },
+        {
+            "evaluacion": 6,
+            "temario": "Grupos Terapéuticos y Sistema ATC",
+            "preguntas": [
+                {
+                    "id": 51,
+                    "pregunta": "¿Qué indica el código V en el sistema ATC?",
+                    "opciones": [
+                        "Agentes antineoplásicos",
+                        "Vacunas",
+                        "Varios",
+                        "Preparados hormonales"
+                    ],
+                    "respuestaCorrecta": "Varios"
+                },
+                {
+                    "id": 52,
+                    "pregunta": "¿Qué medicamento es un anticuerpo monoclonal usado en tratamientos contra el cáncer?",
+                    "opciones": [
+                        "Rituximab",
+                        "Ciclofosfamida",
+                        "Etopósido",
+                        "Paclitaxel"
+                    ],
+                    "respuestaCorrecta": "Rituximab"
+                },
+                {
+                    "id": 53,
+                    "pregunta": "Los dos últimos dígitos del código ATC de un medicamento corresponden a:",
+                    "opciones": [
+                        "Grupo anatómico",
+                        "Grupo terapéutico",
+                        "Principio activo",
+                        "Grupo químico"
+                    ],
+                    "respuestaCorrecta": "Principio activo"
+                },
+                {
+                    "id": 54,
+                    "pregunta": "¿Cuál es un efecto secundario común de los AINEs?",
+                    "opciones": [
+                        "Irritación gastrointestinal",
+                        "Náuseas",
+                        "Insomnio",
+                        "Aumento de peso"
+                    ],
+                    "respuestaCorrecta": "Irritación gastrointestinal"
+                },
+                {
+                    "id": 55,
+                    "pregunta": "El cuarto nivel del sistema de clasificación ATC de medicamentos se refiere a:",
+                    "opciones": [
+                        "Grupo químico",
+                        "Grupo terapéutico",
+                        "Grupo sanguíneo",
+                        "Grupo anatómico"
+                    ],
+                    "respuestaCorrecta": "Grupo químico"
+                },
+                {
+                    "id": 56,
+                    "pregunta": "¿Qué corresponde al código N en la clasificación ATC?",
+                    "opciones": [
+                        "Sistema nervioso",
+                        "Órganos de los sentidos",
+                        "Sistema respiratorio",
+                        "Sistema cardiovascular"
+                    ],
+                    "respuestaCorrecta": "Sistema nervioso"
+                },
+                {
+                    "id": 57,
+                    "pregunta": "¿Qué indica el primer nivel en la clasificación ATC?",
+                    "opciones": [
+                        "El grupo químico",
+                        "El órgano o sistema sobre el que actúa el fármaco",
+                        "El subgrupo terapéutico",
+                        "El nombre del principio activo"
+                    ],
+                    "respuestaCorrecta": "El órgano o sistema sobre el que actúa el fármaco"
+                },
+                {
+                    "id": 58,
+                    "pregunta": "¿Qué letra se asigna a los medicamentos que actúan sobre el tracto alimentario y metabolismo en el sistema ATC?",
+                    "opciones": ["D", "B", "A", "C"],
+                    "respuestaCorrecta": "A"
+                },
+                {
+                    "id": 59,
+                    "pregunta": "¿A qué grupo anatómico corresponde la letra B en la clasificación ATC?",
+                    "opciones": [
+                        "Sangre y órganos hematopoyéticos",
+                        "Vitaminas y minerales",
+                        "Antineoplásicos e inmunomoduladores",
+                        "Antiinfecciosos para uso sistémico"
+                    ],
+                    "respuestaCorrecta": "Sangre y órganos hematopoyéticos"
+                },
+                {
+                    "id": 60,
+                    "pregunta": "¿Qué tipo de medicamentos están clasificados bajo el código J01?",
+                    "opciones": [
+                        "Insulinas",
+                        "Vacunas",
+                        "Antiinflamatorios",
+                        "Antibacterianos"
+                    ],
+                    "respuestaCorrecta": "Antibacterianos"
+                }
+            ]
+        },
+        {
+            "evaluacion": 7,
+            "temario": "Dispensación de Medicamentos Hospitalarios",
+            "preguntas": [
+                {
+                    "id": 61,
+                    "pregunta": "¿Qué se evalúa en los estudios de farmacovigilancia en un ensayo clínico?",
+                    "opciones": [
+                        "La biodisponibilidad del medicamento",
+                        "El coste de los medicamentos",
+                        "Los efectos adversos y seguridad de los medicamentos",
+                        "La calidad de los medicamentos"
+                    ],
+                    "respuestaCorrecta": "Los efectos adversos y seguridad de los medicamentos"
+                },
+                {
+                    "id": 62,
+                    "pregunta": "¿Cuál de las siguientes áreas del SFH se encarga de la elaboración de fórmulas magistrales?",
+                    "opciones": [
+                        "Área de farmacotecnia",
+                        "Área de farmacovigilancia",
+                        "Área de información de medicamentos",
+                        "Unidad de gestión de ensayos clínicos"
+                    ],
+                    "respuestaCorrecta": "Área de farmacotecnia"
+                },
+                {
+                    "id": 63,
+                    "pregunta": "¿Cuál es uno de los principales beneficios del sistema de distribución en dosis unitarias (SDMDU)?",
+                    "opciones": [
+                        "Disminuye el gasto farmacéutico",
+                        "Favorece la necesidad de etiquetado manual",
+                        "Facilita la correcta identificación del paciente y del medicamento",
+                        "Incrementa la probabilidad de errores en la medicación"
+                    ],
+                    "respuestaCorrecta": "Facilita la correcta identificación del paciente y del medicamento"
+                },
+                {
+                    "id": 64,
+                    "pregunta": "¿Qué medicamentos requieren una conservación entre 2 y 8 °C?",
+                    "opciones": [
+                        "Medicamentos inflamables",
+                        "Medicamentos en fase de investigación",
+                        "Medicamentos termolábiles",
+                        "Medicamentos estupefacientes"
+                    ],
+                    "respuestaCorrecta": "Medicamentos termolábiles"
+                },
+                {
+                    "id": 65,
+                    "pregunta": "¿Qué técnica se utiliza para garantizar la esterilidad en la preparación de medicamentos estériles?",
+                    "opciones": [
+                        "Reenvasado en dosis unitarias",
+                        "Uso de campanas de flujo laminar",
+                        "Guardar los medicamentos en neveras",
+                        "Esterilización por calor seco"
+                    ],
+                    "respuestaCorrecta": "Uso de campanas de flujo laminar"
+                },
+                {
+                    "id": 66,
+                    "pregunta": "¿Qué documento informa a los pacientes sobre su participación en un ensayo clínico?",
+                    "opciones": [
+                        "Orden médica",
+                        "Consentimiento informado",
+                        "Guía farmacoterapéutica",
+                        "Protocolo de ensayo"
+                    ],
+                    "respuestaCorrecta": "Consentimiento informado"
+                },
+                {
+                    "id": 67,
+                    "pregunta": "¿Qué función tiene la Comisión de Farmacia y Terapéutica (CFT)?",
+                    "opciones": [
+                        "Dispensar medicamentos a pacientes",
+                        "Elaborar fórmulas magistrales",
+                        "Elaborar la guía farmacoterapéutica del hospital",
+                        "Promover el uso de medicamentos genéricos"
+                    ],
+                    "respuestaCorrecta": "Elaborar la guía farmacoterapéutica del hospital"
+                },
+                {
+                    "id": 68,
+                    "pregunta": "¿Qué beneficio tiene el acondicionamiento en dosis unitarias?",
+                    "opciones": [
+                        "La necesidad de reetiquetar los envases",
+                        "La protección adecuada del medicamento frente a agentes ambientales",
+                        "Ahorro de espacio",
+                        "Garantizar siempre genéricos"
+                    ],
+                    "respuestaCorrecta": "La protección adecuada del medicamento frente a agentes ambientales"
+                },
+                {
+                    "id": 69,
+                    "pregunta": "¿Qué es una de las ventajas de los sistemas automatizados de dispensación de medicamentos (SADM)?",
+                    "opciones": [
+                        "Aumenta el tiempo de dispensación",
+                        "Facilita el manejo de fórmulas magistrales",
+                        "Optimiza los espacios",
+                        "Disminuye los errores en la preparación y administración de medicamentos"
+                    ],
+                    "respuestaCorrecta": "Disminuye los errores en la preparación y administración de medicamentos"
+                },
+                {
+                    "id": 70,
+                    "pregunta": "¿Cómo se denomina la dispensación de medicamentos a pacientes que no están hospitalizados, pero reciben tratamiento en el hospital?",
+                    "opciones": [
+                        "Dispensación extrahospitalaria",
+                        "Dispensación domiciliaria",
+                        "Dispensación intrahospitalaria",
+                        "Dispensación de urgencias"
+                    ],
+                    "respuestaCorrecta": "Dispensación extrahospitalaria"
+                }
+            ]
+        },
+        {
+            "evaluacion": 8,
+            "temario": "Dispensación de Medicamentos Fitoterapéuticos",
+            "preguntas": [
+                {
+                    "id": 71,
+                    "pregunta": "Los metabolitos secundarios:",
+                    "opciones": [
+                        "Tienen poco valor terapéutico",
+                        "Si no se sintetizan no suponen un peligro para la supervivencia de la planta",
+                        "Realizan funciones esenciales",
+                        "Se clasifican en compuestos nitrogenados y terpenoides"
+                    ],
+                    "respuestaCorrecta": "Si no se sintetizan no suponen un peligro para la supervivencia de la planta"
+                },
+                {
+                    "id": 72,
+                    "pregunta": "¿Qué producto fitoterapéutico se obtiene a partir de la maceración de sustancias vegetales en alcohol?",
+                    "opciones": [
+                        "Extracto",
+                        "Tintura",
+                        "Aceite esencial",
+                        "Jarabe"
+                    ],
+                    "respuestaCorrecta": "Tintura"
+                },
+                {
+                    "id": 73,
+                    "pregunta": "¿Qué ciencia se enfoca en el uso de productos de origen vegetal con fines terapéuticos?",
+                    "opciones": [
+                        "Farmacología",
+                        "Fitoterapia",
+                        "Homeopatía",
+                        "Quimioterapia"
+                    ],
+                    "respuestaCorrecta": "Fitoterapia"
+                },
+                {
+                    "id": 74,
+                    "pregunta": "¿Qué método se utiliza para obtener aceites esenciales de las plantas?",
+                    "opciones": [
+                        "Destilación por arrastre de vapor",
+                        "Decocción",
+                        "Infusión",
+                        "Pulverización"
+                    ],
+                    "respuestaCorrecta": "Destilación por arrastre de vapor"
+                },
+                {
+                    "id": 75,
+                    "pregunta": "¿Qué tipo de compuesto se encuentra en el metabolismo primario de las plantas?",
+                    "opciones": [
+                        "Flavonoides",
+                        "Glúcidos",
+                        "Alcaloides",
+                        "Terpenos"
+                    ],
+                    "respuestaCorrecta": "Glúcidos"
+                },
+                {
+                    "id": 76,
+                    "pregunta": "Los aceites esenciales se sintetizan a partir de:",
+                    "opciones": [
+                        "Compuestos nitrogenados",
+                        "Glucósidos cianogénicos",
+                        "Alcaloides",
+                        "Terpenos"
+                    ],
+                    "respuestaCorrecta": "Terpenos"
+                },
+                {
+                    "id": 77,
+                    "pregunta": "¿Qué tipo de preparados vegetales se obtienen mediante la prensado o trituración de las partes vegetales frescas?",
+                    "opciones": [
+                        "Extractos",
+                        "Tinturas",
+                        "Zumos",
+                        "Aceites esenciales"
+                    ],
+                    "respuestaCorrecta": "Zumos"
+                },
+                {
+                    "id": 78,
+                    "pregunta": "¿Cuál de las siguientes afirmaciones es correcta respecto a los medicamentos tradicionales a base de plantas?",
+                    "opciones": [
+                        "Se venden en farmacias con receta médica",
+                        "Deben demostrar un uso tradicional de al menos 10 años",
+                        "No necesitan receta médica",
+                        "Tienen que ser prescritos por un médico"
+                    ],
+                    "respuestaCorrecta": "No necesitan receta médica"
+                },
+                {
+                    "id": 79,
+                    "pregunta": "La parte de la planta medicinal de la que se extrae el principio activo se llama:",
+                    "opciones": [
+                        "Solución",
+                        "Extracto",
+                        "Droga vegetal",
+                        "Factor curativo"
+                    ],
+                    "respuestaCorrecta": "Droga vegetal"
+                },
+                {
+                    "id": 80,
+                    "pregunta": "¿Qué tipo de metabolitos secundarios tienen propiedades antioxidantes y se encuentran en gran número en las plantas?",
+                    "opciones": [
+                        "Alcaloides",
+                        "Glucósidos",
+                        "Productos fenólicos",
+                        "Terpenos"
+                    ],
+                    "respuestaCorrecta": "Productos fenólicos"
+                }
+            ]
+        },
+        {
+            "evaluacion": 9,
+            "temario": "Dispensación de Medicamentos de Uso Animal",
+            "preguntas": [
+                {
+                    "id": 81,
+                    "pregunta": "¿Qué indica el código QJ en la clasificación ATCvet?",
+                    "opciones": [
+                        "Antiinfecciosos de uso sistémico",
+                        "Corticosteroides",
+                        "Productos antiparasitarios",
+                        "Antiinflamatorios"
+                    ],
+                    "respuestaCorrecta": "Antiinfecciosos de uso sistémico"
+                },
+                {
+                    "id": 82,
+                    "pregunta": "La farmacovigilancia veterinaria se ocupa de:",
+                    "opciones": [
+                        "El equilibrio del medio ambiente",
+                        "El uso seguro de los medicamentos veterinarios en los animales",
+                        "La seguridad de los alimentos de origen animal y de las personas que estén en contacto con los medicamentos veterinarios",
+                        "Todas las demás respuestas son verdaderas"
+                    ],
+                    "respuestaCorrecta": "Todas las demás respuestas son verdaderas"
+                },
+                {
+                    "id": 83,
+                    "pregunta": "¿Cuál es el propósito principal de los límites máximos de residuos (LMR) en alimentos de origen animal?",
+                    "opciones": [
+                        "Aumentar la rentabilidad de las explotaciones ganaderas",
+                        "Mejorar el sabor de los productos alimenticios",
+                        "Proteger la salud humana",
+                        "Reducir los costos de producción"
+                    ],
+                    "respuestaCorrecta": "Proteger la salud humana"
+                },
+                {
+                    "id": 84,
+                    "pregunta": "¿Cuál es la finalidad de las premezclas medicamentosas para piensos?",
+                    "opciones": [
+                        "Reducir la cantidad de piensos necesarios",
+                        "Mejorar el sabor de los piensos",
+                        "Proporcionar tratamiento o prevención a través de la alimentación",
+                        "Aumentar la producción de carne en animales"
+                    ],
+                    "respuestaCorrecta": "Proporcionar tratamiento o prevención a través de la alimentación"
+                },
+                {
+                    "id": 85,
+                    "pregunta": "¿Qué plataforma se utiliza en España para notificar las reacciones adversas asociadas a medicamentos veterinarios?",
+                    "opciones": ["ESVAC", "Cimavet", "NotificaVet", "LABOFAR"],
+                    "respuestaCorrecta": "NotificaVet"
+                },
+                {
+                    "id": 86,
+                    "pregunta": "¿Qué tipo de medicamentos se elaboran en oficinas de farmacias bajo prescripción veterinaria?",
+                    "opciones": [
+                        "Autovacunas",
+                        "Fórmulas magistrales",
+                        "Premezclas para piensos medicamentosos",
+                        "Estupefacientes"
+                    ],
+                    "respuestaCorrecta": "Fórmulas magistrales"
+                },
+                {
+                    "id": 87,
+                    "pregunta": "¿Qué significa las siglas AV en una etiqueta de medicamento veterinario?",
+                    "opciones": [
+                        "Administración supervisada por el veterinario",
+                        "Medicamento alimenticio veterinario",
+                        "Administración exclusiva por el veterinario",
+                        "Alimento medicinal de uso veterinario"
+                    ],
+                    "respuestaCorrecta": "Administración exclusiva por el veterinario"
+                },
+                {
+                    "id": 88,
+                    "pregunta": "¿Qué medicamento se puede prescribir en caso de ausencia de un medicamento específico para una especie no productora de alimentos?",
+                    "opciones": [
+                        "Un producto antiparasitario",
+                        "Un medicamento de uso humano autorizado",
+                        "Un medicamento veterinario inmunológico",
+                        "Un insecticida de uso veterinario"
+                    ],
+                    "respuestaCorrecta": "Un medicamento de uso humano autorizado"
+                },
+                {
+                    "id": 89,
+                    "pregunta": "¿Qué información debe incluir obligatoriamente la etiqueta de un medicamento veterinario a diferencia de uno humano?",
+                    "opciones": [
+                        "Precio del medicamento",
+                        "Nombre del fabricante",
+                        "Especies de animales a las que está destinado",
+                        "Fecha de fabricación"
+                    ],
+                    "respuestaCorrecta": "Especies de animales a las que está destinado"
+                },
+                {
+                    "id": 90,
+                    "pregunta": "¿En qué se basa la clasificación de medicamentos veterinarios según el sistema ATCvet?",
+                    "opciones": [
+                        "En el tiempo de espera",
+                        "Lugar de administración en el animal",
+                        "Tipo de animal al que está destinado",
+                        "Propiedades farmacológicas y químicas"
+                    ],
+                    "respuestaCorrecta": "Propiedades farmacológicas y químicas"
+                }
+            ]
+        }
+    ]
+}

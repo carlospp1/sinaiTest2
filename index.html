@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Cuestionario</title>
+        <link
+            rel="icon"
+            type="image/png"
+            href="https://cdn-icons-png.flaticon.com/512/6581/6581934.png"
+        />
+
+        <link rel="stylesheet" href="styles.css" />
+        <link
+            rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
+        />
+    </head>
+    <body>
+        <!-- Encabezado con botón de menú de hamburguesa -->
+        <header>
+            <div class="menu-btn">
+                <i id="menu-icon" class="fas fa-bars"></i>
+                <div
+                    id="reset-button"
+                    class="fas fa-sync-alt"
+                    title="Reiniciar Test"
+                ></div>
+                <div
+                    class="temario-menu-btn"
+                    id="btn-temario"
+                    onclick="toggleTemarioMenu()"
+                >
+                    <i class="fas fa-th"></i>
+                </div>
+                <!-- <div style="width: 100%; height: 100%" onclick="scrollBottom()">
+					<i class="fas fa-angle-down"></i>
+				</div> -->
+                <div class="navigation-buttons">
+                    <button
+                        id="prev-button"
+                        class="nav-button"
+                        title="ir a tema anterior"
+                    >
+                        <i class="fas fa-arrow-left"></i>
+                    </button>
+                    <button
+                        id="next-button"
+                        class="nav-button"
+                        title="ir a tema siguiente"
+                    >
+                        <i class="fas fa-arrow-right"></i>
+                    </button>
+                </div>
+            </div>
+            <nav class="nav" id="menu-principal">
+                <ul class="menu-nav">
+                    <li class="menu-nav__item active">
+                        <a href="results.html" class="menu-nav__link"
+                            >Ver Resultados</a
+                        >
+                    </li>
+                    <li class="menu-nav__item active">
+                        <a href="index.html?test=all" class="menu-nav__link"
+                            >Presentar Prueba</a
+                        >
+                    </li>
+                    <li class="menu-nav__item">
+                        <a href="index.html?test=1" class="menu-nav__link"
+                            >Practicar Dispensación de Productos
+                            Farmacéuticos</a
+                        >
+                    </li>
+                    <li class="menu-nav__item">
+                        <a href="index.html?test=2" class="menu-nav__link"
+                            >Practicar Empresa e Iniciativa Emprendedora</a
+                        >
+                    </li>
+                    <li class="menu-nav__item">
+                        <a href="index.html?test=3" class="menu-nav__link"
+                            >Practicar Farmacia hospitalaria</a
+                        >
+                    </li>
+                    <!-- <li class="menu-nav__item">
+						<a href="index.html?test=4" class="menu-nav__link"
+							>Practicar Formación y orientación laboral</a
+						>
+					</li>
+					<li class="menu-nav__item">
+						<a href="index.html?test=5" class="menu-nav__link"
+							>Practicar Oficina de farmacia</a
+						>
+					</li>
+					<li class="menu-nav__item">
+						<a href="index.html?test=6" class="menu-nav__link"
+							>Practicar Operaciones básicas de laboratorio</a
+						>
+					</li>
+					<li class="menu-nav__item">
+						<a href="index.html?test=7" class="menu-nav__link"
+							>Practicar Primeros auxilios</a
+						>
+					</li> -->
+                </ul>
+            </nav>
+            <nav class="nav" id="temario-menu">
+                <ul class="menu-nav" id="temario-nav">
+                    <span class="menu_temario"
+                        >👇🏻👇🏻 Aqui podras cambiar entre el tema principal y los
+                        temas secundarios 👇🏻👇🏻</span
+                    >
+                    <!-- Las opciones se generarán dinámicamente -->
+                </ul>
+            </nav>
+        </header>
+
+        <div class="spinner" id="spinner">
+            <!-- Puedes usar un spinner de Font Awesome o cualquier otro que prefieras -->
+            <i class="fas fa-spinner fa-spin"></i>
+        </div>
+
+        <form id="quiz-form" class="hidden">
+            <div id="info-container"></div>
+            <div id="results"></div>
+            <!-- Bloque de resultados al inicio del formulario -->
+            <div id="questions-container">
+                <!-- Las preguntas se cargarán aquí mediante JavaScript -->
+            </div>
+            <button type="submit" id="submit-button">Enviar Respuestas</button>
+        </form>
+        <canvas
+            class="fireworks"
+            id="fireworks"
+            style="
+                position: fixed;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                pointer-events: none;
+            "
+        ></canvas>
+
+        <!-- jsDelivr  -->
+        <script src="https://cdn.jsdelivr.net/npm/fireworks-js@2.x/dist/index.umd.js"></script>
+
+        <!-- UNPKG -->
+        <script src="https://unpkg.com/fireworks-js@2.x/dist/index.umd.js"></script>
+
+        <script src="https://cdn.jsdelivr.net/npm/howler/dist/howler.min.js"></script>
+
+        <script src="comun.js"></script>
+        <script>
+            // Este script decide qué archivo JS cargar basado en la URL.
+            const params = new URLSearchParams(window.location.search)
+            const testType = params.get('test') // Obtiene el valor del parámetro 'test'.
+
+            let scriptFile =
+                testType === 'all' ? 'scriptOneTest.js' : 'script.js'
+            const script = document.createElement('script')
+            script.src = scriptFile
+            document.body.appendChild(script)
+        </script>
+        <script>
+            // Selecciona el botón y el menú
+            const menuBtn = document.querySelector('#menu-icon')
+            const nav = document.querySelector('.nav')
+            const temarioMenu = document.getElementById('temario-menu')
+            let menuOpen = false
+
+            // Evento para abrir y cerrar el menú
+            menuBtn.addEventListener('click', () => {
+                menuBtn.classList.toggle('open')
+                nav.classList.toggle('open')
+                temarioMenu.classList.remove('open')
+            })
+        </script>
+    </body>
+</html>

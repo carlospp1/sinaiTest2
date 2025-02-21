@@ -1,0 +1,431 @@
+body,
+html {
+	margin: 0;
+	padding: 0;
+	font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+	background: linear-gradient(
+		to right top,
+		#330440 0%,
+		#801c9c 20%,
+		#553489 40%,
+		#295a99 60%,
+		#144f91 80%,
+		#2e2e33 100%
+	);
+	color: #333;
+	height: auto;
+	min-height: 100vh;
+	width: 100%;
+}
+
+div#info-container {
+	background-color: #0000003d;
+	color: white;
+	padding: 5px 20px;
+	margin-bottom: 20px;
+	border-radius: 13px;
+}
+
+#quiz-form {
+	max-width: 700px;
+	margin: 40px auto;
+	padding: 20px;
+}
+
+.question-block {
+	background: #fff;
+	border-radius: 10px;
+	box-shadow: 0 0px 12px 0px rgb(48, 48, 48);
+	padding: 20px;
+	margin-bottom: 30px; /* Espacio entre tarjetas */
+	transition: transform 0.3s ease;
+}
+
+.question-block:hover {
+	transform: translateY(-3px);
+}
+
+.question {
+	font-size: 20px;
+	color: #333;
+	margin-bottom: 15px;
+}
+
+.options label {
+	display: block;
+	background-color: #fafafa;
+	padding: 12px;
+	margin: 5px 0;
+	border: 1px solid #ddd;
+	border-radius: 6px;
+	cursor: pointer;
+	transition: background-color 0.3s, box-shadow 0.3s;
+}
+
+.options label:hover,
+.options input[type="radio"]:checked + label {
+	background-color: #91e2ff;
+	box-shadow: 0 2px 4px rgb(133, 133, 133);
+	color: black;
+}
+
+.options input[type="radio"] {
+	display: none;
+}
+
+.feedback {
+	font-style: italic;
+	margin-top: 8px;
+}
+
+#submit-button {
+	width: 100%;
+	padding: 15px;
+	font-size: 18px;
+	color: white;
+	background-color: #208320;
+	border: none;
+	border-radius: 8px;
+	cursor: pointer;
+	transition: background-color 0.5s;
+	margin-top: 10px;
+}
+
+#submit-button:hover {
+	background-color: #0c510c;
+}
+
+#results {
+	text-align: center;
+	padding: 20px;
+	font-size: 20px;
+	border-radius: 8px;
+	margin-bottom: 40px;
+	box-shadow: 0 0px 12px 0px rgb(48, 48, 48);
+	background: #fff;
+	display: none; /* Oculta inicialmente los resultados */
+}
+
+@media screen and (max-width: 600px) {
+	#quiz-form {
+		margin: 20px;
+		padding: 20px;
+	}
+
+	.question-block {
+		padding: 15px;
+	}
+
+	#results {
+		margin-top: 20px;
+	}
+
+	.menu-btn {
+		right: 10px !important;
+	}
+
+	span.menu_temario {
+		width: 77% !important;
+	}
+}
+
+.options input[type="radio"]:checked + label {
+	background-color: #d1e7dd; /* Un verde claro para la opción seleccionada */
+}
+
+.selected {
+	background-color: #91e2ff !important;
+	box-shadow: 0 2px 4px rgb(133, 133, 133);
+	color: black;
+	font-weight: 100;
+}
+
+.selected:hover {
+	filter: brightness(0.95);
+}
+
+.selected:hover {
+	filter: brightness(0.95);
+}
+
+/* Clases para respuestas correctas e incorrectas */
+.correct-answer {
+	background-color: #149834 !important;
+	color: white;
+	font-weight: 700;
+}
+
+.wrong-answer {
+	background-color: #f8d7da !important;
+	font-weight: 700;
+	color: red;
+}
+
+/* Desactiva el hover en todas las etiquetas de opciones y ajusta el color de fondo y sombra para simular que no hay hover */
+.quiz-completed .options label:hover,
+.quiz-completed .options input[type="radio"]:checked + label {
+	background-color: #fafafa !important; /* Asegura consistencia en el color de fondo */
+	box-shadow: none !important;
+	cursor: default !important;
+	color: #333 !important; /* Restablece el color del texto si es necesario */
+	font-weight: normal !important; /* Restablece el peso del texto si es necesario */
+}
+
+/* Específicamente para las respuestas correctas/incorrectas, después de completar el quiz */
+.quiz-completed .correct-answer,
+.quiz-completed .wrong-answer {
+	pointer-events: none; /* Previene clics o interacción */
+}
+
+/* Asegurar que no haya cambios visuales en hover después de completar el cuestionario */
+.quiz-completed .correct-answer:hover,
+.quiz-completed .wrong-answer:hover {
+	background-color: inherit !important;
+	box-shadow: none !important;
+	color: inherit !important;
+}
+
+.wrong-answer:hover {
+	color: red !important;
+}
+
+.correct-answer:hover {
+	color: white !important;
+}
+ul {
+	margin-top: 0;
+}
+
+/* menu css */
+/* Encabezado y menú de navegación */
+header {
+	height: 25px;
+	background: #333;
+	padding: 10px 0;
+	z-index: 1000;
+	position: fixed;
+	height: 25px;
+	top: 20px;
+	right: 0px;
+}
+
+.menu-btn {
+	display: block;
+	height: 20px;
+	margin-top: -5px;
+	position: absolute;
+	top: 0px;
+	right: 20px;
+	z-index: 1500;
+	cursor: pointer;
+}
+
+.menu-btn__burger {
+	width: 25px;
+	height: 3px;
+	background-color: #fff;
+	transition: all 0.3s ease-in-out;
+	margin-top: 8px;
+}
+
+.menu-btn__burger::after,
+.menu-btn__burger::before {
+	content: "";
+	position: absolute;
+	width: 25px;
+	height: 3px;
+	background-color: #fff;
+	transition: all 0.3s ease-in-out;
+}
+
+.menu-btn__burger::before {
+	transform: translateY(-8px);
+}
+
+.menu-btn__burger::after {
+	transform: translateY(8px);
+}
+
+.fas {
+	color: white;
+	margin-bottom: 20px;
+	font-size: 24px;
+	display: block;
+	margin-bottom: 20px;
+	text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+/* Estilo del menú de navegación */
+.nav {
+	position: fixed;
+	top: 0;
+	left: -105%;
+	width: 100%;
+	height: 100vh;
+	background-color: rgba(51, 51, 51, 0.95);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	transition: left 0.3s ease-in-out;
+	/* z-index: 999;
+	overflow-y: scroll; */
+}
+
+.menu-nav {
+	list-style: none;
+	padding: 0;
+	height: 100vh;
+	margin-top: 10vh;
+}
+
+.menu-nav__item {
+	padding: 0px 20px;
+	margin: 20px 0;
+}
+
+.menu-nav__link {
+	text-decoration: none;
+	font-size: 1.2rem;
+	color: #fff;
+}
+
+/* Clase para mostrar el menú */
+.show {
+	left: 0;
+}
+
+/* Clase para animar el botón de hamburguesa */
+.menu-btn__burger.open {
+	transform: translateX(-50px);
+	background: transparent;
+}
+
+.menu-btn__burger.open::before {
+	transform: rotate(45deg) translate(35px, -35px);
+}
+
+.menu-btn__burger.open::after {
+	transform: rotate(-45deg) translate(35px, 35px);
+}
+
+/* Clase para desvanecer el menú */
+.nav.open {
+	left: 0;
+}
+
+.hidden {
+	display: none;
+}
+
+/* Estilos básicos para el spinner */
+.spinner {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+i.fa-spin {
+	font-size: 100px;
+	text-shadow: none;
+}
+
+.temario-menu-btn {
+	position: absolute;
+	top: 10px;
+	right: 70px; /* Ajustar según la posición deseada */
+	cursor: pointer;
+	color: #fff;
+	font-size: 24px;
+	display: contents;
+}
+
+.nav.hidden {
+	display: none;
+}
+
+.menu-nav__item {
+	margin: 10px 0;
+}
+
+span.menu_temario {
+	width: 100%;
+	text-wrap: balance;
+	color: white;
+	font-size: 1rem;
+	display: flex;
+	padding: 0px 20px;
+	margin: 10px 0;
+}
+
+.evalaur-multiple {
+	padding: 15px;
+	font-size: 15px;
+	color: white;
+	background-color: #4884c1;
+	border: none;
+	border-radius: 8px;
+	cursor: pointer;
+	transition: background-color 0.5s;
+	margin-top: 10px;
+}
+
+.evalaur-multiple:hover {
+	background-color: #1e568f;
+}
+
+button.nav-button {
+	background-color: transparent;
+	border: transparent;
+	margin: 0;
+	padding: 0;
+}
+
+/* TABLA */
+
+h1 {
+	color: white;
+	text-align: center;
+	width: 80%;
+	margin-top: 45px;
+}
+
+.resultTable {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-bottom: 40px;
+}
+
+table {
+	width: 80vw;
+	max-width: 960px;
+	border-collapse: collapse;
+	background-color: #fff;
+	border-radius: 8px;
+	overflow: hidden;
+	font-size: 10px;
+	box-shadow: 0 0 13px 0px black;
+}
+
+th,
+td {
+	padding: 3px 5px;
+	text-align: left;
+}
+
+th {
+	background-color: #007bff;
+	color: #ffffff;
+	font-weight: bold;
+}
+
+tr:nth-child(even) {
+	background-color: #f2f2f2;
+}
+
+.unattempted {
+	background-color: #ffcccc !important; /* Light red for unattempted entries */
+}
+
+/* Responsive Table */

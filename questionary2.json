@@ -1,0 +1,1031 @@
+{
+    "title": "Evaluaciones de Empresa e Iniciativa Emprendedora",
+    "theme": [
+        {
+            "evaluacion": 1,
+            "temario": "Iniciativa Emprendedora",
+            "preguntas": [
+                {
+                    "id": 1,
+                    "pregunta": "¿Qué tipo de innovación es aplicable cuando se implementan nuevas formas de gestión del conocimiento dentro de una empresa?",
+                    "opciones": [
+                        "Innovación en marketing",
+                        "Innovación de producto",
+                        "Innovación organizacional",
+                        "Innovación en proceso"
+                    ],
+                    "respuestaCorrecta": "Innovación organizacional"
+                },
+                {
+                    "id": 2,
+                    "pregunta": "¿Cuál es una característica esencial que deben tener los directivos de empresas altamente innovadoras?",
+                    "opciones": [
+                        "Priorizar las tareas urgentes sobre las importantes",
+                        "Centrarse únicamente en la rentabilidad económica",
+                        "Evitar los riesgos asociados a la innovación",
+                        "Perseguir un sueño tangible y atractivo"
+                    ],
+                    "respuestaCorrecta": "Perseguir un sueño tangible y atractivo"
+                },
+                {
+                    "id": 3,
+                    "pregunta": "¿Qué factor es esencial para que los empleados de una empresa innovadora valoren la opinión del cliente?",
+                    "opciones": [
+                        "La innovación no debe incluir la opinión de los clientes",
+                        "Solo el departamento de atención al cliente debe preocuparse por ello",
+                        "La dirección debe demostrar que se preocupa por la opinión del cliente",
+                        "La empresa debe evitar retroalimentación para ahorrar tiempo"
+                    ],
+                    "respuestaCorrecta": "La dirección debe demostrar que se preocupa por la opinión del cliente"
+                },
+                {
+                    "id": 4,
+                    "pregunta": "¿Cuál de los siguientes elementos NO es considerado uno de los tipos de innovación según el Manual de Oslo (OCDE, 2005)?",
+                    "opciones": [
+                        "Innovación organizacional",
+                        "Innovación de proceso",
+                        "Innovación en marketing",
+                        "Innovación financiera"
+                    ],
+                    "respuestaCorrecta": "Innovación financiera"
+                },
+                {
+                    "id": 5,
+                    "pregunta": "¿Qué rol juega la formación en la gestión empresarial en el éxito de un negocio farmacéutico o parafarmacéutico?",
+                    "opciones": [
+                        "Solo es necesaria para empresas grandes",
+                        "No es relevante en sectores regulados",
+                        "Es fundamental para la administración eficaz y el crecimiento sostenible de la pyme",
+                        "Es opcional pero no crucial"
+                    ],
+                    "respuestaCorrecta": "Es fundamental para la administración eficaz y el crecimiento sostenible de la pyme"
+                },
+                {
+                    "id": 6,
+                    "pregunta": "Según el texto, el éxito de una empresa farmacéutica puede depender en gran medida de su capacidad para gestionar adecuadamente:",
+                    "opciones": [
+                        "Solo la investigación y desarrollo",
+                        "Todas las áreas de la empresa, incluidas operaciones, marketing y relaciones con proveedores",
+                        "Solo la publicidad",
+                        "Solo la logística"
+                    ],
+                    "respuestaCorrecta": "Todas las áreas de la empresa, incluidas operaciones, marketing y relaciones con proveedores"
+                },
+                {
+                    "id": 7,
+                    "pregunta": "¿Qué concepto está más estrechamente relacionado con la transformación de ideas útiles en puestos de trabajo y el estímulo de la innovación?",
+                    "opciones": [
+                        "Innovación de marketing",
+                        "Iniciativa emprendedora",
+                        "Cumplimiento normativo",
+                        "Inversión inicial"
+                    ],
+                    "respuestaCorrecta": "Iniciativa emprendedora"
+                },
+                {
+                    "id": 8,
+                    "pregunta": "¿Cuál de los siguientes es un ejemplo claro de innovación en proceso dentro del sector farmacéutico?",
+                    "opciones": [
+                        "El desarrollo de un nuevo medicamento",
+                        "El lanzamiento de una campaña de promoción digital",
+                        "La implementación de nuevos empaques para productos cosméticos",
+                        "La automatización de la dispensación de medicamentos"
+                    ],
+                    "respuestaCorrecta": "La automatización de la dispensación de medicamentos"
+                },
+                {
+                    "id": 9,
+                    "pregunta": "En una pyme farmacéutica, un empleado con visión emprendedora debe:",
+                    "opciones": [
+                        "Evitar sugerencias para no crear conflicto",
+                        "Proponer mejoras en procesos, recursos y oportunidades de negocio",
+                        "Esperar a que la dirección le indique todas sus tareas",
+                        "Limitarse a cumplir con lo estrictamente necesario"
+                    ],
+                    "respuestaCorrecta": "Proponer mejoras en procesos, recursos y oportunidades de negocio"
+                },
+                {
+                    "id": 10,
+                    "pregunta": "¿Cuál de los siguientes factores NO es clave para la actuación de un emprendedor como empleado en una pyme?",
+                    "opciones": [
+                        "Evitar la asunción de responsabilidades",
+                        "Capacidad de liderazgo",
+                        "Creatividad e innovación",
+                        "Visión emprendedora"
+                    ],
+                    "respuestaCorrecta": "Evitar la asunción de responsabilidades"
+                },
+                {
+                    "id": 11,
+                    "pregunta": "¿Qué tipo de innovación implica la mejora significativa en el diseño de un embalaje de producto?",
+                    "opciones": [
+                        "Innovación organizacional",
+                        "Innovación en producto",
+                        "Innovación en proceso",
+                        "Innovación en marketing"
+                    ],
+                    "respuestaCorrecta": "Innovación en marketing"
+                },
+                {
+                    "id": 12,
+                    "pregunta": "¿Cuál de los siguientes no es un objetivo empresarial en una pyme del sector farmacéutico?",
+                    "opciones": [
+                        "Mejorar y desarrollar nuevos productos",
+                        "Lograr una buena reputación en el sector",
+                        "Aumentar la facturación mediante captación de nuevos clientes",
+                        "Evitar la inversión en innovación para reducir riesgos"
+                    ],
+                    "respuestaCorrecta": "Evitar la inversión en innovación para reducir riesgos"
+                },
+                {
+                    "id": 13,
+                    "pregunta": "¿Cuál de las siguientes opciones representa una ventaja competitiva típica en una empresa del sector farmacéutico?",
+                    "opciones": [
+                        "Implementar solo estrategias de marketing tradicionales",
+                        "Ofrecer productos muy especializados y difíciles de encontrar",
+                        "Evitar la atención personalizada a los clientes",
+                        "Reducir costes mediante la compra de productos a proveedores poco confiables"
+                    ],
+                    "respuestaCorrecta": "Ofrecer productos muy especializados y difíciles de encontrar"
+                },
+                {
+                    "id": 14,
+                    "pregunta": "Para un emprendedor del sector farmacéutico, el cumplimiento normativo incluye:",
+                    "opciones": [
+                        "Cumplir con la legislación sobre dispensación de medicamentos y gestión de residuos",
+                        "Solo la adecuación del local",
+                        "Solo las normativas de publicidad de productos",
+                        "Solo la gestión de inventarios"
+                    ],
+                    "respuestaCorrecta": "Cumplir con la legislación sobre dispensación de medicamentos y gestión de residuos"
+                },
+                {
+                    "id": 15,
+                    "pregunta": "¿Cuál es el principal obstáculo para que los directivos de muchas empresas releguen la innovación a un segundo plano?",
+                    "opciones": [
+                        "La falta de capital para inversiones en innovación",
+                        "La atención a las urgencias del día a día",
+                        "La sobrecarga de información",
+                        "El desconocimiento del mercado"
+                    ],
+                    "respuestaCorrecta": "La atención a las urgencias del día a día"
+                },
+                {
+                    "id": 16,
+                    "pregunta": "El liderazgo transformador en una empresa innovadora debe centrarse en:",
+                    "opciones": [
+                        "Delegar completamente la innovación a otros departamentos.",
+                        "Pensar de forma global e integrar los factores que impulsan la innovación",
+                        "Evitar cualquier tipo de riesgo",
+                        "Solo en la gestión financiera"
+                    ],
+                    "respuestaCorrecta": "Pensar de forma global e integrar los factores que impulsan la innovación"
+                },
+                {
+                    "id": 17,
+                    "pregunta": "La ventaja competitiva de una empresa puede depender de:",
+                    "opciones": [
+                        "Ofrecer productos comunes y fáciles de encontrar",
+                        "Limitar la atención al cliente para reducir costes",
+                        "Utilizar tecnologías avanzadas como la venta online y la automatización",
+                        "No invertir en la formación del personal."
+                    ],
+                    "respuestaCorrecta": "Utilizar tecnologías avanzadas como la venta online y la automatización"
+                },
+                {
+                    "id": 18,
+                    "pregunta": "La formación en creatividad dentro de una empresa farmacéutica es importante porque:",
+                    "opciones": [
+                        "Solo se aplica en las áreas de ventas y marketing.",
+                        "Permite a los empleados seguir métodos establecidos sin cuestionarlos",
+                        "Evita que los empleados tomen decisiones por sí mismos",
+                        "Fomenta la generación de ideas innovadoras que pueden mejorar procesos o productos"
+                    ],
+                    "respuestaCorrecta": "Fomenta la generación de ideas innovadoras que pueden mejorar procesos o productos"
+                },
+                {
+                    "id": 19,
+                    "pregunta": "El concepto de “intraemprendedor” hace referencia a:",
+                    "opciones": [
+                        "Emprendedores que fracasan en su primer negocio.",
+                        "Trabajadores dentro de una empresa que generan ideas innovadoras y las desarrollan",
+                        "Emprendedores que trabajan exclusivamente en la creación de nuevas empresas",
+                        "Empresarios que financian pymes"
+                    ],
+                    "respuestaCorrecta": "Trabajadores dentro de una empresa que generan ideas innovadoras y las desarrollan"
+                },
+                {
+                    "id": 20,
+                    "pregunta": "¿Cuál es uno de los principales requisitos legales para abrir una farmacia?",
+                    "opciones": [
+                        "Contar con una titulación universitaria en Farmacia",
+                        "Tener experiencia previa en el sector farmacéutico.",
+                        "No se requiere titulación alguna",
+                        "Obtener un título de Técnico en Farmacia y Parafarmacia"
+                    ],
+                    "respuestaCorrecta": "Contar con una titulación universitaria en Farmacia"
+                }
+            ]
+        },
+        {
+            "evaluacion": 2,
+            "temario": "Empresa e iniciativa emprendedora",
+            "preguntas": [
+                {
+                    "id": 21,
+                    "pregunta": "¿Qué implica la retroalimentación en una empresa farmacéutica como sistema abierto?",
+                    "opciones": [
+                        "Adaptarse a los cambios del entorno en función de los resultados obtenidos",
+                        "Reducir costes mediante alianzas estratégicas",
+                        "Ampliar las líneas de productos sin investigar el mercado",
+                        "Centrarse únicamente en maximizar beneficios"
+                    ],
+                    "respuestaCorrecta": "Adaptarse a los cambios del entorno en función de los resultados obtenidos"
+                },
+                {
+                    "id": 22,
+                    "pregunta": "¿Cómo afecta el envejecimiento de la población a las farmacias y parafarmacias?",
+                    "opciones": [
+                        "Disminuye la oferta de productos ortopédicos",
+                        "Reduce la demanda de medicamentos",
+                        "Aumenta la demanda de productos para el cuidado de la salud y medicamentos",
+                        "Incrementa la necesidad de productos cosméticos"
+                    ],
+                    "respuestaCorrecta": "Aumenta la demanda de productos para el cuidado de la salud y medicamentos"
+                },
+                {
+                    "id": 23,
+                    "pregunta": "¿Qué implica la gestión de fondos en una pyme del sector farmacéutico?",
+                    "opciones": [
+                        "Realizar estudios de mercado y lanzar nuevos productos",
+                        "Controlar los ingresos y gastos de la empresa para asegurar su viabilidad",
+                        "Contratar y capacitar a nuevos empleados",
+                        "Implementar estrategias de marketing"
+                    ],
+                    "respuestaCorrecta": "Controlar los ingresos y gastos de la empresa para asegurar su viabilidad"
+                },
+                {
+                    "id": 24,
+                    "pregunta": "¿Qué característica de la empresa como sistema implica que cada área depende de las otras para funcionar correctamente?",
+                    "opciones": [
+                        "Expansión organizacional",
+                        "Equilibrio interno",
+                        "Retroalimentación externa",
+                        "Interdependencia de subsistemas"
+                    ],
+                    "respuestaCorrecta": "Interdependencia de subsistemas"
+                },
+                {
+                    "id": 25,
+                    "pregunta": "¿Cuál es uno de los principales retos del entorno económico en una pyme del sector farmacéutico?",
+                    "opciones": [
+                        "La negociación de salarios con empleados",
+                        "El control de la oferta de productos sustitutivos",
+                        "La falta de normativas sobre la comercialización de productos",
+                        "La fluctuación en los precios de los productos y la inflación"
+                    ],
+                    "respuestaCorrecta": "La fluctuación en los precios de los productos y la inflación"
+                },
+                {
+                    "id": 26,
+                    "pregunta": "¿Cuál de los siguientes NO es un elemento del balance social de una empresa farmacéutica?",
+                    "opciones": [
+                        "Análisis de nuevos mercados",
+                        "Medio ambiente",
+                        "Remuneraciones",
+                        "Empleo"
+                    ],
+                    "respuestaCorrecta": "Análisis de nuevos mercados"
+                },
+                {
+                    "id": 27,
+                    "pregunta": "¿Cuál es una de las principales responsabilidades del departamento de recursos humanos en una farmacia?",
+                    "opciones": [
+                        "Implementar sistemas de dispensación automática",
+                        "Desarrollar campañas de marketing digital",
+                        "Seleccionar y contratar a profesionales calificados como farmacéuticos y técnicos",
+                        "Gestionar el stock de productos farmacéuticos"
+                    ],
+                    "respuestaCorrecta": "Seleccionar y contratar a profesionales calificados como farmacéuticos y técnicos"
+                },
+                {
+                    "id": 28,
+                    "pregunta": "¿Cuál es el mayor riesgo para una pyme farmacéutica si no adapta sus estrategias a los cambios en el entorno regulatorio?",
+                    "opciones": [
+                        "Mejorar la relación con los proveedores",
+                        "Incrementar el número de clientes",
+                        "Aumentar su margen de beneficios",
+                        "Ser sancionada por incumplimiento de normativas sanitarias"
+                    ],
+                    "respuestaCorrecta": "Ser sancionada por incumplimiento de normativas sanitarias"
+                },
+                {
+                    "id": 29,
+                    "pregunta": "¿Qué factor NO está relacionado con el entorno tecnológico de una pyme farmacéutica?",
+                    "opciones": [
+                        "El uso de plataformas de comercio electrónico",
+                        "La digitalización de los sistemas de inventario",
+                        "La regulación sobre licencias de apertura",
+                        "La implementación de tecnologías de dispensación automática"
+                    ],
+                    "respuestaCorrecta": "La regulación sobre licencias de apertura"
+                },
+                {
+                    "id": 30,
+                    "pregunta": "¿Cuál es una ventaja clave del comercio electrónico para una pyme del sector farmacéutico?",
+                    "opciones": [
+                        "Elimina la necesidad de cumplir con normativas sanitarias",
+                        "Evita la necesidad de marketing tradicional",
+                        "Facilita la venta de productos a clientes a nivel nacional y global",
+                        "Reduce el coste de los empleados"
+                    ],
+                    "respuestaCorrecta": "Facilita la venta de productos a clientes a nivel nacional y global"
+                },
+                {
+                    "id": 31,
+                    "pregunta": "¿Cómo afecta el entorno político-legal a una pyme del sector farmacéutico?",
+                    "opciones": [
+                        "Impone regulaciones estrictas sobre la dispensación de medicamentos y productos sanitarios",
+                        "Favorece la digitalización de la empresa",
+                        "Establece alianzas comerciales internacionales",
+                        "Genera nuevas oportunidades de expansión global"
+                    ],
+                    "respuestaCorrecta": "Impone regulaciones estrictas sobre la dispensación de medicamentos y productos sanitarios"
+                },
+                {
+                    "id": 32,
+                    "pregunta": "¿Cuál de las siguientes estrategias es fundamental para la fidelización de clientes en una pyme del sector farmacéutico?",
+                    "opciones": [
+                        "Contratar personal administrativo sin formación especializada",
+                        "Disminuir la calidad de los productos para reducir costes",
+                        "Evitar la innovación en servicios y productos",
+                        "Ofrecer un servicio personalizado y de calidad a los clientes"
+                    ],
+                    "respuestaCorrecta": "Ofrecer un servicio personalizado y de calidad a los clientes"
+                },
+                {
+                    "id": 33,
+                    "pregunta": "¿Cuál de las siguientes opciones no corresponde a una de las funciones básicas de una empresa?",
+                    "opciones": [
+                        "Investigación gubernamental",
+                        "Comercialización",
+                        "Recursos humanos",
+                        "Producción"
+                    ],
+                    "respuestaCorrecta": "Investigación gubernamental"
+                },
+                {
+                    "id": 34,
+                    "pregunta": "¿Qué se entiende por interdependencia de subsistemas en una empresa farmacéutica?",
+                    "opciones": [
+                        "Que cada área de la empresa puede funcionar independientemente de las demás",
+                        "Que solo las áreas de producción y ventas están interrelacionadas",
+                        "Que la empresa no necesita una relación con el entorno para funcionar",
+                        "Que todas las áreas de la empresa están conectadas y afectan el funcionamiento de las otras"
+                    ],
+                    "respuestaCorrecta": "Que todas las áreas de la empresa están conectadas y afectan el funcionamiento de las otras"
+                },
+                {
+                    "id": 35,
+                    "pregunta": "¿Qué se entiende por aprovisionamiento en el contexto de una pyme del sector farmacéutico?",
+                    "opciones": [
+                        "La transformación de materias primas en productos finales",
+                        "El almacenamiento y conservación de productos a largo plazo",
+                        "El diseño de nuevas líneas de productos",
+                        "La adquisición de productos de proveedores confiables"
+                    ],
+                    "respuestaCorrecta": "La adquisición de productos de proveedores confiables"
+                },
+                {
+                    "id": 36,
+                    "pregunta": "¿Cuál de los siguientes es un aspecto clave en la estrategia de responsabilidad social corporativa (RSC) de una farmacia?",
+                    "opciones": [
+                        "La promoción de la salud mediante campañas públicas",
+                        "La formación de alianzas con laboratorios farmacéuticos",
+                        "La reducción de los costes operativos",
+                        "La inversión en marketing digital"
+                    ],
+                    "respuestaCorrecta": "La promoción de la salud mediante campañas públicas"
+                },
+                {
+                    "id": 37,
+                    "pregunta": "¿Cuál es una consecuencia de la falta de innovación en una empresa madura del sector farmacéutico?",
+                    "opciones": [
+                        "Aumento de los márgenes de beneficio",
+                        "Mejora en la relación con los proveedores",
+                        "Reducción en los costes de producción",
+                        "Pérdida de competitividad y posible declive"
+                    ],
+                    "respuestaCorrecta": "Pérdida de competitividad y posible declive"
+                },
+                {
+                    "id": 38,
+                    "pregunta": "¿Cuál es el principal objetivo de la función de producción en una farmacia o parafarmacia?",
+                    "opciones": [
+                        "Gestionar adecuadamente el stock de medicamentos y productos sanitarios",
+                        "Reducir costes operativos a través de la tecnología",
+                        "Implementar estrategias de marketing digital",
+                        "Desarrollar nuevos productos farmacéuticos"
+                    ],
+                    "respuestaCorrecta": "Gestionar adecuadamente el stock de medicamentos y productos sanitarios"
+                },
+                {
+                    "id": 39,
+                    "pregunta": "¿Cuál es el aspecto más importante de la comercialización en una farmacia o parafarmacia?",
+                    "opciones": [
+                        "La inversión en tecnologías avanzadas",
+                        "Asegurar que los productos estén disponibles cuando y donde los clientes los necesiten",
+                        "La gestión del capital humano",
+                        "Controlar los costes de producción"
+                    ],
+                    "respuestaCorrecta": "Asegurar que los productos estén disponibles cuando y donde los clientes los necesiten"
+                },
+                {
+                    "id": 40,
+                    "pregunta": "¿Qué característica define mejor el ciclo de vida de una empresa farmacéutica en fase de madurez?",
+                    "opciones": [
+                        "Necesidad de mantener la competitividad e innovar para evitar el declive",
+                        "Reducción de la competencia en el sector",
+                        "Expansión rápida sin la necesidad de planificación",
+                        "Introducción de nuevos productos sin análisis previo"
+                    ],
+                    "respuestaCorrecta": "Necesidad de mantener la competitividad e innovar para evitar el declive"
+                }
+            ]
+        },
+        {
+            "evaluacion": 3,
+            "temario": "Empresa e iniciativa emprendedora",
+            "preguntas": [
+                {
+                    "id": 41,
+                    "pregunta": "Según la propiedad o titularidad del capital las empresas se pueden clasificar:",
+                    "opciones": [
+                        "En públicas, privadas o mixtas.",
+                        "En sector primario, secundario o terciario.",
+                        "En locales, regionales, nacionales o multinacionales.",
+                        "Con personalidad física o jurídica."
+                    ],
+                    "respuestaCorrecta": "En públicas, privadas o mixtas."
+                },
+                {
+                    "id": 42,
+                    "pregunta": "En el Trabajo Autónomo",
+                    "opciones": [
+                        "No se crea persona jurídica distinta del propio empresario.",
+                        "Es una forma empresarial idónea para el funcionamiento de empresas de muy reducido tamaño.",
+                        "La responsabilidad del empresario/a es ilimitada.",
+                        "Todas las respuestas son correctas"
+                    ],
+                    "respuestaCorrecta": "Todas las respuestas son correctas"
+                },
+                {
+                    "id": 43,
+                    "pregunta": "¿Cómo se denomina a las empresas que transforman unos bienes en otros a través de un proceso productivo?",
+                    "opciones": [
+                        "Empresas del sector primario.",
+                        "Empresas del sector secundario.",
+                        "Empresas del sector terciario.",
+                        "Empresas del sector productivo."
+                    ],
+                    "respuestaCorrecta": "Empresas del sector secundario."
+                },
+                {
+                    "id": 44,
+                    "pregunta": "Según la clasificación por tamaño, una empresa que tiene 104 trabajadores es:",
+                    "opciones": [
+                        "Microempresa.",
+                        "Pequeña.",
+                        "Mediana.",
+                        "Grande."
+                    ],
+                    "respuestaCorrecta": "Mediana."
+                },
+                {
+                    "id": 45,
+                    "pregunta": "¿Cuál de las siguientes opciones NO es una empresa con personalidad jurídica?",
+                    "opciones": [
+                        "Sociedad Anónima.",
+                        "Autónomo.",
+                        "Sociedad Limitada.",
+                        "Sociedad Cooperativa."
+                    ],
+                    "respuestaCorrecta": "Autónomo."
+                },
+                {
+                    "id": 46,
+                    "pregunta": "¿En qué tipo de empresa existen unos socios con responsabilidad limitada y otros con responsabilidad ilimitada?",
+                    "opciones": [
+                        "Empresas con responsabilidad ilimitada.",
+                        "Empresas con responsabilidad limitada.",
+                        "Empresas con responsabilidad mixta.",
+                        "No es posible que en una empresa haya socios de ambos tipos de responsabilidad."
+                    ],
+                    "respuestaCorrecta": "Empresas con responsabilidad mixta."
+                },
+                {
+                    "id": 47,
+                    "pregunta": "¿En cuál de estas sociedades la responsabilidad se limita al capital aportado?",
+                    "opciones": [
+                        "Sociedad Anónima.",
+                        "Sociedad Colectiva.",
+                        "Sociedad Civil.",
+                        "Comunidad de Bienes."
+                    ],
+                    "respuestaCorrecta": "Sociedad Anónima."
+                },
+                {
+                    "id": 48,
+                    "pregunta": "Para su constitución, se necesita mínimo un socio:",
+                    "opciones": [
+                        "Sociedad de Responsabilidad Limitada.",
+                        "Sociedad Civil.",
+                        "Sociedad Colectiva.",
+                        "Comunidad de Bienes."
+                    ],
+                    "respuestaCorrecta": "Sociedad de Responsabilidad Limitada."
+                },
+                {
+                    "id": 49,
+                    "pregunta": "¿Qué sociedad necesita aportar un mínimo de 60.000€ para su constitución?",
+                    "opciones": [
+                        "Sociedad Civil.",
+                        "Sociedad de Responsabilidad Limitada.",
+                        "Sociedad Colectiva.",
+                        "Sociedad Anónima."
+                    ],
+                    "respuestaCorrecta": "Sociedad Anónima."
+                },
+                {
+                    "id": 50,
+                    "pregunta": "Según la segmentación de clientes, ¿qué son los nichos?",
+                    "opciones": [
+                        "Cuando el negocio se dirige a un mercado lo más amplio posible con unas necesidades y problemas similares.",
+                        "Segmentos de mercado altamente especializados que atienden a unos requisitos muy específicos.",
+                        "Segmentos de mercado con necesidades poco diferenciadas, es decir segmentos diferentes pero que tienen unas necesidades similares aunque con ligeras variaciones.",
+                        "Segmentos muy diferentes entre sí, con necesidades y problemas únicos."
+                    ],
+                    "respuestaCorrecta": "Segmentos de mercado altamente especializados que atienden a unos requisitos muy específicos."
+                },
+                {
+                    "id": 51,
+                    "pregunta": "Al solicitar en la Agencia Tributaria el Número de Identificación Fiscal de una sociedad que se acaba de constituir y comienza con la letra B. ¿Qué tipo de sociedad han constituido?",
+                    "opciones": [
+                        "Sociedad de responsabilidad limitada.",
+                        "Una microempresa.",
+                        "Una sociedad anónima.",
+                        "Una sociedad cooperativa."
+                    ],
+                    "respuestaCorrecta": "Sociedad de responsabilidad limitada."
+                },
+                {
+                    "id": 52,
+                    "pregunta": "Dentro de los tributos con contraprestación, nos encontramos con:",
+                    "opciones": [
+                        "Impuestos directos e indirectos.",
+                        "Impuestos, tasas y contribuciones especiales.",
+                        "Tasas y contribuciones especiales.",
+                        "Tasas e impuestos."
+                    ],
+                    "respuestaCorrecta": "Tasas y contribuciones especiales."
+                },
+                {
+                    "id": 53,
+                    "pregunta": "¿Cuál de los siguientes impuestos es indirecto?",
+                    "opciones": [
+                        "Impuesto sobre el Patrimonio (IP)",
+                        "Impuesto sobre el Valor Añadido (IVA)",
+                        "Impuesto sobre Sociedades (IS)",
+                        "Impuesto sobre la Renta de las Personas Físicas (IRPF)"
+                    ],
+                    "respuestaCorrecta": "Impuesto sobre el Valor Añadido (IVA)"
+                },
+                {
+                    "id": 54,
+                    "pregunta": "¿Qué impuesto grava la transmisión de bienes y/o derechos entre personas físicas?",
+                    "opciones": [
+                        "Impuesto sobre el Patrimonio (IP)",
+                        "Impuesto sobre Sucesiones y Donaciones (ISyD)",
+                        "Impuesto sobre Sociedades (IS)",
+                        "Impuesto sobre el Valor añadido (IVA)"
+                    ],
+                    "respuestaCorrecta": "Impuesto sobre Sucesiones y Donaciones (ISyD)"
+                },
+                {
+                    "id": 55,
+                    "pregunta": "¿A qué corresponde la siguiente definición? 'Tributo cuyo hecho imponible consiste en la utilización privativa o aprovechamiento especial de un bien del dominio público y/o prestación de un servicio o la realización de una actividad administrativa que beneficie al sujeto pasivo cuando no sea de solicitud voluntaria y no se presten o realicen por el sector privado.'",
+                    "opciones": [
+                        "Contribución especial.",
+                        "Tasa.",
+                        "Impuesto directo.",
+                        "Impuesto indirecto."
+                    ],
+                    "respuestaCorrecta": "Tasa."
+                },
+                {
+                    "id": 56,
+                    "pregunta": "Un hotel es una empresa perteneciente al sector:",
+                    "opciones": [
+                        "Primario.",
+                        "Secundario.",
+                        "Terciario.",
+                        "Ninguna es correcta."
+                    ],
+                    "respuestaCorrecta": "Terciario."
+                },
+                {
+                    "id": 57,
+                    "pregunta": "Según el ámbito geográfico, una empresa que desarrolla su actividad en una sola población, es:",
+                    "opciones": [
+                        "Una empresa local.",
+                        "Una empresa regional.",
+                        "Una empresa nacional.",
+                        "Una empresa multinacional."
+                    ],
+                    "respuestaCorrecta": "Una empresa local."
+                },
+                {
+                    "id": 58,
+                    "pregunta": "¿Cuál de estas características NO corresponde a una Sociedad Anónima?",
+                    "opciones": [
+                        "Es necesario mínimo un socio para su constitución.",
+                        "El capital mínimo a aportar son 60.000€ para su constitución.",
+                        "La responsabilidad se limita al capital aportado.",
+                        "Su capital está divido en participaciones."
+                    ],
+                    "respuestaCorrecta": "Su capital está divido en participaciones."
+                },
+                {
+                    "id": 59,
+                    "pregunta": "¿En cuál de estas sociedades no existe mínimo para su constitución?",
+                    "opciones": [
+                        "Sociedad Anónima.",
+                        "Sociedad de Responsabilidad Limitada.",
+                        "Comunidad de Bienes.",
+                        "Sociedad Limitada Nueva Empresa."
+                    ],
+                    "respuestaCorrecta": "Comunidad de Bienes."
+                },
+                {
+                    "id": 60,
+                    "pregunta": "¿A través del uso de qué herramienta podemos hacer un Plan de Negocio?",
+                    "opciones": [
+                        "Ninguna es correcta.",
+                        "Análisis DAFO.",
+                        "Análisis PEST.",
+                        "Business Model Canvas."
+                    ],
+                    "respuestaCorrecta": "Business Model Canvas."
+                }
+            ]
+        },
+        {
+            "evaluacion": 4,
+            "temario": "Empresa e iniciativa emprendedora",
+            "preguntas": [
+                {
+                    "id": 61,
+                    "pregunta": "¿Cuál de las siguientes fórmulas corresponde a Patrimonio Neto?",
+                    "opciones": [
+                        "Bienes + Derechos - Obligaciones",
+                        "Obligaciones + Bienes - Derechos",
+                        "Bienes + Derechos",
+                        "Bienes + Obligaciones - Derechos"
+                    ],
+                    "respuestaCorrecta": "Bienes + Derechos - Obligaciones"
+                },
+                {
+                    "id": 62,
+                    "pregunta": "Dentro del Balance, ¿Dónde situarías 'mobiliario'?",
+                    "opciones": [
+                        "Activo",
+                        "Pasivo",
+                        "Patrimonio Neto",
+                        "Ninguna es correcta"
+                    ],
+                    "respuestaCorrecta": "Activo"
+                },
+                {
+                    "id": 63,
+                    "pregunta": "¿A qué corresponde la siguiente definición: \"conjunto de créditos a favor de la empresa frente a terceros, generalmente sus clientes\"?",
+                    "opciones": [
+                        "Bienes",
+                        "Derechos",
+                        "Obligaciones",
+                        "Patrimonio Neto"
+                    ],
+                    "respuestaCorrecta": "Derechos"
+                },
+                {
+                    "id": 64,
+                    "pregunta": "Según la ecuación fundamental del patrimonio, si una empresa posee un pasivo por valor de 100.000€ y un patrimonio neto por valor de 350.000€, ¿Qué cantidad debería poseer de activo?",
+                    "opciones": [
+                        "450.000€",
+                        "100.000€",
+                        "-250.000€",
+                        "250.000€"
+                    ],
+                    "respuestaCorrecta": "450.000€"
+                },
+                {
+                    "id": 65,
+                    "pregunta": "¿Cuánto tiempo está obligada una empresa a conservar sus libros?",
+                    "opciones": ["2 años.", "3 años.", "6 años", "5 años."],
+                    "respuestaCorrecta": "6 años"
+                },
+                {
+                    "id": 66,
+                    "pregunta": "¿Cuál de las siguientes definiciones corresponde a la memoria de una empresa?",
+                    "opciones": [
+                        "Documento en el que reflejaremos la situación económica y financiera de nuestra empresa en un determinado espacio de tiempo. Estará formado por los bienes y derechos que constituyen el activo del negocio y las obligaciones que forman el pasivo, especificando los fondos propios.",
+                        "Libro que ha de recoger las operaciones relativas a la actividad de la empresa Hay que anotar todo lo que sucede diariamente y así, nos facilitará el proceso de liquidación trimestral del IVA.",
+                        "Documento que comprenderá los ingresos y los gastos del ejercicio y, por diferencia, el resultado obtenido.",
+                        "Documento que completará, ampliará y comentará la información contenida en nuestro balance y en la cuenta de pérdidas y ganancias, por otra parte debe permitir una mejor comprensión de la situación financiera de la sociedad, proporcionando una comparación con al menos el último ejercicio precedente."
+                    ],
+                    "respuestaCorrecta": "Documento que completará, ampliará y comentará la información contenida en nuestro balance y en la cuenta de pérdidas y ganancias, por otra parte debe permitir una mejor comprensión de la situación financiera de la sociedad, proporcionando una comparación con al menos el último ejercicio precedente."
+                },
+                {
+                    "id": 67,
+                    "pregunta": "¿Cuál de las siguientes definiciones corresponde a Estructura Económica?",
+                    "opciones": [
+                        "Identificada con el activo, recoge el conjunto de bienes y derechos que la empresa ha ido adquiriendo para poder realizar su actividad. En esta parte del balance se obtiene información sobre el origen de los fondos, es decir, ¿Dónde ha obtenido dinero la empresa?",
+                        "Identificada con el activo, recoge el conjunto de bienes y derechos que la empresa ha ido adquiriendo para poder realizar su actividad. Refleja por lo tanto el conjunto de inversiones de la empresa, es decir, la parte del balance donde aparece el destino dado a los fondos financieros: ¿Dónde pone la empresa su dinero?",
+                        "Identificada con en el patrimonio neto y en el pasivo encontramos las fuentes de financiación con las que la empresa ha adquirido sus activos. En esta parte del balance se obtiene información sobre el origen de los fondos, es decir, ¿Dónde ha obtenido dinero la empresa?",
+                        "Identificada con en el patrimonio neto y en el pasivo encontramos las fuentes de financiación con las que la empresa ha adquirido sus activos. Refleja por lo tanto el conjunto de inversiones de la empresa, es decir, la parte del balance donde aparece el destino dado a los fondos financieros: ¿Dónde pone la empresa su dinero?"
+                    ],
+                    "respuestaCorrecta": "Identificada con el activo, recoge el conjunto de bienes y derechos que la empresa ha ido adquiriendo para poder realizar su actividad. Refleja por lo tanto el conjunto de inversiones de la empresa, es decir, la parte del balance donde aparece el destino dado a los fondos financieros: ¿Dónde pone la empresa su dinero?"
+                },
+                {
+                    "id": 68,
+                    "pregunta": "¿Qué impuestos estatales deben pagar las empresas?",
+                    "opciones": [
+                        "IRPF.",
+                        "Impuestos sobre Sociedades y Personas Jurídicas.",
+                        "IVA.",
+                        "Todas las respuestas son correctas."
+                    ],
+                    "respuestaCorrecta": "Todas las respuestas son correctas."
+                },
+                {
+                    "id": 69,
+                    "pregunta": "El Impuesto sobre Sucesiones y Donaciones es un impuesto:",
+                    "opciones": [
+                        "Directo.",
+                        "Indirecto.",
+                        "De bienes.",
+                        "Ninguna respuesta es correcta."
+                    ],
+                    "respuestaCorrecta": "Directo."
+                },
+                {
+                    "id": 70,
+                    "pregunta": "¿Qué significa que el Fondo de Maniobra sea mayor que 0?",
+                    "opciones": [
+                        "Esta es una situación alarmante, pues la empresa podría tener problemas para pagar sus deudas y estar cerca de una suspensión de pagos.",
+                        "Es la situación ideal, y supone que parte del activo corriente está financiada con recursos a largo plazo, lo que da un margen operativo a la empresa.",
+                        "Parte del activo no corriente está financiada con recursos a corto plazo.",
+                        "Implica que el activo corriente = pasivo corriente. El activo corriente está totalmente financiado con préstamos a corto plazo, por lo tanto, dificultades en la renovación del pasivo supondrían disminuciones en el activo rentable."
+                    ],
+                    "respuestaCorrecta": "Es la situación ideal, y supone que parte del activo corriente está financiada con recursos a largo plazo, lo que da un margen operativo a la empresa."
+                },
+                {
+                    "id": 71,
+                    "pregunta": "¿Qué entendemos por solvencia?",
+                    "opciones": [
+                        "Incapacidad de la empresa para atender a sus deudas.",
+                        "Capacidad que tiene la empresa para convertir sus inversiones en liquidez inmediatamente.",
+                        "Estudio de la proporción de las masas patrimoniales.",
+                        "Capacidad de una empresa para hacer frente a sus deudas con la garantía de sus inversiones."
+                    ],
+                    "respuestaCorrecta": "Capacidad de una empresa para hacer frente a sus deudas con la garantía de sus inversiones."
+                },
+                {
+                    "id": 72,
+                    "pregunta": "Dentro de los tributos con contraprestación, nos encontramos con:",
+                    "opciones": [
+                        "Tasas e impuestos.",
+                        "Tasas y contribuciones especiales.",
+                        "Impuestos, tasas y contribuciones especiales.",
+                        "Impuestos directos e indirectos."
+                    ],
+                    "respuestaCorrecta": "Tasas y contribuciones especiales."
+                },
+                {
+                    "id": 73,
+                    "pregunta": "¿Cuál de los siguientes impuestos es indirecto?",
+                    "opciones": [
+                        "Impuesto sobre el Valor Añadido (IVA)",
+                        "Impuesto sobre la Renta de las Personas Físicas (IRPF)",
+                        "Impuesto sobre Sociedades (IS)",
+                        "Impuesto sobre el Patrimonio (IP)"
+                    ],
+                    "respuestaCorrecta": "Impuesto sobre el Valor Añadido (IVA)"
+                },
+                {
+                    "id": 74,
+                    "pregunta": "¿Qué impuesto grava la transmisión de bienes y/o derechos entre personas físicas?",
+                    "opciones": [
+                        "Impuesto sobre Sociedades (IS)",
+                        "Impuesto sobre el Patrimonio (IP)",
+                        "Impuesto sobre el Valor añadido (IVA)",
+                        "Impuesto sobre Sucesiones y Donaciones (ISyD)"
+                    ],
+                    "respuestaCorrecta": "Impuesto sobre Sucesiones y Donaciones (ISyD)"
+                },
+                {
+                    "id": 75,
+                    "pregunta": "¿A qué corresponde la siguiente definición? \"Tributo cuyo hecho imponible consiste en la utilización privativa o aprovechamiento especial de un bien del dominio público y/o prestación de un servicio o la realización de una actividad administrativa que beneficie al sujeto pasivo cuando no sea de solicitud voluntaria y no se presten o realicen por el sector privado.\"",
+                    "opciones": [
+                        "Impuesto indirecto.",
+                        "Impuesto directo.",
+                        "Tasa.",
+                        "Contribución especial."
+                    ],
+                    "respuestaCorrecta": "Tasa."
+                },
+                {
+                    "id": 76,
+                    "pregunta": "Los impuestos directos, las cargas fiscales sobre el ahorro y las plusvalías están definidas por:",
+                    "opciones": [
+                        "El Estado Español.",
+                        "Las empresas multinacionales.",
+                        "Las PYMES.",
+                        "El Parlamento Europeo."
+                    ],
+                    "respuestaCorrecta": "El Estado Español."
+                }
+            ]
+        },
+        {
+            "evaluacion": 5,
+            "temario": "Empresa e iniciativa emprendedora",
+            "preguntas": [
+                {
+                    "id": 77,
+                    "pregunta": "¿Cuál de los siguientes factores consideraríamos, en el análisis del mercado de nuestra empresa, como factor externo?",
+                    "opciones": [
+                        "La participación en el mercado.",
+                        "Los recursos que genera.",
+                        "Los procesos usados.",
+                        "Datos demográficos de la población."
+                    ],
+                    "respuestaCorrecta": "Datos demográficos de la población."
+                },
+                {
+                    "id": 78,
+                    "pregunta": "A la hora de hacer un análisis de mercado, ¿Cuál sería el orden correcto a seguir?",
+                    "opciones": [
+                        "1. Define el objetivo del análisis de mercado. 2. Redacta la información. 3. Asigna las tareas al equipo. 4. Realiza la investigación. 5. Presenta el análisis de mercado.",
+                        "1. Redacta la información. 2. Define el objetivo del análisis de mercado. 3. Asigna las tareas al equipo. 4. Realiza la investigación. 5. Presenta el análisis de mercado.",
+                        "1. Realiza la investigación. 2. Redacta la información. 3. Define el objetivo del análisis de mercado. 4. Asigna las tareas al equipo. 5. Presenta el análisis de mercado.",
+                        "Ninguna de las respuestas es correcta."
+                    ],
+                    "respuestaCorrecta": "Ninguna de las respuestas es correcta."
+                },
+                {
+                    "id": 79,
+                    "pregunta": "¿Cuál de las siguientes definiciones corresponde a \"comprador\"?",
+                    "opciones": [
+                        "Es el sujeto que está dispuesto a entregar un bien por otro, o a cambio de una cantidad de dinero.",
+                        "También es conocido como demandante.",
+                        "Persona que actúa en un mercado con la intención de adquirir un bien o servicio a cambio de dar otro bien o pagando una cantidad de dinero.",
+                        "Las opciones b y c son correctas."
+                    ],
+                    "respuestaCorrecta": "Las opciones b y c son correctas."
+                },
+                {
+                    "id": 80,
+                    "pregunta": "¿Cuál de las siguientes definiciones corresponde a \"Competencia Monopolística\"?",
+                    "opciones": [
+                        "Existe un alto número de vendedores en el mercado, aunque que tienen un cierto poder para influir en el precio de su producto.",
+                        "El mercado determinado está controlado por un pequeño grupo de empresas.",
+                        "Una sola empresa domina todo el mercado de un tipo de producto o servicio.",
+                        "Existe infinito número de competidores por lo que ninguno tiene poder para fijar precios dentro del mercado y prácticamente todos los productos son iguales."
+                    ],
+                    "respuestaCorrecta": "Existe un alto número de vendedores en el mercado, aunque que tienen un cierto poder para influir en el precio de su producto."
+                },
+                {
+                    "id": 81,
+                    "pregunta": "En cuanto a la oferta:",
+                    "opciones": [
+                        "A mayor precio, mayor es la cantidad ofertada y viceversa.",
+                        "A mayor precio de un sustitutivo en la producción, menor oferta del otro bien.",
+                        "A menor precio de los factores productivos necesarios para producir un bien, mayor oferta.",
+                        "Todas las respuestas son correctas."
+                    ],
+                    "respuestaCorrecta": "Todas las respuestas son correctas."
+                },
+                {
+                    "id": 82,
+                    "pregunta": "¿A qué corresponden las 4P´s del Marketing Mix?",
+                    "opciones": [
+                        "Precio, producto, publicidad y plaza (lugar)",
+                        "Promoción, publicación, propaganda y plaza (lugar)",
+                        "Precio, producto, propagando y plaza (lugar)",
+                        "Precio, producto, promoción y plaza (lugar)"
+                    ],
+                    "respuestaCorrecta": "Precio, producto, promoción y plaza (lugar)"
+                },
+                {
+                    "id": 83,
+                    "pregunta": "¿Qué ocurre cuando existe exceso de oferta?",
+                    "opciones": [
+                        "La cantidad demandada es mayor que la cantidad ofrecida.",
+                        "Los oferentes aumentarán el precio.",
+                        "Hay muchos compradores para pocas unidades del bien.",
+                        "La cantidad ofrecida es mayor que la cantidad demandada."
+                    ],
+                    "respuestaCorrecta": "La cantidad ofrecida es mayor que la cantidad demandada."
+                },
+                {
+                    "id": 84,
+                    "pregunta": "¿Qué definición corresponde a \"Mercado de productos industriales\"?",
+                    "opciones": [
+                        "Mercado donde se comercializan productos dirigidos a satisfacer una necesidad de consumo esto implica que son productos son utilizados para cubrir una necesidad, pero luego que se resuelve la necesidad el producto desaparece.",
+                        "Mercado donde se intercambian productos que son usados para cubrir una necesidad, pero luego de cubrirla el bien no se extingue, sino que permanece.",
+                        "Mercado que incluye todos los productos que se usan como insumo o materia prima para poder producir otros bienes o servicios.",
+                        "Mercado que abarca la comercialización de productos denominados servicios, en los cuáles el consumidor no puede adquirir propiedad del bien, ya sea porque sólo compra la prestación del servicio o porque se recibe un servicio de forma intangible."
+                    ],
+                    "respuestaCorrecta": "Mercado que incluye todos los productos que se usan como insumo o materia prima para poder producir otros bienes o servicios."
+                },
+                {
+                    "id": 85,
+                    "pregunta": "¿En cuál de los siguientes tipos de mercados las empresas no tienen influencia sobre los precios?",
+                    "opciones": [
+                        "Competencia perfecta.",
+                        "Competencia monopolística.",
+                        "Oligopolio.",
+                        "Monopolio."
+                    ],
+                    "respuestaCorrecta": "Competencia perfecta."
+                },
+                {
+                    "id": 86,
+                    "pregunta": "En cuanto a las evoluciones de las 4P´s:",
+                    "opciones": [
+                        "Las 7P´s incorporan los términos de personal, palpabilidad y procesos.",
+                        "Las 9P´s incorporan a las 7P´s los términos de participación y predicción.",
+                        "Las 4C´s cambian las 4P´s por cliente, coste, comparación y comunicación",
+                        "Las respuestas a y b son correctas."
+                    ],
+                    "respuestaCorrecta": "Las respuestas a y b son correctas."
+                },
+                {
+                    "id": 87,
+                    "pregunta": "En referencia al Marketing Mix:",
+                    "opciones": [
+                        "También puede ser denominado como mezcla de mercadotecnia.",
+                        "Consiste en el conjunto de actividades destinadas a la promoción y comercialización de la marca o el producto en el mercado.",
+                        "Tiene como objetivo atraer y fidelizar al cliente gracias a la satisfacción de sus necesidades.",
+                        "Todas las respuestas son correctas."
+                    ],
+                    "respuestaCorrecta": "Todas las respuestas son correctas."
+                },
+                {
+                    "id": 88,
+                    "pregunta": "¿Cuál de las siguientes respuestas corresponde a una evolución de las 4P´s?",
+                    "opciones": [
+                        "5P´s",
+                        "4C´s",
+                        "7P´s",
+                        "Las opciones b y c son correctas."
+                    ],
+                    "respuestaCorrecta": "Las opciones b y c son correctas."
+                },
+                {
+                    "id": 89,
+                    "pregunta": "En referencia a las 4C´s:",
+                    "opciones": [
+                        "Las siglas corresponden a cliente, coste, conveniencia y comunicación.",
+                        "El cliente pasa de ser una persona a ser un consumidor.",
+                        "La mejor herramienta para darnos a conocer es la publicidad convencional.",
+                        "El precio del producto está fijado solo por la cantidad de dinero que cuesta."
+                    ],
+                    "respuestaCorrecta": "Las siglas corresponden a cliente, coste, conveniencia y comunicación."
+                },
+                {
+                    "id": 90,
+                    "pregunta": "En cuanto a la demanda:",
+                    "opciones": [
+                        "A mayor precio, mayor es la cantidad demandada y viceversa.",
+                        "Si el precio de un bien sustitutivo disminuye, disminuirá la demanda del otro bien.",
+                        "Si el precio de un bien complementario aumenta, aumentará la demanda del otro bien.",
+                        "A menor renta, menos demanda de bienes inferiores."
+                    ],
+                    "respuestaCorrecta": "Si el precio de un bien sustitutivo disminuye, disminuirá la demanda del otro bien."
+                },
+                {
+                    "id": 91,
+                    "pregunta": "En cuanto a los tipos de bienes:",
+                    "opciones": [
+                        "El café y el té son bienes complementarios.",
+                        "El café y la galleta son bienes sustitutivos.",
+                        "El café y el té son bienes sustitutivos.",
+                        "Ninguna respuesta es correcta."
+                    ],
+                    "respuestaCorrecta": "El café y el té son bienes sustitutivos."
+                }
+            ]
+        }
+    ]
+}
