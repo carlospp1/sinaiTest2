@@ -1,0 +1,933 @@
+{
+    "title": "Promoción de la salud",
+    "theme": [
+        {
+            "evaluacion": 1,
+            "temario": "Salud y enfermedad",
+            "preguntas": [
+                {
+                    "id": 1,
+                    "pregunta": "La teoría que aborda la clasificación de las necesidades del ser humano es…",
+                    "opciones": [
+                        "El modelo de Abraham Maslow",
+                        "El modelo de Virginia Henderson",
+                        "Las modificaciones realizadas por Richard Kalish",
+                        "Todas las respuestas anteriores son correctas"
+                    ],
+                    "respuestaCorrecta": "Todas las respuestas anteriores son correctas"
+                },
+                {
+                    "id": 2,
+                    "pregunta": "¿Qué indicador mide el número promedio de años que puede vivir una persona?",
+                    "opciones": [
+                        "Mortalidad infantil",
+                        "Tasa de fecundidad",
+                        "Tasa de morbilidad",
+                        "Esperanza de vida"
+                    ],
+                    "respuestaCorrecta": "Esperanza de vida"
+                },
+                {
+                    "id": 3,
+                    "pregunta": "¿Qué factores señala el Informe Lalonde como determinantes de la salud?",
+                    "opciones": [
+                        "Sólo medio ambiente y biología humana",
+                        "Medio ambiente y estilo de vida únicamente",
+                        "Biología humana, medio ambiente, estilo de vida y sistema sanitario",
+                        "Sólo biología humana y sistema sanitario"
+                    ],
+                    "respuestaCorrecta": "Biología humana, medio ambiente, estilo de vida y sistema sanitario"
+                },
+                {
+                    "id": 4,
+                    "pregunta": "Según Maslow, ¿cuáles son las necesidades más básicas?",
+                    "opciones": [
+                        "Necesidades sociales",
+                        "Necesidades de estima",
+                        "Necesidades fisiológicas",
+                        "Necesidades de autorrealización"
+                    ],
+                    "respuestaCorrecta": "Necesidades fisiológicas"
+                },
+                {
+                    "id": 5,
+                    "pregunta": "¿Cómo define la OMS el concepto de salud?",
+                    "opciones": [
+                        "Estado de completo bienestar físico, mental y social",
+                        "Plenitud mental y física",
+                        "Ausencia de enfermedad y dolor",
+                        "Capacidad para realizar ejercicio físico"
+                    ],
+                    "respuestaCorrecta": "Estado de completo bienestar físico, mental y social"
+                },
+                {
+                    "id": 6,
+                    "pregunta": "¿Qué componente del ser humano se relaciona con la estructura física y herencia genética?",
+                    "opciones": [
+                        "Componente psíquico",
+                        "Componente social",
+                        "Componente espiritual",
+                        "Componente biológico"
+                    ],
+                    "respuestaCorrecta": "Componente biológico"
+                },
+                {
+                    "id": 7,
+                    "pregunta": "¿Cuál es un ejemplo de un signo clínico?",
+                    "opciones": [
+                        "Dolor",
+                        "Fiebre",
+                        "Tristeza",
+                        "Apatía"
+                    ],
+                    "respuestaCorrecta": "Fiebre"
+                },
+                {
+                    "id": 8,
+                    "pregunta": "¿Qué tipo de enfermedades se propagan en múltiples continentes simultáneamente?",
+                    "opciones": [
+                        "Pandémicas",
+                        "Esporádicas",
+                        "Endémicas",
+                        "Epidémicas"
+                    ],
+                    "respuestaCorrecta": "Pandémicas"
+                },
+                {
+                    "id": 9,
+                    "pregunta": "¿Cuál es el objetivo de la educación sanitaria en personas adultas cuidadoras?",
+                    "opciones": [
+                        "Desarrollar la autorrealización",
+                        "Favorecer una buena alimentación y uso adecuado de medicamentos",
+                        "Fomentar la autoestima",
+                        "Promover el deporte en la familia"
+                    ],
+                    "respuestaCorrecta": "Favorecer una buena alimentación y uso adecuado de medicamentos"
+                },
+                {
+                    "id": 10,
+                    "pregunta": "En el modelo de Kalish, ¿qué tipo de necesidades agrega a las fisiológicas?",
+                    "opciones": [
+                        "Necesidades de estimulación",
+                        "Necesidades de autorrealización",
+                        "Necesidades de seguridad",
+                        "Necesidades sociales"
+                    ],
+                    "respuestaCorrecta": "Necesidades de estimulación"
+                }
+            ]
+        },
+        {
+            "evaluacion": 2,
+            "temario": "Estrategias y métodos en educación para la salud",
+            "preguntas": [
+                {
+                    "id": 11,
+                    "pregunta": "¿Cuál de las siguientes es una estrategia de protección de la salud?",
+                    "opciones": [
+                        "Prohibir fumar en lugares públicos",
+                        "Realizar diagnósticos tempranos",
+                        "Fomentar el consumo de frutas",
+                        "Organizar charlas educativas sobre salud mental"
+                    ],
+                    "respuestaCorrecta": "Prohibir fumar en lugares públicos"
+                },
+                {
+                    "id": 12,
+                    "pregunta": "¿Cuál de los siguientes no sería un programa típico dirigido a adolescentes y jóvenes?",
+                    "opciones": [
+                        "Prevención de ITS",
+                        "Prevención de adicciones",
+                        "Seguridad vial",
+                        "Salud en el trabajo"
+                    ],
+                    "respuestaCorrecta": "Salud en el trabajo"
+                },
+                {
+                    "id": 13,
+                    "pregunta": "¿Qué se debe hacer durante la fase de planificación de un proyecto de salud?",
+                    "opciones": [
+                        "Ejecutar las actividades programadas",
+                        "Evaluar los resultados obtenidos",
+                        "Identificar los problemas de salud",
+                        "Definir objetivos, destinatarios y recursos"
+                    ],
+                    "respuestaCorrecta": "Definir objetivos, destinatarios y recursos"
+                },
+                {
+                    "id": 14,
+                    "pregunta": "En la planificación de un proyecto, el cronograma sirve para:",
+                    "opciones": [
+                        "Evaluar los resultados finales",
+                        "Determinar los recursos necesarios",
+                        "Identificar a la población objetivo",
+                        "Definir las fases del proyecto y su duración"
+                    ],
+                    "respuestaCorrecta": "Definir las fases del proyecto y su duración"
+                },
+                {
+                    "id": 15,
+                    "pregunta": "¿Qué tipo de prevención busca detener el avance de una enfermedad ya diagnosticada?",
+                    "opciones": [
+                        "Secundaria",
+                        "Protección de la salud",
+                        "Primaria",
+                        "Terciaria"
+                    ],
+                    "respuestaCorrecta": "Secundaria"
+                },
+                {
+                    "id": 16,
+                    "pregunta": "¿Qué es la educación para la salud según la OMS?",
+                    "opciones": [
+                        "Controlar el acceso a servicios médicos",
+                        "Enseñar sobre primeros auxilios",
+                        "Ayudar a las personas a desear estar sanas, saber cómo lograrlo y buscar ayuda si es necesario",
+                        "Proporcionar medicación a las personas enfermas"
+                    ],
+                    "respuestaCorrecta": "Ayudar a las personas a desear estar sanas, saber cómo lograrlo y buscar ayuda si es necesario"
+                },
+                {
+                    "id": 17,
+                    "pregunta": "Un ejemplo de promoción de la salud sería...",
+                    "opciones": [
+                        "Tratar infecciones en hospitales",
+                        "Organizar una campaña sobre el consumo de frutas y verduras",
+                        "Detectar enfermedades a tiempo",
+                        "Dar medicamentos para tratar enfermedades"
+                    ],
+                    "respuestaCorrecta": "Organizar una campaña sobre el consumo de frutas y verduras"
+                },
+                {
+                    "id": 18,
+                    "pregunta": "¿Cuál de los siguientes es un parámetro somatométrico importante en la valoración del estado de salud?",
+                    "opciones": [
+                        "Niveles de colesterol",
+                        "Frecuencia cardíaca",
+                        "Presión arterial",
+                        "Índice de masa corporal (IMC)"
+                    ],
+                    "respuestaCorrecta": "Índice de masa corporal (IMC)"
+                },
+                {
+                    "id": 19,
+                    "pregunta": "¿Qué mide el índice de masa corporal?",
+                    "opciones": [
+                        "Relación entre el peso y la estatura",
+                        "Relación entre peso y grasa corporal",
+                        "Relación entre la masa y estatura al cuadrado",
+                        "Porcentaje de grasa en el cuerpo"
+                    ],
+                    "respuestaCorrecta": "Relación entre la masa y estatura al cuadrado"
+                },
+                {
+                    "id": 20,
+                    "pregunta": "¿Cuál es un ejemplo de prevención terciaria?",
+                    "opciones": [
+                        "Campañas de vacunación",
+                        "Evitar el sedentarismo",
+                        "Fisioterapia tras la retirada de un yeso",
+                        "Cribado de cáncer"
+                    ],
+                    "respuestaCorrecta": "Fisioterapia tras la retirada de un yeso"
+                }
+            ]
+        },
+        {
+            "evaluacion": 3,
+            "temario": "Higiene alimentaria",
+            "preguntas": [
+                {
+                    "id": 21,
+                    "pregunta": "El tratamiento eficaz para la enfermedad celíaca es:",
+                    "opciones": [
+                        "Medicación diaria",
+                        "Antibióticos",
+                        "Suplementos de hierro",
+                        "Dieta sin gluten"
+                    ],
+                    "respuestaCorrecta": "Dieta sin gluten"
+                },
+                {
+                    "id": 22,
+                    "pregunta": "Un paciente con bulimia nerviosa puede presentar:",
+                    "opciones": [
+                        "Comer en exceso sin comportamientos compensatorios",
+                        "Bajo control sobre la comida sin compensación",
+                        "Pérdida de apetito continua",
+                        "Atracones compulsivos seguidos de vómitos"
+                    ],
+                    "respuestaCorrecta": "Atracones compulsivos seguidos de vómitos"
+                },
+                {
+                    "id": 23,
+                    "pregunta": "¿Cuántas calorías aporta un gramo de carbohidratos?",
+                    "opciones": [
+                        "7 kcal",
+                        "4 kcal",
+                        "9 kcal",
+                        "2 kcal"
+                    ],
+                    "respuestaCorrecta": "4 kcal"
+                },
+                {
+                    "id": 24,
+                    "pregunta": "¿Cuál es un ejemplo de una vitamina liposoluble?",
+                    "opciones": [
+                        "Vitamina C",
+                        "Vitamina B12",
+                        "Ácido fólico",
+                        "Vitamina D"
+                    ],
+                    "respuestaCorrecta": "Vitamina D"
+                },
+                {
+                    "id": 25,
+                    "pregunta": "La diabetes tipo I se caracteriza por:",
+                    "opciones": [
+                        "Relacionarse con el sobrepeso",
+                        "Ser más frecuente en adultos mayores",
+                        "Requerir insulina exógena",
+                        "No requerir tratamiento con insulina"
+                    ],
+                    "respuestaCorrecta": "Requerir insulina exógena"
+                },
+                {
+                    "id": 26,
+                    "pregunta": "La enfermedad celíaca es un trastorno de naturaleza:",
+                    "opciones": [
+                        "Metabólica",
+                        "Genética",
+                        "Autoinmune",
+                        "Nutricional"
+                    ],
+                    "respuestaCorrecta": "Autoinmune"
+                },
+                {
+                    "id": 27,
+                    "pregunta": "¿Qué vitamina es esencial para prevenir malformaciones en el feto durante el embarazo?",
+                    "opciones": [
+                        "Vitamina C",
+                        "Vitamina K",
+                        "Vitamina A",
+                        "Ácido fólico"
+                    ],
+                    "respuestaCorrecta": "Ácido fólico"
+                },
+                {
+                    "id": 28,
+                    "pregunta": "¿Qué porcentaje de las calorías totales diarias debe provenir de los lípidos en una dieta equilibrada?",
+                    "opciones": [
+                        "50%",
+                        "30%",
+                        "20%",
+                        "10%"
+                    ],
+                    "respuestaCorrecta": "30%"
+                },
+                {
+                    "id": 29,
+                    "pregunta": "¿Cuál de los siguientes es un macronutriente?",
+                    "opciones": [
+                        "Minerales",
+                        "Fibra soluble",
+                        "Vitaminas",
+                        "Proteínas"
+                    ],
+                    "respuestaCorrecta": "Proteínas"
+                },
+                {
+                    "id": 30,
+                    "pregunta": "¿Qué función tiene la fibra insoluble en la dieta?",
+                    "opciones": [
+                        "Facilita el tránsito intestinal",
+                        "Aporta energía a las células",
+                        "Ayuda a controlar los niveles de colesterol",
+                        "Aumenta la absorción de vitaminas"
+                    ],
+                    "respuestaCorrecta": "Facilita el tránsito intestinal"
+                }
+            ]
+        },
+        {
+            "evaluacion": 4,
+            "temario": "Enfermedades transmisibles",
+            "preguntas": [
+                {
+                    "id": 31,
+                    "pregunta": "¿Cuál es la forma correcta de lavarse los oídos?",
+                    "opciones": [
+                        "Lavar solo con agua durante la ducha",
+                        "Limpiar el interior con un dedo",
+                        "Usar jabón directamente",
+                        "Introduciendo un bastoncillo seco"
+                    ],
+                    "respuestaCorrecta": "Lavar solo con agua durante la ducha"
+                },
+                {
+                    "id": 32,
+                    "pregunta": "¿Qué tipo de estudio epidemiológico es prospectivo y busca factores de riesgo en el futuro?",
+                    "opciones": [
+                        "Estudio retrospectivo",
+                        "Estudio de cohortes",
+                        "Estudio experimental",
+                        "Estudio de casos y controles"
+                    ],
+                    "respuestaCorrecta": "Estudio de cohortes"
+                },
+                {
+                    "id": 33,
+                    "pregunta": "¿Cuál es la temperatura adecuada para conservar las vacunas?",
+                    "opciones": [
+                        "Entre 5 y 15°C",
+                        "A temperatura ambiente",
+                        "Entre 2 y 8°C",
+                        "Entre 0 y 5°C"
+                    ],
+                    "respuestaCorrecta": "Entre 2 y 8°C"
+                },
+                {
+                    "id": 34,
+                    "pregunta": "¿Qué caracteriza a los virus?",
+                    "opciones": [
+                        "Son organismos celulares",
+                        "No pueden reproducirse dentro de una célula",
+                        "Invaden y destruyen células",
+                        "Son visibles a simple vista"
+                    ],
+                    "respuestaCorrecta": "Invaden y destruyen células"
+                },
+                {
+                    "id": 35,
+                    "pregunta": "¿Qué caracteriza a un reservorio en la cadena de infección?",
+                    "opciones": [
+                        "Es la vía de salida del patógeno",
+                        "Es donde el patógeno crece y se multiplica",
+                        "Es el método de transmisión",
+                        "Es el lugar por donde entra el patógeno"
+                    ],
+                    "respuestaCorrecta": "Es donde el patógeno crece y se multiplica"
+                },
+                {
+                    "id": 36,
+                    "pregunta": "¿Qué es una enfermedad endemia?",
+                    "opciones": [
+                        "Una enfermedad que afecta a nivel global",
+                        "Una enfermedad propia de una región específica",
+                        "Una enfermedad que desaparece sin tratamiento",
+                        "Una enfermedad que afecta a muchas personas en poco tiempo"
+                    ],
+                    "respuestaCorrecta": "Una enfermedad propia de una región específica"
+                },
+                {
+                    "id": 37,
+                    "pregunta": "¿Qué síntoma es característico de la infestación de pediculosis?",
+                    "opciones": [
+                        "Sequedad del cuero cabelludo",
+                        "Dolor de cabeza",
+                        "Caída del cabello",
+                        "Picazón intensa"
+                    ],
+                    "respuestaCorrecta": "Picazón intensa"
+                },
+                {
+                    "id": 38,
+                    "pregunta": "¿Qué tipo de estudio utiliza datos del pasado para identificar factores de riesgo?",
+                    "opciones": [
+                        "Estudio prospectivo",
+                        "Estudio de casos y controles",
+                        "Estudio experimental",
+                        "Estudio de cohortes"
+                    ],
+                    "respuestaCorrecta": "Estudio de casos y controles"
+                },
+                {
+                    "id": 39,
+                    "pregunta": "¿Qué tipo de microorganismo es el causante de la malaria?",
+                    "opciones": [
+                        "Hongo",
+                        "Protozoo",
+                        "Virus",
+                        "Bacteria"
+                    ],
+                    "respuestaCorrecta": "Protozoo"
+                },
+                {
+                    "id": 40,
+                    "pregunta": "¿Cuál es el principal objetivo de la higiene corporal?",
+                    "opciones": [
+                        "Ahorrar agua",
+                        "Cambiar la apariencia física",
+                        "Evitar malos olores y prevenir enfermedades infecciosas",
+                        "Mejorar el rendimiento físico"
+                    ],
+                    "respuestaCorrecta": "Evitar malos olores y prevenir enfermedades infecciosas"
+                }
+            ]
+        },
+        {
+            "evaluacion": 5,
+            "temario": "Higiene sexual",
+            "preguntas": [
+                {
+                    "id": 41,
+                    "pregunta": "¿Qué tipo de anticoncepción es la ligadura de trompas?",
+                    "opciones": [
+                        "Hormonal",
+                        "Temporal",
+                        "Permanente",
+                        "Semipermanente"
+                    ],
+                    "respuestaCorrecta": "Permanente"
+                },
+                {
+                    "id": 42,
+                    "pregunta": "¿Qué hormona se utiliza comúnmente en la mayoría de los métodos anticonceptivos hormonales?",
+                    "opciones": [
+                        "Adrenalina",
+                        "Testosterona",
+                        "Insulina",
+                        "Estrógeno"
+                    ],
+                    "respuestaCorrecta": "Estrógeno"
+                },
+                {
+                    "id": 43,
+                    "pregunta": "Una forma de prevenir infecciones de transmisión sexual es:",
+                    "opciones": [
+                        "Aumentar la higiene personal",
+                        "No hablar con la pareja",
+                        "Tener múltiples parejas sexuales",
+                        "Uso de preservativos"
+                    ],
+                    "respuestaCorrecta": "Uso de preservativos"
+                },
+                {
+                    "id": 44,
+                    "pregunta": "¿Qué función tienen los espermicidas en los métodos de barrera?",
+                    "opciones": [
+                        "Regular el ciclo menstrual",
+                        "Bloquear el paso de los espermatozoides",
+                        "Aumentar la fertilidad",
+                        "Aumentar la ovulación"
+                    ],
+                    "respuestaCorrecta": "Bloquear el paso de los espermatozoides"
+                },
+                {
+                    "id": 45,
+                    "pregunta": "¿Cuál de las siguientes infecciones se considera una ITS?",
+                    "opciones": [
+                        "Candidiasis",
+                        "Asma",
+                        "Diabetes",
+                        "Gripe"
+                    ],
+                    "respuestaCorrecta": "Candidiasis"
+                },
+                {
+                    "id": 46,
+                    "pregunta": "¿Qué se recomienda para la educación sexual en el entorno familiar?",
+                    "opciones": [
+                        "Fomentar el diálogo abierto y la confianza",
+                        "Hablar de sexualidad solo en la adolescencia",
+                        "Evitar discusiones sobre sexualidad",
+                        "Mantener el silencio sobre el tema"
+                    ],
+                    "respuestaCorrecta": "Fomentar el diálogo abierto y la confianza"
+                },
+                {
+                    "id": 47,
+                    "pregunta": "¿Cuál de las siguientes es una característica de los preservativos femeninos?",
+                    "opciones": [
+                        "No ofrecen protección contra ITS",
+                        "Se colocan en el cuello uterino",
+                        "Se utilizan solo una vez",
+                        "Se insertan en la vagina"
+                    ],
+                    "respuestaCorrecta": "Se insertan en la vagina"
+                },
+                {
+                    "id": 48,
+                    "pregunta": "¿Cuál de los siguientes métodos anticonceptivos ofrece protección contra infecciones de transmisión sexual (ITS)?",
+                    "opciones": [
+                        "Píldora anticonceptiva",
+                        "Anillo vaginal",
+                        "Diafragma",
+                        "Preservativo"
+                    ],
+                    "respuestaCorrecta": "Preservativo"
+                },
+                {
+                    "id": 49,
+                    "pregunta": "El virus del papiloma humano (VPH) puede causar:",
+                    "opciones": [
+                        "Cáncer de cuello uterino",
+                        "Solo verrugas genitales",
+                        "Solo infecciones asintomáticas",
+                        "Aumento de la fertilidad"
+                    ],
+                    "respuestaCorrecta": "Cáncer de cuello uterino"
+                },
+                {
+                    "id": 50,
+                    "pregunta": "La candidiasis es causada por",
+                    "opciones": [
+                        "Un parásito",
+                        "Un hongo",
+                        "Un virus",
+                        "Una bacteria"
+                    ],
+                    "respuestaCorrecta": "Un hongo"
+                }
+            ]
+        },
+        {
+            "evaluacion": 6,
+            "temario": "Drogodependencia",
+            "preguntas": [
+                {
+                    "id": 51,
+                    "pregunta": "¿Qué componente del humo del tabaco está relacionado con el cáncer?",
+                    "opciones": [
+                        "Monóxido de carbono",
+                        "Fenoles",
+                        "Alquitrán",
+                        "Nicotina"
+                    ],
+                    "respuestaCorrecta": "Alquitrán"
+                },
+                {
+                    "id": 52,
+                    "pregunta": "¿Qué ocurre en una sobredosis de opiáceos?",
+                    "opciones": [
+                        "Incremento de la alerta mental",
+                        "Alucinaciones",
+                        "Depresión respiratoria",
+                        "Euforia extrema"
+                    ],
+                    "respuestaCorrecta": "Depresión respiratoria"
+                },
+                {
+                    "id": 53,
+                    "pregunta": "¿Qué tipo de droga es la marihuana según su origen?",
+                    "opciones": [
+                        "De diseño",
+                        "Semi-sintética",
+                        "Sintética",
+                        "Natural"
+                    ],
+                    "respuestaCorrecta": "Natural"
+                },
+                {
+                    "id": 54,
+                    "pregunta": "¿Qué factor puede aumentar el riesgo de dependencia al alcohol en jóvenes?",
+                    "opciones": [
+                        "Altura y peso elevados",
+                        "Consumo frecuente en contextos sociales",
+                        "Uso de bebidas no fermentadas",
+                        "Ausencia de antecedentes familiares de consumo"
+                    ],
+                    "respuestaCorrecta": "Consumo frecuente en contextos sociales"
+                },
+                {
+                    "id": 55,
+                    "pregunta": "¿Qué son las sustancias psicoactivas?",
+                    "opciones": [
+                        "Sustancias que no tienen efecto en el sistema nervioso",
+                        "Sustancias que mejoran la memoria",
+                        "Sustancias que afectan al sistema nervioso central y alteran la mente y el comportamiento",
+                        "Sustancias legales únicamente"
+                    ],
+                    "respuestaCorrecta": "Sustancias que afectan al sistema nervioso central y alteran la mente y el comportamiento"
+                },
+                {
+                    "id": 56,
+                    "pregunta": "Se consideran drogas estimulantes del sistema nervioso central",
+                    "opciones": [
+                        "Cannabis y drogas de síntesis",
+                        "Alcohol y heroína",
+                        "Cocaína y anfetaminas",
+                        "LSD y nicotina"
+                    ],
+                    "respuestaCorrecta": "Cocaína y anfetaminas"
+                },
+                {
+                    "id": 57,
+                    "pregunta": "¿Qué se recomienda en caso de intoxicación etílica aguda?",
+                    "opciones": [
+                        "Administrar medicamentos caseros",
+                        "Forzar la ingesta de agua",
+                        "Colocar a la persona en posición lateral de seguridad",
+                        "Inducir el vómito"
+                    ],
+                    "respuestaCorrecta": "Colocar a la persona en posición lateral de seguridad"
+                },
+                {
+                    "id": 58,
+                    "pregunta": "¿Qué fenómeno implica la necesidad de aumentar progresivamente la dosis de una droga?",
+                    "opciones": [
+                        "Dependencia física",
+                        "Sobredosis",
+                        "Tolerancia",
+                        "Abstinencia"
+                    ],
+                    "respuestaCorrecta": "Tolerancia"
+                },
+                {
+                    "id": 59,
+                    "pregunta": "¿Cuál es un ejemplo de una sustancia semi-sintética?",
+                    "opciones": [
+                        "Cannabis",
+                        "Cocaína",
+                        "LSD",
+                        "Alcohol"
+                    ],
+                    "respuestaCorrecta": "Cocaína"
+                },
+                {
+                    "id": 60,
+                    "pregunta": "¿Cuál es un efecto común de las anfetaminas?",
+                    "opciones": [
+                        "Generan alucinaciones",
+                        "Se utilizaban para perder peso",
+                        "Reducen el ritmo cardíaco",
+                        "Inducen somnolencia"
+                    ],
+                    "respuestaCorrecta": "Se utilizaban para perder peso"
+                }
+            ]
+        },
+        {
+            "evaluacion": 7,
+            "temario": "Controles analíticos",
+            "preguntas": [
+                {
+                    "id": 61,
+                    "pregunta": "¿Qué muestra se obtiene a través de una punción lumbar?",
+                    "opciones": [
+                        "Líquido cefalorraquídeo",
+                        "Líquido sinovial",
+                        "Líquido pleural",
+                        "Líquido pericárdico"
+                    ],
+                    "respuestaCorrecta": "Líquido cefalorraquídeo"
+                },
+                {
+                    "id": 62,
+                    "pregunta": "¿Qué método de esterilización usa vapor de agua a alta presión?",
+                    "opciones": [
+                        "Radiación gamma",
+                        "Filtración",
+                        "Calor seco",
+                        "Autoclave"
+                    ],
+                    "respuestaCorrecta": "Autoclave"
+                },
+                {
+                    "id": 63,
+                    "pregunta": "¿Cuál es el primer paso en la punción capilar?",
+                    "opciones": [
+                        "Masajear la zona",
+                        "Sujetar el dedo del paciente",
+                        "Limpiar la zona a puncionar",
+                        "Extraer la sangre"
+                    ],
+                    "respuestaCorrecta": "Limpiar la zona a puncionar"
+                },
+                {
+                    "id": 64,
+                    "pregunta": "¿Qué producto desinfectante es inflamable?",
+                    "opciones": [
+                        "Peróxido de hidrógeno",
+                        "Cloro",
+                        "Amonio cuaternario",
+                        "Alcohol etílico"
+                    ],
+                    "respuestaCorrecta": "Alcohol etílico"
+                },
+                {
+                    "id": 65,
+                    "pregunta": "¿Cuál es la fase más propensa a errores en el proceso de análisis de muestras biológicas?",
+                    "opciones": [
+                        "Fase preanalítica",
+                        "Fase analítica",
+                        "Fase postanalítica",
+                        "Ninguna fase"
+                    ],
+                    "respuestaCorrecta": "Fase preanalítica"
+                },
+                {
+                    "id": 66,
+                    "pregunta": "¿Para qué análisis se recomienda la orina de la primera micción del día?",
+                    "opciones": [
+                        "Test de embarazo",
+                        "Coprocultivo",
+                        "Hemograma",
+                        "Prueba de VIH"
+                    ],
+                    "respuestaCorrecta": "Test de embarazo"
+                },
+                {
+                    "id": 67,
+                    "pregunta": "¿Cuál de las siguientes afirmaciones sobre limpieza es correcta?",
+                    "opciones": [
+                        "La limpieza y la esterilización son lo mismo",
+                        "La limpieza es un paso previo a la desinfección",
+                        "La limpieza elimina todos los microorganismos",
+                        "No es necesario limpiar antes de esterilizar"
+                    ],
+                    "respuestaCorrecta": "La limpieza es un paso previo a la desinfección"
+                },
+                {
+                    "id": 68,
+                    "pregunta": "¿Qué riesgo implica la manipulación de reactivos tóxicos?",
+                    "opciones": [
+                        "Físico",
+                        "Radiactivo",
+                        "Biológico",
+                        "Químico"
+                    ],
+                    "respuestaCorrecta": "Químico"
+                },
+                {
+                    "id": 69,
+                    "pregunta": "¿Cuál es la técnica más común para la extracción de sangre?",
+                    "opciones": [
+                        "Subcutánea",
+                        "Venosa",
+                        "Capilar",
+                        "Arterial"
+                    ],
+                    "respuestaCorrecta": "Venosa"
+                },
+                {
+                    "id": 70,
+                    "pregunta": "¿Qué analiza la inmunología en un laboratorio?",
+                    "opciones": [
+                        "Microorganismos en sangre",
+                        "Antígenos y anticuerpos",
+                        "Concentración de colesterol",
+                        "Función hepática"
+                    ],
+                    "respuestaCorrecta": "Antígenos y anticuerpos"
+                }
+            ]
+        },
+        {
+            "evaluacion": 8,
+            "temario": "Apoyo psicológico al usuario",
+            "preguntas": [
+                {
+                    "id": 71,
+                    "pregunta": "¿Cuál es una de las principales emociones que experimentan las personas enfermas?",
+                    "opciones": [
+                        "El dolor",
+                        "La soledad",
+                        "La indiferencia",
+                        "La euforia"
+                    ],
+                    "respuestaCorrecta": "La soledad"
+                },
+                {
+                    "id": 72,
+                    "pregunta": "¿Por qué es clave la atención psicológica en el embarazo?",
+                    "opciones": [
+                        "Porque la salud emocional de la madre influye en la salud materno-fetal",
+                        "Porque el embarazo solo implica cambios físicos",
+                        "Porque las emociones no afectan al feto",
+                        "Porque las embarazadas no sufren ansiedad"
+                    ],
+                    "respuestaCorrecta": "Porque la salud emocional de la madre influye en la salud materno-fetal"
+                },
+                {
+                    "id": 73,
+                    "pregunta": "¿Cuál es la primera fase del duelo?",
+                    "opciones": [
+                        "Recuperación y reconciliación",
+                        "Shock o aturdimiento",
+                        "Aceptación inmediata",
+                        "Desesperación"
+                    ],
+                    "respuestaCorrecta": "Shock o aturdimiento"
+                },
+                {
+                    "id": 74,
+                    "pregunta": "¿Cuál es el objetivo de los cuidados paliativos según la OMS?",
+                    "opciones": [
+                        "Mejorar la calidad de vida del paciente y su familia",
+                        "Aplicar tratamientos agresivos hasta el final",
+                        "Reducir el coste por ingreso hospitalario",
+                        "Aumentar la esperanza de vida del paciente sin importar su calidad"
+                    ],
+                    "respuestaCorrecta": "Mejorar la calidad de vida del paciente y su familia"
+                },
+                {
+                    "id": 75,
+                    "pregunta": "¿Cuál es una estrategia recomendada para prevenir la depresión en pacientes oncológicos?",
+                    "opciones": [
+                        "Mantener las persianas abiertas y permitir la entrada de luz natural",
+                        "No hablar nunca sobre la enfermedad",
+                        "Aislar al paciente para evitar emociones negativas",
+                        "Evitar hablar de su enfermedad"
+                    ],
+                    "respuestaCorrecta": "Mantener las persianas abiertas y permitir la entrada de luz natural"
+                },
+                {
+                    "id": 76,
+                    "pregunta": "¿Cuáles son algunos grupos vulnerables que requieren especial atención psicológica?",
+                    "opciones": [
+                        "Los enfermos crónicos únicamente",
+                        "Personas con altos ingresos",
+                        "Adultos jóvenes y deportistas",
+                        "Niños, adolescentes y ancianos"
+                    ],
+                    "respuestaCorrecta": "Niños, adolescentes y ancianos"
+                },
+                {
+                    "id": 77,
+                    "pregunta": "¿Por qué es importante adaptar el apoyo psicológico en la oficina de farmacia?",
+                    "opciones": [
+                        "Para evitar tratar a los pacientes de forma individualizada",
+                        "Para priorizar solo a los enfermos crónicos",
+                        "Porque las necesidades psicológicas varían según la edad y situación",
+                        "Porque todos los pacientes tienen el mismo desarrollo psicológico"
+                    ],
+                    "respuestaCorrecta": "Porque las necesidades psicológicas varían según la edad y situación"
+                },
+                {
+                    "id": 78,
+                    "pregunta": "¿Qué se recomienda para facilitar la toma de medicamentos en adultos mayores?",
+                    "opciones": [
+                        "Evitar el tratamiento si se sienten bien",
+                        "Usar pastilleros o sistemas personalizados de dosificación",
+                        "Memorizar las dosis diarias sin anotarlas",
+                        "Tomar todos los medicamentos al mismo tiempo"
+                    ],
+                    "respuestaCorrecta": "Usar pastilleros o sistemas personalizados de dosificación"
+                },
+                {
+                    "id": 79,
+                    "pregunta": "¿Cómo reaccionan los niños menores de 4 años ante la hospitalización?",
+                    "opciones": [
+                        "Interpretan la separación de sus padres como un abandono",
+                        "No les afecta emocionalmente",
+                        "La ven como una experiencia de aprendizaje",
+                        "La entienden perfectamente"
+                    ],
+                    "respuestaCorrecta": "Interpretan la separación de sus padres como un abandono"
+                },
+                {
+                    "id": 80,
+                    "pregunta": "¿Qué es el testamento vital?",
+                    "opciones": [
+                        "Un informe médico sobre el estado del paciente",
+                        "Un testamento que decide la herencia del paciente",
+                        "Un documento donde se expresa la voluntad sobre cuidados médicos y el destino del cuerpo tras la muerte",
+                        "Un documento obligatorio para enfermos terminales"
+                    ],
+                    "respuestaCorrecta": "Un documento donde se expresa la voluntad sobre cuidados médicos y el destino del cuerpo tras la muerte"
+                }
+            ]
+        }
+    ]
+}
