@@ -3,456 +3,10 @@
     "theme": [
         {
             "evaluacion": 1,
-            "temario": "Test Repaso Tema 1, 2 y 3",
-            "preguntas": [
-                {
-                    "id": 1,
-                    "pregunta": "NO es un motivo para “devolver” los medicamentos del SFH al laboratorio o almacén distribuidor:",
-                    "opciones": [
-                        "Por deterioro de unidades o por alcanzar la fecha de caducidad.",
-                        "Por suspensión temporal de la comercialización o anulación del registro.",
-                        "Por cambios en el envase o diseño del embalaje exterior (como el color, tipografía, etc.).",
-                        "Por retirada del mercado de un determinado lote."
-                    ],
-                    "respuestaCorrecta": "Por cambios en el envase o diseño del embalaje exterior (como el color, tipografía, etc.)."
-                },
-                {
-                    "id": 2,
-                    "pregunta": "Cuando llega un pedido al SFH, ¿cuál de los siguientes productos debe colocarse de forma prioritaria en primer lugar?",
-                    "opciones": [
-                        "Medicamentos fotolábiles.",
-                        "Medicamentos termolábiles.",
-                        "Medicamentos estupefacientes.",
-                        "Medicamentos psicótropos."
-                    ],
-                    "respuestaCorrecta": "Medicamentos termolábiles."
-                },
-                {
-                    "id": 3,
-                    "pregunta": "¿Cuál de los siguientes productos NO debe almacenarse en un “almacén especial” del SFH?",
-                    "opciones": [
-                        "Productos de gran volumen, somo sueroterapia y antisépticos.",
-                        "Productos inflamables y termolábiles.",
-                        "Estupefacientes y muestras de ensayos clínicos.",
-                        "Radiofármacos y gases medicinales."
-                    ],
-                    "respuestaCorrecta": "Productos de gran volumen, somo sueroterapia y antisépticos."
-                },
-                {
-                    "id": 4,
-                    "pregunta": "¿Cuál de los siguientes medicamentos SOLO se pueden administrar dentro de un Hospital debido a sus peculiaridades farmacológicas?",
-                    "opciones": [
-                        "Medicamentos H.",
-                        "Medicamentos DH.",
-                        "Medicamentos ECM.",
-                        "Medicamentos Estupefacientes."
-                    ],
-                    "respuestaCorrecta": "Medicamentos H."
-                },
-                {
-                    "id": 5,
-                    "pregunta": "Si un paciente sufre valores de tensión de PAD > a 90 mmHg y PAS > a 140 mmHg, ¿cuál de los siguientes medicamentos se pueden utilizar para el tratamiento de la hipertensión?",
-                    "opciones": [
-                        "Diuréticos.",
-                        "Antagonistas de calcio e inhibidores de la ECA.",
-                        "Betabloqueantes como propranolol y atenolol.",
-                        "Todas las respuestas anteriores son correctas."
-                    ],
-                    "respuestaCorrecta": "Todas las respuestas anteriores son correctas."
-                },
-                {
-                    "id": 6,
-                    "pregunta": "¿En qué consiste el intercambio terapéutico de fármacos en un Hospital?",
-                    "opciones": [
-                        "Sustituir un medicamento por otro con el mismo principio activo, pero de diferente grupo farmacológico, esperando el mismo o mejor efecto terapéutico.",
-                        "Sustituir un medicamento por otro con la misma composición, pero de diferente marca.",
-                        "Sustituir un medicamento por uno genérico de diferente grupo farmacológico.",
-                        "Sustituir un medicamento por otro de diferente composición, pero del mismo grupo farmacológico, esperando el mismo o mejor efecto terapéutico."
-                    ],
-                    "respuestaCorrecta": "Sustituir un medicamento por otro de diferente composición, pero del mismo grupo farmacológico, esperando el mismo o mejor efecto terapéutico."
-                },
-                {
-                    "id": 7,
-                    "pregunta": "¿Cuál de los siguientes medicamentos se adquiere por el SFH mediante un “trámite habitual”?",
-                    "opciones": [
-                        "Medicamentos Off-Label.",
-                        "Medicamentos estupefacientes.",
-                        "Medicamentos no incluidos en la GFT.",
-                        "Medicamentos de Uso compasivo."
-                    ],
-                    "respuestaCorrecta": "Medicamentos estupefacientes."
-                },
-                {
-                    "id": 8,
-                    "pregunta": "¿Cómo se llama el tipo de dispensación realizada a un paciente que acude al Hospital para recibir su tratamiento de quimioterapia y luego regresa a su casa?",
-                    "opciones": [
-                        "Dispensación sociosanitaria.",
-                        "Dispensación domiciliaria.",
-                        "Dispensación extrahospitalaria.",
-                        "Dispensación intrahospitalaria."
-                    ],
-                    "respuestaCorrecta": "Dispensación extrahospitalaria."
-                },
-                {
-                    "id": 9,
-                    "pregunta": "Señala la opción INCORRECTA respecto a cómo se realiza la selección de medicamentos por parte del SFH:",
-                    "opciones": [
-                        "Las especialidades farmacéuticas DH pueden ser dispensadas en OF, si bien para su financiación por el SNS, deben llevar las siglas A.S.S.S. y el visado de inspección.",
-                        "Las especialidades farmacéuticas H tienen un cupón precinto de A.S.S.S.",
-                        "La gestión y adquisición de los medicamentos es responsabilidad del Jefe de Servicio de farmacia hospitalaria.",
-                        "El Prosereme es una normativa publicada que regula la selección, adquisición, almacenamiento y distribución de medicamentos en el ámbito hospitalario."
-                    ],
-                    "respuestaCorrecta": "Las especialidades farmacéuticas H tienen un cupón precinto de A.S.S.S."
-                },
-                {
-                    "id": 10,
-                    "pregunta": "Medicamentos que NO requieren un “visado de inspección” para su dispensación en el SFH:",
-                    "opciones": [
-                        "Medicamentos que tienen un círculo negro en su embalaje exterior.",
-                        "Medicamentos DH.",
-                        "Medicamentos ECM.",
-                        "Medicamentos que tienen una portería con un triángulo negro en su cupón precinto."
-                    ],
-                    "respuestaCorrecta": "Medicamentos que tienen un círculo negro en su embalaje exterior."
-                },
-                {
-                    "id": 11,
-                    "pregunta": "¿Cómo se denomina el medicamento que se utiliza en el Hospital para indicaciones terapéuticas o grupos de población que NO aparecen en su ficha técnica?",
-                    "opciones": [
-                        "Medicamentos on-Label.",
-                        "Medicamentos de uso compasivo.",
-                        "Medicamentos off-Label.",
-                        "Medicamentos no autorizados en España."
-                    ],
-                    "respuestaCorrecta": "Medicamentos off-Label."
-                },
-                {
-                    "id": 12,
-                    "pregunta": "Indica los productos que pertenecen a los “almacenes especiales” del SFH:",
-                    "opciones": [
-                        "Medicamentos fotolábiles, termolábiles, psicótropos y muestras de ensayo clínico.",
-                        "Materias primas y material de envasado del laboratorio.",
-                        "Medicamentos de ensayo clínico, estupefacientes, radiofármacos y gases medicinales.",
-                        "Productos dietéticos, antídotos y medicamentos de gran volumen."
-                    ],
-                    "respuestaCorrecta": "Medicamentos de ensayo clínico, estupefacientes, radiofármacos y gases medicinales."
-                },
-                {
-                    "id": 13,
-                    "pregunta": "¿Qué significa un ensayo clínico “doble ciego”?",
-                    "opciones": [
-                        "El investigador si conoce el grupo de estudio, pero los participantes lo desconocen.",
-                        "Ni el investigador, ni los participantes saben a qué grupo ha sido asignado cada paciente.",
-                        "Tanto los participantes como el investigador conocen el grupo (tratamiento o control) al que ha sido asignado cada paciente.",
-                        "Ni el investigador, ni los participantes, ni la tercera persona que analiza los datos, conocen a qué grupo ha sido asignado cada paciente."
-                    ],
-                    "respuestaCorrecta": "Ni el investigador, ni los participantes saben a qué grupo ha sido asignado cada paciente."
-                },
-                {
-                    "id": 14,
-                    "pregunta": "¿Qué neurotransmisor se ve afectado en la enfermedad de Parkinson?",
-                    "opciones": [
-                        "GABA.",
-                        "Dopamina.",
-                        "Acetilcolina.",
-                        "Serotonina."
-                    ],
-                    "respuestaCorrecta": "Dopamina."
-                },
-                {
-                    "id": 15,
-                    "pregunta": "Señala la opción INCORRECTA en relación con la Guía Farmacoterapéutica (GFT) del Hospital:",
-                    "opciones": [
-                        "Cada Hospital elabora su propia GFT.",
-                        "Incluye todos los medicamentos y productos sanitarios autorizados en un hospital, aportando información sobre su empleo e instrucciones de uso.",
-                        "Es una guía flexible y en contante actualización.",
-                        "Clasifica y organiza los medicamentos disponibles en el hospital por su nombre comercial."
-                    ],
-                    "respuestaCorrecta": "Clasifica y organiza los medicamentos disponibles en el hospital por su nombre comercial."
-                },
-                {
-                    "id": 16,
-                    "pregunta": "¿En qué área del Hospital está ubicado el Servicio de Farmacia Hospitalaria (SFH)?",
-                    "opciones": [
-                        "Área médica.",
-                        "Área quirúrgica.",
-                        "Área materno-infantil.",
-                        "Área de servicios centrales."
-                    ],
-                    "respuestaCorrecta": "Área de servicios centrales."
-                },
-                {
-                    "id": 17,
-                    "pregunta": "La codeína es un principio activo derivado de la morfina que se utiliza para el tratamiento de:",
-                    "opciones": [
-                        "Mucolítico.",
-                        "Antiasmático.",
-                        "Tos seca, dónde no hay producción de moco.",
-                        "Tos alérgica para fluidificar las secreciones."
-                    ],
-                    "respuestaCorrecta": "Tos seca, dónde no hay producción de moco."
-                },
-                {
-                    "id": 18,
-                    "pregunta": "¿Cuál de las siguientes opciones NO es una razón para crear farmacias satélites en un hospital?",
-                    "opciones": [
-                        "La distribución del hospital en múltiples pabellones o edificios separados.",
-                        "Sustituir por completo al SFH central.",
-                        "Impedimentos en la circulación intrahospitalaria que dificultan la entrega rápida de medicamentos.",
-                        "El tamaño del hospital que exige grandes desplazamientos para la entrega de medicamentos."
-                    ],
-                    "respuestaCorrecta": "Sustituir por completo al SFH central."
-                },
-                {
-                    "id": 19,
-                    "pregunta": "¿Cómo se llama el sistema de dispensación de medicamentos por dosis unitaria e individualizada para su administración al paciente?",
-                    "opciones": [
-                        "SAA en urgencias, quirófanos y UCI.",
-                        "Dispensación de stock correspondiente por petición del paciente.",
-                        "Dispensación a los botiquines de planta.",
-                        "SDMDU."
-                    ],
-                    "respuestaCorrecta": "SDMDU."
-                },
-                {
-                    "id": 20,
-                    "pregunta": "¿A qué vía de administración pertenece un medicamento opiáceo cuya administración se realiza mediante parches transdérmicos?",
-                    "opciones": [
-                        "Vía tópica.",
-                        "Vía parenteral.",
-                        "Vía subcutánea.",
-                        "Vía intradérmica."
-                    ],
-                    "respuestaCorrecta": "Vía tópica."
-                },
-                {
-                    "id": 21,
-                    "pregunta": "¿Cómo se llama el medicamento que puede sustituir a otro dentro de la Guía Farmacoterapéutica?",
-                    "opciones": [
-                        "Medicamento intercambiable con la misma dosis y pauta.",
-                        "Medicamento intercambiable de marca.",
-                        "Medicamento intercambiable genérico.",
-                        "Equivalente terapéutico."
-                    ],
-                    "respuestaCorrecta": "Equivalente terapéutico."
-                },
-                {
-                    "id": 22,
-                    "pregunta": "Para las patologías del sistema musculoesquelético, como la osteoporosis, osteomalacia y enfermedades reumáticas, ¿cuál es el principal tratamiento?",
-                    "opciones": [
-                        "Antibióticos.",
-                        "Antihistamínicos H2 e inhibidores de la bomba de protones.",
-                        "Antivirales.",
-                        "Aporte de vitamina D y Ca, junto al uso de antiiinflamatorios."
-                    ],
-                    "respuestaCorrecta": "Aporte de vitamina D y Ca, junto al uso de antiiinflamatorios."
-                },
-                {
-                    "id": 23,
-                    "pregunta": "¿Qué son las “farmacias satélites” en un Hospital?",
-                    "opciones": [
-                        "Zonas de almacenamiento de medicamentos con acceso restringido para garantizar su correcta conservación.",
-                        "Unidades dedicadas exclusivamente a la preparación de medicamentos intravenosos.",
-                        "Unidades descentralizadas del SFH ubicadas cerca de áreas específicas del hospital, para facilitar la dispensación y el acceso más rápido a los medicamentos.",
-                        "Áreas del hospital encargadas de la dispensación de medicamentos a pacientes externos."
-                    ],
-                    "respuestaCorrecta": "Unidades descentralizadas del SFH ubicadas cerca de áreas específicas del hospital, para facilitar la dispensación y el acceso más rápido a los medicamentos."
-                },
-                {
-                    "id": 24,
-                    "pregunta": "¿Qué caracteriza a los SAA de un SFH?",
-                    "opciones": [
-                        "Se utilizan exclusivamente para los medicamentos de ensayo clínico.",
-                        "Son armarios controlados manualmente por el personal.",
-                        "Están gestionados por un software y conectados a las aplicaciones informáticas del SFH.",
-                        "Se utilizan para facilitar a todo el personal del hospital un acceso rápido e ilimitado de todos los medicamentos del SFH."
-                    ],
-                    "respuestaCorrecta": "Están gestionados por un software y conectados a las aplicaciones informáticas del SFH."
-                },
-                {
-                    "id": 25,
-                    "pregunta": "Señala la opción INCORRECTA respecto a la Comisión de Farmacia y Terapéutica:",
-                    "opciones": [
-                        "La GFT se actualiza periódicamente para garantizar que los medicamentos seleccionados sean los más adecuados.",
-                        "Está compuesto por un equipo multidisciplinar formado por médicos, farmacéuticos y personal de enfermería, entre otros.",
-                        "Es el órgano encargado de seleccionar los medicamentos incluidos en la Guía Farmacoterapéutica (GFT).",
-                        "Solo se pueden utilizar los medicamentos incluidos en la GFT, sin posibilidad de intercambiarlos por otros diferentes."
-                    ],
-                    "respuestaCorrecta": "Solo se pueden utilizar los medicamentos incluidos en la GFT, sin posibilidad de intercambiarlos por otros diferentes."
-                },
-                {
-                    "id": 26,
-                    "pregunta": "Hospital que atiende una amplia variedad de patologías, es financiado con recursos públicos estatales (a través de impuestos), y está especializado principalmente en pacientes con enfermedades de larga duración o estancias prolongadas:",
-                    "opciones": [
-                        "Hospital Especializado, público y agudo.",
-                        "Hospital General, Privado y crónico",
-                        "Hospital General, Público y crónico.",
-                        "Hospital Especializado, Público y crónico."
-                    ],
-                    "respuestaCorrecta": "Hospital General, Público y crónico."
-                },
-                {
-                    "id": 27,
-                    "pregunta": "¿En qué fase del desarrollo de un medicamento se aprueba su uso en seres humanos?",
-                    "opciones": [
-                        "Ensayos in vivo sobre animales.",
-                        "Ensayos clínicos.",
-                        "Ensayos pre-clínicos.",
-                        "Ensayos in vitro."
-                    ],
-                    "respuestaCorrecta": "Ensayos clínicos."
-                },
-                {
-                    "id": 28,
-                    "pregunta": "¿Cuál de las siguientes funciones NO desempeña un farmacéutico hospitalario en un SFH?",
-                    "opciones": [
-                        "Personalizar los tratamientos no disponibles comercialmente, mediante la elaboración de formulaciones magistrales.",
-                        "Asegurar el cumplimiento de las normas de administración de medicamentos para un uso racional de los mismos.",
-                        "Colaborar en los ensayos clínicos de los medicamentos del hospital.",
-                        "Diagnosticar enfermedades y prescribir tratamientos médicos."
-                    ],
-                    "respuestaCorrecta": "Diagnosticar enfermedades y prescribir tratamientos médicos."
-                },
-                {
-                    "id": 29,
-                    "pregunta": "¿Cuál de los siguientes NO es un requisito indispensable para iniciar el desarrollo de un ensayo clínico en el hospital?",
-                    "opciones": [
-                        "Autorización de la AEMPS.",
-                        "Conformidad del hospital y consentimiento informado del paciente.",
-                        "Aprobación favorable de la Comisión de Farmacia y Terapéutica.",
-                        "Dictamen favorable del Comité de Ética de la Investigación."
-                    ],
-                    "respuestaCorrecta": "Aprobación favorable de la Comisión de Farmacia y Terapéutica."
-                },
-                {
-                    "id": 30,
-                    "pregunta": "Señala la opción INCORRECTA en relación con las funciones del SFH:",
-                    "opciones": [
-                        "Realizar ensayos clínicos de investigación.",
-                        "Elaborar fórmulas magistrales, nutriciones parenterales y medicamentos citotóxicos.",
-                        "Adquirir, conservar y custodiar los medicamentos para un uso racional.",
-                        "Reenvasar medicamentos para suministrar al paciente el número de dosis unitarias necesarias y prescritas para 8 horas de tratamiento."
-                    ],
-                    "respuestaCorrecta": "Reenvasar medicamentos para suministrar al paciente el número de dosis unitarias necesarias y prescritas para 8 horas de tratamiento."
-                },
-                {
-                    "id": 31,
-                    "pregunta": "¿En qué fase del Ensayo Clínico se evalúa la EFICACIA en pacientes enfermos voluntarios, siendo el principal objetivo determinar la dosis óptima?",
-                    "opciones": [
-                        "Fase III.",
-                        "Fase II.",
-                        "Fase IV.",
-                        "Fase I."
-                    ],
-                    "respuestaCorrecta": "Fase II."
-                },
-                {
-                    "id": 32,
-                    "pregunta": "¿Qué tipo de medicamento es el omeprazol y para qué trastornos gastrointestinales está indicado?",
-                    "opciones": [
-                        "Antiulceroso.",
-                        "Laxante.",
-                        "Antiflatulento y antiemético.",
-                        "Antidiarreico."
-                    ],
-                    "respuestaCorrecta": "Antiulceroso."
-                },
-                {
-                    "id": 33,
-                    "pregunta": "¿En qué área del SFH se elaboran fórmulas estériles como la nutrición parenteral y los medicamentos citostáticos?",
-                    "opciones": [
-                        "Unidad centralizada de mezclas intravenosas.",
-                        "Área de elaboración de no-estériles.",
-                        "Área de almacén.",
-                        "Área de farmacocinética."
-                    ],
-                    "respuestaCorrecta": "Unidad centralizada de mezclas intravenosas."
-                },
-                {
-                    "id": 34,
-                    "pregunta": "¿Cómo se llaman los depósitos de los medicamentos almacenados fuera del SFH para su uso inmediato, cuya gestión depende de un pacto entre el supervisor de enfermería de la unidad y el SFH?",
-                    "opciones": [
-                        "Farmacia central.",
-                        "Farmacia auxiliar.",
-                        "Farmacia ambulatoria.",
-                        "Botiquines."
-                    ],
-                    "respuestaCorrecta": "Botiquines."
-                },
-                {
-                    "id": 35,
-                    "pregunta": "¿Qué es una “alerta sanitaria” y cuál es la más grave?",
-                    "opciones": [
-                        "Es una medida preventiva tomada por la AEMPS cuando se detecta que un medicamento ha superado su fecha de caducidad, siendo la clase 1 la más grave.",
-                        "Es una medida de urgencia realizada por la AEMPS para proteger la salud pública ante defectos en la calidad, seguridad o eficacia de un medicamento, siendo la clase 1 la más grave.",
-                        "Es un procedimiento de urgencia realizado por el COF para retirar medicamentos debido a defectos en el etiquetado o en el envase del medicamento, sin riesgos para la salud de la población, siendo la clase 3 la más grave.",
-                        "Es una medida de emergencia de la AEMPS cuando se rompe la cadena de frio o condiciones de almacenamiento del medicamento, sin riesgos para la salud de los pacientes, siendo cualquier clase de alerta igualmente grave."
-                    ],
-                    "respuestaCorrecta": "Es una medida de urgencia realizada por la AEMPS para proteger la salud pública ante defectos en la calidad, seguridad o eficacia de un medicamento, siendo la clase 1 la más grave."
-                },
-                {
-                    "id": 36,
-                    "pregunta": "¿Dónde deben ser almacenados los antídotos en el SFH?",
-                    "opciones": [
-                        "Dentro del almacén general.",
-                        "En un almacén especial de intoxicaciones.",
-                        "En el laboratorio de formulación, ya que se individualizan para cada paciente.",
-                        "En un almacén especial, bajo caja fuerte o con medidas de seguridad."
-                    ],
-                    "respuestaCorrecta": "Dentro del almacén general."
-                },
-                {
-                    "id": 37,
-                    "pregunta": "¿Cuál es el principal objetivo del SFH del Hospital?",
-                    "opciones": [
-                        "Fomentar el uso de medicamentos de marca, priorizando la disponibilidad antes que el coste.",
-                        "Promover el uso racional de los medicamentos al menor coste, garantizando la calidad adecuada.",
-                        "Aumentar el uso de medicamentos nuevos, sin considerar su relación coste-beneficio.",
-                        "Controlar el stock de medicamentos en las farmacias comunitarias cercanas al hospital."
-                    ],
-                    "respuestaCorrecta": "Promover el uso racional de los medicamentos al menor coste, garantizando la calidad adecuada."
-                },
-                {
-                    "id": 38,
-                    "pregunta": "¿Cuál de las siguientes afirmaciones sobre el manejo de un lote afectado por alerta sanitaria en el SFH es INCORRECTA?",
-                    "opciones": [
-                        "El técnico retirará todas las existencias del lote afectado que tenga en el SFH.",
-                        "Los lotes afectados que estén repartidos en diferentes depósitos y plantas del hospital pueden seguir siendo dispensados a los pacientes ingresados.",
-                        "El farmacéutico debe comunicar a la Consejería la existencia o no de los lotes afectados y su número, en un plazo máximo de 24 horas.",
-                        "Todas las unidades afectadas deben ser devueltas al Laboratorio."
-                    ],
-                    "respuestaCorrecta": "Los lotes afectados que estén repartidos en diferentes depósitos y plantas del hospital pueden seguir siendo dispensados a los pacientes ingresados."
-                },
-                {
-                    "id": 39,
-                    "pregunta": "Los hospitales o establecimientos sociosanitarios, públicos o privados, que tienen menos de 100 camas, están obligados a disponer de un:",
-                    "opciones": [
-                        "Todas las respuestas anteriores son correctas.",
-                        "Servicio de Farmacia Hospitalaria (SFH).",
-                        "Depósito de medicamentos.",
-                        "Farmacia satélite."
-                    ],
-                    "respuestaCorrecta": "Depósito de medicamentos."
-                },
-                {
-                    "id": 40,
-                    "pregunta": "¿Cuál de los siguientes medicamentos está sometido a “condiciones especiales de dispensación”, ya que están custodiados en una caja fuerte?",
-                    "opciones": [
-                        "Medicamentos estupefacientes.",
-                        "Medicamentos DH.",
-                        "Medicamentos H.",
-                        "Todas las respuestas anteriores son correctas."
-                    ],
-                    "respuestaCorrecta": "Medicamentos estupefacientes."
-                }
-            ]
-        },
-        {
-            "evaluacion": 2,
             "temario": "Farmacia hospitalaria",
             "preguntas": [
                 {
-                    "id": 41,
+                    "id": 1,
                     "pregunta": "Entre las funciones que se llevan a cabo en un Hospital NO encontramos:",
                     "opciones": [
                         "Promoción de la salud y prevención de la enfermedad.",
@@ -463,7 +17,7 @@
                     "respuestaCorrecta": "Asistencia sanitaria al mayor coste compatible con la calidad necesaria."
                 },
                 {
-                    "id": 42,
+                    "id": 2,
                     "pregunta": "Dentro de las Áreas del Servicio de Farmacia Hospitalaria, el servicio que elabora aquellas formulaciones que la Industria Farmacéutica NO realiza, por ej.: dosificaciones diferentes, unidosis, etc., es:",
                     "opciones": [
                         "Unidad centralizada de mezclas intravenosa.",
@@ -474,7 +28,7 @@
                     "respuestaCorrecta": "Área de elaboración de no estériles."
                 },
                 {
-                    "id": 43,
+                    "id": 3,
                     "pregunta": "Dentro de la unidad centralizada de mezclas intravenosas encontramos varias zonas, ¿dónde se encuentra la elaboración de citostáticos?",
                     "opciones": [
                         "Zona de quimioterapia.",
@@ -485,7 +39,7 @@
                     "respuestaCorrecta": "Zona de quimioterapia."
                 },
                 {
-                    "id": 44,
+                    "id": 4,
                     "pregunta": "Según la estructura del Servicio de Farmacia Hospitalaria, hay diferentes áreas o zonas:",
                     "opciones": [
                         "Son 7: almacén y zona de recepción; dispensación; unidad de mezclas IV; elaboración de no estériles; farmacocinética; ensayos clínicos y área de información de medicamentos.",
@@ -496,7 +50,7 @@
                     "respuestaCorrecta": "Son 7: almacén y zona de recepción; dispensación; unidad de mezclas IV; elaboración de no estériles; farmacocinética; ensayos clínicos y área de información de medicamentos."
                 },
                 {
-                    "id": 45,
+                    "id": 5,
                     "pregunta": "¿Cuáles son las áreas que debe contemplar el Servicio de Farmacia Hospitalaria?",
                     "opciones": [
                         "Área de almacén y zona de recepción de mercancías.",
@@ -507,7 +61,7 @@
                     "respuestaCorrecta": "Todas las respuestas anteriores son correctas."
                 },
                 {
-                    "id": 46,
+                    "id": 6,
                     "pregunta": "Los hospitales se clasifican según su función en:",
                     "opciones": [
                         "Generales y especiales.",
@@ -518,7 +72,7 @@
                     "respuestaCorrecta": "Generales y especiales."
                 },
                 {
-                    "id": 47,
+                    "id": 7,
                     "pregunta": "De acuerdo a su dependencia patrimonial, los hospitales pueden ser:",
                     "opciones": [
                         "Generales.",
@@ -529,7 +83,7 @@
                     "respuestaCorrecta": "Públicos."
                 },
                 {
-                    "id": 48,
+                    "id": 8,
                     "pregunta": "Los medicamentos termolábiles, estupefacientes, muestras de ensayos clínicos y radiofármacos, se encuentran en el área de:",
                     "opciones": [
                         "Almacén de materias primas.",
@@ -540,7 +94,7 @@
                     "respuestaCorrecta": "Almacén especial."
                 },
                 {
-                    "id": 49,
+                    "id": 9,
                     "pregunta": "¿Cómo se llama la guía que incluye todos los medicamentos y productos sanitarios autorizados en un hospital, aportando la información sobre su empleo e instrucciones de uso?",
                     "opciones": [
                         "Guía Farmacoterapéutica (GFT).",
@@ -551,7 +105,7 @@
                     "respuestaCorrecta": "Guía Farmacoterapéutica (GFT)."
                 },
                 {
-                    "id": 50,
+                    "id": 10,
                     "pregunta": "Respecto a los servicios clínicos de los hospitales, los servicios de medicina interna se llevan a cabo en:",
                     "opciones": [
                         "El área de servicios comunes.",
@@ -562,7 +116,7 @@
                     "respuestaCorrecta": "El área médica."
                 },
                 {
-                    "id": 51,
+                    "id": 11,
                     "pregunta": "Dentro de los Procedimientos Normalizados de Trabajo (PNTs), ¿cuál se corresponde con esta definición: elaboración y control de fórmulas magistrales y preparados oficinales, así como todas las actividades relacionadas directa o indirectamente con ellos …?",
                     "opciones": [
                         "Laboratorio.",
@@ -573,7 +127,7 @@
                     "respuestaCorrecta": "Laboratorio."
                 },
                 {
-                    "id": 52,
+                    "id": 12,
                     "pregunta": "¿Cómo se llaman los centros especializados en el cuidado de la población que tiene problemas de dependencia funcional y cognitiva?",
                     "opciones": [
                         "Centros de cuidados paliativos.",
@@ -584,7 +138,7 @@
                     "respuestaCorrecta": "Centros sociosanitarios."
                 },
                 {
-                    "id": 53,
+                    "id": 13,
                     "pregunta": "Los hospitales están obligados por Ley a disponer de un Servicio de Farmacia propio:",
                     "opciones": [
                         "A partir de 100 camas.",
@@ -595,7 +149,7 @@
                     "respuestaCorrecta": "A partir de 100 camas."
                 },
                 {
-                    "id": 54,
+                    "id": 14,
                     "pregunta": "¿Cuáles son las principales funciones de un hospital?",
                     "opciones": [
                         "Prevención de la enfermedad, promoción de la salud, curación y rehabilitación.",
@@ -606,7 +160,7 @@
                     "respuestaCorrecta": "Asistencial, docente, investigación, promoción de la salud y prevención de la enfermedad."
                 },
                 {
-                    "id": 55,
+                    "id": 15,
                     "pregunta": "El área de almacén y zona de recepción de mercancías incluye:",
                     "opciones": [
                         "Almacén de materias primas y material de acondicionamiento.",
@@ -617,7 +171,7 @@
                     "respuestaCorrecta": "Almacén de materias primas y material de acondicionamiento."
                 },
                 {
-                    "id": 56,
+                    "id": 16,
                     "pregunta": "Según su dependencia patrimonial, el hospital puede ser:",
                     "opciones": [
                         "Regionales y comarcales.",
@@ -628,7 +182,7 @@
                     "respuestaCorrecta": "Públicos y privados."
                 },
                 {
-                    "id": 57,
+                    "id": 17,
                     "pregunta": "Los centros sociosanitarios públicos o privados que NO están obligados por Ley a disponer de un Servicio de Farmacia propio, tendrán que solicitar la autorización de:",
                     "opciones": [
                         "Una farmacia satélite.",
@@ -639,7 +193,7 @@
                     "respuestaCorrecta": "Un depósito de medicamentos."
                 },
                 {
-                    "id": 58,
+                    "id": 18,
                     "pregunta": "¿Cuál de las siguientes NO es un área del Servicio de Farmacia Hospitalaria?",
                     "opciones": [
                         "Área de ensayos clínicos y farmacocinética.",
@@ -650,7 +204,7 @@
                     "respuestaCorrecta": "Área de admisión de pacientes."
                 },
                 {
-                    "id": 59,
+                    "id": 19,
                     "pregunta": "¿Cuál es el principal objetivo de los Ensayos Clínicos?",
                     "opciones": [
                         "Determinar la seguridad y eficacia de un medicamento.",
@@ -661,7 +215,7 @@
                     "respuestaCorrecta": "Determinar la seguridad y eficacia de un medicamento."
                 },
                 {
-                    "id": 60,
+                    "id": 20,
                     "pregunta": "Una unidad centralizada de mezclas intravenosa cuenta con:",
                     "opciones": [
                         "Una zona para preparar fórmulas magistrales y preparados oficinales, y otra zona de reenvasado.",
@@ -672,7 +226,7 @@
                     "respuestaCorrecta": "Una antesala, una zona de quimioterapia y otra de mezclas estériles."
                 },
                 {
-                    "id": 61,
+                    "id": 21,
                     "pregunta": "¿Qué área NO corresponde con los servicios clínicos de los hospitales?",
                     "opciones": [
                         "Área de servicios comunes.",
@@ -683,7 +237,7 @@
                     "respuestaCorrecta": "Área de archivos y de documentación."
                 },
                 {
-                    "id": 62,
+                    "id": 22,
                     "pregunta": "¿A qué área de servicios clínicos pertenece el servicio de farmacia de los hospitales?",
                     "opciones": [
                         "Área de servicios comunes.",
@@ -694,7 +248,7 @@
                     "respuestaCorrecta": "Área de servicios comunes."
                 },
                 {
-                    "id": 63,
+                    "id": 23,
                     "pregunta": "¿Dónde se pueden encontrar los depósitos de medicamentos?",
                     "opciones": [
                         "En centros hospitalarios de gran tamaño con diferentes pabellones o edificios.",
@@ -705,13 +259,13 @@
                     "respuestaCorrecta": "En los centros sociosanitarios, centros hospitalarios y penitenciarios, de menos de 100 camas, que no tienen un Servicio de Farmacia ni están obligados a ello."
                 },
                 {
-                    "id": 64,
+                    "id": 24,
                     "pregunta": "Hospital que atiende a pacientes cuyas patologías se resuelven en un corto espacio de tiempo, corresponde a:",
                     "opciones": ["Agudo.", "Especial.", "Crónico.", "Crónico."],
                     "respuestaCorrecta": "Agudo."
                 },
                 {
-                    "id": 65,
+                    "id": 25,
                     "pregunta": "¿Cómo se llama el área del Servicio de Farmacia Hospitalaria (SFH) donde se revisan las prescripciones médicas y se atienden las demandas de los medicamentos a los pacientes externos y ambulatorios?",
                     "opciones": [
                         "Área de dispensación extrahospitalaria.",
@@ -722,7 +276,7 @@
                     "respuestaCorrecta": "Área de dispensación extrahospitalaria."
                 },
                 {
-                    "id": 66,
+                    "id": 26,
                     "pregunta": "¿Cómo se logra descentralizar determinadas áreas del Servicio de Farmacia Hospitalaria?",
                     "opciones": [
                         "A través de una farmacia centralizada.",
@@ -733,7 +287,7 @@
                     "respuestaCorrecta": "A través de farmacias satélite y depósitos de medicamentos."
                 },
                 {
-                    "id": 67,
+                    "id": 27,
                     "pregunta": "En un hospital, las fórmulas estériles se preparan en:",
                     "opciones": [
                         "Una cabina de flujo laminar en una sala común.",
@@ -744,7 +298,7 @@
                     "respuestaCorrecta": "Una cabina de flujo laminar dentro de una sala blanca."
                 },
                 {
-                    "id": 68,
+                    "id": 28,
                     "pregunta": "De acuerdo al tipo de pacientes, los centros hospitalarios pueden tener pacientes:",
                     "opciones": [
                         "Patologías urgentes y programadas.",
@@ -755,7 +309,7 @@
                     "respuestaCorrecta": "Agudos y crónicos."
                 },
                 {
-                    "id": 69,
+                    "id": 29,
                     "pregunta": "Sistema de dosificación que consiste en proveer a cada paciente del número de dosis necesarias y prescritas para 24 h:",
                     "opciones": [
                         "Dosis múltiples.",
@@ -766,7 +320,7 @@
                     "respuestaCorrecta": "Dosis unitaria."
                 },
                 {
-                    "id": 70,
+                    "id": 30,
                     "pregunta": "¿Cuál es el objetivo de los PNTs?",
                     "opciones": [
                         "Que todo el personal del Servicio de Farmacia Hospitalaria sepa que tiene que hacer, cuándo y cómo.",
@@ -779,11 +333,11 @@
             ]
         },
         {
-            "evaluacion": 3,
+            "evaluacion": 2,
             "temario": "Información farmacoterapéutica en un SFH",
             "preguntas": [
                 {
-                    "id": 71,
+                    "id": 31,
                     "pregunta": "¿Cuál medicamento ECM requiere un especial control médico, ya que puede producir efectos teratogénicos o mutaciones?",
                     "opciones": [
                         "Talidomida.",
@@ -794,7 +348,7 @@
                     "respuestaCorrecta": "Talidomida."
                 },
                 {
-                    "id": 72,
+                    "id": 32,
                     "pregunta": "¿A qué fase corresponde la separación de los pacientes inscritos en un ensayo clínico al grupo control y al grupo estudio?",
                     "opciones": [
                         "Fase III.",
@@ -805,7 +359,7 @@
                     "respuestaCorrecta": "Fase III."
                 },
                 {
-                    "id": 73,
+                    "id": 33,
                     "pregunta": "Los medicamentos con las siglas DH en su embalaje, corresponden con:",
                     "opciones": [
                         "Uso hospitalario.",
@@ -816,7 +370,7 @@
                     "respuestaCorrecta": "Diagnóstico Hospitalario."
                 },
                 {
-                    "id": 74,
+                    "id": 34,
                     "pregunta": "Indica los medicamentos sometidos a condiciones especiales de dispensación:",
                     "opciones": [
                         "Medicamentos de uso hospitalario (H).",
@@ -827,7 +381,7 @@
                     "respuestaCorrecta": "Medicamentos estupefacientes."
                 },
                 {
-                    "id": 75,
+                    "id": 35,
                     "pregunta": "¿Cuál de los siguientes medicamentos NO está considerado un medicamento en situaciones especiales?",
                     "opciones": [
                         "Medicamentos de uso compasivo.",
@@ -838,7 +392,7 @@
                     "respuestaCorrecta": "Medicamentos ECM."
                 },
                 {
-                    "id": 76,
+                    "id": 36,
                     "pregunta": "Respecto a los medicamentos de Especial Control Médico, señala la opción CORRECTA:",
                     "opciones": [
                         "Llevan las siglas ECM en su embalaje.",
@@ -849,7 +403,7 @@
                     "respuestaCorrecta": "Todas las respuestas anteriores son correctas."
                 },
                 {
-                    "id": 77,
+                    "id": 37,
                     "pregunta": "¿Cuál es la definición de vía subcutánea?",
                     "opciones": [
                         "La administración del medicamento se realiza directamente a la sangre a través de una vena.",
@@ -860,7 +414,7 @@
                     "respuestaCorrecta": "El fármaco se deposita en el tejido adiposo, localizado debajo de la piel."
                 },
                 {
-                    "id": 78,
+                    "id": 38,
                     "pregunta": "¿Cómo se llama el documento oficial de un fármaco que resume las características e informa de las condiciones de uso autorizadas y revisadas por la AEMPS?",
                     "opciones": [
                         "Ficha técnica.",
@@ -871,7 +425,7 @@
                     "respuestaCorrecta": "Ficha técnica."
                 },
                 {
-                    "id": 79,
+                    "id": 39,
                     "pregunta": "¿Quién es el principal responsable de la custodia y dispensación controlada de los estupefacientes en un Hospital?",
                     "opciones": [
                         "El profesional farmacéutico.",
@@ -882,7 +436,7 @@
                     "respuestaCorrecta": "El Servicio de Farmacia Hospitalaria (SFH)."
                 },
                 {
-                    "id": 80,
+                    "id": 40,
                     "pregunta": "Señala la opción CORRECTA con respecto a la administración Intravenosa (IV):",
                     "opciones": [
                         "El tratamiento IV es muy poco utilizado en los pacientes hospitalizados.",
@@ -893,7 +447,7 @@
                     "respuestaCorrecta": "El fármaco se presenta en forma de soluciones estériles y libres de partículas."
                 },
                 {
-                    "id": 81,
+                    "id": 41,
                     "pregunta": "Acerca de los medicamentos de Diagnóstico Hospitalario (DH), indica la respuesta CORRECTA:",
                     "opciones": [
                         "No se pueden dispensar en las Oficinas de Farmacia, exclusivamente en el entorno hospitalario.",
@@ -904,13 +458,13 @@
                     "respuestaCorrecta": "Pueden ser dispensados en las Oficinas de Farmacia y para su financiación por el SNS deben llevar visado de inspección."
                 },
                 {
-                    "id": 82,
+                    "id": 42,
                     "pregunta": "¿Qué sigla/s va junto al Código Nacional (CN) y significa de Uso Hospitalario?",
                     "opciones": ["ECM.", "EFG.", "H.", "DH."],
                     "respuestaCorrecta": "H."
                 },
                 {
-                    "id": 83,
+                    "id": 43,
                     "pregunta": "Indica cuál es el medicamento ECM derivado de la vitamina A:",
                     "opciones": [
                         "Clozapina.",
@@ -921,7 +475,7 @@
                     "respuestaCorrecta": "Isotretinoína."
                 },
                 {
-                    "id": 84,
+                    "id": 44,
                     "pregunta": "¿Cuál de las siguientes NO es una condición obligatoria para poder desarrollar un Ensayo Clínico?",
                     "opciones": [
                         "Consentimiento informado de la persona y poliza del seguro.",
@@ -932,7 +486,7 @@
                     "respuestaCorrecta": "El medicamento nuevo debe estar obligatoriamente incluido en la Guía Farmacoterapéutica (GFT)."
                 },
                 {
-                    "id": 85,
+                    "id": 45,
                     "pregunta": "¿Qué medicamentos se encuentran dentro de los SFH?",
                     "opciones": [
                         "Todas las respuestas anteriores son correctas.",
@@ -943,7 +497,7 @@
                     "respuestaCorrecta": "Todas las respuestas anteriores son correctas."
                 },
                 {
-                    "id": 86,
+                    "id": 46,
                     "pregunta": "¿Qué significa off-label en un medicamento?",
                     "opciones": [
                         "El uso de medicamentos sin cupón precinto.",
@@ -954,7 +508,7 @@
                     "respuestaCorrecta": "El uso del medicamento fuera de las indicaciones aprobadas en su ficha técnica."
                 },
                 {
-                    "id": 87,
+                    "id": 47,
                     "pregunta": "Cuando hablamos de las siglas DH en el embalaje de un medicamento significa:",
                     "opciones": [
                         "Medicamento de Uso Hospitalario.",
@@ -965,7 +519,7 @@
                     "respuestaCorrecta": "Medicamento de Diagnóstico Hospitalario."
                 },
                 {
-                    "id": 88,
+                    "id": 48,
                     "pregunta": "Los ensayos clínicos tienen varias fases, ¿en qué fase se realiza el estudio de LADMER?",
                     "opciones": [
                         "Fase I.",
@@ -976,7 +530,7 @@
                     "respuestaCorrecta": "Fase I."
                 },
                 {
-                    "id": 89,
+                    "id": 49,
                     "pregunta": "Indica los medicamentos sometidos a protocolos especiales, cuando se utilizan para unas condiciones que no vienen indicadas en su ficha técnica:",
                     "opciones": [
                         "Todas las opciones anteriores son correctas.",
@@ -987,7 +541,7 @@
                     "respuestaCorrecta": "Todas las opciones anteriores son correctas."
                 },
                 {
-                    "id": 90,
+                    "id": 50,
                     "pregunta": "¿Cuál es el término utilizado para referirse a los ensayos realizados en el laboratorio sobre células, tejidos y órganos antes de probar un medicamento en seres vivos?",
                     "opciones": [
                         "Ensayos in vivo sobre animales no humanos.",
@@ -998,7 +552,7 @@
                     "respuestaCorrecta": "Ensayos in vitro."
                 },
                 {
-                    "id": 91,
+                    "id": 51,
                     "pregunta": "Indica el medicamento que se utiliza para la Enfermedad de Crohn:",
                     "opciones": [
                         "Eritropoyetina (EPO).",
@@ -1009,7 +563,7 @@
                     "respuestaCorrecta": "Adalimumab/ Infliximab."
                 },
                 {
-                    "id": 92,
+                    "id": 52,
                     "pregunta": "¿Cuál es el nombre de la vía parenteral mediante la cual un medicamento se administra directamente a la sangre a través de una vena?",
                     "opciones": [
                         "Vía intramuscular (IM).",
@@ -1020,7 +574,7 @@
                     "respuestaCorrecta": "Vía intravenosa (IV)."
                 },
                 {
-                    "id": 93,
+                    "id": 53,
                     "pregunta": "¿Cuál de las siguientes opciones NO es un medicamento de dispensación restringida al ámbito hospitalario?",
                     "opciones": [
                         "Medicamentos de Uso Hospitalario (H).",
@@ -1031,7 +585,7 @@
                     "respuestaCorrecta": "Medicamentos antiinflamatorios."
                 },
                 {
-                    "id": 94,
+                    "id": 54,
                     "pregunta": "Indica cual NO es una característica de la Guía Farmacoterapéutica (GFT):",
                     "opciones": [
                         "Su contenido es evaluado, revisado y en actualización constante.",
@@ -1042,7 +596,7 @@
                     "respuestaCorrecta": "Los medicamentos incluidos en la GFT de un Hospital General serán los mismos que los utilizados en un Hospital Oncológico."
                 },
                 {
-                    "id": 95,
+                    "id": 55,
                     "pregunta": "Los medicamentos de Uso Hospitalario (H) pueden ser dispensados por:",
                     "opciones": [
                         "Los Servicios de Farmacia Hospitalaria (SFH).",
@@ -1053,7 +607,7 @@
                     "respuestaCorrecta": "Los Servicios de Farmacia Hospitalaria (SFH)."
                 },
                 {
-                    "id": 96,
+                    "id": 56,
                     "pregunta": "¿A qué fase de un ensayo clínico corresponde “proporcionar información adicional después de la aprobación, incluido el riesgo, los beneficios y el mejor uso del medicamento a largo plazo”?",
                     "opciones": [
                         "Fase I.",
@@ -1064,7 +618,7 @@
                     "respuestaCorrecta": "Fase IV."
                 },
                 {
-                    "id": 97,
+                    "id": 57,
                     "pregunta": "¿En qué consiste la sustitución terapéutica de fármacos en un hospital?",
                     "opciones": [
                         "Un hospital solo puede prescribir medicamentos incluidos en la GFT, sin excepciones.",
@@ -1075,7 +629,7 @@
                     "respuestaCorrecta": "Un medicamento es sustituido por otro de diferente estructura química, pero que pertenece al mismo grupo farmacológico."
                 },
                 {
-                    "id": 98,
+                    "id": 58,
                     "pregunta": "¿Cuál de las siguientes vías de administración es la más rápida, ya que el medicamento se absorbe directamente en el torrente sanguíneo en comparación con otras vías?",
                     "opciones": [
                         "Vía oral.",
@@ -1086,7 +640,7 @@
                     "respuestaCorrecta": "Vía intravenosa (IV)."
                 },
                 {
-                    "id": 99,
+                    "id": 59,
                     "pregunta": "¿Qué significa la sigla “H” en los medicamentos de uso hospitalario?",
                     "opciones": [
                         "Son medicamentos que, para su dispensación en el hospital, se requiere un vale.",
@@ -1097,7 +651,7 @@
                     "respuestaCorrecta": "Son medicamentos que pueden ser utilizados solo para tratamientos brindados en los hospitales."
                 },
                 {
-                    "id": 100,
+                    "id": 60,
                     "pregunta": "¿Cuál de las siguientes NO es una vía tópica?",
                     "opciones": [
                         "Oftálmica.",
@@ -1108,7 +662,7 @@
                     "respuestaCorrecta": "Sublingual."
                 },
                 {
-                    "id": 101,
+                    "id": 61,
                     "pregunta": "Los medicamentos Estupefacientes en Farmacia Hospitalaria:",
                     "opciones": [
                         "Son medicamentos utilizados en ensayos clínicos.",
@@ -1119,7 +673,7 @@
                     "respuestaCorrecta": "Estarán custodiados, por exigencia legal, en un armario o caja fuerte bajo llave tanto en el Servicio de Farmacia, como en los botiquines de planta."
                 },
                 {
-                    "id": 102,
+                    "id": 62,
                     "pregunta": "¿Qué persona ha de entregar su DNI cuando recoge un medicamento estupefaciente?",
                     "opciones": [
                         "El farmacéutico que dispensa dicho estupefaciente.",
@@ -1130,7 +684,7 @@
                     "respuestaCorrecta": "La persona que acude a retirar el medicamento, anotando en la receta el número de DNI."
                 },
                 {
-                    "id": 103,
+                    "id": 63,
                     "pregunta": "¿Para la patología del VIH y SIDA qué medicamento se utiliza a nivel hospitalario?",
                     "opciones": [
                         "Eritropoyetina.",
@@ -1141,7 +695,7 @@
                     "respuestaCorrecta": "Tenofovir."
                 },
                 {
-                    "id": 104,
+                    "id": 64,
                     "pregunta": "Es una fase de evaluación de la eficacia que se realiza en individuos voluntarios enfermos durante el desarrollo del ensayo clínico:",
                     "opciones": [
                         "Fase I.",
@@ -1152,7 +706,7 @@
                     "respuestaCorrecta": "Fase II."
                 },
                 {
-                    "id": 105,
+                    "id": 65,
                     "pregunta": "Señala la opción FALSA respecto al Centro de Información del Medicamento (CIM):",
                     "opciones": [
                         "Individualiza la información según las características personales de cada paciente y su situación clínica.",
@@ -1163,7 +717,7 @@
                     "respuestaCorrecta": "Realiza búsquedas en fuentes de literatura no científica, como artículos de revistas de divulgación dirigidas al público general y blogs de salud."
                 },
                 {
-                    "id": 106,
+                    "id": 66,
                     "pregunta": "¿Cuál de las siguientes fases de un ensayo clínico se realiza en individuos sanos?",
                     "opciones": [
                         "Fase III.",
@@ -1174,7 +728,7 @@
                     "respuestaCorrecta": "Fase I."
                 },
                 {
-                    "id": 107,
+                    "id": 67,
                     "pregunta": "¿Qué funciones puede desempeñar un farmacéutico hospitalario?",
                     "opciones": [
                         "Participar en el equipo multidisciplinar responsable de seleccionar los medicamentos que van a ser incluidos en la GFT.",
@@ -1185,7 +739,7 @@
                     "respuestaCorrecta": "Todas las respuestas anteriores son correctas."
                 },
                 {
-                    "id": 108,
+                    "id": 68,
                     "pregunta": "Los medicamentos de Diagnóstico Hospitalario (DH):",
                     "opciones": [
                         "Se emplean en el tratamiento de patologías que son diagnosticadas en el hospital, aunque también se pueden dispensar en las OF.",
@@ -1196,7 +750,7 @@
                     "respuestaCorrecta": "Se emplean en el tratamiento de patologías que son diagnosticadas en el hospital, aunque también se pueden dispensar en las OF."
                 },
                 {
-                    "id": 109,
+                    "id": 69,
                     "pregunta": "¿En qué fase de los ensayos clínicos se debe hacer un seguimiento de farmacovigilancia:",
                     "opciones": [
                         "Fase IV.",
@@ -1207,7 +761,7 @@
                     "respuestaCorrecta": "Fase IV."
                 },
                 {
-                    "id": 110,
+                    "id": 70,
                     "pregunta": "¿Qué es el CIM?",
                     "opciones": [
                         "Es el centro de Investigación Médica.",
@@ -1220,11 +774,11 @@
             ]
         },
         {
-            "evaluacion": 4,
+            "evaluacion": 3,
             "temario": "Almacenamiento y distribución",
             "preguntas": [
                 {
-                    "id": 111,
+                    "id": 71,
                     "pregunta": "¿Cuál es el orden CORRECTO para colocar los pedidos?",
                     "opciones": [
                         "1º Psicótropos y estupefacientes, 2º Fotosensibles, 3º Termolábiles y, en último lugar, el resto de medicamentos.",
@@ -1235,7 +789,7 @@
                     "respuestaCorrecta": "1º Termolábiles; 2º Estupefacientes, 3º Psicótropos y, en último lugar, el resto de medicamentos."
                 },
                 {
-                    "id": 112,
+                    "id": 72,
                     "pregunta": "La adquisición de medicamentos por “Trámite habitual” incluye:",
                     "opciones": [
                         "Sueros.",
@@ -1246,7 +800,7 @@
                     "respuestaCorrecta": "Todas las respuestas anteriores son correctas."
                 },
                 {
-                    "id": 113,
+                    "id": 73,
                     "pregunta": "El reloj de arena impreso en el embalaje de los medicamentos indica que:",
                     "opciones": [
                         "Los medicamentos tienen una caducidad igual a los 5 años.",
@@ -1257,7 +811,7 @@
                     "respuestaCorrecta": "Los medicamentos tienen una caducidad inferior a los 5 años."
                 },
                 {
-                    "id": 114,
+                    "id": 74,
                     "pregunta": "NO se almacena en el almacén de Medicamentos de gran volumen:",
                     "opciones": [
                         "Soluciones para fluidoterapia.",
@@ -1268,7 +822,7 @@
                     "respuestaCorrecta": "Antídotos."
                 },
                 {
-                    "id": 115,
+                    "id": 75,
                     "pregunta": "¿Qué alerta sanitaria supone un MAYOR riesgo o peligro potencial para la vida de los usuarios o que presenta un GRAVE riesgo para la salud?",
                     "opciones": [
                         "Clase 1.",
@@ -1279,7 +833,7 @@
                     "respuestaCorrecta": "Clase 1."
                 },
                 {
-                    "id": 116,
+                    "id": 76,
                     "pregunta": "La adquisición de medicamentos por “Trámite especial” NO incluye:",
                     "opciones": [
                         "Medicamentos no incluidos en la Guía Farmacoterapéutica.",
@@ -1290,7 +844,7 @@
                     "respuestaCorrecta": "Medicamentos estupefacientes."
                 },
                 {
-                    "id": 117,
+                    "id": 77,
                     "pregunta": "Un medicamento en cuyo embalaje lleva un “círculo mitad negro y mitad blanco” se almacena en:",
                     "opciones": [
                         "Almacén de estupefacientes.",
@@ -1301,7 +855,7 @@
                     "respuestaCorrecta": "Almacenes generales."
                 },
                 {
-                    "id": 118,
+                    "id": 78,
                     "pregunta": "Los almacenes de medicamentos termolábiles son de tipo:",
                     "opciones": [
                         "Almacenes generales.",
@@ -1312,7 +866,7 @@
                     "respuestaCorrecta": "Almacenes especiales."
                 },
                 {
-                    "id": 119,
+                    "id": 79,
                     "pregunta": "¿A qué temperatura debe mantenerse la insulina y las vacunas en los frigoríficos de los almacenes termolábiles?",
                     "opciones": [
                         "+2º y +8ºC.",
@@ -1323,7 +877,7 @@
                     "respuestaCorrecta": "+2º y +8ºC."
                 },
                 {
-                    "id": 120,
+                    "id": 80,
                     "pregunta": "En las áreas de almacenamiento del SFH, los medicamentos de gran volumen deben ser:",
                     "opciones": [
                         "De 75 ml.",
@@ -1334,7 +888,7 @@
                     "respuestaCorrecta": "De 100 ml o superiores."
                 },
                 {
-                    "id": 121,
+                    "id": 81,
                     "pregunta": "¿A qué nivel pertenecen las formas farmacéuticas estériles?",
                     "opciones": [
                         "Nivel II.",
@@ -1345,7 +899,7 @@
                     "respuestaCorrecta": "Nivel III."
                 },
                 {
-                    "id": 122,
+                    "id": 82,
                     "pregunta": "¿Dónde se almacenan los frascos y tapones para elaborar las FM?",
                     "opciones": [
                         "En el almacén de materias primas y reenvasado.",
@@ -1356,7 +910,7 @@
                     "respuestaCorrecta": "En el almacén de materias primas y reenvasado."
                 },
                 {
-                    "id": 123,
+                    "id": 83,
                     "pregunta": "Los almacenes de medicamentos termolábiles:",
                     "opciones": [
                         "Se encuentra en un área de acceso restringido al personal autorizado.",
@@ -1367,7 +921,7 @@
                     "respuestaCorrecta": "Se utilizan cámaras frigoríficas o neveras para aquellos medicamentos que necesiten entre 2ºC a 8ºC y también para aquellos que requieran entre -10ºC a -20ºC se dispondrá de congeladores."
                 },
                 {
-                    "id": 124,
+                    "id": 84,
                     "pregunta": "¿Cómo se llama el Inventario que se suele realizar a finales de año y que incluye todos los productos del SFH?",
                     "opciones": [
                         "Inventario permanente.",
@@ -1378,7 +932,7 @@
                     "respuestaCorrecta": "Inventario anual."
                 },
                 {
-                    "id": 125,
+                    "id": 85,
                     "pregunta": "El frigorífico debe contar con un termómetro para registrar a diario:",
                     "opciones": [
                         "La Temperatura mínima alcanzada en 24 h.",
@@ -1389,7 +943,7 @@
                     "respuestaCorrecta": "Temperatura máxima, mínima y actual."
                 },
                 {
-                    "id": 126,
+                    "id": 86,
                     "pregunta": "Selecciona cuál de las siguientes respuestas pertenecen a los distintos almacenes del SFH:",
                     "opciones": [
                         "Almacenes generales.",
@@ -1400,7 +954,7 @@
                     "respuestaCorrecta": "Todas las respuestas anteriores son correctas."
                 },
                 {
-                    "id": 127,
+                    "id": 87,
                     "pregunta": "En el proceso de compra o adquisición de medicamentos de un SFH mediante “trámite habitual”, NO se incluye:",
                     "opciones": [
                         "Medicamentos de prescripción restringida como H, DH y ECM.",
@@ -1411,7 +965,7 @@
                     "respuestaCorrecta": "Medicamentos no incluidos en la Guía Farmacoterapéutica."
                 },
                 {
-                    "id": 128,
+                    "id": 88,
                     "pregunta": "¿Quién realiza la selección de los medicamentos incluidos en la Guía Farmacoterapéutica?",
                     "opciones": [
                         "El Servicio de Farmacia Hospitalaria.",
@@ -1422,7 +976,7 @@
                     "respuestaCorrecta": "La Comisión de Farmacia y Terapéutica."
                 },
                 {
-                    "id": 129,
+                    "id": 89,
                     "pregunta": "El fentanilo es un potente fármaco opiáceo, ¿en qué lugar se almacena?",
                     "opciones": [
                         "En el almacén de estupefacientes, en una caja fuerte o armario con cerradura junto a la metadona y morfina.",
@@ -1433,7 +987,7 @@
                     "respuestaCorrecta": "En el almacén de estupefacientes, en una caja fuerte o armario con cerradura junto a la metadona y morfina."
                 },
                 {
-                    "id": 130,
+                    "id": 90,
                     "pregunta": "¿Cuáles son los tipos de almacenes que existen?",
                     "opciones": [
                         "De reenvasado y de etiquetado.",
@@ -1444,7 +998,7 @@
                     "respuestaCorrecta": "Recepción de mercancía y comprobación de pedidos; Generales; De materias primas y material de reenvasado; y Especiales."
                 },
                 {
-                    "id": 131,
+                    "id": 91,
                     "pregunta": "¿Cuál de los siguientes medicamentos NO tiene que guardarse en almacenes especiales?",
                     "opciones": [
                         "Insulinas y vacunas.",
@@ -1455,7 +1009,7 @@
                     "respuestaCorrecta": "Estatinas hipocolesterolemiantes."
                 },
                 {
-                    "id": 132,
+                    "id": 92,
                     "pregunta": "Medicamentos que se utilizan como “último recurso” en pacientes que padecen enfermedades oncológicas, crónicas o gravemente debilitantes que ponen en peligro su vida y que no pueden ser tratados satisfactoriamente con un medicamento autorizado:",
                     "opciones": [
                         "Uso compasivo de medicamentos.",
@@ -1466,7 +1020,7 @@
                     "respuestaCorrecta": "Uso compasivo de medicamentos."
                 },
                 {
-                    "id": 133,
+                    "id": 93,
                     "pregunta": "El almacén de muestras de Ensayos Clínicos se encuentra dentro de los:",
                     "opciones": [
                         "Almacenes de materias primas y reenvasado.",
@@ -1477,7 +1031,7 @@
                     "respuestaCorrecta": "Almacenes especiales."
                 },
                 {
-                    "id": 134,
+                    "id": 94,
                     "pregunta": "Los contrastes para diagnóstico por imagen, en qué tipo de almacén se encuentra:",
                     "opciones": [
                         "Almacenes generales.",
@@ -1488,7 +1042,7 @@
                     "respuestaCorrecta": "Almacenes generales."
                 },
                 {
-                    "id": 135,
+                    "id": 95,
                     "pregunta": "¿Cómo se llama el procedimiento de urgencia de la AEMPS cuando detecta un posible defecto o alteración de la calidad o seguridad de un medicamento?",
                     "opciones": [
                         "Atención farmacéutica.",
@@ -1499,7 +1053,7 @@
                     "respuestaCorrecta": "Alerta sanitaria."
                 },
                 {
-                    "id": 136,
+                    "id": 96,
                     "pregunta": "¿Cuál de los siguientes NO es un medicamento de gran volumen?",
                     "opciones": [
                         "Soluciones para fluidoterapia.",
@@ -1510,7 +1064,7 @@
                     "respuestaCorrecta": "Contrastes para diagnóstico por imagen."
                 },
                 {
-                    "id": 137,
+                    "id": 97,
                     "pregunta": "Dentro de los almacenes generales podemos encontrar:",
                     "opciones": [
                         "Oxígeno.",
@@ -1521,7 +1075,7 @@
                     "respuestaCorrecta": "Soluciones antisépticas."
                 },
                 {
-                    "id": 138,
+                    "id": 98,
                     "pregunta": "¿Qué medicamento se almacena en el frigorífico/congelador?",
                     "opciones": [
                         "Solo insulinas.",
@@ -1532,7 +1086,7 @@
                     "respuestaCorrecta": "Todos los medicamentos que llevan en el cartonaje un símbolo de “copo de nieve/asterisco”."
                 },
                 {
-                    "id": 139,
+                    "id": 99,
                     "pregunta": "El vale del talonario de Estupefacientes es necesario para solicitar:",
                     "opciones": [
                         "Medicamentos psicótropos y estupefacientes.",
@@ -1543,7 +1097,7 @@
                     "respuestaCorrecta": "Medicamentos estupefacientes."
                 },
                 {
-                    "id": 140,
+                    "id": 100,
                     "pregunta": "Los medicamentos de Uso compasivo en Investigación, son adquiridos por el SFH mediante un:",
                     "opciones": [
                         "Trámite habitual.",
@@ -1554,7 +1108,7 @@
                     "respuestaCorrecta": "Trámite especial."
                 },
                 {
-                    "id": 141,
+                    "id": 101,
                     "pregunta": "Las soluciones antisépticas se almacenan en …:",
                     "opciones": [
                         "Almacén de termolábiles.",
@@ -1565,7 +1119,7 @@
                     "respuestaCorrecta": "Almacén de medicamentos de gran volumen."
                 },
                 {
-                    "id": 142,
+                    "id": 102,
                     "pregunta": "¿En qué nivel se elaboran las Formas Farmacéuticas sólidas orales y rectales?",
                     "opciones": [
                         "Ningún nivel.",
@@ -1576,7 +1130,7 @@
                     "respuestaCorrecta": "Nivel II."
                 },
                 {
-                    "id": 143,
+                    "id": 103,
                     "pregunta": "¿Cómo se llama el stock que nos indica que se debe realizar un nuevo pedido?",
                     "opciones": [
                         "Stock de alerta.",
@@ -1587,7 +1141,7 @@
                     "respuestaCorrecta": "Stock de alerta."
                 },
                 {
-                    "id": 144,
+                    "id": 104,
                     "pregunta": "La metadona lleva en el cartonaje exterior un círculo negro, debe almacenarse en:",
                     "opciones": [
                         "Almacén de estupefacientes.",
@@ -1598,7 +1152,7 @@
                     "respuestaCorrecta": "Almacén de estupefacientes."
                 },
                 {
-                    "id": 145,
+                    "id": 105,
                     "pregunta": "¿Qué son los antídotos?",
                     "opciones": [
                         "Son medicamentos que, a través de diversos mecanismos, impiden, mejoran o hacen desaparecer signos o síntomas de las intoxicaciones.",
@@ -1609,7 +1163,7 @@
                     "respuestaCorrecta": "Son medicamentos que, a través de diversos mecanismos, impiden, mejoran o hacen desaparecer signos o síntomas de las intoxicaciones."
                 },
                 {
-                    "id": 146,
+                    "id": 106,
                     "pregunta": "¿Cómo se llaman los medicamentos que se utilizan en patologías o tipos de pacientes NO indicados en la ficha técnica?",
                     "opciones": [
                         "Medicamentos no autorizados en España.",
@@ -1620,7 +1174,7 @@
                     "respuestaCorrecta": "Off-Label."
                 },
                 {
-                    "id": 147,
+                    "id": 107,
                     "pregunta": "El SAA es un:",
                     "opciones": [
                         "Un botiquín.",
@@ -1631,7 +1185,7 @@
                     "respuestaCorrecta": "Sistema Automatizado de Almacenamiento."
                 },
                 {
-                    "id": 148,
+                    "id": 108,
                     "pregunta": "¿Cómo se llama el sistema que dispensa formas farmacéuticas en acondicionamiento unitario?",
                     "opciones": [
                         "SDMDU.",
@@ -1642,7 +1196,7 @@
                     "respuestaCorrecta": "SDMDU."
                 },
                 {
-                    "id": 149,
+                    "id": 109,
                     "pregunta": "¿Cómo se denominan los depósitos de medicamentos, para su uso inmediato y almacenado fuera del SFH (ej. Quirófanos)?",
                     "opciones": [
                         "Sistema de distribución en dosis unitarias (SDMDU).",
@@ -1653,7 +1207,7 @@
                     "respuestaCorrecta": "Botiquín."
                 },
                 {
-                    "id": 150,
+                    "id": 110,
                     "pregunta": "Cuando nos llega una Alerta Sanitaria al SFH de un determinado lote de un medicamento específico, debemos:",
                     "opciones": [
                         "Retirar las existencias de todos los lotes del medicamento.",
@@ -1666,11 +1220,11 @@
             ]
         },
         {
-            "evaluacion": 5,
+            "evaluacion": 4,
             "temario": "Formulación magistral y preparados nutricionales",
             "preguntas": [
                 {
-                    "id": 151,
+                    "id": 111,
                     "pregunta": "¿Qué incluye la zona de elaboración de formas farmacéuticas ESTÉRILES?",
                     "opciones": [
                         "Área de mezclas intravenosas y nutrición parenteral con cabina flujo laminar horizontal.",
@@ -1681,7 +1235,7 @@
                     "respuestaCorrecta": "Todas las respuestas anteriores son correctas."
                 },
                 {
-                    "id": 152,
+                    "id": 112,
                     "pregunta": "¿A qué nivel pertenecen las formas farmacéuticas estériles?",
                     "opciones": [
                         "Nivel secundario.",
@@ -1692,7 +1246,7 @@
                     "respuestaCorrecta": "Nivel III."
                 },
                 {
-                    "id": 153,
+                    "id": 113,
                     "pregunta": "¿Cuál NO es una característica de los locales de preparación de las Fórmulas Magistrales?",
                     "opciones": [
                         "Superficies lisas y sin grietas.",
@@ -1703,7 +1257,7 @@
                     "respuestaCorrecta": "Armarios con guardarropas."
                 },
                 {
-                    "id": 154,
+                    "id": 114,
                     "pregunta": "¿A qué tipo de parámetro corresponde el IMC?",
                     "opciones": [
                         "Parámetro bioquímico.",
@@ -1714,7 +1268,7 @@
                     "respuestaCorrecta": "Parámetro antropométrico."
                 },
                 {
-                    "id": 155,
+                    "id": 115,
                     "pregunta": "¿Cuáles son las vías para administrar la Nutrición Enteral?",
                     "opciones": [
                         "Vía oral, sonda y ostomía.",
@@ -1725,7 +1279,7 @@
                     "respuestaCorrecta": "Vía oral, sonda y ostomía."
                 },
                 {
-                    "id": 156,
+                    "id": 116,
                     "pregunta": "¿Cuál es el orden RECOMENDADO para preparar la Nutrición Parenteral?",
                     "opciones": [
                         "Mezclar primero aminoácidos y glucosa, y en último lugar los lípidos.",
@@ -1736,7 +1290,7 @@
                     "respuestaCorrecta": "Mezclar primero aminoácidos y glucosa, y en último lugar los lípidos."
                 },
                 {
-                    "id": 157,
+                    "id": 117,
                     "pregunta": "¿Qué parámetro bioquímico se utiliza específicamente para valorar la proteína muscular?",
                     "opciones": [
                         "Urea.",
@@ -1747,7 +1301,7 @@
                     "respuestaCorrecta": "Creatinina."
                 },
                 {
-                    "id": 158,
+                    "id": 118,
                     "pregunta": "¿Cuál de estas elaboraciones se realiza en el SFH?",
                     "opciones": [
                         "Elaboración de preparados estériles.",
@@ -1758,7 +1312,7 @@
                     "respuestaCorrecta": "Todas las respuestas anteriores son correctas."
                 },
                 {
-                    "id": 159,
+                    "id": 119,
                     "pregunta": "En el Área de preparación de CITOSTÁTICOS encontramos:",
                     "opciones": [
                         "Presión Negativa y campana de flujo laminar vertical.",
@@ -1769,7 +1323,7 @@
                     "respuestaCorrecta": "Presión Negativa y campana de flujo laminar vertical."
                 },
                 {
-                    "id": 160,
+                    "id": 120,
                     "pregunta": "¿Cómo se realiza la valoración nutricional en un paciente hospitalizado?",
                     "opciones": [
                         "Medición de parámetros antropométricos y bioquímicos.",
@@ -1780,7 +1334,7 @@
                     "respuestaCorrecta": "Todas las respuestas anteriores son correctas."
                 },
                 {
-                    "id": 161,
+                    "id": 121,
                     "pregunta": "Cuál es la OPCIÓN CORRECTA:",
                     "opciones": [
                         "Nivel 2 Elaboración de formas farmacéuticas orales y rectales sólidas estériles.",
@@ -1791,7 +1345,7 @@
                     "respuestaCorrecta": "Nivel 2 Elaboración de formas farmacéuticas orales y rectales solidas no estériles."
                 },
                 {
-                    "id": 162,
+                    "id": 122,
                     "pregunta": "¿Cuál de estas zonas pertenece a la zona de elaboración de formas farmacéuticas ESTÉRILES?",
                     "opciones": [
                         "Área de productos fitoterapéuticos.",
@@ -1802,7 +1356,7 @@
                     "respuestaCorrecta": "Área de mezclas intravenosas."
                 },
                 {
-                    "id": 163,
+                    "id": 123,
                     "pregunta": "La desnutrición de tipo agudo (evolución días o semanas) y que se produce por disminución del aporte proteico se denomina:",
                     "opciones": [
                         "Kwashiorkor.",
@@ -1813,7 +1367,7 @@
                     "respuestaCorrecta": "Kwashiorkor."
                 },
                 {
-                    "id": 164,
+                    "id": 124,
                     "pregunta": "La Nutrición Enteral está ABSOLUTAMENTE CONTRAINDICADA en:",
                     "opciones": [
                         "Peritonitis u obstrucción completa del intestino.",
@@ -1824,7 +1378,7 @@
                     "respuestaCorrecta": "Peritonitis u obstrucción completa del intestino."
                 },
                 {
-                    "id": 165,
+                    "id": 125,
                     "pregunta": "¿Cuál es el lugar de perfusión de la sonda de Nutrición Enteral de elección para pacientes que conservan el reflejo de la deglución y exista vaciamiento gástrico normal?",
                     "opciones": [
                         "Administración intermitente.",
@@ -1835,7 +1389,7 @@
                     "respuestaCorrecta": "Administración intragástrica."
                 },
                 {
-                    "id": 166,
+                    "id": 126,
                     "pregunta": "Señala la opción INCORRECTA respecto a la Nutrición Enteral consiste en:",
                     "opciones": [
                         "La administración directa de nutrientes de composición química definida en el tracto gastrointestinal.",
@@ -1846,13 +1400,13 @@
                     "respuestaCorrecta": "Aporte de nutrientes al organismo por vía intravenosa."
                 },
                 {
-                    "id": 167,
+                    "id": 127,
                     "pregunta": "¿Cuántos niveles hay de laboratorio?",
                     "opciones": ["2.", "3.", "1.", "4."],
                     "respuestaCorrecta": "3."
                 },
                 {
-                    "id": 168,
+                    "id": 128,
                     "pregunta": "La zona de elaboración de formas farmacéuticas ESTÉRILES incluye:",
                     "opciones": [
                         "Acondicionamiento.",
@@ -1863,7 +1417,7 @@
                     "respuestaCorrecta": "Área de mezclas intravenosas y nutrición parenteral y área de citostáticos."
                 },
                 {
-                    "id": 169,
+                    "id": 129,
                     "pregunta": "¿Cuál es el lugar de perfusión de la sonda de Nutrición Enteral para pacientes con reflujo gastroesofágico, gastroparesia o vaciamiento gástrico enlentecido?",
                     "opciones": [
                         "Administración postpilórica.",
@@ -1874,7 +1428,7 @@
                     "respuestaCorrecta": "Administración postpilórica."
                 },
                 {
-                    "id": 170,
+                    "id": 130,
                     "pregunta": "Según las Normas de Correcta Fabricación (NCF), ¿en qué nivel se deben elaborar las formas farmacéuticas orales y rectales sólidas?:",
                     "opciones": [
                         "Nivel 3.",
@@ -1885,7 +1439,7 @@
                     "respuestaCorrecta": "Nivel 2."
                 },
                 {
-                    "id": 171,
+                    "id": 131,
                     "pregunta": "¿Qué tipos de desnutrición hay?",
                     "opciones": [
                         "Desnutrición en función de su origen o etiología y desnutrición crónica.",
@@ -1896,7 +1450,7 @@
                     "respuestaCorrecta": "Desnutrición clínica y desnutrición en función de su origen o etiología."
                 },
                 {
-                    "id": 172,
+                    "id": 132,
                     "pregunta": "Desnutrición de tipo aguda por estrés o desnutrición proteica:",
                     "opciones": [
                         "Estado carencial de oligoelementos y vitaminas.",
@@ -1907,7 +1461,7 @@
                     "respuestaCorrecta": "Kwashiorkor-Marasmo."
                 },
                 {
-                    "id": 173,
+                    "id": 133,
                     "pregunta": "¿Qué tipo de desnutrición es más probable que padezca un paciente con anorexia nerviosa o bulimia?",
                     "opciones": [
                         "Desnutrición primaria.",
@@ -1918,7 +1472,7 @@
                     "respuestaCorrecta": "Desnutrición secundaria."
                 },
                 {
-                    "id": 174,
+                    "id": 134,
                     "pregunta": "¿A través de qué vía se administración la Nutrición Parenteral cuando se utiliza la vena subclavia o yugular?",
                     "opciones": [
                         "Por una vía periférica.",
@@ -1929,7 +1483,7 @@
                     "respuestaCorrecta": "Por una vía central."
                 },
                 {
-                    "id": 175,
+                    "id": 135,
                     "pregunta": "En la zona de elaboración de formas farmacéuticas ESTÉRILES debe encontrarse:",
                     "opciones": [
                         "Zona de reenvasado.",
@@ -1940,7 +1494,7 @@
                     "respuestaCorrecta": "Área aislada del resto, con una precámara equipada con lavabo."
                 },
                 {
-                    "id": 176,
+                    "id": 136,
                     "pregunta": "¿Qué técnica de administración de Nutrición Enteral se utiliza en pacientes con tracto digestivo sano y con vaciado gástrico normal, administrando volúmenes de forma muy rápida?",
                     "opciones": [
                         "Administración continua con bomba de infusión.",
@@ -1951,7 +1505,7 @@
                     "respuestaCorrecta": "Administración intermitente por bolo."
                 },
                 {
-                    "id": 177,
+                    "id": 137,
                     "pregunta": "Desnutrición que ocurre debido a un aumento en la excreción y pérdidas extraordinarias (como en casos de vómitos, diarreas o fístulas):",
                     "opciones": [
                         "Desnutrición primaria.",
@@ -1962,7 +1516,7 @@
                     "respuestaCorrecta": "Desnutrición secundaria."
                 },
                 {
-                    "id": 178,
+                    "id": 138,
                     "pregunta": "¿Qué técnica de administración de Nutrición Enteral se utiliza en pacientes con alteraciones en los procesos de digestión y absorción, utilizando volúmenes durante periodos de 24 h?",
                     "opciones": [
                         "Administración continua.",
@@ -1973,7 +1527,7 @@
                     "respuestaCorrecta": "Administración continua."
                 },
                 {
-                    "id": 179,
+                    "id": 139,
                     "pregunta": "Dentro de la desnutrición clínica, sabemos que el Marasmo es:",
                     "opciones": [
                         "Una desnutrición de tipo agudo por estrés o desnutrición proteica (evolución días o semanas)",
@@ -1984,7 +1538,7 @@
                     "respuestaCorrecta": "Una desnutrición de tipo crónico (evolución en meses o años) y se produce por falta de aporte adecuado de energía y nutrientes, entre otros."
                 },
                 {
-                    "id": 180,
+                    "id": 140,
                     "pregunta": "Señala la opción CORRECTA respecto al equipo utilizado para la administración de Nutrición Enteral:",
                     "opciones": [
                         "Se utilizan botellas o bolsas flexibles con marcas volumétricas para medir el volumen de la fórmula.",
@@ -1995,7 +1549,7 @@
                     "respuestaCorrecta": "Todas las respuestas anteriores son correctas."
                 },
                 {
-                    "id": 181,
+                    "id": 141,
                     "pregunta": "La Desnutrición:",
                     "opciones": [
                         "Todas las opciones anteriores son correctas.",
@@ -2006,7 +1560,7 @@
                     "respuestaCorrecta": "Todas las opciones anteriores son correctas."
                 },
                 {
-                    "id": 182,
+                    "id": 142,
                     "pregunta": "¿A qué corresponde el “documento que contiene los datos mínimos que identifican cada materia prima o material de acondicionamiento que existe en el SFH”?",
                     "opciones": [
                         "Recepción.",
@@ -2017,7 +1571,7 @@
                     "respuestaCorrecta": "Registro."
                 },
                 {
-                    "id": 183,
+                    "id": 143,
                     "pregunta": "En el Área de Mezclas Intravenosas y Nutriciones Parenterales encontramos:",
                     "opciones": [
                         "Presión Positiva y campana de flujo laminar vertical.",
@@ -2028,7 +1582,7 @@
                     "respuestaCorrecta": "Presión Positiva y campana de flujo laminar horizontal."
                 },
                 {
-                    "id": 184,
+                    "id": 144,
                     "pregunta": "¿Cómo se denomina la Nutrición Enteral preparada a base de un ÚNICO nutriente, como puede ser la proteína?",
                     "opciones": [
                         "Módulo nutricional.",
@@ -2039,7 +1593,7 @@
                     "respuestaCorrecta": "Módulo nutricional."
                 },
                 {
-                    "id": 185,
+                    "id": 145,
                     "pregunta": "¿Cuáles son los componentes de una mezcla ternaria de una nutrición parenteral?",
                     "opciones": [
                         "Lípidos, aminoácidos y glucosa.",
@@ -2050,7 +1604,7 @@
                     "respuestaCorrecta": "Lípidos, aminoácidos y glucosa."
                 },
                 {
-                    "id": 186,
+                    "id": 146,
                     "pregunta": "¿A qué tipo de desnutrición se refiere cuando la desnutrición es crónica o desnutrición acalórica?",
                     "opciones": [
                         "Kwashiorkor–Marasmo.",
@@ -2061,7 +1615,7 @@
                     "respuestaCorrecta": "Marasmo."
                 },
                 {
-                    "id": 187,
+                    "id": 147,
                     "pregunta": "Señala la opción CORRECTA respecto al equipo utilizado para la administración de Nutrición Enteral:",
                     "opciones": [
                         "Se utilizan botellas o bolsas flexibles con marcas volumétricas para medir el volumen de la fórmula.",
@@ -2072,7 +1626,7 @@
                     "respuestaCorrecta": "Todas las respuestas anteriores son correctas."
                 },
                 {
-                    "id": 188,
+                    "id": 148,
                     "pregunta": "La Desnutrición:",
                     "opciones": [
                         "Todas las opciones anteriores son correctas.",
@@ -2083,7 +1637,7 @@
                     "respuestaCorrecta": "Todas las opciones anteriores son correctas."
                 },
                 {
-                    "id": 189,
+                    "id": 149,
                     "pregunta": "¿A qué corresponde el “documento que contiene los datos mínimos que identifican cada materia prima o material de acondicionamiento que existe en el SFH”?",
                     "opciones": [
                         "Recepción.",
@@ -2094,7 +1648,7 @@
                     "respuestaCorrecta": "Registro."
                 },
                 {
-                    "id": 190,
+                    "id": 150,
                     "pregunta": "¿Cómo se llama el stock que nos indica que se debe realizar un nuevo pedido?",
                     "opciones": [
                         "Stock de alerta.",
@@ -2107,17 +1661,17 @@
             ]
         },
         {
-            "evaluacion": 6,
+            "evaluacion": 5,
             "temario": "Dispensación a pacientes ingresados",
             "preguntas": [
                 {
-                    "id": 191,
+                    "id": 151,
                     "pregunta": "¿Cómo se llama el sistema SAD más importante de la farmacia hospitalaria que se dispone de diferentes tipos de cajones?",
                     "opciones": ["Cubies.", "Nevera.", "Matrix.", "Pyxis."],
                     "respuestaCorrecta": "Pyxis."
                 },
                 {
-                    "id": 192,
+                    "id": 152,
                     "pregunta": "Señala la respuesta INCORRECTA respecto a los cajones Pyxis:",
                     "opciones": [
                         "Cubies son cajones de pequeño tamaño con tapa donde se incluyen medicamentos pequeños y de los que tengamos pocas unidades.",
@@ -2128,7 +1682,7 @@
                     "respuestaCorrecta": "Matrix son cajones grandes con subdivisiones dónde incluiremos medicamentos de gran volumen como antisépticos y sueros."
                 },
                 {
-                    "id": 193,
+                    "id": 153,
                     "pregunta": "En la dispensación por stock en planta, los pasos de la descripción del circuito son:",
                     "opciones": [
                         "Archivar documentación y realizar el pedido.",
@@ -2139,7 +1693,7 @@
                     "respuestaCorrecta": "Realización del pedido, recepción en el servicio de farmacia, preparación del pedido y archivar documentación."
                 },
                 {
-                    "id": 194,
+                    "id": 154,
                     "pregunta": "NO es una ventaja del SDMDU:",
                     "opciones": [
                         "Papel pasivo del farmacéutico en el equipo asistencial.",
@@ -2150,7 +1704,7 @@
                     "respuestaCorrecta": "Papel pasivo del farmacéutico en el equipo asistencial."
                 },
                 {
-                    "id": 195,
+                    "id": 155,
                     "pregunta": "¿Qué tipo de prescripción es “se deben administrar sólo una vez, generalmente a una hora determinada en la orden médica”?",
                     "opciones": [
                         "Ahora.",
@@ -2161,7 +1715,7 @@
                     "respuestaCorrecta": "De una sola administración o dosis única."
                 },
                 {
-                    "id": 196,
+                    "id": 156,
                     "pregunta": "La distribución de medicamentos en dosis unitarias consiste en:",
                     "opciones": [
                         "Siempre requiere el uso de aparatos como el Kardex que facilita la distribución en dosis unitaria.",
@@ -2172,13 +1726,13 @@
                     "respuestaCorrecta": "Distribuir los medicamentos en dosis unitarias según la prescripción de cada paciente con la validación previa del farmacéutico."
                 },
                 {
-                    "id": 197,
+                    "id": 157,
                     "pregunta": "¿Cómo se llama el aparato que permite incrementar la automatización en la preparación para la distribución en dosis unitaria, agilizando dicha labor?",
                     "opciones": ["Cubies.", "Minis.", "Kardex.", "Matrix."],
                     "respuestaCorrecta": "Kardex."
                 },
                 {
-                    "id": 198,
+                    "id": 158,
                     "pregunta": "¿En el SAD Pyxis dónde se ubican los medicamentos Estupefacientes?",
                     "opciones": [
                         "Matrix.",
@@ -2189,7 +1743,7 @@
                     "respuestaCorrecta": "Mini."
                 },
                 {
-                    "id": 199,
+                    "id": 159,
                     "pregunta": "En un sistema automatizado de dispensación de medicamentos (SAD) ¿dónde guardamos los estupefacientes?",
                     "opciones": [
                         "Mini.",
@@ -2200,7 +1754,7 @@
                     "respuestaCorrecta": "Mini."
                 },
                 {
-                    "id": 200,
+                    "id": 160,
                     "pregunta": "¿Qué nombre recibe el registro de información relativa a la terapia medicamentosa del paciente?",
                     "opciones": [
                         "Validación farmacoterapéutica.",
@@ -2211,7 +1765,7 @@
                     "respuestaCorrecta": "Perfil farmacoterapéutico."
                 },
                 {
-                    "id": 201,
+                    "id": 161,
                     "pregunta": "¿Dónde se almacenan los medicamentos que ocupan MUCHO volumen?",
                     "opciones": [
                         "Mini.",
@@ -2222,7 +1776,7 @@
                     "respuestaCorrecta": "Columna con puertas."
                 },
                 {
-                    "id": 202,
+                    "id": 162,
                     "pregunta": "¿Cómo se llama el proceso PREVIO a la dispensación en el que el farmacéutico comprueba que la prescripción se ajusta a los conocimientos, procedimientos, normas, etc., para que NO exista ningún problema relacionado con la medicación del paciente?",
                     "opciones": [
                         "Consideraciones especiales.",
@@ -2233,7 +1787,7 @@
                     "respuestaCorrecta": "Validación de la prescripción médica."
                 },
                 {
-                    "id": 203,
+                    "id": 163,
                     "pregunta": "¿Cuál de la siguiente información NO se recoge generalmente en una etiqueta de una Fórmula magistral y Preparado Oficinal?",
                     "opciones": [
                         "Nombre del paciente, en el caso de las fórmulas magistrales, y nombre y número de colegiado del médico prescriptor.",
@@ -2244,7 +1798,7 @@
                     "respuestaCorrecta": "Número de registro en el Libro de Estupefacientes."
                 },
                 {
-                    "id": 204,
+                    "id": 164,
                     "pregunta": "¿Cómo se llama el sistema de dispensación que puede funcionar a demanda o por reposición de botiquines previamente pactados entre el Servicio de Farmacia y las Unidades de Hospitalización?",
                     "opciones": [
                         "SAD.",
@@ -2255,7 +1809,7 @@
                     "respuestaCorrecta": "Dispensación por stock."
                 },
                 {
-                    "id": 205,
+                    "id": 165,
                     "pregunta": "De las siguientes opciones, ¿cuál de ellas NO se encuentran en el perfil farmacoterapéutico del paciente?",
                     "opciones": [
                         "Alergias a medicamentos.",
@@ -2266,7 +1820,7 @@
                     "respuestaCorrecta": "Dirección del paciente."
                 },
                 {
-                    "id": 206,
+                    "id": 166,
                     "pregunta": "La prescripción médica “de continuación”:",
                     "opciones": [
                         "Se administra solo una vez, generalmente a una hora determinada en la orden.",
@@ -2277,7 +1831,7 @@
                     "respuestaCorrecta": "Se administra para un número de días determinado o de forma rutinaria sin tiempo límite."
                 },
                 {
-                    "id": 207,
+                    "id": 167,
                     "pregunta": "¿En qué tipo de cajones de un Pyxis se encuentran los estupefacientes?",
                     "opciones": [
                         "Columnas con puertas.",
@@ -2288,7 +1842,7 @@
                     "respuestaCorrecta": "Mini."
                 },
                 {
-                    "id": 208,
+                    "id": 168,
                     "pregunta": "¿Dónde se almacenen los sueros y antisépticos en los SAD?",
                     "opciones": [
                         "En las columnas con puertas.",
@@ -2299,7 +1853,7 @@
                     "respuestaCorrecta": "Fuera de los SAD, en el stock de botiquín debido a su volumen."
                 },
                 {
-                    "id": 209,
+                    "id": 169,
                     "pregunta": "NO es una ventaja del SAD:",
                     "opciones": [
                         "Disponibilidad de medicamentos en la Unidad las 24 horas al día.",
@@ -2310,7 +1864,7 @@
                     "respuestaCorrecta": "Incrementa el tiempo necesario para la distribución de medicamentos en las Unidades de hospitalización."
                 },
                 {
-                    "id": 210,
+                    "id": 170,
                     "pregunta": "Las ampollas, viales y/o sobres, ¿en qué cajón se encuentran en el Pyxis?",
                     "opciones": [
                         "Cubies.",
@@ -2321,7 +1875,7 @@
                     "respuestaCorrecta": "Matrix."
                 },
                 {
-                    "id": 211,
+                    "id": 171,
                     "pregunta": "¿Qué son los botiquines?",
                     "opciones": [
                         "Cassettes o maletas que contienen un número variable de cajetines en los que se pone la medicación de cada paciente para 24 h.",
@@ -2332,7 +1886,7 @@
                     "respuestaCorrecta": "Depósitos de medicamentos que se encuentran en las Unidades clínicas."
                 },
                 {
-                    "id": 212,
+                    "id": 172,
                     "pregunta": "En el sistema de dispensación de medicamentos por dosis unitaria, ¿Cuál de los siguientes datos NO es obligatorio que aparezca en las dosis unitarias?",
                     "opciones": [
                         "Número de lote y fecha de caducidad.",
@@ -2343,7 +1897,7 @@
                     "respuestaCorrecta": "Nombre y apellidos del médico prescriptor."
                 },
                 {
-                    "id": 213,
+                    "id": 173,
                     "pregunta": "El sistema de dispensación que consiste en la distribución de medicamentos teniendo en cuenta la prescripción de cada paciente, habitualmente 24 horas, y con los medicamentos envasados en dosis unitarias:",
                     "opciones": [
                         "SADME.",
@@ -2354,7 +1908,7 @@
                     "respuestaCorrecta": "SDMDU."
                 },
                 {
-                    "id": 214,
+                    "id": 174,
                     "pregunta": "¿A qué circuito de dispensación pertenece los siguientes pasos: realización de pedido, recepción en el servicio de farmacia, preparación del pedido y archivar documentación?",
                     "opciones": [
                         "Dispensación por stock en planta.",
@@ -2365,7 +1919,7 @@
                     "respuestaCorrecta": "Dispensación por stock en planta."
                 },
                 {
-                    "id": 215,
+                    "id": 175,
                     "pregunta": "Si en el SAD se incluyen medicamentos termolábiles …:",
                     "opciones": [
                         "Uno de los armarios debe estar refrigerado.",
@@ -2376,7 +1930,7 @@
                     "respuestaCorrecta": "Uno de los armarios debe estar refrigerado."
                 },
                 {
-                    "id": 216,
+                    "id": 176,
                     "pregunta": "En un Hospital se puede realizar la dispensación de:",
                     "opciones": [
                         "Medicamentos extranjeros, medicamentos fuera de indicación y medicamentos de uso restringido.",
@@ -2387,7 +1941,7 @@
                     "respuestaCorrecta": "Todas las respuestas anteriores son correctas."
                 },
                 {
-                    "id": 217,
+                    "id": 177,
                     "pregunta": "Un SAD consta de los siguientes elementos:",
                     "opciones": [
                         "Sistema de cajones de giro vertical con señales luminosas.",
@@ -2398,7 +1952,7 @@
                     "respuestaCorrecta": "Armario con cajetines que contienen la medicación, consola central e interconexión con la red informática del hospital."
                 },
                 {
-                    "id": 218,
+                    "id": 178,
                     "pregunta": "Se define como “la solicitud escrita en un impreso o formato electrónico, diseñado para ese fin, de los medicamentos y otra serie de cuidados que el médico prescribe para un paciente concreto”:",
                     "opciones": [
                         "Prescripción médica.",
@@ -2409,7 +1963,7 @@
                     "respuestaCorrecta": "Prescripción médica."
                 },
                 {
-                    "id": 219,
+                    "id": 179,
                     "pregunta": "El sistema de dispensación de dosis unitaria se basa en los siguientes principios:",
                     "opciones": [
                         "Todas las respuestas anteriores son correctas.",
@@ -2420,7 +1974,7 @@
                     "respuestaCorrecta": "Los medicamentos deben ir envasados en dosis unitarias y perfectamente identificados. La identificación incluye: p.a., nombre comercial, dosis, número de lote y fecha de caducidad."
                 },
                 {
-                    "id": 220,
+                    "id": 180,
                     "pregunta": "Es el sistema de dispensación MÁS idóneo ya que permite la validación previa a la dispensación, por parte del farmacéutico responsable:",
                     "opciones": [
                         "SDMDU.",
@@ -2431,7 +1985,7 @@
                     "respuestaCorrecta": "SDMDU."
                 },
                 {
-                    "id": 221,
+                    "id": 181,
                     "pregunta": "Si un Hospital utiliza los SAD, ¿todas las Unidades del Hospital dispondrán del mismo número de armarios?",
                     "opciones": [
                         "Sí, todos los SAD tendrán el mismo tamaño y número de cajones para optimizar los recursos del Hospital.",
@@ -2442,7 +1996,7 @@
                     "respuestaCorrecta": "No, el número de armarios viene determinado por el tipo de Unidad (médica, pediátrica …) y el número de pacientes atendidos."
                 },
                 {
-                    "id": 222,
+                    "id": 182,
                     "pregunta": "Un SAD es un sistema que dispone de varios cajones, ¿qué se coloca en los “mini”?",
                     "opciones": [
                         "Medicamentos ECM.",
@@ -2453,7 +2007,7 @@
                     "respuestaCorrecta": "Medicamentos estupefacientes."
                 },
                 {
-                    "id": 223,
+                    "id": 183,
                     "pregunta": "Indique la opción INCORRECTA referente al Perfil farmacoterapéutico del Paciente:",
                     "opciones": [
                         "Contiene la Historia medicamentosa del paciente.",
@@ -2464,7 +2018,7 @@
                     "respuestaCorrecta": "No se requiere acceder a ella para sustituir, modificar o suspender un medicamento."
                 },
                 {
-                    "id": 224,
+                    "id": 184,
                     "pregunta": "Para realizar la dispensación de medicamento que lleva un “círculo negro en su envase exterior”, el Servicio de Farmacia precisa:",
                     "opciones": [
                         "Autorización por parte de la AEMPS para realizar la dispensación.",
@@ -2475,7 +2029,7 @@
                     "respuestaCorrecta": "El vale de estupefaciente y el Libro de contabilidad de Estupefacientes."
                 },
                 {
-                    "id": 225,
+                    "id": 185,
                     "pregunta": "El Servicio de Farmacia debe tener la AUTORIZACIÓN por parte de la AEMPS, por paciente, para realizar la dispensación de …:",
                     "opciones": [
                         "Medicamentos estupefacientes.",
@@ -2486,7 +2040,7 @@
                     "respuestaCorrecta": "Medicamentos extranjeros."
                 },
                 {
-                    "id": 226,
+                    "id": 186,
                     "pregunta": "En el circuito del SDMDU, ¿cuál es el paso a seguir tras la recepción de las órdenes médicas en el Servicio de Farmacia?",
                     "opciones": [
                         "Llenado de las maletas y revisión del llenado de carros.",
@@ -2497,7 +2051,7 @@
                     "respuestaCorrecta": "Validación diaria del tratamiento por el farmacéutico responsable."
                 },
                 {
-                    "id": 227,
+                    "id": 187,
                     "pregunta": "A qué tipo de cajón corresponde la siguiente descripción: 'cajones grandes con subdivisiones para medicamentos como ampollas, viales o sobres’:",
                     "opciones": [
                         "Matrix.",
@@ -2508,7 +2062,7 @@
                     "respuestaCorrecta": "Matrix."
                 },
                 {
-                    "id": 228,
+                    "id": 188,
                     "pregunta": "La prescripción médica de “Ahora”, significa:",
                     "opciones": [
                         "Para un número de días o sin tiempo límite.",
@@ -2519,7 +2073,7 @@
                     "respuestaCorrecta": "Inmediatamente, solo una vez."
                 },
                 {
-                    "id": 229,
+                    "id": 189,
                     "pregunta": "¿Qué tipos de SAD pueden existir en un Hospital?",
                     "opciones": [
                         "La enfermera no puede acceder a ningún medicamento sin la autorización del médico.",
@@ -2530,7 +2084,7 @@
                     "respuestaCorrecta": "Con intervención previa y sin intervención del farmacéutico."
                 },
                 {
-                    "id": 230,
+                    "id": 190,
                     "pregunta": "En el Pyxis, los sueros y los antisépticos de gran volumen se almacenan en:",
                     "opciones": [
                         "Fuera del SAD, en el stock de botiquín.",
@@ -2543,11 +2097,11 @@
             ]
         },
         {
-            "evaluacion": 7,
+            "evaluacion": 6,
             "temario": "Agentes citotóxicos",
             "preguntas": [
                 {
-                    "id": 231,
+                    "id": 191,
                     "pregunta": "¿Cómo se diseminan las células tumorales para colonizar tejidos a distancia y formar focos secundarios de crecimiento?",
                     "opciones": [
                         "A través de los líquidos corporales, como la sangre y linfa.",
@@ -2558,7 +2112,7 @@
                     "respuestaCorrecta": "A través de los líquidos corporales, como la sangre y linfa."
                 },
                 {
-                    "id": 232,
+                    "id": 192,
                     "pregunta": "¿Cómo se llama el tratamiento que se administra para el cáncer DESPUÉS del tratamiento primario para eliminar los restos de células tumorales y disminuir el riesgo de recaída?",
                     "opciones": [
                         "Tratamiento adyuvante.",
@@ -2569,7 +2123,7 @@
                     "respuestaCorrecta": "Tratamiento adyuvante."
                 },
                 {
-                    "id": 233,
+                    "id": 193,
                     "pregunta": "NO se emplea como tratamiento de soporte para paliar los síntomas y complicaciones del cáncer:",
                     "opciones": [
                         "Antibióticos muy potentes y con mayor espectro de acción.",
@@ -2580,7 +2134,7 @@
                     "respuestaCorrecta": "Factores que inhiben la producción de colonias hematopoyéticas."
                 },
                 {
-                    "id": 234,
+                    "id": 194,
                     "pregunta": "¿Quién queda EXCLUIDO DE FORMA PERMANENTE de la preparación de citostáticos?",
                     "opciones": [
                         "Embarazadas y madres lactantes.",
@@ -2591,7 +2145,7 @@
                     "respuestaCorrecta": "Alérgicos a los agentes citostáticos e inmunodeprimidos."
                 },
                 {
-                    "id": 235,
+                    "id": 195,
                     "pregunta": "¿Cuáles son las células MÁS afectadas por el efecto citotóxico de la quimioterapia?",
                     "opciones": [
                         "Las células que se multiplican a gran velocidad.",
@@ -2602,7 +2156,7 @@
                     "respuestaCorrecta": "Las células que se multiplican a gran velocidad."
                 },
                 {
-                    "id": 236,
+                    "id": 196,
                     "pregunta": "¿Dónde debe situarse la Cabina de Seguridad Biológica (CSB) para la elaboración de mezclas individualizadas con fármacos peligrosos, como los citostáticos?",
                     "opciones": [
                         "En la zona de paso.",
@@ -2613,7 +2167,7 @@
                     "respuestaCorrecta": "En la sala de elaboración."
                 },
                 {
-                    "id": 237,
+                    "id": 197,
                     "pregunta": "Tras un derrame accidental causado por la rotura de un vial o una bolsa que contiene citotóxicos, ¿cuál es la actuación CORRECTA a seguir?",
                     "opciones": [
                         "Utilizar el kit de derrame.",
@@ -2624,7 +2178,7 @@
                     "respuestaCorrecta": "Utilizar el kit de derrame."
                 },
                 {
-                    "id": 238,
+                    "id": 198,
                     "pregunta": "En caso de que el derrame de un citotóxico afecte al filtro HEPA de la Cabina de Seguridad Biológica (CSB), ¿cuál es la actuación CORRECTA a seguir?",
                     "opciones": [
                         "Lavar 3 veces con solución de detergente alcalino y, por último, con agua destilada para eliminar el contaminante.",
@@ -2635,7 +2189,7 @@
                     "respuestaCorrecta": "Se deberá interrumpir el trabajo en la CSB hasta que se cambie el filtro."
                 },
                 {
-                    "id": 239,
+                    "id": 199,
                     "pregunta": "NO es una característica de los contenedores de residuos citotóxicos:",
                     "opciones": [
                         "Rigidez, estanqueidad total y opacidad.",
@@ -2646,7 +2200,7 @@
                     "respuestaCorrecta": "Permeabilidad al oxígeno y a la humedad ambiental."
                 },
                 {
-                    "id": 240,
+                    "id": 200,
                     "pregunta": "¿Cuál de las siguientes zonas tiene una PRESIÓN POSITIVA MAYOR para controlar el flujo de aire entre las zonas diferenciadas y evitar la contaminación cruzada?",
                     "opciones": [
                         "Zona de paso.",
@@ -2657,7 +2211,7 @@
                     "respuestaCorrecta": "Zona de paso."
                 },
                 {
-                    "id": 241,
+                    "id": 201,
                     "pregunta": "La toxicidad producida por los citostáticos se puede clasificar en:",
                     "opciones": [
                         "Toxicidad hematológica y no hematológica.",
@@ -2668,7 +2222,7 @@
                     "respuestaCorrecta": "Toxicidad hematológica y no hematológica."
                 },
                 {
-                    "id": 242,
+                    "id": 202,
                     "pregunta": "Señala el método adecuado para ELIMINAR los residuos citotóxicos:",
                     "opciones": [
                         "Eliminación como residuos no peligrosos.",
@@ -2679,7 +2233,7 @@
                     "respuestaCorrecta": "Por incineración y neutralización."
                 },
                 {
-                    "id": 243,
+                    "id": 203,
                     "pregunta": "¿Cuál es la principal característica de un tumor MALIGNO?",
                     "opciones": [
                         "Es una masa localizada y definida que generalmente se puede extirpar quirúrgicamente.",
@@ -2690,7 +2244,7 @@
                     "respuestaCorrecta": "Crece muy rápidamente y afecta a tejidos y órganos adyacentes."
                 },
                 {
-                    "id": 244,
+                    "id": 204,
                     "pregunta": "Si un paciente oncológico recibe un tratamiento con sustancias para controlar los síntomas y complicaciones relacionados con el cáncer, como antieméticos. ¿Cómo se denomina este tipo de tratamiento?",
                     "opciones": [
                         "Tratamiento de soporte.",
@@ -2701,7 +2255,7 @@
                     "respuestaCorrecta": "Tratamiento de soporte."
                 },
                 {
-                    "id": 245,
+                    "id": 205,
                     "pregunta": "¿Qué se considera residuo citotóxico?",
                     "opciones": [
                         "Restos de medicamentos citotóxicos generados en la preparación y administración.",
@@ -2712,7 +2266,7 @@
                     "respuestaCorrecta": "Todas las respuestas anteriores son correctas."
                 },
                 {
-                    "id": 246,
+                    "id": 206,
                     "pregunta": "Cuando se almacenan citostáticos que presentan gran semejanza en su denominación, envase o etiquetado, ¿qué medidas especiales se deben tomar para evitar confusiones accidentales?",
                     "opciones": [
                         "No es necesario tomar ninguna medida especial, ya que el personal está adecuadamente entrenado.",
@@ -2723,7 +2277,7 @@
                     "respuestaCorrecta": "Añadir alguna señal de alerta en la hoja de trabajo (como texto resaltado o símbolos) para evitar errores."
                 },
                 {
-                    "id": 247,
+                    "id": 207,
                     "pregunta": "Los efectos secundarios de la quimioterapia NO dependen de:",
                     "opciones": [
                         "El tipo de hospital dónde se recibe el tratamiento.",
@@ -2734,7 +2288,7 @@
                     "respuestaCorrecta": "El tipo de hospital dónde se recibe el tratamiento."
                 },
                 {
-                    "id": 248,
+                    "id": 208,
                     "pregunta": "¿A quién debe realizarse la vigilancia médica frente a la exposición a citostáticos?",
                     "opciones": [
                         "A todo el personal que trabaja en el hospital.",
@@ -2745,7 +2299,7 @@
                     "respuestaCorrecta": "Únicamente al personal manipulador de citotóxicos o que está expuesto a ellos en su trabajo."
                 },
                 {
-                    "id": 249,
+                    "id": 209,
                     "pregunta": "¿Por qué el personal sanitario debe tomar precauciones especiales al administrar citostáticos a los pacientes?",
                     "opciones": [
                         "Porque pueden causar efectos secundarios graves en el paciente.",
@@ -2756,7 +2310,7 @@
                     "respuestaCorrecta": "Porque son fármacos altamente tóxicos que pueden producir daños al personal manipulador, como mutaciones genéticas, cáncer o malformaciones congénitas."
                 },
                 {
-                    "id": 250,
+                    "id": 210,
                     "pregunta": "¿Cómo se llaman los fármacos que inducen alteraciones fetales?",
                     "opciones": [
                         "Genotóxico.",
@@ -2767,7 +2321,7 @@
                     "respuestaCorrecta": "Teratogénico."
                 },
                 {
-                    "id": 251,
+                    "id": 211,
                     "pregunta": "¿Cómo se llaman las sustancias que se utilizan específicamente para destruir las células tumorales, aunque también pueden afectar a otras células sanas del organismo?",
                     "opciones": [
                         "Genotóxicos.",
@@ -2778,7 +2332,7 @@
                     "respuestaCorrecta": "Citotóxicos."
                 },
                 {
-                    "id": 252,
+                    "id": 212,
                     "pregunta": "Tras una exposición accidental con inoculación de un fármaco citotóxico, ¿cuál es la actuación CORRECTA a seguir?",
                     "opciones": [
                         "No retirar la aguja e intentar aspirar el medicamento inyectado.",
@@ -2789,7 +2343,7 @@
                     "respuestaCorrecta": "No retirar la aguja e intentar aspirar el medicamento inyectado."
                 },
                 {
-                    "id": 253,
+                    "id": 213,
                     "pregunta": "¿Cómo se desinfecta todo el material necesario para la elaboración de citostáticos antes de introducirlo en la Cabina de Seguridad Biológica (CSB)?",
                     "opciones": [
                         "Se desinfectará en un autoclave.",
@@ -2800,7 +2354,7 @@
                     "respuestaCorrecta": "Se limpiará con alcohol de 70º."
                 },
                 {
-                    "id": 254,
+                    "id": 214,
                     "pregunta": "¿Cuál de las siguientes recomendaciones es CORRECTA a la hora de recepcionar los citostáticos en el SFH?",
                     "opciones": [
                         "La recepción debe hacerse con la menor demora posible.",
@@ -2811,7 +2365,7 @@
                     "respuestaCorrecta": "La recepción debe hacerse con la menor demora posible."
                 },
                 {
-                    "id": 255,
+                    "id": 215,
                     "pregunta": "El tratamiento de soporte para la toxicidad cutánea producida por el cáncer busca paliar efectos secundarios como:",
                     "opciones": [
                         "La alopecia y el síndrome mano-pie.",
@@ -2822,7 +2376,7 @@
                     "respuestaCorrecta": "La alopecia y el síndrome mano-pie."
                 },
                 {
-                    "id": 256,
+                    "id": 216,
                     "pregunta": "¿Dónde debe realizarse generalmente el almacenamiento de citostáticos en el SFH?",
                     "opciones": [
                         "En el área de recepción para evitar posibles caídas y roturas de envases.",
@@ -2833,7 +2387,7 @@
                     "respuestaCorrecta": "En una zona independiente del resto de fármacos, preferiblemente cercana a la zona de elaboración de mezclas."
                 },
                 {
-                    "id": 257,
+                    "id": 217,
                     "pregunta": "¿Cuál es la principal razón para monitorizar el uso de los citostáticos tanto en el paciente como en el manipulador?",
                     "opciones": [
                         "Amplio margen terapéutico.",
@@ -2844,7 +2398,7 @@
                     "respuestaCorrecta": "Estrecho margen terapéutico."
                 },
                 {
-                    "id": 258,
+                    "id": 218,
                     "pregunta": "¿Cómo se llama la zona diferenciada dónde el personal debe colocarse el equipo de protección individual (EPI) antes de entrar en la zona de preparación de citostáticos?",
                     "opciones": [
                         "Zona de paso.",
@@ -2855,7 +2409,7 @@
                     "respuestaCorrecta": "Zona de paso."
                 },
                 {
-                    "id": 259,
+                    "id": 219,
                     "pregunta": "La progresión de una lesión precancerosa a un tumor maligno puede ser resultado de varios factores. ¿Cuál de las siguientes opciones es CORRECTA?",
                     "opciones": [
                         "Físicos, como la luz UV y radiaciones ionizantes.",
@@ -2866,7 +2420,7 @@
                     "respuestaCorrecta": "Todas las respuestas anteriores son correctas."
                 },
                 {
-                    "id": 260,
+                    "id": 220,
                     "pregunta": "Dentro de las zonas del área de citostáticos, ¿en cuál se da entrada a materiales y personas, siendo su función de barrera frente a la contaminación?",
                     "opciones": [
                         "Antesala.",
@@ -2877,7 +2431,7 @@
                     "respuestaCorrecta": "Zona de paso."
                 },
                 {
-                    "id": 261,
+                    "id": 221,
                     "pregunta": "Dentro de las zonas del área de citostáticos, ¿en cuál se almacena, prepara y acondiciona el material y las mezclas elaboradas?",
                     "opciones": [
                         "Sala de elaboración.",
@@ -2888,7 +2442,7 @@
                     "respuestaCorrecta": "Antesala."
                 },
                 {
-                    "id": 262,
+                    "id": 222,
                     "pregunta": "¿Cuál de las siguientes opciones NO es ADECUADA para garantizar la SEGURIDAD del manipulador al trabajar con citotóxicos?",
                     "opciones": [
                         "Adecuada formación y entrenamiento del personal manipulador.",
@@ -2899,7 +2453,7 @@
                     "respuestaCorrecta": "Cabina de flujo laminar horizontal."
                 },
                 {
-                    "id": 263,
+                    "id": 223,
                     "pregunta": "¿Qué término se utiliza para describir el contacto accidental de PEQUEÑOS volúmenes de citotóxico con alguna parte del cuerpo o de los EPIs durante su manipulación?",
                     "opciones": [
                         "Ambos términos son utilizados, tanto exposición como derrame.",
@@ -2910,7 +2464,7 @@
                     "respuestaCorrecta": "Exposición accidental."
                 },
                 {
-                    "id": 264,
+                    "id": 224,
                     "pregunta": "Los citotóxicos son sustancias químicas que afectan al crecimiento y proliferación de:",
                     "opciones": [
                         "Solo de las células infectadas por virus.",
@@ -2921,7 +2475,7 @@
                     "respuestaCorrecta": "Tanto de las células tumorales como de las células sanas."
                 },
                 {
-                    "id": 265,
+                    "id": 225,
                     "pregunta": "Señala la opción INCORRECTA respecto a cómo debe ser el envase que contenga citostáticos:",
                     "opciones": [
                         "Debe estar fabricado con material compatible con todos los citostáticos.",
@@ -2932,7 +2486,7 @@
                     "respuestaCorrecta": "Debe ser un envase estándar opaco, pero no es necesario etiquetarlo."
                 },
                 {
-                    "id": 266,
+                    "id": 226,
                     "pregunta": "Señala la opción INCORRECTA respecto al mecanismo de acción de los citostáticos:",
                     "opciones": [
                         "Inhiben la síntesis proteica.",
@@ -2943,7 +2497,7 @@
                     "respuestaCorrecta": "Bloquean la acción de los neurotransmisores."
                 },
                 {
-                    "id": 267,
+                    "id": 227,
                     "pregunta": "¿Cuáles son las zonas diferenciadas dentro de las instalaciones dónde se elaboran los citostáticos?",
                     "opciones": [
                         "Sala de espera, zona de paso y zona de manipulación.",
@@ -2954,7 +2508,7 @@
                     "respuestaCorrecta": "Antesala, zona de paso y zona de elaboración."
                 },
                 {
-                    "id": 268,
+                    "id": 228,
                     "pregunta": "¿Cómo se llama el proceso por el cual el cáncer se disemina hacia otras partes del cuerpo, causando nuevos tumores?",
                     "opciones": [
                         "Neoplasma.",
@@ -2965,7 +2519,7 @@
                     "respuestaCorrecta": "Metástasis."
                 },
                 {
-                    "id": 269,
+                    "id": 229,
                     "pregunta": "¿Cuáles son las células que se multiplican con MAYOR tasa de división celular?",
                     "opciones": [
                         "Todas las células del cuerpo tienen la misma tasa de división celular.",
@@ -2976,7 +2530,7 @@
                     "respuestaCorrecta": "Las células del folículo piloso, de la médula ósea y del tracto gastrointestinal."
                 },
                 {
-                    "id": 270,
+                    "id": 230,
                     "pregunta": "Al recibir los citostáticos en el área de recepción del SFH se debe disponer obligatoriamente de un:",
                     "opciones": [
                         "Kit de primeros auxilios.",
@@ -2993,7 +2547,7 @@
             "temario": "Patologías y tratamientos en pacientes externos",
             "preguntas": [
                 {
-                    "id": 271,
+                    "id": 231,
                     "pregunta": "¿La dispensación de cuál de los siguientes medicamentos NO está restringida al ámbito hospitalario?",
                     "opciones": [
                         "Infliximab.",
@@ -3004,7 +2558,7 @@
                     "respuestaCorrecta": "Paracetamol."
                 },
                 {
-                    "id": 272,
+                    "id": 232,
                     "pregunta": "Los fármacos anti-TNF o anti-IL-1 se utilizan para bloquear las citocinas en el tratamiento de las artropatías, ¿qué fármaco se administra junto con estos para mejorar el tratamiento?",
                     "opciones": [
                         "Fármacos inmunoestimulantes.",
@@ -3015,7 +2569,7 @@
                     "respuestaCorrecta": "Metotrexato."
                 },
                 {
-                    "id": 273,
+                    "id": 233,
                     "pregunta": "¿Cuál de los siguientes fármacos antirretrovirales es un inhibidor de la enzima integrasa?",
                     "opciones": [
                         "Ribavirina.",
@@ -3026,7 +2580,7 @@
                     "respuestaCorrecta": "Raltegravir."
                 },
                 {
-                    "id": 274,
+                    "id": 234,
                     "pregunta": "¿Cuál es el tratamiento antirretroviral que se utiliza para bloquear la entrada del virus dentro del linfocito CD4?",
                     "opciones": [
                         "Maraviroc.",
@@ -3037,7 +2591,7 @@
                     "respuestaCorrecta": "Maraviroc."
                 },
                 {
-                    "id": 275,
+                    "id": 235,
                     "pregunta": "¿Cómo se puede producir la transmisión de la Hepatitis B?",
                     "opciones": [
                         "Vía sexual.",
@@ -3048,7 +2602,7 @@
                     "respuestaCorrecta": "Todas las repuestas anteriores son correctas."
                 },
                 {
-                    "id": 276,
+                    "id": 236,
                     "pregunta": "El Natalizumab se utiliza para tratar:",
                     "opciones": [
                         "La esclerosis múltiple.",
@@ -3059,7 +2613,7 @@
                     "respuestaCorrecta": "La esclerosis múltiple."
                 },
                 {
-                    "id": 277,
+                    "id": 237,
                     "pregunta": "¿Cuál de estos fármacos biológicos se emplean para las artropatías?",
                     "opciones": [
                         "Filgrastim.",
@@ -3070,7 +2624,7 @@
                     "respuestaCorrecta": "Adalimumab."
                 },
                 {
-                    "id": 278,
+                    "id": 238,
                     "pregunta": "¿Qué nombre recibe uno de los “inhibidores de la enzima transcriptasa inversa”, necesaria para que el virus VIH haga nuevas copias de sí mismo?",
                     "opciones": [
                         "Ciclosporina.",
@@ -3081,7 +2635,7 @@
                     "respuestaCorrecta": "Tenofovir."
                 },
                 {
-                    "id": 279,
+                    "id": 239,
                     "pregunta": "¿Cuáles son los factores estimulantes de la eritropoyesis en tratamientos para la anemia?",
                     "opciones": [
                         "Quimioterapia.",
@@ -3092,7 +2646,7 @@
                     "respuestaCorrecta": "Eritropoyetina y Darbepoetina."
                 },
                 {
-                    "id": 280,
+                    "id": 240,
                     "pregunta": "Los criterios diagnósticos básicos de la Hepatitis B son:",
                     "opciones": [
                         "Carga viral >120.000, indicando que el virus está activo y tiene muchas posibilidades de dañar el hígado.",
@@ -3103,7 +2657,7 @@
                     "respuestaCorrecta": "Antígeno de superficie HBeAg y anti-HBe, Carga viral del VHB, elevación de transaminasas y descartar otras causas de enfermedad hepática."
                 },
                 {
-                    "id": 281,
+                    "id": 241,
                     "pregunta": "¿A qué llamamos carga indetectable del VIH?",
                     "opciones": [
                         "Cuando el paciente presenta menos de 50 copias.",
@@ -3114,7 +2668,7 @@
                     "respuestaCorrecta": "Cuando el paciente presenta menos de 50 copias."
                 },
                 {
-                    "id": 282,
+                    "id": 242,
                     "pregunta": "¿En qué consiste el “recuento de las células CD4”?",
                     "opciones": [
                         "Es la cantidad de VIH que hay en la sangre, que se mide en “copias”.",
@@ -3125,7 +2679,7 @@
                     "respuestaCorrecta": "Es el recuento de los linfocitos y es una prueba muy importante para determinar cuándo comenzar un tratamiento para el VIH."
                 },
                 {
-                    "id": 283,
+                    "id": 243,
                     "pregunta": "¿Cuál NO es un inhibidor de la proteasa utilizado como antirretroviral?",
                     "opciones": [
                         "Ritonavir.",
@@ -3136,7 +2690,7 @@
                     "respuestaCorrecta": "Tocilizumab."
                 },
                 {
-                    "id": 284,
+                    "id": 244,
                     "pregunta": "El Abacavir, Tenofovir y Lamivudina, son medicamentos para atacar el VIH:",
                     "opciones": [
                         "Inhibidores de la enzima proteasa.",
@@ -3147,7 +2701,7 @@
                     "respuestaCorrecta": "Inhibidores de la enzima transcriptasa inversa."
                 },
                 {
-                    "id": 285,
+                    "id": 245,
                     "pregunta": "¿Qué tipo de medicamento es el Tenofovir en el tratamiento del VIH?",
                     "opciones": [
                         "Antibiótico.",
@@ -3158,7 +2712,7 @@
                     "respuestaCorrecta": "Medicamento antirretroviral."
                 },
                 {
-                    "id": 286,
+                    "id": 246,
                     "pregunta": "Cuántos pasos hay en el ciclo vital del VIH:",
                     "opciones": [
                         "7 pasos.",
@@ -3169,7 +2723,7 @@
                     "respuestaCorrecta": "7 pasos."
                 },
                 {
-                    "id": 287,
+                    "id": 247,
                     "pregunta": "La Somatotropina es:",
                     "opciones": [
                         "Su déficit produce gigantismo.",
@@ -3180,7 +2734,7 @@
                     "respuestaCorrecta": "Es la hormona del crecimiento y la produce la glándula hipófisis."
                 },
                 {
-                    "id": 288,
+                    "id": 248,
                     "pregunta": "¿Qué medicamento antiviral es un “inhibidor de la enzima transcriptasa inversa”?",
                     "opciones": [
                         "Abacavir.",
@@ -3191,7 +2745,7 @@
                     "respuestaCorrecta": "Abacavir."
                 },
                 {
-                    "id": 289,
+                    "id": 249,
                     "pregunta": "La Hepatitis C se transmite a través de:",
                     "opciones": [
                         "Transmisión vía materna.",
@@ -3202,7 +2756,7 @@
                     "respuestaCorrecta": "Cuando se comparten jeringuillas, transfusiones de sangre y vía materna."
                 },
                 {
-                    "id": 290,
+                    "id": 250,
                     "pregunta": "¿Cómo se llama la ÚLTIMA fase del ciclo vital del VIH en la que se crea un virus nuevo capaz de infectar otras células?",
                     "opciones": [
                         "Integración.",
@@ -3213,7 +2767,7 @@
                     "respuestaCorrecta": "Ensamblaje viral."
                 },
                 {
-                    "id": 291,
+                    "id": 251,
                     "pregunta": "¿Cuál de las siguientes enfermedades NO tiene su origen DIRECTAMENTE debido a una infección viral?",
                     "opciones": [
                         "Esclerosis múltiple.",
@@ -3224,7 +2778,7 @@
                     "respuestaCorrecta": "Esclerosis múltiple."
                 },
                 {
-                    "id": 292,
+                    "id": 252,
                     "pregunta": "¿Cuál de los siguientes medicamentos NO es un antiviral oral para el tratamiento de la hepatitis B?",
                     "opciones": [
                         "Adefovir.",
@@ -3235,7 +2789,7 @@
                     "respuestaCorrecta": "Interferon pegilado."
                 },
                 {
-                    "id": 293,
+                    "id": 253,
                     "pregunta": "¿Cuáles son los fármacos que se utilizan como “antirretrovirales”?",
                     "opciones": [
                         "Raltegravir.",
@@ -3246,7 +2800,7 @@
                     "respuestaCorrecta": "Todas las respuestas anteriores son correctas."
                 },
                 {
-                    "id": 294,
+                    "id": 254,
                     "pregunta": "Los criterios usados para el diagnóstico del VHC son:",
                     "opciones": [
                         "Anticuerpos Anti-VHC, ARN del VHC, genotipo del VHC y biopsia hepática.",
@@ -3257,7 +2811,7 @@
                     "respuestaCorrecta": "Anticuerpos Anti-VHC, ARN del VHC, genotipo del VHC y biopsia hepática."
                 },
                 {
-                    "id": 295,
+                    "id": 255,
                     "pregunta": "¿Qué pruebas se pueden realizar para diagnosticar el virus de la Hepatitis B?",
                     "opciones": [
                         "Antígenos y carga viral del VHB.",
@@ -3268,7 +2822,7 @@
                     "respuestaCorrecta": "Antígeno de superficie y anticuerpo (HBeAg y anti-HBe), carga viral, transaminasas y biopsia hepática."
                 },
                 {
-                    "id": 296,
+                    "id": 256,
                     "pregunta": "¿Para qué enfermedad se utiliza el filgrastim?",
                     "opciones": [
                         "Neutropenia.",
@@ -3279,7 +2833,7 @@
                     "respuestaCorrecta": "Neutropenia."
                 },
                 {
-                    "id": 297,
+                    "id": 257,
                     "pregunta": "¿Cómo se llama la fase del ciclo vital del VIH en la que se hace una copia de ADN a partir del ARN viral?",
                     "opciones": [
                         "Transcripción.",
@@ -3290,7 +2844,7 @@
                     "respuestaCorrecta": "Transcripción inversa."
                 },
                 {
-                    "id": 298,
+                    "id": 258,
                     "pregunta": "Infliximab es utilizado en:",
                     "opciones": [
                         "Fármaco de origen vegetal empleado en psoriasis.",
@@ -3301,7 +2855,7 @@
                     "respuestaCorrecta": "Fármaco biológico empleado en artropatías."
                 },
                 {
-                    "id": 299,
+                    "id": 259,
                     "pregunta": "¿Cuál es la principal diferencia entre un paciente externo y un paciente ambulante?",
                     "opciones": [
                         "Los pacientes externos tienen VIH, VHB, EM y los pacientes ambulantes son sanos.",
@@ -3312,7 +2866,7 @@
                     "respuestaCorrecta": "El paciente externo va al SFH, recoge su medicamento y se va; mientras que el ambulante permanece en el centro para recibir su tratamiento."
                 },
                 {
-                    "id": 300,
+                    "id": 260,
                     "pregunta": "¿De los siguientes grupos de medicamentos cuales son los inhibidores de la enzima proteasa?",
                     "opciones": [
                         "Maraviroc, Indinavir.",
@@ -3323,7 +2877,7 @@
                     "respuestaCorrecta": "Ritonavir, Lopinavir."
                 },
                 {
-                    "id": 301,
+                    "id": 261,
                     "pregunta": "¿Cuál NO es un inhibidor de la enzima transcriptasa inversa?",
                     "opciones": [
                         "Tenofovir.",
@@ -3334,7 +2888,7 @@
                     "respuestaCorrecta": "Metotrexato."
                 },
                 {
-                    "id": 302,
+                    "id": 262,
                     "pregunta": "Respecto al VIH ¿Cuál de los siguientes fármacos es un inhibidor de la fusión e inhibidor de la entrada?",
                     "opciones": [
                         "Maraviroc.",
@@ -3345,7 +2899,7 @@
                     "respuestaCorrecta": "Maraviroc."
                 },
                 {
-                    "id": 303,
+                    "id": 263,
                     "pregunta": "En el recuento de carga viral de VIH, ¿cuándo se considera “indetectable”?",
                     "opciones": [
                         "Menos de 50 copias.",
@@ -3356,7 +2910,7 @@
                     "respuestaCorrecta": "Menos de 50 copias."
                 },
                 {
-                    "id": 304,
+                    "id": 264,
                     "pregunta": "¿Cuál de los siguientes medicamentos para el tratamiento del VIH es un inhibidor de la proteasa?",
                     "opciones": [
                         "Ribavirina.",
@@ -3367,7 +2921,7 @@
                     "respuestaCorrecta": "Indinavir."
                 },
                 {
-                    "id": 305,
+                    "id": 265,
                     "pregunta": "¿Cuál de las siguientes NO es una vía de transmisión del VIH?",
                     "opciones": [
                         "Por alimentos contaminados.",
@@ -3378,7 +2932,7 @@
                     "respuestaCorrecta": "Por alimentos contaminados."
                 },
                 {
-                    "id": 306,
+                    "id": 266,
                     "pregunta": "Si estamos tratando a un paciente con Inhibidores de la integrasa, como el Raltegravir, ¿en qué paso estamos del ciclo vital del VIH?",
                     "opciones": [
                         "Paso 3, Integración.",
@@ -3389,7 +2943,7 @@
                     "respuestaCorrecta": "Paso 3, Integración."
                 },
                 {
-                    "id": 307,
+                    "id": 267,
                     "pregunta": "¿Cuáles son las 3 principales formas de transmisión del VIH?",
                     "opciones": [
                         "Por transmisión sexual, parenteral y vertical.",
@@ -3400,7 +2954,7 @@
                     "respuestaCorrecta": "Por transmisión sexual, parenteral y vertical."
                 },
                 {
-                    "id": 308,
+                    "id": 268,
                     "pregunta": "¿Cuál de estas opciones NO es un fármaco para tratar el VIH?",
                     "opciones": [
                         "Infliximab.",
@@ -3411,7 +2965,7 @@
                     "respuestaCorrecta": "Infliximab."
                 },
                 {
-                    "id": 309,
+                    "id": 269,
                     "pregunta": "¿Cómo se llama el tratamiento con fármacos para el SIDA y el VIH?",
                     "opciones": [
                         "Terapia antirretroviral.",
@@ -3422,7 +2976,7 @@
                     "respuestaCorrecta": "Terapia antirretroviral."
                 },
                 {
-                    "id": 310,
+                    "id": 270,
                     "pregunta": "Indica el número de copias que tiene que tener el virus del VIH para que sea indetectable:",
                     "opciones": [
                         "Menos de 50.000 copias.",
@@ -3433,7 +2987,7 @@
                     "respuestaCorrecta": "Menos de 50 copias."
                 },
                 {
-                    "id": 311,
+                    "id": 271,
                     "pregunta": "En el caso del Tratamiento Antirretroviral, NO es cierto:",
                     "opciones": [
                         "Para lograr la máxima supresión del virus, se debe utilizar un único medicamento, ya que el virus muta rápidamente y se vuelve resistente.",
@@ -3444,7 +2998,7 @@
                     "respuestaCorrecta": "Para lograr la máxima supresión del virus, se debe utilizar un único medicamento, ya que el virus muta rápidamente y se vuelve resistente."
                 },
                 {
-                    "id": 312,
+                    "id": 272,
                     "pregunta": "Para el tratamiento de la neutropenia se utiliza:",
                     "opciones": [
                         "Filgrastrim.",
@@ -3455,7 +3009,7 @@
                     "respuestaCorrecta": "Filgrastrim."
                 },
                 {
-                    "id": 313,
+                    "id": 273,
                     "pregunta": "¿Cuál de las siguientes NO es una forma principal de transmisión del VIH?",
                     "opciones": [
                         "Parenteral por sangre.",
@@ -3466,7 +3020,7 @@
                     "respuestaCorrecta": "Transmisión genética."
                 },
                 {
-                    "id": 314,
+                    "id": 274,
                     "pregunta": "¿Qué es un paciente externo en el SFH?",
                     "opciones": [
                         "Es lo mismo que un paciente ambulante.",
@@ -3477,7 +3031,7 @@
                     "respuestaCorrecta": "Al que se le dispensa directamente el tratamiento en el SFH y no está ingresado en el Centro Hospitalario."
                 },
                 {
-                    "id": 315,
+                    "id": 275,
                     "pregunta": "¿Para qué patología se utiliza la hormona somatropina?",
                     "opciones": [
                         "Deficiencia de la hormona de crecimiento.",
@@ -3488,7 +3042,7 @@
                     "respuestaCorrecta": "Deficiencia de la hormona de crecimiento."
                 },
                 {
-                    "id": 316,
+                    "id": 276,
                     "pregunta": "Dentro de los fármacos biológicos empleados en la actualidad para las artropatías encontramos:",
                     "opciones": [
                         "Todas las respuestas anteriores son correctas.",
@@ -3499,7 +3053,7 @@
                     "respuestaCorrecta": "Todas las respuestas anteriores son correctas."
                 },
                 {
-                    "id": 317,
+                    "id": 277,
                     "pregunta": "¿Cuál es la fase del ciclo de VIH en la cual el ARNm transporta instrucciones para crear nuevas proteínas virales necesarias para formar nuevos virus?",
                     "opciones": [
                         "Trascripción inversa.",
@@ -3510,7 +3064,7 @@
                     "respuestaCorrecta": "Traducción."
                 },
                 {
-                    "id": 318,
+                    "id": 278,
                     "pregunta": "El recuento la carga viral del VIH se mide:",
                     "opciones": [
                         "Linfocitos.",
@@ -3521,7 +3075,7 @@
                     "respuestaCorrecta": "Copias."
                 },
                 {
-                    "id": 319,
+                    "id": 279,
                     "pregunta": "¿Cuál de ellos siguientes medicamentos es un “inhibidor de la proteasa”?",
                     "opciones": [
                         "Natalizumab.",
@@ -3532,7 +3086,7 @@
                     "respuestaCorrecta": "Ritonavir."
                 },
                 {
-                    "id": 320,
+                    "id": 280,
                     "pregunta": "¿Cuál de estos medicamentos se utiliza en el tratamiento del VIH como inhibidor de la integrasa?",
                     "opciones": [
                         "Filgrastim.",
@@ -3541,6 +3095,452 @@
                         "Infliximab."
                     ],
                     "respuestaCorrecta": "Raltegravir."
+                }
+            ]
+        },
+        {
+            "evaluacion": 8,
+            "temario": "Test Repaso Tema 1, 2 y 3",
+            "preguntas": [
+                {
+                    "id": 281,
+                    "pregunta": "NO es un motivo para “devolver” los medicamentos del SFH al laboratorio o almacén distribuidor:",
+                    "opciones": [
+                        "Por deterioro de unidades o por alcanzar la fecha de caducidad.",
+                        "Por suspensión temporal de la comercialización o anulación del registro.",
+                        "Por cambios en el envase o diseño del embalaje exterior (como el color, tipografía, etc.).",
+                        "Por retirada del mercado de un determinado lote."
+                    ],
+                    "respuestaCorrecta": "Por cambios en el envase o diseño del embalaje exterior (como el color, tipografía, etc.)."
+                },
+                {
+                    "id": 282,
+                    "pregunta": "Cuando llega un pedido al SFH, ¿cuál de los siguientes productos debe colocarse de forma prioritaria en primer lugar?",
+                    "opciones": [
+                        "Medicamentos fotolábiles.",
+                        "Medicamentos termolábiles.",
+                        "Medicamentos estupefacientes.",
+                        "Medicamentos psicótropos."
+                    ],
+                    "respuestaCorrecta": "Medicamentos termolábiles."
+                },
+                {
+                    "id": 283,
+                    "pregunta": "¿Cuál de los siguientes productos NO debe almacenarse en un “almacén especial” del SFH?",
+                    "opciones": [
+                        "Productos de gran volumen, somo sueroterapia y antisépticos.",
+                        "Productos inflamables y termolábiles.",
+                        "Estupefacientes y muestras de ensayos clínicos.",
+                        "Radiofármacos y gases medicinales."
+                    ],
+                    "respuestaCorrecta": "Productos de gran volumen, somo sueroterapia y antisépticos."
+                },
+                {
+                    "id": 284,
+                    "pregunta": "¿Cuál de los siguientes medicamentos SOLO se pueden administrar dentro de un Hospital debido a sus peculiaridades farmacológicas?",
+                    "opciones": [
+                        "Medicamentos H.",
+                        "Medicamentos DH.",
+                        "Medicamentos ECM.",
+                        "Medicamentos Estupefacientes."
+                    ],
+                    "respuestaCorrecta": "Medicamentos H."
+                },
+                {
+                    "id": 285,
+                    "pregunta": "Si un paciente sufre valores de tensión de PAD > a 90 mmHg y PAS > a 140 mmHg, ¿cuál de los siguientes medicamentos se pueden utilizar para el tratamiento de la hipertensión?",
+                    "opciones": [
+                        "Diuréticos.",
+                        "Antagonistas de calcio e inhibidores de la ECA.",
+                        "Betabloqueantes como propranolol y atenolol.",
+                        "Todas las respuestas anteriores son correctas."
+                    ],
+                    "respuestaCorrecta": "Todas las respuestas anteriores son correctas."
+                },
+                {
+                    "id": 286,
+                    "pregunta": "¿En qué consiste el intercambio terapéutico de fármacos en un Hospital?",
+                    "opciones": [
+                        "Sustituir un medicamento por otro con el mismo principio activo, pero de diferente grupo farmacológico, esperando el mismo o mejor efecto terapéutico.",
+                        "Sustituir un medicamento por otro con la misma composición, pero de diferente marca.",
+                        "Sustituir un medicamento por uno genérico de diferente grupo farmacológico.",
+                        "Sustituir un medicamento por otro de diferente composición, pero del mismo grupo farmacológico, esperando el mismo o mejor efecto terapéutico."
+                    ],
+                    "respuestaCorrecta": "Sustituir un medicamento por otro de diferente composición, pero del mismo grupo farmacológico, esperando el mismo o mejor efecto terapéutico."
+                },
+                {
+                    "id": 287,
+                    "pregunta": "¿Cuál de los siguientes medicamentos se adquiere por el SFH mediante un “trámite habitual”?",
+                    "opciones": [
+                        "Medicamentos Off-Label.",
+                        "Medicamentos estupefacientes.",
+                        "Medicamentos no incluidos en la GFT.",
+                        "Medicamentos de Uso compasivo."
+                    ],
+                    "respuestaCorrecta": "Medicamentos estupefacientes."
+                },
+                {
+                    "id": 288,
+                    "pregunta": "¿Cómo se llama el tipo de dispensación realizada a un paciente que acude al Hospital para recibir su tratamiento de quimioterapia y luego regresa a su casa?",
+                    "opciones": [
+                        "Dispensación sociosanitaria.",
+                        "Dispensación domiciliaria.",
+                        "Dispensación extrahospitalaria.",
+                        "Dispensación intrahospitalaria."
+                    ],
+                    "respuestaCorrecta": "Dispensación extrahospitalaria."
+                },
+                {
+                    "id": 289,
+                    "pregunta": "Señala la opción INCORRECTA respecto a cómo se realiza la selección de medicamentos por parte del SFH:",
+                    "opciones": [
+                        "Las especialidades farmacéuticas DH pueden ser dispensadas en OF, si bien para su financiación por el SNS, deben llevar las siglas A.S.S.S. y el visado de inspección.",
+                        "Las especialidades farmacéuticas H tienen un cupón precinto de A.S.S.S.",
+                        "La gestión y adquisición de los medicamentos es responsabilidad del Jefe de Servicio de farmacia hospitalaria.",
+                        "El Prosereme es una normativa publicada que regula la selección, adquisición, almacenamiento y distribución de medicamentos en el ámbito hospitalario."
+                    ],
+                    "respuestaCorrecta": "Las especialidades farmacéuticas H tienen un cupón precinto de A.S.S.S."
+                },
+                {
+                    "id": 290,
+                    "pregunta": "Medicamentos que NO requieren un “visado de inspección” para su dispensación en el SFH:",
+                    "opciones": [
+                        "Medicamentos que tienen un círculo negro en su embalaje exterior.",
+                        "Medicamentos DH.",
+                        "Medicamentos ECM.",
+                        "Medicamentos que tienen una portería con un triángulo negro en su cupón precinto."
+                    ],
+                    "respuestaCorrecta": "Medicamentos que tienen un círculo negro en su embalaje exterior."
+                },
+                {
+                    "id": 291,
+                    "pregunta": "¿Cómo se denomina el medicamento que se utiliza en el Hospital para indicaciones terapéuticas o grupos de población que NO aparecen en su ficha técnica?",
+                    "opciones": [
+                        "Medicamentos on-Label.",
+                        "Medicamentos de uso compasivo.",
+                        "Medicamentos off-Label.",
+                        "Medicamentos no autorizados en España."
+                    ],
+                    "respuestaCorrecta": "Medicamentos off-Label."
+                },
+                {
+                    "id": 292,
+                    "pregunta": "Indica los productos que pertenecen a los “almacenes especiales” del SFH:",
+                    "opciones": [
+                        "Medicamentos fotolábiles, termolábiles, psicótropos y muestras de ensayo clínico.",
+                        "Materias primas y material de envasado del laboratorio.",
+                        "Medicamentos de ensayo clínico, estupefacientes, radiofármacos y gases medicinales.",
+                        "Productos dietéticos, antídotos y medicamentos de gran volumen."
+                    ],
+                    "respuestaCorrecta": "Medicamentos de ensayo clínico, estupefacientes, radiofármacos y gases medicinales."
+                },
+                {
+                    "id": 293,
+                    "pregunta": "¿Qué significa un ensayo clínico “doble ciego”?",
+                    "opciones": [
+                        "El investigador si conoce el grupo de estudio, pero los participantes lo desconocen.",
+                        "Ni el investigador, ni los participantes saben a qué grupo ha sido asignado cada paciente.",
+                        "Tanto los participantes como el investigador conocen el grupo (tratamiento o control) al que ha sido asignado cada paciente.",
+                        "Ni el investigador, ni los participantes, ni la tercera persona que analiza los datos, conocen a qué grupo ha sido asignado cada paciente."
+                    ],
+                    "respuestaCorrecta": "Ni el investigador, ni los participantes saben a qué grupo ha sido asignado cada paciente."
+                },
+                {
+                    "id": 294,
+                    "pregunta": "¿Qué neurotransmisor se ve afectado en la enfermedad de Parkinson?",
+                    "opciones": [
+                        "GABA.",
+                        "Dopamina.",
+                        "Acetilcolina.",
+                        "Serotonina."
+                    ],
+                    "respuestaCorrecta": "Dopamina."
+                },
+                {
+                    "id": 295,
+                    "pregunta": "Señala la opción INCORRECTA en relación con la Guía Farmacoterapéutica (GFT) del Hospital:",
+                    "opciones": [
+                        "Cada Hospital elabora su propia GFT.",
+                        "Incluye todos los medicamentos y productos sanitarios autorizados en un hospital, aportando información sobre su empleo e instrucciones de uso.",
+                        "Es una guía flexible y en contante actualización.",
+                        "Clasifica y organiza los medicamentos disponibles en el hospital por su nombre comercial."
+                    ],
+                    "respuestaCorrecta": "Clasifica y organiza los medicamentos disponibles en el hospital por su nombre comercial."
+                },
+                {
+                    "id": 296,
+                    "pregunta": "¿En qué área del Hospital está ubicado el Servicio de Farmacia Hospitalaria (SFH)?",
+                    "opciones": [
+                        "Área médica.",
+                        "Área quirúrgica.",
+                        "Área materno-infantil.",
+                        "Área de servicios centrales."
+                    ],
+                    "respuestaCorrecta": "Área de servicios centrales."
+                },
+                {
+                    "id": 297,
+                    "pregunta": "La codeína es un principio activo derivado de la morfina que se utiliza para el tratamiento de:",
+                    "opciones": [
+                        "Mucolítico.",
+                        "Antiasmático.",
+                        "Tos seca, dónde no hay producción de moco.",
+                        "Tos alérgica para fluidificar las secreciones."
+                    ],
+                    "respuestaCorrecta": "Tos seca, dónde no hay producción de moco."
+                },
+                {
+                    "id": 298,
+                    "pregunta": "¿Cuál de las siguientes opciones NO es una razón para crear farmacias satélites en un hospital?",
+                    "opciones": [
+                        "La distribución del hospital en múltiples pabellones o edificios separados.",
+                        "Sustituir por completo al SFH central.",
+                        "Impedimentos en la circulación intrahospitalaria que dificultan la entrega rápida de medicamentos.",
+                        "El tamaño del hospital que exige grandes desplazamientos para la entrega de medicamentos."
+                    ],
+                    "respuestaCorrecta": "Sustituir por completo al SFH central."
+                },
+                {
+                    "id": 299,
+                    "pregunta": "¿Cómo se llama el sistema de dispensación de medicamentos por dosis unitaria e individualizada para su administración al paciente?",
+                    "opciones": [
+                        "SAA en urgencias, quirófanos y UCI.",
+                        "Dispensación de stock correspondiente por petición del paciente.",
+                        "Dispensación a los botiquines de planta.",
+                        "SDMDU."
+                    ],
+                    "respuestaCorrecta": "SDMDU."
+                },
+                {
+                    "id": 300,
+                    "pregunta": "¿A qué vía de administración pertenece un medicamento opiáceo cuya administración se realiza mediante parches transdérmicos?",
+                    "opciones": [
+                        "Vía tópica.",
+                        "Vía parenteral.",
+                        "Vía subcutánea.",
+                        "Vía intradérmica."
+                    ],
+                    "respuestaCorrecta": "Vía tópica."
+                },
+                {
+                    "id": 301,
+                    "pregunta": "¿Cómo se llama el medicamento que puede sustituir a otro dentro de la Guía Farmacoterapéutica?",
+                    "opciones": [
+                        "Medicamento intercambiable con la misma dosis y pauta.",
+                        "Medicamento intercambiable de marca.",
+                        "Medicamento intercambiable genérico.",
+                        "Equivalente terapéutico."
+                    ],
+                    "respuestaCorrecta": "Equivalente terapéutico."
+                },
+                {
+                    "id": 302,
+                    "pregunta": "Para las patologías del sistema musculoesquelético, como la osteoporosis, osteomalacia y enfermedades reumáticas, ¿cuál es el principal tratamiento?",
+                    "opciones": [
+                        "Antibióticos.",
+                        "Antihistamínicos H2 e inhibidores de la bomba de protones.",
+                        "Antivirales.",
+                        "Aporte de vitamina D y Ca, junto al uso de antiiinflamatorios."
+                    ],
+                    "respuestaCorrecta": "Aporte de vitamina D y Ca, junto al uso de antiiinflamatorios."
+                },
+                {
+                    "id": 303,
+                    "pregunta": "¿Qué son las “farmacias satélites” en un Hospital?",
+                    "opciones": [
+                        "Zonas de almacenamiento de medicamentos con acceso restringido para garantizar su correcta conservación.",
+                        "Unidades dedicadas exclusivamente a la preparación de medicamentos intravenosos.",
+                        "Unidades descentralizadas del SFH ubicadas cerca de áreas específicas del hospital, para facilitar la dispensación y el acceso más rápido a los medicamentos.",
+                        "Áreas del hospital encargadas de la dispensación de medicamentos a pacientes externos."
+                    ],
+                    "respuestaCorrecta": "Unidades descentralizadas del SFH ubicadas cerca de áreas específicas del hospital, para facilitar la dispensación y el acceso más rápido a los medicamentos."
+                },
+                {
+                    "id": 304,
+                    "pregunta": "¿Qué caracteriza a los SAA de un SFH?",
+                    "opciones": [
+                        "Se utilizan exclusivamente para los medicamentos de ensayo clínico.",
+                        "Son armarios controlados manualmente por el personal.",
+                        "Están gestionados por un software y conectados a las aplicaciones informáticas del SFH.",
+                        "Se utilizan para facilitar a todo el personal del hospital un acceso rápido e ilimitado de todos los medicamentos del SFH."
+                    ],
+                    "respuestaCorrecta": "Están gestionados por un software y conectados a las aplicaciones informáticas del SFH."
+                },
+                {
+                    "id": 305,
+                    "pregunta": "Señala la opción INCORRECTA respecto a la Comisión de Farmacia y Terapéutica:",
+                    "opciones": [
+                        "La GFT se actualiza periódicamente para garantizar que los medicamentos seleccionados sean los más adecuados.",
+                        "Está compuesto por un equipo multidisciplinar formado por médicos, farmacéuticos y personal de enfermería, entre otros.",
+                        "Es el órgano encargado de seleccionar los medicamentos incluidos en la Guía Farmacoterapéutica (GFT).",
+                        "Solo se pueden utilizar los medicamentos incluidos en la GFT, sin posibilidad de intercambiarlos por otros diferentes."
+                    ],
+                    "respuestaCorrecta": "Solo se pueden utilizar los medicamentos incluidos en la GFT, sin posibilidad de intercambiarlos por otros diferentes."
+                },
+                {
+                    "id": 306,
+                    "pregunta": "Hospital que atiende una amplia variedad de patologías, es financiado con recursos públicos estatales (a través de impuestos), y está especializado principalmente en pacientes con enfermedades de larga duración o estancias prolongadas:",
+                    "opciones": [
+                        "Hospital Especializado, público y agudo.",
+                        "Hospital General, Privado y crónico",
+                        "Hospital General, Público y crónico.",
+                        "Hospital Especializado, Público y crónico."
+                    ],
+                    "respuestaCorrecta": "Hospital General, Público y crónico."
+                },
+                {
+                    "id": 307,
+                    "pregunta": "¿En qué fase del desarrollo de un medicamento se aprueba su uso en seres humanos?",
+                    "opciones": [
+                        "Ensayos in vivo sobre animales.",
+                        "Ensayos clínicos.",
+                        "Ensayos pre-clínicos.",
+                        "Ensayos in vitro."
+                    ],
+                    "respuestaCorrecta": "Ensayos clínicos."
+                },
+                {
+                    "id": 308,
+                    "pregunta": "¿Cuál de las siguientes funciones NO desempeña un farmacéutico hospitalario en un SFH?",
+                    "opciones": [
+                        "Personalizar los tratamientos no disponibles comercialmente, mediante la elaboración de formulaciones magistrales.",
+                        "Asegurar el cumplimiento de las normas de administración de medicamentos para un uso racional de los mismos.",
+                        "Colaborar en los ensayos clínicos de los medicamentos del hospital.",
+                        "Diagnosticar enfermedades y prescribir tratamientos médicos."
+                    ],
+                    "respuestaCorrecta": "Diagnosticar enfermedades y prescribir tratamientos médicos."
+                },
+                {
+                    "id": 309,
+                    "pregunta": "¿Cuál de los siguientes NO es un requisito indispensable para iniciar el desarrollo de un ensayo clínico en el hospital?",
+                    "opciones": [
+                        "Autorización de la AEMPS.",
+                        "Conformidad del hospital y consentimiento informado del paciente.",
+                        "Aprobación favorable de la Comisión de Farmacia y Terapéutica.",
+                        "Dictamen favorable del Comité de Ética de la Investigación."
+                    ],
+                    "respuestaCorrecta": "Aprobación favorable de la Comisión de Farmacia y Terapéutica."
+                },
+                {
+                    "id": 310,
+                    "pregunta": "Señala la opción INCORRECTA en relación con las funciones del SFH:",
+                    "opciones": [
+                        "Realizar ensayos clínicos de investigación.",
+                        "Elaborar fórmulas magistrales, nutriciones parenterales y medicamentos citotóxicos.",
+                        "Adquirir, conservar y custodiar los medicamentos para un uso racional.",
+                        "Reenvasar medicamentos para suministrar al paciente el número de dosis unitarias necesarias y prescritas para 8 horas de tratamiento."
+                    ],
+                    "respuestaCorrecta": "Reenvasar medicamentos para suministrar al paciente el número de dosis unitarias necesarias y prescritas para 8 horas de tratamiento."
+                },
+                {
+                    "id": 311,
+                    "pregunta": "¿En qué fase del Ensayo Clínico se evalúa la EFICACIA en pacientes enfermos voluntarios, siendo el principal objetivo determinar la dosis óptima?",
+                    "opciones": [
+                        "Fase III.",
+                        "Fase II.",
+                        "Fase IV.",
+                        "Fase I."
+                    ],
+                    "respuestaCorrecta": "Fase II."
+                },
+                {
+                    "id": 312,
+                    "pregunta": "¿Qué tipo de medicamento es el omeprazol y para qué trastornos gastrointestinales está indicado?",
+                    "opciones": [
+                        "Antiulceroso.",
+                        "Laxante.",
+                        "Antiflatulento y antiemético.",
+                        "Antidiarreico."
+                    ],
+                    "respuestaCorrecta": "Antiulceroso."
+                },
+                {
+                    "id": 313,
+                    "pregunta": "¿En qué área del SFH se elaboran fórmulas estériles como la nutrición parenteral y los medicamentos citostáticos?",
+                    "opciones": [
+                        "Unidad centralizada de mezclas intravenosas.",
+                        "Área de elaboración de no-estériles.",
+                        "Área de almacén.",
+                        "Área de farmacocinética."
+                    ],
+                    "respuestaCorrecta": "Unidad centralizada de mezclas intravenosas."
+                },
+                {
+                    "id": 314,
+                    "pregunta": "¿Cómo se llaman los depósitos de los medicamentos almacenados fuera del SFH para su uso inmediato, cuya gestión depende de un pacto entre el supervisor de enfermería de la unidad y el SFH?",
+                    "opciones": [
+                        "Farmacia central.",
+                        "Farmacia auxiliar.",
+                        "Farmacia ambulatoria.",
+                        "Botiquines."
+                    ],
+                    "respuestaCorrecta": "Botiquines."
+                },
+                {
+                    "id": 315,
+                    "pregunta": "¿Qué es una “alerta sanitaria” y cuál es la más grave?",
+                    "opciones": [
+                        "Es una medida preventiva tomada por la AEMPS cuando se detecta que un medicamento ha superado su fecha de caducidad, siendo la clase 1 la más grave.",
+                        "Es una medida de urgencia realizada por la AEMPS para proteger la salud pública ante defectos en la calidad, seguridad o eficacia de un medicamento, siendo la clase 1 la más grave.",
+                        "Es un procedimiento de urgencia realizado por el COF para retirar medicamentos debido a defectos en el etiquetado o en el envase del medicamento, sin riesgos para la salud de la población, siendo la clase 3 la más grave.",
+                        "Es una medida de emergencia de la AEMPS cuando se rompe la cadena de frio o condiciones de almacenamiento del medicamento, sin riesgos para la salud de los pacientes, siendo cualquier clase de alerta igualmente grave."
+                    ],
+                    "respuestaCorrecta": "Es una medida de urgencia realizada por la AEMPS para proteger la salud pública ante defectos en la calidad, seguridad o eficacia de un medicamento, siendo la clase 1 la más grave."
+                },
+                {
+                    "id": 316,
+                    "pregunta": "¿Dónde deben ser almacenados los antídotos en el SFH?",
+                    "opciones": [
+                        "Dentro del almacén general.",
+                        "En un almacén especial de intoxicaciones.",
+                        "En el laboratorio de formulación, ya que se individualizan para cada paciente.",
+                        "En un almacén especial, bajo caja fuerte o con medidas de seguridad."
+                    ],
+                    "respuestaCorrecta": "Dentro del almacén general."
+                },
+                {
+                    "id": 317,
+                    "pregunta": "¿Cuál es el principal objetivo del SFH del Hospital?",
+                    "opciones": [
+                        "Fomentar el uso de medicamentos de marca, priorizando la disponibilidad antes que el coste.",
+                        "Promover el uso racional de los medicamentos al menor coste, garantizando la calidad adecuada.",
+                        "Aumentar el uso de medicamentos nuevos, sin considerar su relación coste-beneficio.",
+                        "Controlar el stock de medicamentos en las farmacias comunitarias cercanas al hospital."
+                    ],
+                    "respuestaCorrecta": "Promover el uso racional de los medicamentos al menor coste, garantizando la calidad adecuada."
+                },
+                {
+                    "id": 318,
+                    "pregunta": "¿Cuál de las siguientes afirmaciones sobre el manejo de un lote afectado por alerta sanitaria en el SFH es INCORRECTA?",
+                    "opciones": [
+                        "El técnico retirará todas las existencias del lote afectado que tenga en el SFH.",
+                        "Los lotes afectados que estén repartidos en diferentes depósitos y plantas del hospital pueden seguir siendo dispensados a los pacientes ingresados.",
+                        "El farmacéutico debe comunicar a la Consejería la existencia o no de los lotes afectados y su número, en un plazo máximo de 24 horas.",
+                        "Todas las unidades afectadas deben ser devueltas al Laboratorio."
+                    ],
+                    "respuestaCorrecta": "Los lotes afectados que estén repartidos en diferentes depósitos y plantas del hospital pueden seguir siendo dispensados a los pacientes ingresados."
+                },
+                {
+                    "id": 319,
+                    "pregunta": "Los hospitales o establecimientos sociosanitarios, públicos o privados, que tienen menos de 100 camas, están obligados a disponer de un:",
+                    "opciones": [
+                        "Todas las respuestas anteriores son correctas.",
+                        "Servicio de Farmacia Hospitalaria (SFH).",
+                        "Depósito de medicamentos.",
+                        "Farmacia satélite."
+                    ],
+                    "respuestaCorrecta": "Depósito de medicamentos."
+                },
+                {
+                    "id": 320,
+                    "pregunta": "¿Cuál de los siguientes medicamentos está sometido a “condiciones especiales de dispensación”, ya que están custodiados en una caja fuerte?",
+                    "opciones": [
+                        "Medicamentos estupefacientes.",
+                        "Medicamentos DH.",
+                        "Medicamentos H.",
+                        "Todas las respuestas anteriores son correctas."
+                    ],
+                    "respuestaCorrecta": "Medicamentos estupefacientes."
                 }
             ]
         }
