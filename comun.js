@@ -26,18 +26,6 @@ var celebrationSound = new Howl({
     },
 })
 
-// var celebrationSound = new Howl({
-// 	src: [
-// 		"https://assets.mixkit.co/sfx/preview/mixkit-fireworks-celebration-691.mp3",
-// 	],
-// 	autoplay: false,
-// 	loop: false,
-// 	volume: 0.5,
-// 	onend: function () {
-// 		console.log("Finished playing fireworks sound!");
-// 	},
-// });
-
 if (
     !testType2 ||
     testType2 > 7 ||
@@ -51,9 +39,7 @@ function startFireworks() {
     const container = document.querySelector('.fireworks')
     const fireworks = new Fireworks.default(container)
     fireworks.start()
-    // Reproduce el sonido de celebración
     celebrationSound.play()
-
     setTimeout(function () {
         fireworks.stop()
         celebrationSound.stop()
@@ -64,7 +50,6 @@ function updateInfoBasedOnTest() {
     const params = new URLSearchParams(window.location.search)
     const testType = params.get('test')
     const temarioId = params.get('temario')
-
     const infoContainer = document.getElementById('info-container')
     let infoHtml = ''
 
@@ -107,7 +92,6 @@ function updateInfoBasedOnTest() {
                         <p>Estás viendo todas las preguntas disponibles para el tema <strong>${data.title}</strong>. Por favor, selecciona la mejor respuesta para cada pregunta. Tu puntuación se desvelará al finalizar el examen completo.</p>
                     `
                 }
-
                 infoContainer.innerHTML =
                     infoHtml +
                     `<p> Ten en cuenta que una vez seleccionada una respuesta, solo podrás cambiar a un nuevo conjunto aleatorio de preguntas si reinicias el test o envías tus respuestas.</p><p><strong>¡Te deseamos mucha suerte!</strong></p>`
@@ -119,6 +103,35 @@ function updateInfoBasedOnTest() {
             })
     }
 }
+
+document.addEventListener('DOMContentLoaded', function () {
+    const menuNav = document.querySelector('#menu-principal ul.menu-nav')
+    const promises = questionaryFiles.map(function (file, index) {
+        return fetch(file)
+            .then((response) => response.json())
+            .then((data) => {
+                return { index, title: data.title }
+            })
+            .catch((error) => {
+                console.error('Error cargando ' + file, error)
+                return { index, title: 'Test ' + (index + 1) }
+            })
+    })
+
+    Promise.all(promises).then((results) => {
+        results.sort((a, b) => a.index - b.index)
+        results.forEach((item) => {
+            const li = document.createElement('li')
+            li.className = 'menu-nav__item'
+            const a = document.createElement('a')
+            a.href = 'index.html?test=' + (item.index + 1)
+            a.className = 'menu-nav__link'
+            a.textContent = 'Practica ' + item.title
+            li.appendChild(a)
+            menuNav.appendChild(li)
+        })
+    })
+})
 
 document.getElementById('reset-button').addEventListener('click', function () {
     const params = new URLSearchParams(window.location.search)
@@ -137,11 +150,9 @@ document.getElementById('reset-button').addEventListener('click', function () {
         questionToRemove = `questionsOrder_${testType}`
         incorrectsToRemoveTemario = `incorrectasPorTemario_${questionaryId}_${temarioId}`
     }
-
     localStorage.removeItem(testToRemove)
     localStorage.removeItem(questionToRemove)
     localStorage.removeItem(incorrectsToRemoveTemario)
-
     window.location.reload()
     window.scrollTo({ top: 0, behavior: 'smooth' })
 })
@@ -154,12 +165,9 @@ function scrollBottom() {
 
 function scrollToResults() {
     const infoContainer = document.getElementById('info-container')
-
     if (infoContainer) {
         const startTop = infoContainer.offsetTop
         const endTop = startTop + infoContainer.offsetHeight
-
-        // Scroll a la posición final del contenedor menos 20 píxeles
         window.scrollTo({
             top: endTop - 20,
             behavior: 'smooth',
