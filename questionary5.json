@@ -1,0 +1,845 @@
+{
+    "title": "Inglés técnico para grado medio",
+    "theme": [
+        {
+            "evaluacion": 1,
+            "temario": "Unit 1: Greetings, courtesy forms, formal introductions and farewells according to the context",
+            "preguntas": [
+                {
+                    "id": 1,
+                    "pregunta": "How can you introduce yourself in a formal way?",
+                    "opciones": [
+                        "\"Here is...?\"",
+                        "\"Hello, she is...\"",
+                        "\"Hey, how you doing?\"",
+                        "\"Good morning. I am...\" or \"Hello, my name is…\"",
+                        "\"I hope to see you again\" or \"I hope to see you soon\""
+                    ],
+                    "respuestaCorrecta": "\"Good morning. I am...\" or \"Hello, my name is…\""
+                },
+                {
+                    "id": 2,
+                    "pregunta": "Is it correct to ask this question?: “How are you?”",
+                    "opciones": [
+                        "True",
+                        "False"
+                    ],
+                    "respuestaCorrecta": "True"
+                },
+                {
+                    "id": 3,
+                    "pregunta": "What would you answer after the client has introduced himself?",
+                    "opciones": [
+                        "\"Thank’s you!\"",
+                        "\"An affectionate greeting to all!\"",
+                        "\"See you again!\" or \"See you soon!\"",
+                        "\"Thank you!\"",
+                        "\"Pleased to meet you\" or \"(It is) nice to meet you\""
+                    ],
+                    "respuestaCorrecta": "\"Pleased to meet you\" or \"(It is) nice to meet you\""
+                },
+                {
+                    "id": 4,
+                    "pregunta": "Point out which greeting you would never use in the cabinet.",
+                    "opciones": [
+                        "Good evening!",
+                        "Good afternoon!",
+                        "Hi!",
+                        "Hello!",
+                        "Good morning!"
+                    ],
+                    "respuestaCorrecta": "Hi!"
+                },
+                {
+                    "id": 5,
+                    "pregunta": "What is the proper treatment for a married woman?",
+                    "opciones": [
+                        "\"Ms\"",
+                        "\"Mister\"",
+                        "\"Misses\"",
+                        "\"Mrs\"",
+                        "\"Miss\""
+                    ],
+                    "respuestaCorrecta": "\"Mrs\""
+                },
+                {
+                    "id": 6,
+                    "pregunta": "What sentences are commonly used when saying a goodbye in a formal letter?",
+                    "opciones": [
+                        "\"See you soon\"",
+                        "\"Yours sincerely / faithfully\"",
+                        "\"All the best\"",
+                        "\"Kind regards\"",
+                        "\"Best regards\""
+                    ],
+                    "respuestaCorrecta": "\"Yours sincerely / faithfully\""
+                },
+                {
+                    "id": 7,
+                    "pregunta": "When saying goodbye, within a FORMALITY, we can use expressions such as:",
+                    "opciones": [
+                        "\"Bye!\"",
+                        "\"I'm off!\"",
+                        "\"Take caring!\"",
+                        "\"Bye, bye\"",
+                        "\"Have a nice day!\" or \"Take care!\""
+                    ],
+                    "respuestaCorrecta": "\"Have a nice day!\" or \"Take care!\""
+                },
+                {
+                    "id": 8,
+                    "pregunta": "To which category belong these expressions? (You may rely on me, Count on me, I am at your disposal / service)",
+                    "opciones": [
+                        "\"To apologize\"",
+                        "\"To express gratitude\"",
+                        "\"To show interest\"",
+                        "\"To establish a bond\"",
+                        "\"Farewell\""
+                    ],
+                    "respuestaCorrecta": "\"To establish a bond\""
+                },
+                {
+                    "id": 9,
+                    "pregunta": "When giving an apology, within a FORMALITY, we can use expressions such as:",
+                    "opciones": [
+                        "\"My fault\"",
+                        "\"I apologize\"",
+                        "\"Excuse me\"",
+                        "\"I beg your pardon\"",
+                        "\"I’m sorry!\""
+                    ],
+                    "respuestaCorrecta": "\"I beg your pardon\""
+                },
+                {
+                    "id": 10,
+                    "pregunta": "To which category belong these expressions? (Have a nice day!, Good bye!, See you later, I hope to see you soon)",
+                    "opciones": [
+                        "\"Farewell\"",
+                        "\"To show interest\"",
+                        "\"To establish a bond\"",
+                        "\"To express gratitude\"",
+                        "\"To apologize\""
+                    ],
+                    "respuestaCorrecta": "\"Farewell\""
+                }
+            ]
+        },
+        {
+            "evaluacion": 2,
+            "temario": "Unit 2: Vocabulary and the pronunciation",
+            "preguntas": [
+                {
+                    "id": 11,
+                    "pregunta": "What is the best material to use when protecting a wound?",
+                    "opciones": [
+                        "Painkiller",
+                        "Tincture",
+                        "None of them are correct",
+                        "All of them are correct",
+                        "Bandage"
+                    ],
+                    "respuestaCorrecta": "Bandage"
+                },
+                {
+                    "id": 12,
+                    "pregunta": "The elixir is known as a:",
+                    "opciones": [
+                        "Cream or gel to spread over the infected area",
+                        "Tablet or pill to shallow or dissolve in water",
+                        "Sweet liquid based on active ingredients dissolved in water and alcohol",
+                        "None of them are correct",
+                        "All of them are correct"
+                    ],
+                    "respuestaCorrecta": "Sweet liquid based on active ingredients dissolved in water and alcohol"
+                },
+                {
+                    "id": 13,
+                    "pregunta": "What do you take when you have a headache?",
+                    "opciones": [
+                        "Aspirin",
+                        "Calcium",
+                        "None of them are correct",
+                        "All of them are correct",
+                        "Anti-inflammatory"
+                    ],
+                    "respuestaCorrecta": "Aspirin"
+                },
+                {
+                    "id": 14,
+                    "pregunta": "What is the name of a medicine made by dissolving a drug in alcohol?",
+                    "opciones": [
+                        "All of them are correct",
+                        "Pill",
+                        "Elixir",
+                        "None of them are correct",
+                        "Tincture"
+                    ],
+                    "respuestaCorrecta": "Tincture"
+                },
+                {
+                    "id": 15,
+                    "pregunta": "Pain killers can be found in....",
+                    "opciones": [
+                        "Capsule",
+                        "All of them are correct",
+                        "Syrup",
+                        "Tablet",
+                        "None of them are correct"
+                    ],
+                    "respuestaCorrecta": "All of them are correct"
+                },
+                {
+                    "id": 16,
+                    "pregunta": "What are considered topical products?",
+                    "opciones": [
+                        "All of them are correct",
+                        "Gel",
+                        "Cream",
+                        "Ointment",
+                        "None of them are correct"
+                    ],
+                    "respuestaCorrecta": "All of them are correct"
+                },
+                {
+                    "id": 17,
+                    "pregunta": "___________________ is a substance used to stimulate inmunity to a particular infectious disease or pathogen",
+                    "opciones": [
+                        "Antibiotic",
+                        "Vaccine",
+                        "Topical",
+                        "None of them are correct",
+                        "All of them are correct"
+                    ],
+                    "respuestaCorrecta": "Vaccine"
+                },
+                {
+                    "id": 18,
+                    "pregunta": "An example of intravenous medicine is....",
+                    "opciones": [
+                        "Syrup",
+                        "None of them are correct",
+                        "All of them are correct",
+                        "Gel",
+                        "Ear drops"
+                    ],
+                    "respuestaCorrecta": "None of them are correct"
+                },
+                {
+                    "id": 19,
+                    "pregunta": "A device used for measuring the concentration of sugar in the blood:",
+                    "opciones": [
+                        "Insulin",
+                        "Glucometer",
+                        "Ointment",
+                        "None of them are correct",
+                        "All of them are correct"
+                    ],
+                    "respuestaCorrecta": "Glucometer"
+                },
+                {
+                    "id": 20,
+                    "pregunta": "What does over-the-counter medicine mean?",
+                    "opciones": [
+                        "A restricted medicine that requires medical authorization",
+                        "An imported medicine that comes from abroad",
+                        "None of them are correct",
+                        "All of them are correct",
+                        "A medicine that can be sold without prescription"
+                    ],
+                    "respuestaCorrecta": "A medicine that can be sold without prescription"
+                }
+            ]
+        },
+        {
+            "evaluacion": 3,
+            "temario": "Unit 3: Expressing opinions and preferences",
+            "preguntas": [
+                {
+                    "id": 21,
+                    "pregunta": "How do we show interest in what the client tell us?",
+                    "opciones": [
+                        "Are you happy?",
+                        "I see what you mean!",
+                        "Sorry I can't help you!",
+                        "You are really happy!",
+                        "Sorry, I can't help you"
+                    ],
+                    "respuestaCorrecta": "I see what you mean!"
+                },
+                {
+                    "id": 22,
+                    "pregunta": "\"What I'm trying to say is that\"... It is used to give our opinion on something.",
+                    "opciones": [
+                        "True",
+                        "False"
+                    ],
+                    "respuestaCorrecta": "True"
+                },
+                {
+                    "id": 23,
+                    "pregunta": "Point out which answer does not correspond to the question asked:",
+                    "opciones": [
+                        "What are your own feelings about...?  /  Personally, I believe...",
+                        "Have you come to any conclusion about...?  /  I’m convinced that...",
+                        "Are you feeling OK?  /  Yes, I feel good",
+                        "How do you see...?  /  I don’t see nothing",
+                        "What do you think about...?  /  In my opinion..."
+                    ],
+                    "respuestaCorrecta": "How do you see...?  /  I don’t see nothing"
+                },
+                {
+                    "id": 24,
+                    "pregunta": "How do we show our conformity to an opinion?",
+                    "opciones": [
+                        "It doesn't much matter to me",
+                        "Yes, I agree with you",
+                        "You are absolutely right"
+                    ],
+                    "respuestaCorrecta": "Yes, I agree with you, You are absolutely right"
+                },
+                {
+                    "id": 25,
+                    "pregunta": "Point out the expressions that express disagreement:",
+                    "opciones": [
+                        "I am afraid I can't agree with you",
+                        "I agree with you",
+                        "You are right",
+                        "It depends on your point of view"
+                    ],
+                    "respuestaCorrecta": "It depends on your point of view, I am afraid I can't agree with you"
+                },
+                {
+                    "id": 26,
+                    "pregunta": "For me personally, this is a really   point of view",
+                    "opciones": [],
+                    "respuestaCorrecta": "For me personally, this is a really [interesting] point of view"
+                },
+                {
+                    "id": 27,
+                    "pregunta": "Question: - \"So, do you agree with me?\"  Answer: - \"I totally agree with you\". It is a correct answer?",
+                    "opciones": [
+                        "False",
+                        "True"
+                    ],
+                    "respuestaCorrecta": "True"
+                },
+                {
+                    "id": 28,
+                    "pregunta": "It _______ on your point of view",
+                    "opciones": [
+                        "depending",
+                        "depend",
+                        "depends",
+                        "depended",
+                        "depen"
+                    ],
+                    "respuestaCorrecta": "depends"
+                },
+                {
+                    "id": 29,
+                    "pregunta": "Which sentence is not related to \"disagreeing\"?",
+                    "opciones": [
+                        "It’s difficult to say",
+                        "I’m not sure about that",
+                        "Yes, but don’t you think that…?",
+                        "I’m afraid I can’t agree with you",
+                        "Yes, you have a point there"
+                    ],
+                    "respuestaCorrecta": "Yes, you have a point there"
+                },
+                {
+                    "id": 30,
+                    "pregunta": "\"Go ahead!\" is a expression which belongs to...",
+                    "opciones": [
+                        "Showing interest",
+                        "Asking for information",
+                        "Agreeing",
+                        "Disagreeing",
+                        "Giving your opinion / feelings"
+                    ],
+                    "respuestaCorrecta": "Showing interest"
+                }
+            ]
+        },
+        {
+            "evaluacion": 4,
+            "temario": "Unit 4: The human body. Parts and systems",
+            "preguntas": [
+                {
+                    "id": 31,
+                    "pregunta": "What part of the body DOES NOT belong to a body organ",
+                    "opciones": [
+                        "Breast",
+                        "Lungs",
+                        "Heart",
+                        "Brain",
+                        "Intestine"
+                    ],
+                    "respuestaCorrecta": "Breast"
+                },
+                {
+                    "id": 32,
+                    "pregunta": "The organ that pumps your blood around your body",
+                    "opciones": [
+                        "Waist",
+                        "Pancreas",
+                        "Heart",
+                        "Abdomen",
+                        "Lungs"
+                    ],
+                    "respuestaCorrecta": "Heart"
+                },
+                {
+                    "id": 33,
+                    "pregunta": "Which of these do not correspond to a part of the arm",
+                    "opciones": [
+                        "Hand",
+                        "Elbow",
+                        "Thumb",
+                        "Wrist",
+                        "Shoulder"
+                    ],
+                    "respuestaCorrecta": "Thumb"
+                },
+                {
+                    "id": 34,
+                    "pregunta": "What body system is in charge of blood production, maintenance of fluid balance, and defense against disease?",
+                    "opciones": [
+                        "Cardiovascular or circulatory",
+                        "Integumentary",
+                        "Hematopoietic or lymphatic",
+                        "Digestive",
+                        "Muscular or skeletal"
+                    ],
+                    "respuestaCorrecta": "Hematopoietic or lymphatic"
+                },
+                {
+                    "id": 35,
+                    "pregunta": "The muscle at the bottom of your mouth that tastes things and helps you pronounce words",
+                    "opciones": [
+                        "Lips",
+                        "Teeth",
+                        "Throat",
+                        "Tongue",
+                        "Tooth"
+                    ],
+                    "respuestaCorrecta": "Tongue"
+                },
+                {
+                    "id": 36,
+                    "pregunta": "What is the body system in charge of protecting the body against damage?",
+                    "opciones": [
+                        "Endocrine",
+                        "Hematopoietic or lymphatic",
+                        "Nervous or sensory",
+                        "Muscular or skeletal",
+                        "Integumentary"
+                    ],
+                    "respuestaCorrecta": "Integumentary"
+                },
+                {
+                    "id": 37,
+                    "pregunta": "Everybody can smell things with and breathe through it",
+                    "opciones": [
+                        "Chin",
+                        "Ear",
+                        "Lungs",
+                        "Mouth",
+                        "Nose"
+                    ],
+                    "respuestaCorrecta": "Nose"
+                },
+                {
+                    "id": 38,
+                    "pregunta": "The neck connects your head with your shoulders and the rest of your body....",
+                    "opciones": [
+                        "True",
+                        "False"
+                    ],
+                    "respuestaCorrecta": "True"
+                },
+                {
+                    "id": 39,
+                    "pregunta": "The joint between your leg and your foot",
+                    "opciones": [
+                        "Ankle",
+                        "Knee",
+                        "Heel",
+                        "Shin",
+                        "Calf"
+                    ],
+                    "respuestaCorrecta": "Ankle"
+                },
+                {
+                    "id": 40,
+                    "pregunta": "Used to talk, to eat and to breathe",
+                    "opciones": [
+                        "Nose",
+                        "Fingers",
+                        "Mouth",
+                        "Forehead",
+                        "Tongue"
+                    ],
+                    "respuestaCorrecta": "Mouth"
+                }
+            ]
+        },
+        {
+            "evaluacion": 5,
+            "temario": "Unit 5: Ask a question, request a clarification or deal with a complaint",
+            "preguntas": [
+                {
+                    "id": 41,
+                    "pregunta": "If we ask a polite question we use the expression:",
+                    "opciones": [
+                        "\"Can I have it?\" or \"Could I have it?\"",
+                        "\"Do you mind if...?\" or \"Would you let me...?\"",
+                        "\"Do I need to...?\"",
+                        "\"Have I got?\"",
+                        "\"What you let me...?\""
+                    ],
+                    "respuestaCorrecta": "\"Do you mind if...?\" or \"Would you let me...?\""
+                },
+                {
+                    "id": 42,
+                    "pregunta": "How do we ask the customer if they understand us?",
+                    "opciones": [
+                        "Could you please repeat that?",
+                        "Can you repeat it?",
+                        "What did you say?",
+                        "Do you understand me?",
+                        "Do we the customer understand us?"
+                    ],
+                    "respuestaCorrecta": "Do you understand me?"
+                },
+                {
+                    "id": 43,
+                    "pregunta": "What expressions do we use if we have comprehension problems?",
+                    "opciones": [
+                        "I agree with you",
+                        "I don't understand you",
+                        "I understand",
+                        "Could you speak slowly?"
+                    ],
+                    "respuestaCorrecta": "I don't understand you, Could you speak slowly?"
+                },
+                {
+                    "id": 44,
+                    "pregunta": "Claim expressions:",
+                    "opciones": [
+                        "What did you say?",
+                        "I speak slowly",
+                        "This is totally unacceptable!",
+                        "Who is in charge here?"
+                    ],
+                    "respuestaCorrecta": "This is totally unacceptable!, Who is in charge here?"
+                },
+                {
+                    "id": 45,
+                    "pregunta": "To deal with a complaint we use: \"Be patient and empathetic\".",
+                    "opciones": [
+                        "True",
+                        "False"
+                    ],
+                    "respuestaCorrecta": "True"
+                },
+                {
+                    "id": 46,
+                    "pregunta": "The best way to react to the claim starts with a question and ends with a follow up process",
+                    "opciones": [
+                        "True",
+                        "False"
+                    ],
+                    "respuestaCorrecta": "True"
+                },
+                {
+                    "id": 47,
+                    "pregunta": "Customer assistance starts with an explanation and ends up with a calm atmosphere and a straight control of the situation",
+                    "opciones": [
+                        "False",
+                        "True"
+                    ],
+                    "respuestaCorrecta": "True"
+                },
+                {
+                    "id": 48,
+                    "pregunta": "It is believed that offering discounts to apologize for the inconvenience caused can help customer satisfaction",
+                    "opciones": [
+                        "True",
+                        "False"
+                    ],
+                    "respuestaCorrecta": "True"
+                },
+                {
+                    "id": 49,
+                    "pregunta": "What is the most challenging part of customer service?",
+                    "opciones": [
+                        "Deal with a complaint",
+                        "Respond to their questions",
+                        "Request a clarification",
+                        "None of them",
+                        "Ask a question"
+                    ],
+                    "respuestaCorrecta": "Deal with a complaint"
+                },
+                {
+                    "id": 50,
+                    "pregunta": "If we haven't understood what the client has said, the proper way to proceed is to",
+                    "opciones": [
+                        "Pretend you have not heard him/her",
+                        "Start asking other questions",
+                        "Ask for clarification",
+                        "Do nothing",
+                        "Do not pay attention to it"
+                    ],
+                    "respuestaCorrecta": "Ask for clarification"
+                }
+            ]
+        },
+        {
+            "evaluacion": 6,
+            "temario": "Unit 6: The anamnesis and vital signs",
+            "preguntas": [
+                {
+                    "id": 51,
+                    "pregunta": "Anamnesis:",
+                    "opciones": [
+                        "It is the clinical exploration process",
+                        "It is carried out through questioning to personally identify the individual",
+                        "Helps to determine the relevant family, environmental and personal elements of a person",
+                        "It is to learn about the person's current ailments and obtain a retrospective of him or her",
+                        "All the answers are correct"
+                    ],
+                    "respuestaCorrecta": "All the answers are correct"
+                },
+                {
+                    "id": 52,
+                    "pregunta": "Some anamnesis questions could be about…",
+                    "opciones": [
+                        "Current symptoms",
+                        "Medical history",
+                        "Parents lifestyle",
+                        "Medications",
+                        "Allergies"
+                    ],
+                    "respuestaCorrecta": "Parents lifestyle"
+                },
+                {
+                    "id": 53,
+                    "pregunta": "Which is not a vital sign",
+                    "opciones": [
+                        "Body temperature",
+                        "Blood pressure",
+                        "Allergies",
+                        "Respiration rate",
+                        "Pulse rate"
+                    ],
+                    "respuestaCorrecta": "Allergies"
+                },
+                {
+                    "id": 54,
+                    "pregunta": "Normal body temperature of an adult:",
+                    "opciones": [
+                        "35.2 to 36.5 degrees",
+                        "It only can be taken orally",
+                        "36.5 to 37.2 degrees",
+                        "None of the options are correct",
+                        "37.2 to 38.5 degrees"
+                    ],
+                    "respuestaCorrecta": "36.5 to 37.2 degrees"
+                },
+                {
+                    "id": 55,
+                    "pregunta": "Normal body temperature of an adult (considering measurement methods):",
+                    "opciones": [
+                        "Can be taken rectally that tends to be 0.5 to 0.7 degrees higher than orally",
+                        "It cannot be taken under the arm",
+                        "Can be taken by ear with a normal thermometer",
+                        "It cannot be taken orally with the classic glass thermometer",
+                        "Can be taken by skin with a normal thermometer"
+                    ],
+                    "respuestaCorrecta": "Can be taken rectally that tends to be 0.5 to 0.7 degrees higher than orally"
+                },
+                {
+                    "id": 56,
+                    "pregunta": "The pulse rate…",
+                    "opciones": [
+                        "…may not fluctuate and increase with illness",
+                        "...may not fluctuate and increase with exercise",
+                        "…measures the number of times the heart beats per minute",
+                        "…may not fluctuate and increase with emotions",
+                        "…cannot indicate heart rhythm and strength of the pulse"
+                    ],
+                    "respuestaCorrecta": "…measures the number of times the heart beats per minute"
+                },
+                {
+                    "id": 57,
+                    "pregunta": "60 to 100 beats per minute is…",
+                    "opciones": [
+                        "…the range of normal pulse of a healthy adult",
+                        "…too high",
+                        "...the range normal pulse of a baby born",
+                        "…the ideal heart rate of an athlete during the competition",
+                        "…too low"
+                    ],
+                    "respuestaCorrecta": "…the range of normal pulse of a healthy adult"
+                },
+                {
+                    "id": 58,
+                    "pregunta": "Respiration rate. Which sentence is not correct?",
+                    "opciones": [
+                        "The normal for an adult person at rest ranges from 12 to 16 breaths per minute",
+                        "May decrease with illness",
+                        "It is the number of breaths a person takes per minute",
+                        "May increase with fever",
+                        "Consists of counting the number of breaths for 1 minute by counting how many times the chest rises"
+                    ],
+                    "respuestaCorrecta": "May decrease with illness"
+                },
+                {
+                    "id": 59,
+                    "pregunta": "The blood pressure is measured in…",
+                    "opciones": [
+                        "cm Hg",
+                        "breaths per minute",
+                        "degrees",
+                        "beats per minute",
+                        "millimeters of mercury"
+                    ],
+                    "respuestaCorrecta": "millimeters of mercury"
+                },
+                {
+                    "id": 60,
+                    "pregunta": "Choose the correct answer",
+                    "opciones": [
+                        "Hypotension is high blood pressure",
+                        "Hypertension is low blood pressure",
+                        "Hypertension and Hypotension are the same",
+                        "Hypertersion can cause dizziness and fainting in some people",
+                        "Hypotension is low blood pressure"
+                    ],
+                    "respuestaCorrecta": "Hypotension is low blood pressure"
+                }
+            ]
+        },
+        {
+            "evaluacion": 7,
+            "temario": "Unit 7: Other forms of communication. Telephone messages and the email",
+            "preguntas": [
+                {
+                    "id": 61,
+                    "pregunta": "With what expression do we introduce ourselves on the phone?",
+                    "opciones": [
+                        "This is ... speaking. How can I help you?",
+                        "Goodbye!",
+                        "Hi!"
+                    ],
+                    "respuestaCorrecta": "This is ... speaking. How can I help you?"
+                },
+                {
+                    "id": 62,
+                    "pregunta": "Making appointments. Choose the incorrect:",
+                    "opciones": [
+                        "Can you spell that?",
+                        "Would you like to arrange a meeting with…?",
+                        "Would you like to arrange an appointment to...?",
+                        "Please, confirm if this appointment is suitable / convenient for you.",
+                        "Would you like to arrange an appointment with...?"
+                    ],
+                    "respuestaCorrecta": "Can you spell that?"
+                },
+                {
+                    "id": 63,
+                    "pregunta": "Leaving a message: Would you like to leave a message?",
+                    "opciones": [
+                        "True",
+                        "False"
+                    ],
+                    "respuestaCorrecta": "True"
+                },
+                {
+                    "id": 64,
+                    "pregunta": "What advices or expressions should be taken into account when writing the email?",
+                    "opciones": [
+                        "I am writing in reference to your request / with regard to / in response to...",
+                        "See you soon!",
+                        "Write short and concise sentences"
+                    ],
+                    "respuestaCorrecta": "I am writing in reference to your request / with regard to / in response to..., Write short and concise sentences"
+                },
+                {
+                    "id": 65,
+                    "pregunta": "Greetings and goodbyes in an email:",
+                    "opciones": [
+                        "Dear Sir / Madam",
+                        "To whom it may concern,",
+                        "I look forward to hearing from you",
+                        "Best regards",
+                        "Write “Hello” in the subject line"
+                    ],
+                    "respuestaCorrecta": "To whom it may concern,, Best regards, Dear Sir / Madam"
+                },
+                {
+                    "id": 66,
+                    "pregunta": "I am _______ on behalf of Mrs. Lopez",
+                    "opciones": [
+                        "you",
+                        "calling",
+                        "seeing",
+                        "see",
+                        "speak"
+                    ],
+                    "respuestaCorrecta": "calling"
+                },
+                {
+                    "id": 67,
+                    "pregunta": "I would like to _______ to Mr. Brad, please",
+                    "opciones": [
+                        "see",
+                        "seeing",
+                        "speak",
+                        "calling",
+                        "you"
+                    ],
+                    "respuestaCorrecta": "speak"
+                },
+                {
+                    "id": 68,
+                    "pregunta": "Which question would we use to put the interlocutor on hold?",
+                    "opciones": [
+                        "Can you hold on a moment, please?",
+                        "Will you tell him to call me back?",
+                        "Could you hold a moment?",
+                        "Can I speak to Mrs. Ann, please?",
+                        "Who is calling?"
+                    ],
+                    "respuestaCorrecta": "Can you hold on a moment, please?"
+                },
+                {
+                    "id": 69,
+                    "pregunta": "John speaking, _______ can I help you?",
+                    "opciones": [
+                        "how",
+                        "what",
+                        "will",
+                        "when do",
+                        "where do"
+                    ],
+                    "respuestaCorrecta": "how"
+                },
+                {
+                    "id": 70,
+                    "pregunta": "John speaking, ______ can I help you with?",
+                    "opciones": [
+                        "how",
+                        "where do",
+                        "when do",
+                        "what",
+                        "will"
+                    ],
+                    "respuestaCorrecta": "what"
+                }
+            ]
+        }
+    ]
+}

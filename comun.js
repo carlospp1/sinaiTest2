@@ -2,6 +2,8 @@ const questionaryFiles = [
     'questionary1.json',
     'questionary2.json',
     'questionary3.json',
+    'questionary4.json',
+    'questionary5.json',
 ]
 const questionsForTest = 10
 const params2 = new URLSearchParams(window.location.search)
