@@ -55,10 +55,11 @@ function updateInfoBasedOnTest() {
 
     if (testType == 'all') {
         infoHtml = `<h2>Test Farmacia</h2>
-        <p>Este examen consta de un conjunto seleccionado de ${questionsForTest} preguntas, elegidas al azar entre todos los tests, dando un total de ${
+        <p>Este examen consta de un conjunto seleccionado de ${questionsForTest} preguntas, 
+        elegidas al azar entre todos los tests, dando un total de ${
             questionaryFiles.length * questionsForTest
-        }${
-            questionaryFiles.length < 7
+        } preguntas${
+            questionaryFiles.length < 6
                 ? ` (Actualmente solo ${
                       questionaryFiles.length * questionsForTest
                   })`
