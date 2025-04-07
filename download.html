@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Descarga ZIP Tests</title>
+    <link
+        rel="icon"
+        type="image/png"
+        href="https://cdn-icons-png.flaticon.com/512/6581/6581934.png"
+    />
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(
+                to right top,
+                #330440 0%,
+                #801c9c 20%,
+                #553489 40%,
+                #295a99 60%,
+                #144f91 80%,
+                #2e2e33 100%
+            );
+            color: white;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+        .container {
+            max-width: 800px;
+            text-align: center;
+            padding: 20px;
+            background-color: rgba(0, 0, 0, 0.3);
+            border-radius: 10px;
+        }
+        h1 {
+            margin-bottom: 20px;
+        }
+        .progress-container {
+            width: 100%;
+            background-color: #ddd;
+            border-radius: 5px;
+            margin: 20px 0;
+        }
+        .progress-bar {
+            height: 30px;
+            background-color: #4caf50;
+            border-radius: 5px;
+            width: 0%;
+            transition: width 0.3s;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-weight: bold;
+        }
+        .status {
+            margin-top: 20px;
+            font-size: 18px;
+        }
+        .spinner {
+            border: 4px solid rgba(255, 255, 255, 0.3);
+            border-radius: 50%;
+            border-top: 4px solid #fff;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin: 20px auto;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        .btn {
+            background-color: #4caf50;
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            font-size: 16px;
+            cursor: pointer;
+            border-radius: 5px;
+            margin-top: 20px;
+            transition: background-color 0.3s;
+            text-decoration: none;
+            display: inline-block;
+        }
+        .btn:hover {
+            background-color: #3e8e41;
+        }
+        .hidden {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Generador de ZIP con Tests</h1>
+        <p>Este proceso generará un archivo ZIP con todos los tests organizados en carpetas y archivos PDF.</p>
+        
+        <div id="progress-container" class="progress-container">
+            <div id="progress-bar" class="progress-bar">0%</div>
+        </div>
+        
+        <div id="spinner" class="spinner hidden"></div>
+        <div id="status" class="status">Esperando para iniciar...</div>
+        
+        <button id="start-btn" class="btn">Generar ZIP</button>
+        <a id="download-btn" class="btn hidden" href="#" download="tests.zip">Descargar ZIP</a>
+    </div>
+
+    <!-- Cargar las bibliotecas necesarias -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+
+    <script>
+        // Variables globales
+        const questionaryFiles = [
+            'questionary1.json',
+            'questionary2.json',
+            'questionary3.json',
+            'questionary4.json',
+            'questionary5.json',
+            'questionary6.json',
+        ];
+        const progressBar = document.getElementById('progress-bar');
+        const statusElement = document.getElementById('status');
+        const spinner = document.getElementById('spinner');
+        const startBtn = document.getElementById('start-btn');
+        const downloadBtn = document.getElementById('download-btn');
+        
+        // Extraigo los objetos de las bibliotecas
+        const { jsPDF } = window.jspdf;
+
+        // Función para actualizar el progreso
+        function updateProgress(percentage, message) {
+            progressBar.style.width = percentage + '%';
+            progressBar.textContent = percentage + '%';
+            statusElement.textContent = message;
+        }
+
+        // Función para generar un PDF para una evaluación
+        async function generatePDF(evaluacion, title) {
+            // Crear un nuevo documento PDF
+            const doc = new jsPDF();
+            const margin = 20;
+            let y = margin;
+            const pageWidth = doc.internal.pageSize.width;
+            const maxLineWidth = pageWidth - 2 * margin;
+            
+            // Función auxiliar para dividir texto en líneas
+            function splitTextToFit(text, fontSize, maxWidth) {
+                doc.setFontSize(fontSize);
+                const lines = [];
+                
+                // Si el texto es corto, no necesita dividirse
+                if (doc.getStringUnitWidth(text) * fontSize / doc.internal.scaleFactor < maxWidth) {
+                    return [text];
+                }
+                
+                let currentLine = '';
+                const words = text.split(' ');
+                
+                for (let i = 0; i < words.length; i++) {
+                    const word = words[i];
+                    const testLine = currentLine + (currentLine ? ' ' : '') + word;
+                    const testWidth = doc.getStringUnitWidth(testLine) * fontSize / doc.internal.scaleFactor;
+                    
+                    if (testWidth > maxWidth) {
+                        lines.push(currentLine);
+                        currentLine = word;
+                    } else {
+                        currentLine = testLine;
+                    }
+                }
+                
+                if (currentLine) {
+                    lines.push(currentLine);
+                }
+                
+                return lines;
+            }
+            
+            // Función para verificar espacio y agregar nueva página si es necesario
+            function ensureSpace(requiredSpace) {
+                if (y + requiredSpace > doc.internal.pageSize.height - margin) {
+                    doc.addPage();
+                    y = margin;
+                    return true;
+                }
+                return false;
+            }
+            
+            // Configurar el título del documento
+            doc.setFontSize(16);
+            doc.setFont('helvetica', 'bold');
+            const titleLines = splitTextToFit(`${title} - ${evaluacion.temario}`, 16, maxLineWidth);
+            
+            titleLines.forEach(line => {
+                ensureSpace(8);
+                doc.text(line, margin, y);
+                y += 8;
+            });
+            
+            y += 5; // Espacio adicional después del título
+            
+            // Recorrer cada pregunta de la evaluación
+            evaluacion.preguntas.forEach((pregunta, index) => {
+                ensureSpace(14); // Espacio mínimo para una pregunta
+                
+                // Establecer negrita para la pregunta
+                doc.setFontSize(12);
+                doc.setFont('helvetica', 'bold');
+                
+                const questionText = `${index + 1}. ${pregunta.pregunta}`;
+                const questionLines = splitTextToFit(questionText, 12, maxLineWidth);
+                
+                questionLines.forEach(line => {
+                    ensureSpace(7);
+                    doc.text(line, margin, y);
+                    y += 7;
+                });
+                
+                // Cambiar a fuente normal para las opciones
+                doc.setFont('helvetica', 'normal');
+                
+                // Agregar las opciones
+                if (pregunta.opciones && pregunta.opciones.length > 0) {
+                    doc.setFontSize(10);
+                    
+                    // Identificar la respuesta correcta
+                    const correctOptions = Array.isArray(pregunta.respuestaCorrecta) 
+                        ? pregunta.respuestaCorrecta 
+                        : [pregunta.respuestaCorrecta];
+                    
+                    // Solo mostrar las opciones correctas
+                    correctOptions.forEach(correctOption => {
+                        // Encontrar la opción correcta en el array de opciones
+                        const opcion = correctOption;
+                        
+                        // Dividir la opción en múltiples líneas si es necesario
+                        const optionText = `  • ${opcion}`;
+                        const optionLines = splitTextToFit(optionText, 10, maxLineWidth);
+                        
+                        // Cambiar a fuente normal para las opciones correctas
+                        doc.setFont('helvetica', 'normal');
+                        
+                        optionLines.forEach((line, lineIndex) => {
+                            ensureSpace(6);
+                            doc.text(line, margin, y);
+                            y += 6;
+                        });
+                        
+                        // Pequeño espacio entre opciones
+                        y += 1;
+                    });
+                }
+                
+                // Agregar un espacio adicional entre preguntas
+                y += 5;
+            });
+            
+            return doc.output('arraybuffer');
+        }
+
+        // Función principal para generar el ZIP
+        async function generateZIP() {
+            spinner.classList.remove('hidden');
+            startBtn.classList.add('hidden');
+            updateProgress(0, 'Iniciando proceso...');
+            
+            try {
+                // Crear un nuevo objeto ZIP
+                const zip = new JSZip();
+                let processedFiles = 0;
+                
+                // Para cada archivo de cuestionario
+                for (const file of questionaryFiles) {
+                    try {
+                        // Cargar el archivo JSON
+                        const response = await fetch(file);
+                        const data = await response.json();
+                        
+                        // Crear una carpeta para este cuestionario usando su título
+                        const folderName = data.title.replace(/[/\\?%*:|"<>]/g, '-'); // Sanitizar nombre de carpeta
+                        const folder = zip.folder(folderName);
+                        
+                        updateProgress(
+                            Math.round((processedFiles / questionaryFiles.length) * 100),
+                            `Procesando ${data.title}...`
+                        );
+                        
+                        // Para cada evaluación en el cuestionario
+                        for (let i = 0; i < data.theme.length; i++) {
+                            const evaluacion = data.theme[i];
+                            const pdfBuffer = await generatePDF(evaluacion, data.title);
+                            
+                            // Agregar el PDF al ZIP
+                            const safeFileName = evaluacion.temario.replace(/[/\\?%*:|"<>]/g, '-'); // Sanitizar nombre de archivo
+                            folder.file(`${evaluacion.evaluacion}_${safeFileName}.pdf`, pdfBuffer);
+                            
+                            // Actualizar progreso
+                            updateProgress(
+                                Math.round(((processedFiles + (i + 1) / data.theme.length) / questionaryFiles.length) * 100),
+                                `Generando PDF para ${evaluacion.temario}...`
+                            );
+                        }
+                        
+                        processedFiles++;
+                    } catch (error) {
+                        console.error(`Error al procesar ${file}:`, error);
+                        updateProgress(
+                            Math.round((processedFiles / questionaryFiles.length) * 100),
+                            `Error al procesar ${file}: ${error.message}`
+                        );
+                        processedFiles++;
+                    }
+                }
+                
+                // Generar el archivo ZIP
+                updateProgress(90, 'Generando archivo ZIP...');
+                const zipBlob = await zip.generateAsync({ type: 'blob' });
+                
+                // Crear una URL para el blob
+                const zipUrl = URL.createObjectURL(zipBlob);
+                downloadBtn.href = zipUrl;
+                downloadBtn.classList.remove('hidden');
+                
+                updateProgress(100, '¡Proceso completado! El ZIP está listo para descargar.');
+                spinner.classList.add('hidden');
+                
+                // Simular clic en el botón de descarga automáticamente
+                setTimeout(() => {
+                    downloadBtn.click();
+                }, 1000);
+                
+            } catch (error) {
+                console.error('Error al generar el ZIP:', error);
+                updateProgress(0, `Error: ${error.message}`);
+                spinner.classList.add('hidden');
+                startBtn.classList.remove('hidden');
+            }
+        }
+
+        // Función que se ejecuta al cargar la página
+        document.addEventListener('DOMContentLoaded', function() {
+            startBtn.addEventListener('click', generateZIP);
+            
+            // Iniciar el proceso automáticamente después de cargar la página
+            setTimeout(generateZIP, 1000);
+        });
+    </script>
+</body>
+</html> 
