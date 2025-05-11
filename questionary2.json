@@ -205,7 +205,7 @@
                 },
                 {
                     "id": 19,
-                    "pregunta": "El concepto de “intraemprendedor” hace referencia a:",
+                    "pregunta": "El concepto de \"intraemprendedor\" hace referencia a:",
                     "opciones": [
                         "Emprendedores que fracasan en su primer negocio.",
                         "Trabajadores dentro de una empresa que generan ideas innovadoras y las desarrollan",
@@ -1024,6 +1024,122 @@
                         "Ninguna respuesta es correcta."
                     ],
                     "respuestaCorrecta": "El café y el té son bienes sustitutivos."
+                }
+            ]
+        },
+        {
+            "evaluacion": 6,
+            "temario": "Los recursos humanos en la empresa",
+            "preguntas": [
+                {
+                    "id": 92,
+                    "pregunta": "En cuanto al concepto de RRHH:",
+                    "opciones": [
+                        "Los RRHH, factor humano o capital humano son distintas denominaciones tras las que encontramos un común denominador: las personas.",
+                        "Entre las funciones que presenta el área de RRHH, nos encontramos, entre otras con el área de seguridad y salud laboral y el área de administración del personal.",
+                        "Una de las funciones del área de RRHH es detectar las necesidades de formación (gestión de RRHH).",
+                        "Todas las respuestas son correctas."
+                    ],
+                    "respuestaCorrecta": "Todas las respuestas son correctas."
+                },
+                {
+                    "id": 93,
+                    "pregunta": "En referencia al grupo profesional:",
+                    "opciones": [
+                        "Entre categoría y grupo hay una diferencia, ya que la categoría es un concepto de mayor amplitud.",
+                        "El grupo profesional tiene criterios y sistemas cuyo objetivo es garantizar la discriminación entre los géneros de las personas.",
+                        "En el grupo profesional no se tiene en cuenta el nivel de estudios que ha alcanzado el trabajador, sino el puesto de trabajo en el que se desempeña efectivamente.",
+                        "En el grupo profesional no se considera el grado de cualificación que demanda el trabajo."
+                    ],
+                    "respuestaCorrecta": "En el grupo profesional no se tiene en cuenta el nivel de estudios que ha alcanzado el trabajador, sino el puesto de trabajo en el que se desempeña efectivamente."
+                },
+                {
+                    "id": 94,
+                    "pregunta": "¿Por qué es importante conocer a qué grupo profesional pertenecemos como trabajadores?",
+                    "opciones": [
+                        "Para saber las funciones a desempeñar.",
+                        "Para saber si se nos permite ocupar otros puestos laborales del mismo grupo profesional al que pertenecemos.",
+                        "Para conocer la base mínima de cotización y la máxima que puede aplicarse a su nómina.",
+                        "Todas las respuestas son correctas."
+                    ],
+                    "respuestaCorrecta": "Todas las respuestas son correctas."
+                },
+                {
+                    "id": 95,
+                    "pregunta": "¿Cuál de las siguientes afirmaciones corresponde con el organigrama funcional?",
+                    "opciones": [
+                        "Es un tipo de organigrama poco usado por las empresas.",
+                        "Aquellos que están en la parte superior son quienes tienen menos poder dentro del negocio.",
+                        "Se desarrolla de forma horizontal.",
+                        "También es conocido como «organigrama estructural o jerárquico»."
+                    ],
+                    "respuestaCorrecta": "También es conocido como «organigrama estructural o jerárquico»."
+                },
+                {
+                    "id": 96,
+                    "pregunta": "¿A qué tipo de organigrama corresponde la siguiente imagen?",
+                    "opciones": [
+                        "Organigrama funcional.",
+                        "Organigrama mixto.",
+                        "Organigrama divisional.",
+                        "Organigrama matriz."
+                    ],
+                    "respuestaCorrecta": "Organigrama divisional."
+                },
+                {
+                    "id": 97,
+                    "pregunta": "En cuanto al organigrama horizontal:",
+                    "opciones": [
+                        "Se utiliza en empresas donde los empleados no tienen responsabilidades, ni están directamente relacionados con la toma de decisiones.",
+                        "Tiene muchas jerarquías de gestión intermedia.",
+                        "Suele constar de dos niveles: los superiores y los empleados.",
+                        "Todas las respuestas son correctas."
+                    ],
+                    "respuestaCorrecta": "Suele constar de dos niveles: los superiores y los empleados."
+                },
+                {
+                    "id": 98,
+                    "pregunta": "¿Cuál de las siguientes definiciones corresponde a liderazgo transaccional?",
+                    "opciones": [
+                        "Se busca la participación de todos los empleados en la toma de decisiones.",
+                        "El líder se apoya en la organización y la planificación para alcanzar las metas definidas, sacando provecho de las oportunidades que se le presentan al mismo tiempo que respalda los objetivos organizacionales.",
+                        "Se basa en transacciones entre los altos cargos y el resto de la plantilla. Los trabajadores reciben algún tipo de premio como compensación por alcanzar un objetivo.",
+                        "Consiste en conocer las necesidades, la preparación y las capacidades de cada miembro del equipo con la finalidad de saber adaptar el estilo de liderazgo a cada situación."
+                    ],
+                    "respuestaCorrecta": "Se basa en transacciones entre los altos cargos y el resto de la plantilla. Los trabajadores reciben algún tipo de premio como compensación por alcanzar un objetivo."
+                },
+                {
+                    "id": 99,
+                    "pregunta": "En cuanto al liderazgo Laissez faire:",
+                    "opciones": [
+                        "Concentra todo el poder en un solo directivo y no deja espacio a las opiniones de los subordinados.",
+                        "Confía en sus empleados y les deja cumplir con su puesto con una mínima intervención.",
+                        "Se basa en la idea de que los trabajadores experimentados incrementan su productividad con menor supervisión.",
+                        "Las opciones b y c son correctas."
+                    ],
+                    "respuestaCorrecta": "Las opciones b y c son correctas."
+                },
+                {
+                    "id": 100,
+                    "pregunta": "¿Cuál de las siguientes opciones corresponde a la motivación intrínseca?",
+                    "opciones": [
+                        "Se incrementa gracias a elementos externos que impulsan al empleado a trabajar con más ganas.",
+                        "Aumento del sueldo.",
+                        "Reconocimiento en la empresa.",
+                        "Ninguna de las respuestas es correcta."
+                    ],
+                    "respuestaCorrecta": "Ninguna de las respuestas es correcta."
+                },
+                {
+                    "id": 101,
+                    "pregunta": "¿Cuál de las siguientes afirmaciones describe con mayor precisión el principal cambio que supuso la sustitución de la \"categoría profesional\" por el \"grupo profesional\" tras la Reforma Laboral?",
+                    "opciones": [
+                        "El grupo profesional ignora la titulación académica del empleado y se centra exclusivamente en su experiencia previa.",
+                        "La sustitución no supuso cambios significativos en la flexibilidad ni en la organización interna de la empresa.",
+                        "El término «grupo profesional» se utiliza únicamente para la dirección, mientras que las «categorías profesionales» se aplican al resto del personal.",
+                        "El grupo profesional abarca diversas funciones y responsabilidades en una misma clasificación, promoviendo la movilidad funcional y basándose en las tareas reales que desempeña cada trabajador."
+                    ],
+                    "respuestaCorrecta": "El grupo profesional abarca diversas funciones y responsabilidades en una misma clasificación, promoviendo la movilidad funcional y basándose en las tareas reales que desempeña cada trabajador."
                 }
             ]
         }
