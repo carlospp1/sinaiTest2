@@ -19,7 +19,7 @@
                 },
                 {
                     "id": 2,
-                    "pregunta": "Is it correct to ask this question?: “How are you?”",
+                    "pregunta": "Is it correct to ask this question?: \"How are you?\"",
                     "opciones": [
                         "True",
                         "False"
@@ -30,7 +30,7 @@
                     "id": 3,
                     "pregunta": "What would you answer after the client has introduced himself?",
                     "opciones": [
-                        "\"Thank’s you!\"",
+                        "\"Thank's you!\"",
                         "\"An affectionate greeting to all!\"",
                         "\"See you again!\" or \"See you soon!\"",
                         "\"Thank you!\"",
@@ -106,7 +106,7 @@
                         "\"I apologize\"",
                         "\"Excuse me\"",
                         "\"I beg your pardon\"",
-                        "\"I’m sorry!\""
+                        "\"I'm sorry!\""
                     ],
                     "respuestaCorrecta": "\"I beg your pardon\""
                 },
@@ -280,12 +280,12 @@
                     "pregunta": "Point out which answer does not correspond to the question asked:",
                     "opciones": [
                         "What are your own feelings about...?  /  Personally, I believe...",
-                        "Have you come to any conclusion about...?  /  I’m convinced that...",
+                        "Have you come to any conclusion about...?  /  I'm convinced that...",
                         "Are you feeling OK?  /  Yes, I feel good",
-                        "How do you see...?  /  I don’t see nothing",
+                        "How do you see...?  /  I don't see nothing",
                         "What do you think about...?  /  In my opinion..."
                     ],
-                    "respuestaCorrecta": "How do you see...?  /  I don’t see nothing"
+                    "respuestaCorrecta": "How do you see...?  /  I don't see nothing"
                 },
                 {
                     "id": 24,
@@ -295,7 +295,10 @@
                         "Yes, I agree with you",
                         "You are absolutely right"
                     ],
-                    "respuestaCorrecta": "Yes, I agree with you, You are absolutely right"
+                    "respuestaCorrecta": [
+                        "Yes, I agree with you",
+                        "You are absolutely right"
+                    ]
                 },
                 {
                     "id": 25,
@@ -306,13 +309,22 @@
                         "You are right",
                         "It depends on your point of view"
                     ],
-                    "respuestaCorrecta": "It depends on your point of view, I am afraid I can't agree with you"
+                    "respuestaCorrecta": [
+                        "It depends on your point of view",
+                        "I am afraid I can't agree with you"
+                    ]
                 },
                 {
                     "id": 26,
                     "pregunta": "For me personally, this is a really   point of view",
-                    "opciones": [],
-                    "respuestaCorrecta": "For me personally, this is a really [interesting] point of view"
+                    "opciones": [
+                        "interesting",
+                        "interest",
+                        "interested",
+                        "interesant",
+                        "interstood"
+                    ],
+                    "respuestaCorrecta": "interesting"
                 },
                 {
                     "id": 27,
@@ -339,10 +351,10 @@
                     "id": 29,
                     "pregunta": "Which sentence is not related to \"disagreeing\"?",
                     "opciones": [
-                        "It’s difficult to say",
-                        "I’m not sure about that",
-                        "Yes, but don’t you think that…?",
-                        "I’m afraid I can’t agree with you",
+                        "It's difficult to say",
+                        "I'm not sure about that",
+                        "Yes, but don't you think that…?",
+                        "I'm afraid I can't agree with you",
                         "Yes, you have a point there"
                     ],
                     "respuestaCorrecta": "Yes, you have a point there"
@@ -775,7 +787,7 @@
                         "To whom it may concern,",
                         "I look forward to hearing from you",
                         "Best regards",
-                        "Write “Hello” in the subject line"
+                        "Write "Hello" in the subject line"
                     ],
                     "respuestaCorrecta": "To whom it may concern,, Best regards, Dear Sir / Madam"
                 },
