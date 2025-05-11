@@ -105,9 +105,10 @@ function loadQuestions(questions, savedAnswers) {
 
 		const imageHtml = question.imagen ? `<div class="question-image"><img src="${question.imagen}" alt="Imagen de apoyo" style="max-width: 100%; margin-bottom: 10px;"></div>` : "";
 
-		questionBlock.innerHTML = `${imageHtml}<div class="question">${
+		questionBlock.innerHTML = `<div class="question">${
 			index + 1
 		}. ${question.pregunta}</div>
+		${imageHtml}
                                    <div class="options">${optionsHtml}</div>
                                    ${
 																			isMultiple
