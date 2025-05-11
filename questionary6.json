@@ -928,6 +928,534 @@
                     "respuestaCorrecta": "Un documento donde se expresa la voluntad sobre cuidados médicos y el destino del cuerpo tras la muerte"
                 }
             ]
+        },
+        {
+            "evaluacion": 9,
+            "temario": "Test de repaso UF1 y UF2",
+            "preguntas": [
+                {"id": 301, "pregunta": "Los proyectos se caracterizan porque son planteados en el siguiente tiempo", "opciones": ["Entre 3 y 5 años", "Menos de un año", "Más de 5 años", "Entre 1 y 3 años"], "respuestaCorrecta": "Menos de un año"},
+                {"id": 302, "pregunta": "El porcentaje de grasa corporal es", "opciones": ["El peso entre la talla al cuadrado", "El contorno de la cintura y las caderas", "La masa grasa menos la masa libre de grasa", "La cantidad de masa grasa del cuerpo con respecto al peso total corporal expresado mediante un porcentaje"], "respuestaCorrecta": "La cantidad de masa grasa del cuerpo con respecto al peso total corporal expresado mediante un porcentaje"},
+                {"id": 303, "pregunta": "Señala la respuesta incorrecta sobre el proceso de educación para la salud", "opciones": ["El individuo no participa en el proceso", "El individuo es un futuro agente de salud", "El individuo tiene un papel activo", "Proporciona los medios necesarios para la adquisición de hábitos saludables"], "respuestaCorrecta": "El individuo no participa en el proceso"},
+                {"id": 304, "pregunta": "El peso se considera", "opciones": ["Una constante vital", "Un parámetro somatométrico complementario", "Un parámetro somatométrico básico", "Una constante secundaria"], "respuestaCorrecta": "Un parámetro somatométrico básico"},
+                {"id": 305, "pregunta": "La etapa de la planificación en la que se verifica si los resultados fueron alcanzados es", "opciones": ["Diagnóstico", "Planificación", "Evaluación", "Ejecución"], "respuestaCorrecta": "Evaluación"},
+                {"id": 306, "pregunta": "Las necesidades más básicas, en la pirámide de Maslow, se encuentran representada en", "opciones": ["La zona media", "Todas las respuestas son correctas", "La cúspide", "La base"], "respuestaCorrecta": "La base"},
+                {"id": 307, "pregunta": "Los parámetros somatométricos hacen referencia a", "opciones": ["Peso, temperatura, presión arterial y respiración", "Peso, índice de masa corporal y talla", "Índice de masa corporal, peso, talla y temperatura", "Temperatura, respiración y pulso arterial"], "respuestaCorrecta": "Peso, índice de masa corporal y talla"},
+                {"id": 308, "pregunta": "La educación para la salud se lleva a cabo en", "opciones": ["El puesto de trabajo", "El colegio", "Todas las respuestas anteriores son correctas", "El hogar"], "respuestaCorrecta": "Todas las respuestas anteriores son correctas"},
+                {"id": 309, "pregunta": "La educación para la salud se estructura en tres niveles:", "opciones": ["Objetivos, diagnóstico y planificación", "Plan, programa y proyecto", "Proyecto, cronograma y objetivos", "Planificación, programa y análisis"], "respuestaCorrecta": "Plan, programa y proyecto"},
+                {"id": 310, "pregunta": "Las medidas encaminadas a reducir la incapacidad o secuelas mediante un adecuado diagnóstico y tratamiento es", "opciones": ["Prevención secundaria", "Prevención terciaria", "Prevención cuaternaria", "Prevención primaria"], "respuestaCorrecta": "Prevención terciaria"},
+                {"id": 311, "pregunta": "En las oficinas de farmacia se trabaja en programas dirigidos por", "opciones": ["Laboratorios farmacéuticos del sector privado", "Los colegios de farmacéuticos provinciales", "Todas las respuestas son verdaderas", "Distintos organismos públicos de la comunidad o región"], "respuestaCorrecta": "Todas las respuestas son verdaderas"},
+                {"id": 312, "pregunta": "El técnico en farmacia como agente de salud debe", "opciones": ["Todas las respuestas son correctas", "Prestar su ayuda para contribuir a que la población adquiera hábitos positivos de salud", "Realizar un seguimiento del paciente para ver si ha atendido las recomendaciones que le hemos dado", "Debe motivar y enseñar habilidades destinadas a mejorar la salud"], "respuestaCorrecta": "Todas las respuestas son correctas"},
+                {"id": 313, "pregunta": "En relación a la tasa de morbilidad señale la opción correcta", "opciones": ["Todas las afirmaciones son incorrectas", "Cuantifica el impacto y la magnitud de la enfermedad en una población", "Tiene en cuenta la capacidad funcional de las personas", "Es una tasa es desuso"], "respuestaCorrecta": "Cuantifica el impacto y la magnitud de la enfermedad en una población"},
+                {"id": 314, "pregunta": "En relación con los indicadores de salud señale cuál de las afirmaciones siguientes son correctas", "opciones": ["La esperanza de vida es un indicador de salud que se obtiene de una media poblacional", "Nos dan información precisa sobre el estado de salud de esa comunidad", "Mortalidad y morbilidad son términos sinónimos", "Son parámetros estadísticos variables"], "respuestaCorrecta": "Nos dan información precisa sobre el estado de salud de esa comunidad"},
+                {"id": 315, "pregunta": "Un paciente con un IMC entre 19-25 se encuentra en estado de normo peso. ¿A partir de qué valor podremos diagnosticar un sobrepreso?", "opciones": ["25", "30", "Mayor de 25", "Mayor de 26"], "respuestaCorrecta": "Mayor de 25"},
+                {"id": 316, "pregunta": "¿Cuál NO es un principio básico de educación para la salud?", "opciones": ["Modificar hábitos no saludables para convertirlos en saludables", "Modificar conductas negativas relacionadas con la pérdida de la salud", "Promover nuevas conductas positivas favorables para mantener y mejorar la salud", "Su efectividad depende en exclusiva de los profesionales de la salud"], "respuestaCorrecta": "Su efectividad depende en exclusiva de los profesionales de la salud"},
+                {"id": 317, "pregunta": "¿Cuál de las siguientes características NO corresponde a la planificación sanitaria?", "opciones": ["La planificación sanitaria es el conjunto de decisiones y/o acciones encaminadas a la planificación de centros sanitarios", "La programación sanitaria es una etapa dentro del proceso de planificación sanitaria", "Su finalidad es sólo modificar estilos de vida", "Todas las respuestas son verdaderas"], "respuestaCorrecta": "La planificación sanitaria es el conjunto de decisiones y/o acciones encaminadas a la planificación de centros sanitarios"},
+                {"id": 318, "pregunta": "Las mamografías que se practican a mujeres para prevenir el cáncer de mama se consideran como un", "opciones": ["Una medida de prevención primaria", "Examen periódico de salud", "Una medida de prevención terciaria", "Una medida de prevención secundaria"], "respuestaCorrecta": "Una medida de prevención secundaria"},
+                {"id": 319, "pregunta": "Kalish modificó el modelo de Maslow dividiendo la etapa de necesidades fisiológicas en", "opciones": ["Necesidades de supervivencia y seguridad", "Necesidades de superación y fisiológicas", "Necesidades de supervivencia y estimulación", "Necesidades de seguridad y protección"], "respuestaCorrecta": "Necesidades de supervivencia y estimulación"},
+                {"id": 320, "pregunta": "La institución implicada en la tarea de planificar y gestionar las acciones en educación para la salud es", "opciones": ["La organización mundial de la salud", "Los hospitales", "Los colegios profesionales de los titulados sanitarios", "Los ayuntamientos"], "respuestaCorrecta": "La organización mundial de la salud"},
+                {"id": 321, "pregunta": "¿Quién propuso la siguiente definición de salud \"es un estado de completo bienestar físico, mental y social, y no solamente la ausencia de afecciones o enfermedades\"?", "opciones": ["Marc Lalonde", "Real academia de la lengua", "Hipócrates", "Organización mundial de la salud"], "respuestaCorrecta": "Organización mundial de la salud"},
+                {"id": 322, "pregunta": "En el Informe Lalonde se determina", "opciones": ["Los indicadores demográficos de salud", "El nivel de salud de una comunidad a partir de la interacción de diferentes factores", "La prevalencia de una enfermedad", "Las necesidades básicas"], "respuestaCorrecta": "El nivel de salud de una comunidad a partir de la interacción de diferentes factores"},
+                {"id": 323, "pregunta": "La teoría que aborda la clasificación de las necesidades del ser humano es", "opciones": ["Las modificaciones realizadas por Richard Kalish", "Todas las respuestas son correctas", "El modelo de Maslow", "El modelo de Virginia Henderson"], "respuestaCorrecta": "Todas las respuestas son correctas"},
+                {"id": 324, "pregunta": "Un programa dirigido a personas celíacas se considera", "opciones": ["Todas las respuestas son verdaderas", "Un programa dirigido a población enferma", "Un programa dirigido a la población general", "Un programa dirigido a personas mayores"], "respuestaCorrecta": "Un programa dirigido a población enferma"},
+                {"id": 325, "pregunta": "Cuando se altera el funcionamiento del organismo, se considera que es un síntoma", "opciones": ["Mental", "Emocional", "Social", "Corporal"], "respuestaCorrecta": "Corporal"},
+                {"id": 326, "pregunta": "Una bacteria se podría clasificar, dentro de los factores que condicionan la aparición de una enfermedad, como", "opciones": ["Agente experimental", "Agente medioambiental", "Agente patógeno", "Organismo de la persona que enferma"], "respuestaCorrecta": "Agente patógeno"},
+                {"id": 327, "pregunta": "Los siguientes son estrategias de comunicación en masas excepto una", "opciones": ["Entrevistas", "Internet/ redes sociales", "Televisión/ plataformas", "Prensa escrita"], "respuestaCorrecta": "Entrevistas"},
+                {"id": 328, "pregunta": "¿Cuáles son los determinantes de la salud?", "opciones": ["Ninguna respuesta es correcta", "Personales y económicos", "Sociales y ambientales", "Todas las respuestas son verdaderas"], "respuestaCorrecta": "Todas las respuestas son verdaderas"},
+                {"id": 329, "pregunta": "La vacunación es una medida de prevención", "opciones": ["Primaria", "Secundaria", "Cuaternaria", "Terciaria"], "respuestaCorrecta": "Primaria"},
+                {"id": 330, "pregunta": "Indica la respuesta correcta sobre el modelo de Virginia Henderson:", "opciones": ["Las necesidades básicas son las mismas para todos los seres humanos, y existen independientemente de la situación en la que se encuentre cada individuo", "Cualquier persona puede cubrir sus necesidades básicas si está sana y tiene los suficientes conocimientos para ello", "Todas las respuestas son correctas", "La autora identifica catorce necesidades básicas de todas las personas"], "respuestaCorrecta": "Todas las respuestas son correctas"}
+            ]
+        },
+        {
+            "evaluacion": 10,
+            "temario": "Test de repaso UF 3, UF4 y UF5",
+            "preguntas": [
+                {"id": 331, "pregunta": "Los preservativos son anticonceptivos del tipo", "opciones": ["Métodos esterilizantes", "Métodos barrera", "Métodos estrogénicos", "Métodos hormonales"], "respuestaCorrecta": "Métodos barrera"},
+                {"id": 332, "pregunta": "En el cuidado de la piel del cuerpo (señala la afirmación incorrecta)", "opciones": ["El pabellón auditivo no se debe limpiar con bastoncillos", "Lavar y secar bien los pies, especialmente entre los dedos", "En la zona genital es recomendable una adecuada higiene tras la micción y la defecación", "La frecuencia de lavado del cabello será de dos o tres veces por mes con champú específico según las características del mismo (normal, graso o seco)"], "respuestaCorrecta": "La frecuencia de lavado del cabello será de dos o tres veces por mes con champú específico según las características del mismo (normal, graso o seco)"},
+                {"id": 333, "pregunta": "La diferencia principal entre un estudio de cohortes y uno de casos y controles es", "opciones": ["Ambos estudian exclusivamente enfermedades crónicas", "Ambos son siempre experimentales", "Ninguno analiza factores de riesgo", "El primero es prospectivo y el segundo es retrospectivo"], "respuestaCorrecta": "El primero es prospectivo y el segundo es retrospectivo"},
+                {"id": 334, "pregunta": "De los problemas relacionados con la alimentación", "opciones": ["La obesidad supone la disminución de la masa corporal y posible aparición de enfermedades coronarias, hipertensión, entre otras.", "La anorexia supone la reafirmación de la persona en mantener el peso cercano a su ideal.", "La osteoporosis está relacionada con la pérdida de masa ósea", "La bulimia implica falta de control sobre la comida, ingiriendo pequeñas cantidades en un periodo largo de tiempo."], "respuestaCorrecta": "La osteoporosis está relacionada con la pérdida de masa ósea"},
+                {"id": 335, "pregunta": "Indica la respuesta incorrecta sobre los microorganismos", "opciones": ["Los microorganismos viven con nosotros, están en el medioambiente, integrados en el ecosistema de la naturaleza y realizando una función imprescindible para la vida del planeta", "Todas las respuestas son verdaderas", "Los microorganismos son de tamaño mayor que los parásitos", "Para observar los microorganismos, debemos recurrir al microscopio"], "respuestaCorrecta": "Los microorganismos son de tamaño mayor que los parásitos"},
+                {"id": 336, "pregunta": "La dieta debe estar adaptada a cada persona según", "opciones": ["Su metabolismo", "Todas las respuestas anteriores son verdaderas", "Su edad", "La actividad física realizada"], "respuestaCorrecta": "Todas las respuestas anteriores son verdaderas"},
+                {"id": 337, "pregunta": "Sobre la realización de un programa de educación sobre la higiene genital femenina ¿cuál de la siguiente información no es correcta?", "opciones": ["Usar un jabón suave que no altere el nivel de pH ácido", "No usar esponjas o guantes para limpiar el área genital", "Evitar el uso de desodorantes, perfumes, talcos u otros cosméticos", "Usar ropa interior muy ajustada"], "respuestaCorrecta": "Usar ropa interior muy ajustada"},
+                {"id": 338, "pregunta": "Según la Pirámide NAOS, además de la alimentación, ¿qué otro aspecto es fundamental?", "opciones": ["Dormir 8 horas diarias", "Beber únicamente agua mineral", "El consumo de suplementos vitamínicos", "La práctica de actividad física"], "respuestaCorrecta": "La práctica de actividad física"},
+                {"id": 339, "pregunta": "En la tercera edad, se recomienda aumentar la ingesta de", "opciones": ["Alcohol", "Calcio", "Grasas saturadas", "Azúcares refinados"], "respuestaCorrecta": "Calcio"},
+                {"id": 340, "pregunta": "En el ámbito de la sexualidad, indica cuál es la respuesta incorrecta", "opciones": ["Para este tema no se necesita saber nada, solo la práctica", "El apoyo de un médico o un centro de asesoramiento son fundamentales, tanto en la prevención, como en un posible tratamiento", "Los preservativos hay que utilizarlos como precaución ante situaciones de riesgo o no deseadas", "La higiene es igual de importante que en otras partes del cuerpo"], "respuestaCorrecta": "Para este tema no se necesita saber nada, solo la práctica"},
+                {"id": 341, "pregunta": "Las infecciones más comunes por contacto sexual son", "opciones": ["Sífilis, hepatitis, gonorrea, herpes genital y VIH", "Sífilis, hepatitis, salmonella, herpes genital y VIH", "Sífilis, hepatitis, gonorrea, tuberculosis y VIH", "Sífilis, hepatitis, gonorrea, gripe, herpes genital y VIH"], "respuestaCorrecta": "Sífilis, hepatitis, gonorrea, herpes genital y VIH"},
+                {"id": 342, "pregunta": "Para la limpieza de los oídos, es importante", "opciones": ["Introducir bastioncillos en el conducto auditivo", "Introducir agua en el conducto auditivo durante la ducha", "Evitar introducir objetos en el conducto auditivo", "Lavar el oído externo con agua"], "respuestaCorrecta": "Evitar introducir objetos en el conducto auditivo"},
+                {"id": 343, "pregunta": "La pediculosis consiste en", "opciones": ["Un trastorno que produce irritación por una inflamación debido a un exceso de grasa que ocasiona descamación.", "Una pérdida del cabello", "Un cambio hormonal que estimula la producción de grasa", "Una infestación por piojos"], "respuestaCorrecta": "Una infestación por piojos"},
+                {"id": 344, "pregunta": "¿Qué es una enfermedad transmisible?", "opciones": ["Una enfermedad que puede ser contagiada de una persona a otra o de animales a humanos", "Una enfermedad causada por factores ambientales", "Una enfermedad hereditaria que se pasa de padres a hijos", "Una enfermedad causada únicamente por bacterias"], "respuestaCorrecta": "Una enfermedad que puede ser contagiada de una persona a otra o de animales a humanos"},
+                {"id": 345, "pregunta": "Los macronutrientes", "opciones": ["Necesitan ser consumidos en microgramos o miligramos", "Están constituidos por vitaminas y minerales", "Son las sustancias que forman parte de los alimentos y que satisfacen las necesidades de nuestras funciones orgánicas", "Todas las respuestas son verdaderas"], "respuestaCorrecta": "Son las sustancias que forman parte de los alimentos y que satisfacen las necesidades de nuestras funciones orgánicas"},
+                {"id": 346, "pregunta": "De los elementos que aportan valor nutricional en nuestra dieta (señala la afirmación incorrecta)", "opciones": ["Los lípidos aportan ácidos grasos saturados, monoinsaturados y polinsaturados, ácidos grasos trans y colesterol", "Los glúcidos son la fuente energética primaria desde el punto de vista biológico", "Las vitaminas son elementos que aportan gran cantidad de energía y, por lo tanto, no implican calorías", "Las proteínas ayudan en el proceso de crecimiento y construcción de tejidos y órganos"], "respuestaCorrecta": "Las vitaminas son elementos que aportan gran cantidad de energía y, por lo tanto, no implican calorías"},
+                {"id": 347, "pregunta": "¿Cuál es una medida efectiva para interrumpir la cadena de infección?", "opciones": ["Aumentar el número de reservorios.", "Evitar la vacunación en grupos vulnerables", "Reducir la higiene básica", "Utilizar guantes y mascarillas para prevenir la transmisión"], "respuestaCorrecta": "Utilizar guantes y mascarillas para prevenir la transmisión"},
+                {"id": 348, "pregunta": "¿Qué nutriente tiene el valor calórico más alto por gramo?", "opciones": ["Glúcidos", "Proteínas", "Lípidos", "Fibra"], "respuestaCorrecta": "Lípidos"},
+                {"id": 349, "pregunta": "¿Cuál es el principal riesgo de padecer hipercolesterolemia?", "opciones": ["Osteoporosis", "Enfermedades cardiovasculares", "Cáncer de colon", "Diabetes tipo I"], "respuestaCorrecta": "Enfermedades cardiovasculares"},
+                {"id": 350, "pregunta": "Acerca de los métodos anticonceptivos, señala la respuesta correcta", "opciones": ["Los de esterilización voluntaria consisten en interrumpir manualmente el lugar de paso de los óvulos y de los espermatozoides", "Los de barrera favorecen el paso de los espermatozoides al interior del útero", "Los hormonales se pueden tomar por vía oral, aplicar por vía intravaginal y transdérmica, inyectables y por implante subcutáneo", "Los hormonales están compuestos por tres hormonas que tienen una gran semejanza con las producidas por el organismo masculino"], "respuestaCorrecta": "Los hormonales se pueden tomar por vía oral, aplicar por vía intravaginal y transdérmica, inyectables y por implante subcutáneo"},
+                {"id": 351, "pregunta": "¿Cuál es la enfermedad que se caracteriza por caracterizada por niveles altos de azúcar (glucosa) en la sangre?", "opciones": ["Sobrepeso", "Anemia", "Anorexia", "Diabetes"], "respuestaCorrecta": "Diabetes"},
+                {"id": 352, "pregunta": "Indica la respuesta incorrecta sobre las recomendaciones relacionadas con la alimentación que se deben ofrecer a una mujer embarazada", "opciones": ["El Omega-3 es fundamental para el desarrollo del sistema nervioso del feto", "Es muy importante la aportación de lácteos (calcio) y de ácido fólico", "Que la dieta sea variada y con poca sal", "Se debe duplicar la ingesta diaria de alimentos"], "respuestaCorrecta": "Se debe duplicar la ingesta diaria de alimentos"},
+                {"id": 353, "pregunta": "En la cadena epidemiológica, un estornudo se considera un mecanismo de transmisión", "opciones": ["No se considera vía de transmisión", "Directo", "Indirecto", "Agente causal"], "respuestaCorrecta": "Directo"},
+                {"id": 354, "pregunta": "En un estudio de casos y controles, el grupo de 'controles' está compuesto por", "opciones": ["Personas expuestas a un factor de riesgo", "Personas con enfermedades crónicas", "Personas sanas sin la enfermedad", "Personas que padecen la enfermedad"], "respuestaCorrecta": "Personas sanas sin la enfermedad"},
+                {"id": 355, "pregunta": "Para completar el cepillado de los dientes y conseguir una higiene bucal más completa se puede utilizar", "opciones": ["Raspador lingual", "Todas las respuestas son correctas", "Cepillo interproximal", "Colutorio"], "respuestaCorrecta": "Todas las respuestas son correctas"},
+                {"id": 356, "pregunta": "La candidiasis es producida por", "opciones": ["Un virus", "Papilomavirus", "Un hongo", "Un protozoo"], "respuestaCorrecta": "Un hongo"},
+                {"id": 357, "pregunta": "¿Qué se recomienda para el lavado del cabello?", "opciones": ["No aclarar", "Usar agua tibia en el cuero cabelludo", "Realizar masajes fuertes para ayudar al crecimiento del cabello", "Lavar el cabello una vez a la semana"], "respuestaCorrecta": "Usar agua tibia en el cuero cabelludo"},
+                {"id": 358, "pregunta": "La intolerancia a la lactosa se debe a", "opciones": ["Una alergia a las proteínas de la leche", "Exceso de calcio en el intestino", "La presencia de gluten en la dieta", "La falta de la enzima lactasa"], "respuestaCorrecta": "La falta de la enzima lactasa"},
+                {"id": 359, "pregunta": "Señala el método o los métodos que sirven para prevenir las ITS", "opciones": ["Pastilla del día después", "Diafragma", "Preservativo", "Todas las respuestas son correctas"], "respuestaCorrecta": "Preservativo"},
+                {"id": 360, "pregunta": "En la cadena de infección, la 'fuente' puede ser", "opciones": ["Solo alimentos contaminados", "Solo un animal infectado", "Una persona enferma, un portador asintomático o un objeto inanimado", "Solo una persona enferma"], "respuestaCorrecta": "Una persona enferma, un portador asintomático o un objeto inanimado"},
+                {"id": 361, "pregunta": "Las vitaminas liposolubles son", "opciones": ["Zinc", "A, D, E y K.", "Vitamina C", "Complejo B"], "respuestaCorrecta": "A, D, E y K."},
+                {"id": 362, "pregunta": "Indica cuál de estas enfermedades se considera infección de transmisión sexual", "opciones": ["Sida", "Gonorrea", "Herpes genital", "Todas las respuestas son correctas"], "respuestaCorrecta": "Todas las respuestas son correctas"},
+                {"id": 363, "pregunta": "La prevención en las enfermedades de transmisión sexual implica (señala la afirmación incorrecta)", "opciones": ["Haber recibido tratamiento si tu pareja sexual ha tenido una enfermedad de transmisión sexual", "Evitar el análisis y examen de enfermedades de transmisión sexual cuando se haya tenido una práctica sexual de riesgo", "Usar preservativo al tener relaciones sexuales Hablar con la pareja sexual acerca de su pasado sexual y del consumo de drogas"], "respuestaCorrecta": "Evitar el análisis y examen de enfermedades de transmisión sexual cuando se haya tenido una práctica sexual de riesgo"},
+                {"id": 364, "pregunta": "Es una forma de transmisión directa de enfermedades", "opciones": ["Aire respirado", "Carne contaminada", "Agua contaminada", "Insectos"], "respuestaCorrecta": "Aire respirado"},
+                {"id": 365, "pregunta": "No es una enfermedad de declaración obligatoria", "opciones": ["Herpes", "COVID-19", "Sífilis", "Meningitis"], "respuestaCorrecta": "Herpes"},
+                {"id": 366, "pregunta": "¿Cuál es el objetivo principal de la epidemiología?", "opciones": ["Curar enfermedades crónicas", "Estudiar exclusivamente enfermedades no transmisibles", "Desarrollar medicamentos para enfermedades raras", "Analizar los factores detonantes de una enfermedad y coordinar una solución global ante emergencias"], "respuestaCorrecta": "Analizar los factores detonantes de una enfermedad y coordinar una solución global ante emergencias"},
+                {"id": 367, "pregunta": "Un estudio de cohorte se caracteriza por", "opciones": ["Analizar datos de registros históricos sin intervención alguna", "Comparar personas enfermas con personas sanas de manera retrospectiva.", "Ser un estudio observacional prospectivo que analiza la aparición del efecto tras la exposición", "Realizar experimentos controlados en laboratorio"], "respuestaCorrecta": "Ser un estudio observacional prospectivo que analiza la aparición del efecto tras la exposición"},
+                {"id": 368, "pregunta": "¿Cuál es la distribución calórica recomendada en una dieta equilibrada?", "opciones": ["40% glúcidos, 40% proteínas, 20% lípidos", "50% proteínas, 30% glúcidos, 20% lípidos", "70% lípidos, 20% proteínas, 10% glúcidos", "60% glúcidos, 30% lípidos, 10% proteínas"], "respuestaCorrecta": "60% glúcidos, 30% lípidos, 10% proteínas"},
+                {"id": 369, "pregunta": "Para una correcta higiene de la nariz ¿es importante recomendarles a los usuarios de tu farmacia?", "opciones": ["Hacer la limpieza de la nariz sin lavarse las manos", "Introducir objetos en sus orificios nasales", "Lavar los orificios nasales con agua", "Si la mucosidad es muy abundante, pueden utilizar suero fisiológico para realizar lavados"], "respuestaCorrecta": "Si la mucosidad es muy abundante, pueden utilizar suero fisiológico para realizar lavados"},
+                {"id": 370, "pregunta": "Los microorganismos patógenos que producen enfermedades respiratorias y dermatológicas en la piel, las uñas y el cabello, y son tratados con medicamentos antimicóticos se denominan", "opciones": ["Parásitos", "Virus", "Hongos", "Bacterias"], "respuestaCorrecta": "Parásitos"}
+            ]
+        },
+        {
+            "evaluacion": 11,
+            "temario": "Test de repaso UF6, UF7 y UF8",
+            "preguntas": [
+                {
+                    "id": 372,
+                    "pregunta": "Es un método de esterilización por calor húmedo",
+                    "opciones": [
+                        "El flameado",
+                        "Autoclave",
+                        "La incineración",
+                        "La ebullición"
+                    ],
+                    "respuestaCorrecta": "Autoclave"
+                },
+                {
+                    "id": 373,
+                    "pregunta": "¿Qué fenómeno ocurre cuando una persona necesita dosis mayores de una droga para sentir el mismo efecto?",
+                    "opciones": [
+                        "Abstinencia",
+                        "Intoxicación",
+                        "Dependencia",
+                        "Tolerancia"
+                    ],
+                    "respuestaCorrecta": "Tolerancia"
+                },
+                {
+                    "id": 374,
+                    "pregunta": "¿Qué análisis se puede realizar con tiras reactivas en una farmacia?",
+                    "opciones": [
+                        "Glucosa y colesterol",
+                        "Determinación del grupo sanguíneo",
+                        "Hemograma",
+                        "Gases arteriales"
+                    ],
+                    "respuestaCorrecta": "Glucosa y colesterol"
+                },
+                {
+                    "id": 375,
+                    "pregunta": "En la oficina de farmacia se trabaja con muestras de",
+                    "opciones": [
+                        "Sangre arterial",
+                        "Todas las respuestas son correctas",
+                        "Sangre capilar",
+                        "Sangre venosa"
+                    ],
+                    "respuestaCorrecta": "Sangre capilar"
+                },
+                {
+                    "id": 376,
+                    "pregunta": "¿Por qué los adolescentes suelen evitar hacer preguntas en la farmacia?",
+                    "opciones": [
+                        "Porque creen que la farmacia no es un lugar adecuado",
+                        "Porque no les interesa su salud",
+                        "Porque no confían en los farmacéuticos",
+                        "Porque prefieren resolver sus dudas con amigos"
+                    ],
+                    "respuestaCorrecta": "Porque prefieren resolver sus dudas con amigos"
+                },
+                {
+                    "id": 377,
+                    "pregunta": "Durante el proceso del embarazo y el parto se debe brindar educación a la mujer que busque la interacción madre e hijo con el fin de favorecer",
+                    "opciones": [
+                        "Apoyo en la toma de decisiones",
+                        "Preparación para la lactancia materna",
+                        "Estrategias de afrontamiento",
+                        "Vinculo madre-hijo"
+                    ],
+                    "respuestaCorrecta": "Vinculo madre-hijo"
+                },
+                {
+                    "id": 378,
+                    "pregunta": "¿Cuál es un ejemplo de riesgo químico en un laboratorio clínico?",
+                    "opciones": [
+                        "Exposición a reactivos tóxicos",
+                        "Contacto con radiación",
+                        "Manipulación de cultivos de bacterias",
+                        "Cortes con vidrio roto"
+                    ],
+                    "respuestaCorrecta": "Exposición a reactivos tóxicos"
+                },
+                {
+                    "id": 379,
+                    "pregunta": "¿Cuál es una de las principales emociones que genera la enfermedad?",
+                    "opciones": [
+                        "Felicidad",
+                        "Soledad",
+                        "Euforia",
+                        "Indiferencia"
+                    ],
+                    "respuestaCorrecta": "Soledad"
+                },
+                {
+                    "id": 380,
+                    "pregunta": "¿Cuál es la etapa del proceso del duelo en la que la persona comienza a aceptar claramente la realidad de la pérdida, lo que puede derivar en sentimientos de tristeza y desesperanza?",
+                    "opciones": [
+                        "Negociación",
+                        "Negación",
+                        "Ira",
+                        "Depresión"
+                    ],
+                    "respuestaCorrecta": "Depresión"
+                },
+                {
+                    "id": 381,
+                    "pregunta": "¿Qué aspecto es clave en la atención psicológica de personas con VIH/SIDA?",
+                    "opciones": [
+                        "No involucrarse en su estado emocional",
+                        "Aislar al paciente para reducir el contagio",
+                        "Evitar hablar del diagnóstico",
+                        "Ayudar en la adaptación al nuevo estilo de vida"
+                    ],
+                    "respuestaCorrecta": "Ayudar en la adaptación al nuevo estilo de vida"
+                },
+                {
+                    "id": 382,
+                    "pregunta": "¿Qué estrategia puede ayudar a reducir los problemas emocionales en el puerperio?",
+                    "opciones": [
+                        "No permitir visitas de familiares",
+                        "No hablar sobre la maternidad",
+                        "Mantener el contacto piel con piel con el bebé",
+                        "Separar a la madre del bebé para que descanse"
+                    ],
+                    "respuestaCorrecta": "Mantener el contacto piel con piel con el bebé"
+                },
+                {
+                    "id": 383,
+                    "pregunta": "Unos niveles altos de glucosa en sangre pueden ayudar hacer el diagnóstico, ¿De cuál enfermedad?",
+                    "opciones": [
+                        "Hipertensión arterial",
+                        "Cáncer",
+                        "Hepatitis",
+                        "Diabetes"
+                    ],
+                    "respuestaCorrecta": "Diabetes"
+                },
+                {
+                    "id": 384,
+                    "pregunta": "¿Cuál es un equipo de protección individual (EPI) necesario en el laboratorio?",
+                    "opciones": [
+                        "Guantes desechables",
+                        "Todas son correctas",
+                        "Batas de laboratorio",
+                        "Gafas de seguridad"
+                    ],
+                    "respuestaCorrecta": "Todas son correctas"
+                },
+                {
+                    "id": 385,
+                    "pregunta": "¿Qué impacto puede tener la menopausia en la salud mental?",
+                    "opciones": [
+                        "Puede causar depresión y estrés",
+                        "Mejora la autoestima",
+                        "No tiene impacto emocional",
+                        "Disminuye la ansiedad"
+                    ],
+                    "respuestaCorrecta": "Puede causar depresión y estrés"
+                },
+                {
+                    "id": 386,
+                    "pregunta": "De las siguientes ¿Cuál es una actitud que no se debe realizar en un laboratorio?",
+                    "opciones": [
+                        "Usar guantes",
+                        "Comer",
+                        "Usar ropa especial",
+                        "Usar gafas protectoras"
+                    ],
+                    "respuestaCorrecta": "Comer"
+                },
+                {
+                    "id": 387,
+                    "pregunta": "Cuál de las siguientes afirmaciones sobre el opio no se consideran correctas",
+                    "opciones": [
+                        "Junto a los analgésicos narcóticos tienen función perturbadora de los sentidos",
+                        "Junto a los hongos alucinógenos tienen función depresora",
+                        "Ninguna es correcta",
+                        "Los opiáceos son drogas naturales de acción estimulante"
+                    ],
+                    "respuestaCorrecta": "Ninguna es correcta"
+                },
+                {
+                    "id": 388,
+                    "pregunta": "¿Qué sufijo se usa para indicar un aumento en la cantidad de células sanguíneas?",
+                    "opciones": [
+                        "-emia",
+                        "-cito",
+                        "-penia",
+                        "-osis"
+                    ],
+                    "respuestaCorrecta": "-osis"
+                },
+                {
+                    "id": 389,
+                    "pregunta": "Se puede afirmar que el alcohol es una droga depresora del SNC",
+                    "opciones": [
+                        "No siempre deprime",
+                        "Todas son falsas",
+                        "A veces se considera perturbadora de la actividad motora",
+                        "Si"
+                    ],
+                    "respuestaCorrecta": "Si"
+                },
+                {
+                    "id": 390,
+                    "pregunta": "¿Cuál es el proceso en el que se eliminan la suciedad de las superficies?",
+                    "opciones": [
+                        "Limpieza",
+                        "Esterilización",
+                        "Desinfección",
+                        "Prelimpieza"
+                    ],
+                    "respuestaCorrecta": "Limpieza"
+                },
+                {
+                    "id": 391,
+                    "pregunta": "¿Cuál de las siguientes sustancias es un ejemplo de droga perturbadora?",
+                    "opciones": [
+                        "Heroína",
+                        "Nicotina",
+                        "LSD",
+                        "Morfina"
+                    ],
+                    "respuestaCorrecta": "LSD"
+                },
+                {
+                    "id": 392,
+                    "pregunta": "Señala la opción INCORRECTA, respecto a la obtención de muestras de sangre",
+                    "opciones": [
+                        "La sangre obtenida sólo puede ser arterial o venosa.",
+                        "La punción cutánea se utiliza para técnicas que precisan poca cantidad de sangre",
+                        "El material de extracción necesario son agujas, jeringas o sistema de tubos de vacío, antiséptico, gasas, esparadrapo, anticoagulantes",
+                        "Esta sangre puede utilizarse directamente para algunos analísis como recuento de hematíes"
+                    ],
+                    "respuestaCorrecta": "La sangre obtenida sólo puede ser arterial o venosa."
+                },
+                {
+                    "id": 393,
+                    "pregunta": "¿Cuál es la función principal de la hemoglobina en la sangre?",
+                    "opciones": [
+                        "Formar plaquetas",
+                        "Regular el metabolismo",
+                        "Transportar glóbulos blancos",
+                        "Transportar oxígeno"
+                    ],
+                    "respuestaCorrecta": "Transportar oxígeno"
+                },
+                {
+                    "id": 394,
+                    "pregunta": "¿Cuál es el objetivo de etiquetar las muestras inmediatamente después de su extracción?",
+                    "opciones": [
+                        "Facilitar la lectura de los resultados",
+                        "Agilizar el transporte de la muestra",
+                        "Evitar errores de identificación",
+                        "Asegurar que la muestra sea aceptada por el laboratorio"
+                    ],
+                    "respuestaCorrecta": "Evitar errores de identificación"
+                },
+                {
+                    "id": 395,
+                    "pregunta": "La vía de transmisión del VIH es a través de",
+                    "opciones": [
+                        "La sangre",
+                        "Todas las respuestas son correctas",
+                        "Embarazo, parto o lactancia",
+                        "Relaciones sexuales sin protección"
+                    ],
+                    "respuestaCorrecta": "Todas las respuestas son correctas"
+                },
+                {
+                    "id": 396,
+                    "pregunta": "En caso de que se requiera eliminar los microrganismos de forma efectiva y por completa se debe realizar un proceso de",
+                    "opciones": [
+                        "Esterilización",
+                        "Limpieza",
+                        "Desinfección",
+                        "Prelimpieza"
+                    ],
+                    "respuestaCorrecta": "Esterilización"
+                },
+                {
+                    "id": 397,
+                    "pregunta": "¿Cuál de los siguientes es un efecto perjudicial del tabaco?",
+                    "opciones": [
+                        "Mejora de la circulación sanguínea",
+                        "Reducción de la presión arterial",
+                        "Aumento del colesterol y riesgo cardiovascular",
+                        "Aumento del apetito"
+                    ],
+                    "respuestaCorrecta": "Aumento del colesterol y riesgo cardiovascular"
+                },
+                {
+                    "id": 398,
+                    "pregunta": "Los tipos de muestras más frecuentes son",
+                    "opciones": [
+                        "Líquidos patológicos",
+                        "Líquidos Corporales",
+                        "Orina",
+                        "Frotis"
+                    ],
+                    "respuestaCorrecta": "Líquidos Corporales"
+                },
+                {
+                    "id": 399,
+                    "pregunta": "¿Qué sustancia se administra para revertir los efectos de una sobredosis de opiáceos?",
+                    "opciones": [
+                        "Metadona",
+                        "Diazepam",
+                        "Paracetamol",
+                        "Naloxona"
+                    ],
+                    "respuestaCorrecta": "Naloxona"
+                },
+                {
+                    "id": 400,
+                    "pregunta": "¿Qué droga tiene efectos depresores pero también puede clasificarse como perturbadora?",
+                    "opciones": [
+                        "Nicotina",
+                        "Anfetaminas",
+                        "Cannabis",
+                        "Alcohol"
+                    ],
+                    "respuestaCorrecta": "Cannabis"
+                },
+                {
+                    "id": 401,
+                    "pregunta": "¿Cuáles de estas fases NO pertenece a un proceso de duelo?",
+                    "opciones": [
+                        "Fase de recuperación y reconciliación consigo mismo",
+                        "Desesperación, predomina soledad y se establecen objetivos",
+                        "Búsqueda de la persona perdida con una tristeza profunda, miedo o culpabilidad a veces",
+                        "Situación de shock, desconcierto o aturdimiento"
+                    ],
+                    "respuestaCorrecta": "Desesperación, predomina soledad y se establecen objetivos"
+                },
+                {
+                    "id": 402,
+                    "pregunta": "Indica la respuesta incorrecta sobre los enfermos oncológicos",
+                    "opciones": [
+                        "Existen muchos tipos de pacientes oncológicos",
+                        "Desde el punto de vista anímico, no es lo mismo someterse a una quimioterapia que pueda conllevar la caída del pelo que exponerse a otro tratamiento",
+                        "Hay ciertos puntos comunes, como el miedo, la depresión y la angustia, y estrategias de apoyo que pueden ayudar a todos",
+                        "Como personal sanitario, le dispensaremos en la farmacia tratamiento antidepresivo, si lo consideramos necesario"
+                    ],
+                    "respuestaCorrecta": "Como personal sanitario, le dispensaremos en la farmacia tratamiento antidepresivo, si lo consideramos necesario"
+                },
+                {
+                    "id": 403,
+                    "pregunta": "Las medidas de seguridad del laboratorio son un conjunto de medidas preventivas encaminadas a",
+                    "opciones": [
+                        "Proteger la salud de las personas que trabajan en el laboratorio",
+                        "Mantener la limpieza en los equipos del laboratorio",
+                        "Mantener la calidad de las muestras en el laboratorio",
+                        "Prevenir la aparición de accidentes biológicos en el laboratorio"
+                    ],
+                    "respuestaCorrecta": "Proteger la salud de las personas que trabajan en el laboratorio"
+                },
+                {
+                    "id": 404,
+                    "pregunta": "¿Qué característica distingue a la esterilización de la desinfección?",
+                    "opciones": [
+                        "La esterilización elimina todos los microorganismos, incluidas esporas",
+                        "La desinfección es más efectiva que la esterilización",
+                        "La esterilización solo reduce microorganismos",
+                        "La desinfección es permanente"
+                    ],
+                    "respuestaCorrecta": "La esterilización elimina todos los microorganismos, incluidas esporas"
+                },
+                {
+                    "id": 405,
+                    "pregunta": "¿Cuál es la ventaja principal del análisis automatizado en farmacias?",
+                    "opciones": [
+                        "Se obtienen resultados de inmediato",
+                        "Se requiere una gran cantidad de muestra",
+                        "Requiere ayuno obligatorio",
+                        "Solo puede realizarse en hospitales"
+                    ],
+                    "respuestaCorrecta": "Se obtienen resultados de inmediato"
+                },
+                {
+                    "id": 406,
+                    "pregunta": "Señala, cuál de estas drogas de abuso se enmarca dentro de las drogas estimulantes",
+                    "opciones": [
+                        "Cannabis",
+                        "Cocaína",
+                        "LSD",
+                        "Alcohol"
+                    ],
+                    "respuestaCorrecta": "Cocaína"
+                },
+                {
+                    "id": 407,
+                    "pregunta": "¿Cuál de las siguientes pruebas requiere una muestra de orina de la primera micción de la mañana?",
+                    "opciones": [
+                        "Hemograma",
+                        "Colesterol",
+                        "Gases arteriales",
+                        "Prueba de embarazo"
+                    ],
+                    "respuestaCorrecta": "Prueba de embarazo"
+                },
+                {
+                    "id": 408,
+                    "pregunta": "¿Qué muestra biológica se obtiene mediante punción lumbar?",
+                    "opciones": [
+                        "Sangre",
+                        "Esputo",
+                        "Orina",
+                        "Líquido cefalorraquídeo"
+                    ],
+                    "respuestaCorrecta": "Líquido cefalorraquídeo"
+                },
+                {
+                    "id": 409,
+                    "pregunta": "¿Cuál es uno de los principales problemas en la sexualidad adolescente?",
+                    "opciones": [
+                        "Madurez emocional insuficiente",
+                        "Falta de relaciones de pareja",
+                        "Falta de deseo sexual",
+                        "Falta de acceso a anticonceptivos"
+                    ],
+                    "respuestaCorrecta": "Madurez emocional insuficiente"
+                },
+                {
+                    "id": 410,
+                    "pregunta": "¿Cuál de las siguientes áreas de análisis no pertenece a un laboratorio de rutina?",
+                    "opciones": [
+                        "Bioquímica clínica",
+                        "Histología",
+                        "Hematología",
+                        "Microbiología"
+                    ],
+                    "respuestaCorrecta": "Histología"
+                },
+                {
+                    "id": 411,
+                    "pregunta": "¿Cuál de las siguientes sustancias es depresora del sistema nervioso central?",
+                    "opciones": [
+                        "Cocaína",
+                        "Nicotina",
+                        "Alcohol",
+                        "Anfetaminas"
+                    ],
+                    "respuestaCorrecta": "Alcohol"
+                }
+            ]
         }
     ]
 }
