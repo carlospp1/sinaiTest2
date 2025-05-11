@@ -109,17 +109,19 @@ function loadQuestions(questions, savedAnswers) {
 	questions.forEach((question, index) => {
 		const questionBlock = document.createElement("div");
 		questionBlock.className = "question-block";
+		const imageHtml = question.imagen ? `<div class="question-image"><img src="${question.imagen}" alt="Imagen de apoyo" style="max-width: 100%; margin-bottom: 10px;"></div>` : "";
 		questionBlock.innerHTML = `
+            ${imageHtml}
             <div class="question">${index + 1}. ${question.pregunta}</div>
             <div class="options">
                 ${question?.opciones
-									.map((opcion) => {
-										const isSelected =
-											savedAnswers[`question${index}`] === opcion;
-										return `
+										.map((opcion) => {
+											const isSelected =
+												savedAnswers[`question${index}`] === opcion;
+											return `
                         <label class="option-label ${
-													isSelected ? "selected" : ""
-												}">
+												isSelected ? "selected" : ""
+											}">
                             <input type="radio" name="question${index}" value="${opcion}" ${
 											isSelected ? "checked" : ""
 										} onclick="selectOption(event, '${opcion}', ${index}, this)">
@@ -131,8 +133,8 @@ function loadQuestions(questions, savedAnswers) {
 												: ""
 										}
                         </label>`;
-									})
-									.join("")}
+										})
+										.join("")}
             </div>
             <div class="feedback" id="feedback-${index}"></div>
         `;

@@ -5512,6 +5512,1213 @@
                     "respuestaCorrecta": "El retrete tendrá acceso directo desde la zona de preparación."
                 }
             ]
+        },
+        {
+            "evaluacion": 12,
+            "temario": "Test Repaso Tema 1 a 5. Actividad de evaluación continua 1º Trimestre",
+            "preguntas": [
+                {
+                    "id": 496,
+                    "pregunta": "Según la Legislación vigente, ¿cómo se define un preparado oficinal?",
+                    "opciones": [
+                        "Producto no medicamentoso, dispensado exclusivamente por el farmacéutico y formulado bajo su dirección.",
+                        "Preparado elaborado en el servicio de farmacia hospitalaria y dispensado en oficina de farmacia, enumerado en el Formulario Nacional y que requiere receta médica para su dispensación.",
+                        "Fórmula magistral preparada en oficina de farmacia, formulada por el personal facultativo, recogida en el Formulario Nacional y destinada a ser dispensada a un paciente específico mediante prescripción médica.",
+                        "Medicamento elaborado según las Normas de Correcta Elaboración, dispensado en oficina de farmacia, enumerado en el Formulario Nacional y destinado a su entrega directa a los pacientes."
+                    ],
+                    "respuestaCorrecta": "Medicamento elaborado según las Normas de Correcta Elaboración, dispensado en oficina de farmacia, enumerado en el Formulario Nacional y destinado a su entrega directa a los pacientes."
+                },
+                {
+                    "id": 497,
+                    "pregunta": "Según la clasificación de las operaciones galénicas, la "pulverización, desagregación y granulación" forman parte de:",
+                    "opciones": [
+                        "Medición.",
+                        "Separación de componentes de forma difusional.",
+                        "Modificación de tamaño de partículas.",
+                        "Separación de componentes por medios mecánicos."
+                    ],
+                    "respuestaCorrecta": "Modificación de tamaño de partículas."
+                },
+                {
+                    "id": 498,
+                    "pregunta": "Una materia prima se dejará en "cuarentena":",
+                    "opciones": [
+                        "Hasta que pasen 40 días después de su recepción.",
+                        "Hasta su decisión de conformidad o rechazo.",
+                        "Se almacenará directamente junto al resto de materias primas, ordenadas por orden alfabético.",
+                        "Hasta que se acabe el lote anteriormente recibido de dicha materia prima."
+                    ],
+                    "respuestaCorrecta": "Hasta su decisión de conformidad o rechazo."
+                },
+                {
+                    "id": 499,
+                    "pregunta": "¿Qué material es necesario en el Laboratorio de Formulación magistral para la elaboración de fórmulas estériles?",
+                    "opciones": [
+                        "Autoclave y horno esterilizador.",
+                        "Campana/cabina de flujo laminar, autoclave y horno esterilizador.",
+                        "Moldes para óvulos o supositorios.",
+                        "Campana/ cabina de flujo laminar."
+                    ],
+                    "respuestaCorrecta": "Campana/cabina de flujo laminar, autoclave y horno esterilizador."
+                },
+                {
+                    "id": 500,
+                    "pregunta": "¿Cuál de los siguientes preparados NO está recogido en el Formulario Nacional (FN)?",
+                    "opciones": [
+                        "Fórmula Magistral No Tipificada.",
+                        "Preparado Oficinal (PO).",
+                        "PO de fitoterapia (POF).",
+                        "Fórmula Magistral Tipificada (FMT)."
+                    ],
+                    "respuestaCorrecta": "Fórmula Magistral No Tipificada."
+                },
+                {
+                    "id": 501,
+                    "pregunta": "¿Cuándo se recurre a preparar una Fórmula magistral?",
+                    "opciones": [
+                        "La dosis necesaria es distinta a la que se encuentra en las oficinas de farmacia.",
+                        "El medicamento se ha dejado de producir o fabricar a gran escala.",
+                        "Todas las respuestas anteriores son correctas.",
+                        "El paciente no tolera los excipientes de las formas farmacéuticas comerciales del p.a. escrito."
+                    ],
+                    "respuestaCorrecta": "Todas las respuestas anteriores son correctas."
+                },
+                {
+                    "id": 502,
+                    "pregunta": "¿Qué nombre recibe el producto que ha pasado por todas las fases de preparación, EXCEPTO el acondicionamiento final?",
+                    "opciones": [
+                        "Materia prima.",
+                        "Producto terminado.",
+                        "Principio activo.",
+                        "Producto a granel."
+                    ],
+                    "respuestaCorrecta": "Producto a granel."
+                },
+                {
+                    "id": 503,
+                    "pregunta": "¿Cuál de los siguientes datos es de OBLIGADO registro en la cumplimentación de la "Guía de elaboración, control y registro"?",
+                    "opciones": [
+                        "Cálculo de las cantidades necesarias de las materias primas y del envase.",
+                        "La fecha de dispensación y fecha de caducidad de la fórmula magistral.",
+                        "Modus operandi.",
+                        "Todas las opciones anteriores deben ser registradas obligatoriamente en la Guía de elaboración, control y registro."
+                    ],
+                    "respuestaCorrecta": "Todas las opciones anteriores deben ser registradas obligatoriamente en la Guía de elaboración, control y registro."
+                },
+                {
+                    "id": 504,
+                    "pregunta": "Los códigos FN/2003/PA/004 y FN/2003/EX/016 son:",
+                    "opciones": [
+                        "De dos materias primas.",
+                        "De dos preparados fitoterápicos.",
+                        "De dos principios activos.",
+                        "De dos excipientes."
+                    ],
+                    "respuestaCorrecta": "De dos materias primas."
+                },
+                {
+                    "id": 505,
+                    "pregunta": "¿Cuál es el libro oficial que recopila las monografías que describen la calidad física, química y biológica que deben cumplir los p.a. y los excipientes destinados al uso humano y veterinario en España?",
+                    "opciones": [
+                        "Código Nacional de Medicamentos (CNM).",
+                        "Real Farmacopea Española (RFE).",
+                        "Procedimientos Normalizados de Trabajo (PNT).",
+                        "Formulario Nacional (FN)."
+                    ],
+                    "respuestaCorrecta": "Real Farmacopea Española (RFE)."
+                },
+                {
+                    "id": 506,
+                    "pregunta": "Señala la opción CORRECTA respecto al uso o utilidades de los PNT:",
+                    "opciones": [
+                        "Todas las respuestas anteriores son correctas.",
+                        "Que todo el personal sepa lo que tiene que hacer, cómo y cuándo.",
+                        "Que si se produce algún error en el procedimiento se localice con facilidad.",
+                        "Que la documentación que se utiliza siempre tenga el mismo formato y diseño."
+                    ],
+                    "respuestaCorrecta": "Todas las respuestas anteriores son correctas."
+                },
+                {
+                    "id": 507,
+                    "pregunta": "¿Qué documento relativo a las fórmulas magistrales y preparados oficinales recoge la información necesaria para saber cómo se efectuó una preparación?",
+                    "opciones": [
+                        "Una guía de elaboración, control y registro.",
+                        "Una hoja de especificaciones.",
+                        "Una ficha de control de calidad.",
+                        "Un procedimiento normalizado de elaboración y control."
+                    ],
+                    "respuestaCorrecta": "Una guía de elaboración, control y registro."
+                },
+                {
+                    "id": 508,
+                    "pregunta": "Con respecto a la operación de desagregación:",
+                    "opciones": [
+                        "Para su ejecución es necesario únicamente contar con un mortero.",
+                        "La luz de malla del tamiz es independiente del sólido que quiero desagregar.",
+                        "La humedad facilita que la desagregación se lleve a cabo de forma más rápida.",
+                        "Su objetivo es deshacer los aglomerados en los productos pulverulentos."
+                    ],
+                    "respuestaCorrecta": "Su objetivo es deshacer los aglomerados en los productos pulverulentos."
+                },
+                {
+                    "id": 509,
+                    "pregunta": "Si recibimos en la farmacia una fórmula magistral financiada por el SNS a través de una receta pública, ¿qué debe hacer el farmacéutico en la receta?",
+                    "opciones": [
+                        "Pegar una etiqueta identificativa con el código de barras 500017.",
+                        "Adjuntar una etiqueta con el código nacional del p.a. y los excipientes que componen la fórmula.",
+                        "Incluir una etiqueta con el número de lote de fabricación del laboratorio proveedor del p.a. y los excipientes de la fórmula.",
+                        "Pegar una etiqueta con el número de registro interno de las materias primas utilizadas en la fórmula."
+                    ],
+                    "respuestaCorrecta": "Pegar una etiqueta identificativa con el código de barras 500017."
+                },
+                {
+                    "id": 510,
+                    "pregunta": "¿En cuál de las siguientes operaciones galénica NO se utiliza un tamiz?",
+                    "opciones": [
+                        "Tamización.",
+                        "Agregación.",
+                        "Análisis granulométrico.",
+                        "Desagregación."
+                    ],
+                    "respuestaCorrecta": "Agregación."
+                },
+                {
+                    "id": 511,
+                    "pregunta": "Si las materias primas que se adquieren para la elaboración de una fórmula magistral son controladas por un "distribuidor autorizado" junto con su boletín de análisis, ¿qué debe hacer el farmacéutico en la OF?",
+                    "opciones": [
+                        "Prueba simple de identificación para su aceptación.",
+                        "Hacer un control analítico completo de dichas materias primas.",
+                        "Todas las respuestas anteriores son correctas.",
+                        "Elaborar una ficha de control de calidad o contratar a un laboratorio acreditado."
+                    ],
+                    "respuestaCorrecta": "Prueba simple de identificación para su aceptación."
+                },
+                {
+                    "id": 512,
+                    "pregunta": "En la extracción con disolventes:",
+                    "opciones": [
+                        "En la digestión, infusión y cocción se aplica calor.",
+                        "Con la maceración conseguimos extracciones incompletas del principio activo.",
+                        "La sustancia que queremos separar debe ser soluble en el disolvente utilizado.",
+                        "Todas las respuestas anteriores son correctas."
+                    ],
+                    "respuestaCorrecta": "Todas las respuestas anteriores son correctas."
+                },
+                {
+                    "id": 513,
+                    "pregunta": "Cuando se realiza la dispensación de una fórmula magistral:",
+                    "opciones": [
+                        "Al recoger la fórmula magistral se debe informar o entregar al paciente la información para su uso correcto.",
+                        "La dispensación de la fórmula magistral (cuando precise receta médica) se debe escribir en el Libro Recetario.",
+                        "La receta debe cumplir con todos los requisitos de cumplimentación según normativa.",
+                        "Todas las opciones anteriores son correctas."
+                    ],
+                    "respuestaCorrecta": "Todas las opciones anteriores son correctas."
+                },
+                {
+                    "id": 514,
+                    "pregunta": "¿Cuáles son las etapas del proceso de Liofilización?",
+                    "opciones": [
+                        "Es un proceso de desecación primaria con desecador, seguido de una desecación secundaria con estufa de secado.",
+                        "Congelación, sublimación o desecación primaria por sublimación en vacío y desecación secundaria para eliminar la humedad residual.",
+                        "Es un proceso de evaporación del agua, u otro disolvente, de un material sólido.",
+                        "Evaporación por aumento de la temperatura y evaporación por disminución de la presión."
+                    ],
+                    "respuestaCorrecta": "Congelación, sublimación o desecación primaria por sublimación en vacío y desecación secundaria para eliminar la humedad residual."
+                },
+                {
+                    "id": 515,
+                    "pregunta": "La dispensación de una fórmula magistral se debe realizar por:",
+                    "opciones": [
+                        "Todos los servicios de farmacia y centros de salud estén o no autorizados para formular.",
+                        "El paciente tendrá que buscar la farmacia que tenga laboratorio de formulación y esté autorizada para ello.",
+                        "Solo aquellas farmacias que tengan un laboratorio de formulación magistral.",
+                        "Todas las oficinas de farmacia están obligadas a dispensar las fórmulas magistrales, independientemente de si formulan o no."
+                    ],
+                    "respuestaCorrecta": "Todas las oficinas de farmacia están obligadas a dispensar las fórmulas magistrales, independientemente de si formulan o no."
+                },
+                {
+                    "id": 516,
+                    "pregunta": "Señala la afirmación INCORRECTA en relación a la centrifugación:",
+                    "opciones": [
+                        "Es una operación similar a la decantación, pero con la aplicación de una fuerza giratoria.",
+                        "Los componentes más densos se desplazan hacia el eje de rotación, flotando en la parte superior.",
+                        "Nos permite separar sólidos en suspensión y líquidos en emulsión en función de su densidad.",
+                        "El sobrenadante es la parte que contiene los componentes menos densos."
+                    ],
+                    "respuestaCorrecta": "Los componentes más densos se desplazan hacia el eje de rotación, flotando en la parte superior."
+                },
+                {
+                    "id": 517,
+                    "pregunta": "¿Cuál de los siguientes instrumentos pertenece al equipamiento del laboratorio de "nivel I" de formulación magistral?",
+                    "opciones": [
+                        "Todas las respuestas anteriores son correctas.",
+                        "Agitador magnético.",
+                        "Lente de aumento (o microscopio).",
+                        "pH-metro."
+                    ],
+                    "respuestaCorrecta": "Todas las respuestas anteriores son correctas."
+                },
+                {
+                    "id": 518,
+                    "pregunta": "Según la Normativa vigente, ¿qué dispensaciones deben registrarse en el Libro Recetario?",
+                    "opciones": [
+                        "Todos los preparados oficinales que no necesiten receta médica.",
+                        "Todas las fórmulas magistrales y preparados oficinales sin necesidad de receta médica.",
+                        "Todas las fórmulas magistrales y preparados oficinales con necesidad de receta médica.",
+                        "Todas las fórmulas magistrales que no requieran receta médica."
+                    ],
+                    "respuestaCorrecta": "Todas las fórmulas magistrales y preparados oficinales con necesidad de receta médica."
+                },
+                {
+                    "id": 519,
+                    "pregunta": "¿Cuál es la documentación relativa a las "materias primas"?",
+                    "opciones": [
+                        "Registro, especificaciones y ficha de control de calidad.",
+                        "PN de elaboración y control, etiquetado e información al paciente.",
+                        "Ficha de control de calidad y registro del material de acondicionamiento.",
+                        "PN de elaboración y control, y Guía de elaboración, control y registro."
+                    ],
+                    "respuestaCorrecta": "Registro, especificaciones y ficha de control de calidad."
+                },
+                {
+                    "id": 520,
+                    "pregunta": "¿Qué conceptos deben tenerse en cuenta al valorar una fórmula magistral?",
+                    "opciones": [
+                        "Honorarios profesionales, el precio de los p.a., los excipientes, el envase y el IVA vigente para los medicamentos.",
+                        "El precio de los PA y excipientes con un IVA del 21%.",
+                        "El precio es libre y privado en cada oficina de farmacia, aunque se ve influenciado por la competencia del mercado.",
+                        "Todas las fórmulas magistrales tendrán un precio tasado especificado en un listado del Colegio Oficial de Farmacéuticos (COF)."
+                    ],
+                    "respuestaCorrecta": "Honorarios profesionales, el precio de los p.a., los excipientes, el envase y el IVA vigente para los medicamentos."
+                },
+                {
+                    "id": 521,
+                    "pregunta": "En relación con la calidad en la formulación magistral, ¿qué significan las siglas "NCF"?",
+                    "opciones": [
+                        "Normas de Control de Fórmulas.",
+                        "Novedad en el Campo Farmacéutico.",
+                        "Normas de Control Farmacéutico.",
+                        "Normas de Correcta Fabricación."
+                    ],
+                    "respuestaCorrecta": "Normas de Correcta Fabricación."
+                },
+                {
+                    "id": 522,
+                    "pregunta": "En el FN se describe el procedimiento "mezcla de polvos" como:",
+                    "opciones": [
+                        "Forma farmacéutica.",
+                        "Procedimiento general.",
+                        "Control de producto.",
+                        "Operación farmacéutica."
+                    ],
+                    "respuestaCorrecta": "Operación farmacéutica."
+                },
+                {
+                    "id": 523,
+                    "pregunta": "Señala la opción INCORRECTA respecto a la "hoja de especificaciones" de una materia prima:",
+                    "opciones": [
+                        "Es válida para cualquier lote de fabricación de la materia prima.",
+                        "Es un documento obligatorio que detalla las características de calidad de la materia prima, incluyendo las condiciones de manipulación.",
+                        "También se conoce como ficha técnica de la materia prima.",
+                        "Es válida únicamente para un lote de fabricación específico de la materia prima."
+                    ],
+                    "respuestaCorrecta": "Es válida únicamente para un lote de fabricación específico de la materia prima."
+                },
+                {
+                    "id": 524,
+                    "pregunta": "¿Cómo se dividen las áreas de un Laboratorio Galénico en una oficina de farmacia dónde se elaboran fórmulas magistrales?",
+                    "opciones": [
+                        "Zona de limpieza y zona de almacenamiento de residuos.",
+                        "Zona no estéril y zona estéril.",
+                        "Zona de almacenamiento de materias primas y zona de almacenamiento del material de acondicionamiento.",
+                        "Zona de almacenamiento y zona de elaboración y control."
+                    ],
+                    "respuestaCorrecta": "Zona de almacenamiento y zona de elaboración y control."
+                },
+                {
+                    "id": 525,
+                    "pregunta": "¿Qué material se utiliza para realizar diversas operaciones con líquidos (como mezclar y agitar), pero NO sirve para medir volúmenes exactos?",
+                    "opciones": [
+                        "Tamices para polvo grueso, fino y muy fino.",
+                        "Vaso de precipitados.",
+                        "Pesasustancias.",
+                        "Vidrio de reloj."
+                    ],
+                    "respuestaCorrecta": "Vaso de precipitados."
+                },
+                {
+                    "id": 526,
+                    "pregunta": "Un Laboratorio Galénico acreditado para elaborar preparados oftálmicos e inyectables, ¿a qué nivel de Laboratorio pertenece?",
+                    "opciones": [
+                        "Nivel IV.",
+                        "Nivel II.",
+                        "Nivel III.",
+                        "Nivel I."
+                    ],
+                    "respuestaCorrecta": "Nivel III."
+                },
+                {
+                    "id": 527,
+                    "pregunta": "Interpreta el siguiente código: PN/L/PG/004/00:",
+                    "opciones": [
+                        "Procedimiento de Control de Producto para determinar la extensiblidad.",
+                        "Procedimiento de Operaciones Farmacéuticas para la pesada.",
+                        "Procedimiento General sobre atribuciones del personal de una farmacia.",
+                        "Procedimiento de Elaboración de Forma Farmacéutica: pastas."
+                    ],
+                    "respuestaCorrecta": "Procedimiento General sobre atribuciones del personal de una farmacia."
+                },
+                {
+                    "id": 528,
+                    "pregunta": "Señala la opción INCORRECTA:",
+                    "opciones": [
+                        "La destilación es una operación galénica para separar dos líquidos según sus distintos puntos de ebullición.",
+                        "La maceración se realiza a temperatura ambiente para extraer principios activos, como en la obtención de tinturas.",
+                        "La centrífuga separa los componentes de distinta densidad mediante un giro a elevadas revoluciones por minuto.",
+                        "La decantación separa los componentes de distinta densidad por la gravedad, quedando el líquido más denso en la fase superior."
+                    ],
+                    "respuestaCorrecta": "La decantación separa los componentes de distinta densidad por la gravedad, quedando el líquido más denso en la fase superior."
+                },
+                {
+                    "id": 529,
+                    "pregunta": "¿Cómo se llama el número que cada oficina de farmacia asigna a las materias primas o materiales de acondicionamiento aceptados para identificarlos?",
+                    "opciones": [
+                        "Número de control de calidad.",
+                        "Número de lote.",
+                        "Número de especificaciones.",
+                        "Número de registro interno."
+                    ],
+                    "respuestaCorrecta": "Número de registro interno."
+                },
+                {
+                    "id": 530,
+                    "pregunta": "¿Dónde aparece la "fórmula patrón"?",
+                    "opciones": [
+                        "Todas las respuestas anteriores son correctas.",
+                        "En el registro, hoja de especificaciones y ficha de control de calidad.",
+                        "En el procedimiento Normalizado de Elaboración y control de una fórmula magistral (PNT).",
+                        "En la Guía de elaboración, control y registro."
+                    ],
+                    "respuestaCorrecta": "En el procedimiento Normalizado de Elaboración y control de una fórmula magistral (PNT)."
+                },
+                {
+                    "id": 531,
+                    "pregunta": "¿Qué documento debe redactar el farmacéutico para elaborar una fórmula magistral que NO está recogida en el Formulario Nacional?",
+                    "opciones": [
+                        "Una ficha técnica que incluya la descripción del p.a., indicaciones terapéuticas, posología, y condiciones de conservación.",
+                        "Un procedimiento normalizado de elaboración y control.",
+                        "Una guía de elaboración, control y registro.",
+                        "Un registro normalizado de los datos de la formulación."
+                    ],
+                    "respuestaCorrecta": "Un procedimiento normalizado de elaboración y control."
+                },
+                {
+                    "id": 532,
+                    "pregunta": "Señala la RELACIÓN CORRECTA:",
+                    "opciones": [
+                        "Evaporación- Concentración de los extractos (alta concentración del principio activo).",
+                        "Desecación- Aumento de la proliferación microbiana.",
+                        "Esencias o aceites esenciales- Se obtienen por destilación de sólidos.",
+                        "Liofilización- Alta humedad residual."
+                    ],
+                    "respuestaCorrecta": "Evaporación- Concentración de los extractos (alta concentración del principio activo)."
+                },
+                {
+                    "id": 533,
+                    "pregunta": "Señala el PRIMER paso en el proceso de RECEPCIÓN de una materia prima:",
+                    "opciones": [
+                        "Comprobar que el albarán de entrega coincide con el material pedido.",
+                        "Etiquetar directamente y dejar en cuarentena la materia prima.",
+                        "Comprobar el precio y el estado del embalaje de la materia prima.",
+                        "Asignar un número de registro."
+                    ],
+                    "respuestaCorrecta": "Comprobar que el albarán de entrega coincide con el material pedido."
+                },
+                {
+                    "id": 534,
+                    "pregunta": "Tras realizar una centrifugación, la fracción de la mezcla que se queda por debajo del sobrenadante se llama:",
+                    "opciones": [
+                        "Cernido.",
+                        "Pliegue.",
+                        "Pellet (sedimento).",
+                        "Rechazo."
+                    ],
+                    "respuestaCorrecta": "Pellet (sedimento)."
+                },
+                {
+                    "id": 535,
+                    "pregunta": "Sobre las características generales del local de preparación de la formulación magistral, señala la opción INCORRECTA:",
+                    "opciones": [
+                        "Debe tener un tamaño adecuado al trabajo que se vaya a realizar.",
+                        "Las superficies como suelos, paredes y techos deben ser lisas y sin grietas.",
+                        "Debe contar con una buena ventilación e iluminación.",
+                        "El retrete tendrá acceso directo desde la zona de preparación."
+                    ],
+                    "respuestaCorrecta": "El retrete tendrá acceso directo desde la zona de preparación."
+                }
+            ]
+        },
+        {
+            "evaluacion": 13,
+            "temario": "Test Repaso Tema 6 a 10. Actividad de evaluación continua 2º Trimestre",
+            "preguntas": [
+                {
+                    "id": 536,
+                    "pregunta": "¿Cuál de las siguientes formas farmacéuticas líquidas orales tiene una viscosidad adecuada para actuar localmente sobre la mucosa oral en el tratamiento de la gingivitis?",
+                    "opciones": [
+                        "Elixir",
+                        "Colutorio",
+                        "Gel bucal",
+                        "Poción"
+                    ],
+                    "respuestaCorrecta": "Colutorio"
+                },
+                {
+                    "id": 537,
+                    "pregunta": "¿Cuáles son los componentes principales de las suspensiones como forma farmacéutica?",
+                    "opciones": [
+                        "Fase acuosa, fase oleosa y agentes emulgentes",
+                        "Soluto y disolvente",
+                        "Fase acuosa, fase oleosa y agentes auxiliares",
+                        "Fase sólida, fase líquida y sustancias coadyuvantes"
+                    ],
+                    "respuestaCorrecta": "Fase sólida, fase líquida y sustancias coadyuvantes"
+                },
+                {
+                    "id": 538,
+                    "pregunta": "¿Cuál de las siguientes formas farmacéuticas se elabora en una campana de flujo laminar horizontal?",
+                    "opciones": [
+                        "Pomadas óticas",
+                        "Gotas óticas",
+                        "Irrigaciones destinadas a zonas no lesionadas",
+                        "Colirios"
+                    ],
+                    "respuestaCorrecta": "Colirios"
+                },
+                {
+                    "id": 539,
+                    "pregunta": "NO forma parte del acondicionamiento primario:",
+                    "opciones": [
+                        "Ampollas",
+                        "Prospecto",
+                        "Blíster",
+                        "Cápsulas"
+                    ],
+                    "respuestaCorrecta": "Prospecto"
+                },
+                {
+                    "id": 540,
+                    "pregunta": "Indica la afirmación CORRECTA acerca de los sistemas dispersos:",
+                    "opciones": [
+                        "La fase dispersante (mayoritaria) es el medio en que las partículas activas se encuentran dispersas",
+                        "La fase dispersa es la que se encuentra en mayor proporción",
+                        "La fase dispersa es la externa y normalmente es la sustancia inactiva",
+                        "Tanto la fase dispersa como la dispersante se encuentran en la misma proporción"
+                    ],
+                    "respuestaCorrecta": "La fase dispersante (mayoritaria) es el medio en que las partículas activas se encuentran dispersas"
+                },
+                {
+                    "id": 541,
+                    "pregunta": "¿Qué se debe tener en cuenta para prevenir fallos en la elaboración de las cremas como formas farmacéuticas?",
+                    "opciones": [
+                        "Se debe emulsionar por adición de la fase oleosa sobre la acuosa",
+                        "La adición de principios activos termolábiles debe realizarse durante el calentamiento de la fase oleosa",
+                        "La adición de la fase acuosa sobre la oleosa debe ser rápida y sin agitación",
+                        "Ambas fases deben estar a la misma temperatura en el momento de su mezcla"
+                    ],
+                    "respuestaCorrecta": "Ambas fases deben estar a la misma temperatura en el momento de su mezcla"
+                },
+                {
+                    "id": 542,
+                    "pregunta": "NO es una característica propia de los jarabes:",
+                    "opciones": [
+                        "Se presentan en envases multidosis y se dosifican fácilmente",
+                        "Sabor dulce",
+                        "Demulcente",
+                        "Líquidos heterogéneos y muy opacos"
+                    ],
+                    "respuestaCorrecta": "Líquidos heterogéneos y muy opacos"
+                },
+                {
+                    "id": 543,
+                    "pregunta": "¿Cuál de los siguientes NO es un control de calidad específico de las cápsulas?",
+                    "opciones": [
+                        "Control de uniformidad de peso",
+                        "Extensibilidad aparente",
+                        "Ensayo de disgregación",
+                        "Control organoléptico"
+                    ],
+                    "respuestaCorrecta": "Extensibilidad aparente"
+                },
+                {
+                    "id": 544,
+                    "pregunta": "¿Cuál de las siguientes NO corresponde a una forma de clasificación de los comprimidos?",
+                    "opciones": [
+                        "De liberación controlada",
+                        "Obtenidos por vía seca y por vía húmeda",
+                        "Desleíbles",
+                        "Recubiertos"
+                    ],
+                    "respuestaCorrecta": "Obtenidos por vía seca y por vía húmeda"
+                },
+                {
+                    "id": 545,
+                    "pregunta": "Una disolución sobresaturada se define como:",
+                    "opciones": [
+                        "La cantidad de soluto es mayor que el coeficiente de solubilidad",
+                        "Puede disolverse más cantidad de soluto",
+                        "La cantidad de soluto es menor que el coeficiente de solubilidad",
+                        "La cantidad de soluto es igual al coeficiente de solubilidad"
+                    ],
+                    "respuestaCorrecta": "La cantidad de soluto es mayor que el coeficiente de solubilidad"
+                },
+                {
+                    "id": 546,
+                    "pregunta": "¿Qué mide el \"factor de desplazamiento\" en la elaboración de supositorios?",
+                    "opciones": [
+                        "Los gramos de excipiente desplazados por un gramo de principio activo",
+                        "La temperatura a la cual el excipiente se funde o derrite",
+                        "La cantidad de principio activo desplazada por un gramo de excipiente",
+                        "La cantidad de principio activo necesaria para una dosis efectiva"
+                    ],
+                    "respuestaCorrecta": "Los gramos de excipiente desplazados por un gramo de principio activo"
+                },
+                {
+                    "id": 547,
+                    "pregunta": "Las cápsulas de gelatina dura gastrorresistentes son aquellas que …",
+                    "opciones": [
+                        "Contienen el principio activo recubierto para impedir su liberación en el intestino",
+                        "Tienen el principio activo en forma de gránulos consiguiendo una liberación sostenida del mismo",
+                        "Incluyen el principio activo recubierto para una liberación prolongada en el estómago",
+                        "Llevan el principio activo recubierto para impedir su liberación en el jugo gástrico"
+                    ],
+                    "respuestaCorrecta": "Llevan el principio activo recubierto para impedir su liberación en el jugo gástrico"
+                },
+                {
+                    "id": 548,
+                    "pregunta": "Si clasificamos las formas farmacéuticas según su sistema de dosificación, podemos hablar de:",
+                    "opciones": [
+                        "Unidosis y multidosis",
+                        "Formas de liberación convencional y de liberación prolongada",
+                        "Oral, sublingual, rectal, inhalatoria, tópica y parenteral",
+                        "Sólidas, líquidas y gaseosas"
+                    ],
+                    "respuestaCorrecta": "Unidosis y multidosis"
+                },
+                {
+                    "id": 549,
+                    "pregunta": "¿A qué vía de administración corresponde la siguiente definición? \"Los fármacos deben ser estériles, isotónicos, no contener pirógenos y estar destinados a ser inyectados o implantados en el cuerpo humano\".",
+                    "opciones": [
+                        "Vía ótica",
+                        "Vía oftálmica",
+                        "Vía oral",
+                        "Vía parenteral"
+                    ],
+                    "respuestaCorrecta": "Vía parenteral"
+                },
+                {
+                    "id": 550,
+                    "pregunta": "Una emulsión A/O:",
+                    "opciones": [
+                        "La fase interna es oleosa y la fase externa acuosa",
+                        "Es una emulsión de aceite en agua",
+                        "Es una crema hidrófila",
+                        "Es una crema hidrófoba"
+                    ],
+                    "respuestaCorrecta": "Es una crema hidrófoba"
+                },
+                {
+                    "id": 551,
+                    "pregunta": "¿Cuáles son los principales componentes de los geles?",
+                    "opciones": [
+                        "Soluto, agentes gelificantes y reguladores de pH",
+                        "Disolvente, agentes emulgentes y gelificantes",
+                        "Disolvente, agentes emulgentes y reguladores de pH",
+                        "Disolvente, agentes gelificantes y reguladores de pH"
+                    ],
+                    "respuestaCorrecta": "Disolvente, agentes gelificantes y reguladores de pH"
+                },
+                {
+                    "id": 552,
+                    "pregunta": "¿Cuál de los siguientes envases es impermeable a los sólidos, líquidos y a los gases en condiciones normales de manipulación, almacenamiento y trasporte?",
+                    "opciones": [
+                        "Envase unidosis",
+                        "Envase hermético",
+                        "Envase bien cerrado",
+                        "Envase sellado"
+                    ],
+                    "respuestaCorrecta": "Envase hermético"
+                },
+                {
+                    "id": 553,
+                    "pregunta": "El jarabe simple lleva en su composición:",
+                    "opciones": [
+                        "Un 36% de sacarosa y un 64% de agua",
+                        "Un 64% de sacarosa y un 36% de alcohol",
+                        "Uno o varios principios activos, sacarosa y agua",
+                        "Un 64% de sacarosa y un 36% de agua"
+                    ],
+                    "respuestaCorrecta": "Un 64% de sacarosa y un 36% de agua"
+                },
+                {
+                    "id": 554,
+                    "pregunta": "¿Cuál de las siguientes formas farmacéuticas líquidas orales es de uso tópico para tratar una faringitis?",
+                    "opciones": [
+                        "Enjuague bucal",
+                        "Gargarismo",
+                        "Jarabe",
+                        "Elixir"
+                    ],
+                    "respuestaCorrecta": "Gargarismo"
+                },
+                {
+                    "id": 555,
+                    "pregunta": "La acción de los agentes floculantes en la formulación de las suspensiones es:",
+                    "opciones": [
+                        "Favorecer la solubilidad del sólido insoluble en el líquido",
+                        "Formar aglomerados muy compactos que son más fáciles de dispersar tras agitación",
+                        "Favorecer la sedimentación de las partículas sólidas",
+                        "Formar masas poco compactas que facilita la dispersión tras agitación"
+                    ],
+                    "respuestaCorrecta": "Formar masas poco compactas que facilita la dispersión tras agitación"
+                },
+                {
+                    "id": 556,
+                    "pregunta": "¿Cómo se denominan los excipientes cuya función es aumentar el volumen o tamaño del comprimido?",
+                    "opciones": [
+                        "Absorbentes",
+                        "Lubricantes",
+                        "Aglutinantes",
+                        "Diluyentes"
+                    ],
+                    "respuestaCorrecta": "Diluyentes"
+                },
+                {
+                    "id": 557,
+                    "pregunta": "NO es una alteración propia de los jarabes:",
+                    "opciones": [
+                        "Turbidez",
+                        "Precipitación del azúcar",
+                        "Caramelización del azúcar",
+                        "Transformación del azúcar en lactosa"
+                    ],
+                    "respuestaCorrecta": "Transformación del azúcar en lactosa"
+                },
+                {
+                    "id": 558,
+                    "pregunta": "Respecto al uso del capsulador, indica la respuesta INCORRECTA:",
+                    "opciones": [
+                        "El capsulador consta de un armazón y un conjunto de 3 placas numeradas (dos de color negro y una blanca)",
+                        "El llenado de las cápsulas es volumétrico, y a veces, es necesario compactar el polvo",
+                        "El \"golpe del boticario\" consiste en dar un golpe seco para asegurar el cierre de las cápsulas",
+                        "Hay que colocar las cápsulas con el cuerpo (receptáculo) hacia abajo y la tapa (cabeza) hacia arriba en la placa blanca"
+                    ],
+                    "respuestaCorrecta": "El capsulador consta de un armazón y un conjunto de 3 placas numeradas (dos de color negro y una blanca)"
+                },
+                {
+                    "id": 559,
+                    "pregunta": "En una solución hidroalcohólica:",
+                    "opciones": [
+                        "Tanto el soluto como el disolvente son sólidos",
+                        "Tanto el soluto como el disolvente son líquidos",
+                        "El soluto es líquido y el disolvente gaseoso",
+                        "El soluto es sólido y el disolvente es líquido"
+                    ],
+                    "respuestaCorrecta": "Tanto el soluto como el disolvente son líquidos"
+                },
+                {
+                    "id": 560,
+                    "pregunta": "¿Cómo se llama la capacidad de los geles para cambiar su viscosidad, de volverse líquidos por agitación y recuperar su consistencia semisólida en reposo?",
+                    "opciones": [
+                        "Imbibición",
+                        "Tixotropia",
+                        "Adsorción",
+                        "Humectación"
+                    ],
+                    "respuestaCorrecta": "Tixotropia"
+                },
+                {
+                    "id": 561,
+                    "pregunta": "¿Qué tipo de granulación se utiliza para principios activos termolábiles?",
+                    "opciones": [
+                        "Por vía seca",
+                        "Por vía húmeda",
+                        "Se añade una solución aglutinante y posteriormente se seca en estufa a 40º-50ºC",
+                        "Se adiciona un disgregante para elaborar los granulados"
+                    ],
+                    "respuestaCorrecta": "Por vía seca"
+                },
+                {
+                    "id": 562,
+                    "pregunta": "Los linimentos son formas farmacéuticas líquidas que se aplican tópicamente mediante:",
+                    "opciones": [
+                        "Inhalaciones",
+                        "Fricción o masaje",
+                        "Aerosoles",
+                        "Sin fricción"
+                    ],
+                    "respuestaCorrecta": "Fricción o masaje"
+                },
+                {
+                    "id": 563,
+                    "pregunta": "Cuando el principio activo tiene una acción farmacológica muy elevada y un estrecho margen terapéutico, ¿qué método se utiliza para elaborar los papelillos?",
+                    "opciones": [
+                        "Es indiferente, ya que no se requiere una precisión tan precisa y controlada",
+                        "Control de peso",
+                        "A visu",
+                        "Mezclado por dilución"
+                    ],
+                    "respuestaCorrecta": "Control de peso"
+                },
+                {
+                    "id": 564,
+                    "pregunta": "¿Qué tipo de emulgente se utiliza en la elaboración de emulsiones O/A?",
+                    "opciones": [
+                        "Emulgentes de HLB elevado (máxima hidrofilia)",
+                        "Emulgentes de HLB bajo (máxima lipofilia)",
+                        "Emulgentes de pH elevado",
+                        "Emulgentes de pH bajo"
+                    ],
+                    "respuestaCorrecta": "Emulgentes de HLB elevado (máxima hidrofilia)"
+                },
+                {
+                    "id": 565,
+                    "pregunta": "Un paciente acude a la farmacia a por unas gotas óticas para una otitis, ¿dónde exactamente le recomendarías la aplicación?",
+                    "opciones": [
+                        "En el conducto auditivo externo",
+                        "En la capa interna del globo ocular",
+                        "En la capa externa del globo ocular",
+                        "En el conducto auditivo interno"
+                    ],
+                    "respuestaCorrecta": "En el conducto auditivo externo"
+                },
+                {
+                    "id": 566,
+                    "pregunta": "Señala la opción INCORRECTA acerca de las etiquetas de los envases de fórmulas magistrales y preparados oficinales:",
+                    "opciones": [
+                        "Hay 2 tipos: etiqueta completa y abreviada",
+                        "Debe aparecer la advertencia: \"Manténgase fuera del alcance de los niños\"",
+                        "El etiquetado se realizará siguiendo las pautas establecidas en la Farmacopea Española",
+                        "Los caracteres de las etiquetas deben ser fácilmente legibles, claramente comprensibles y escritos con tinta indeleble"
+                    ],
+                    "respuestaCorrecta": "El etiquetado se realizará siguiendo las pautas establecidas en la Farmacopea Española"
+                },
+                {
+                    "id": 567,
+                    "pregunta": "Una pomada hidrófoba es aquella que:",
+                    "opciones": [
+                        "Sus excipientes son miscibles con el agua, como los alcoholes",
+                        "Puede absorber grandes cantidades de agua",
+                        "Puede producir emulsiones O/A o A/O",
+                        "Tiene gran oclusividad y actua como barrera para impedir la deshidratación"
+                    ],
+                    "respuestaCorrecta": "Tiene gran oclusividad y actua como barrera para impedir la deshidratación"
+                },
+                {
+                    "id": 568,
+                    "pregunta": "¿Qué es el material de acondicionamiento?",
+                    "opciones": [
+                        "Cualquier material empleado en el proceso de acondicionar productos farmacéuticos, a excepción de los embalajes utilizados para el transporte o envío",
+                        "El sistema empleado para mantener la temperatura de almacenamiento constante",
+                        "Cualquier material empleado en el proceso de formulación de productos farmacéuticos",
+                        "Material del que está compuesta la caja del medicamento"
+                    ],
+                    "respuestaCorrecta": "Cualquier material empleado en el proceso de acondicionar productos farmacéuticos, a excepción de los embalajes utilizados para el transporte o envío"
+                },
+                {
+                    "id": 569,
+                    "pregunta": "¿Qué forma farmacéutica requiere la adición de agentes emulgentes?",
+                    "opciones": [
+                        "Linimento",
+                        "Gel",
+                        "Crema",
+                        "Pasta"
+                    ],
+                    "respuestaCorrecta": "Crema"
+                },
+                {
+                    "id": 570,
+                    "pregunta": "¿En qué tipo de sistemas dispersos se diferencia la fase dispersa de la dispersante?",
+                    "opciones": [
+                        "En los sistemas heterogéneos o polifásicos",
+                        "En las disoluciones",
+                        "En los sistemas homogéneos",
+                        "En los sistemas monofásicos"
+                    ],
+                    "respuestaCorrecta": "En los sistemas heterogéneos o polifásicos"
+                },
+                {
+                    "id": 571,
+                    "pregunta": "¿Qué tipo de agua de mar recomendarías a un paciente con mucha congestión nasal?",
+                    "opciones": [
+                        "Suero fisiológico salino al 0,9%",
+                        "Hipertónica",
+                        "Hipotónica",
+                        "Isotónica"
+                    ],
+                    "respuestaCorrecta": "Hipertónica"
+                },
+                {
+                    "id": 572,
+                    "pregunta": "Referente a las formas de administración parenteral, ¿qué significa la ausencia de \"pirógenos\"?",
+                    "opciones": [
+                        "Que el vial de la forma parenteral ha sido desinfectado",
+                        "Que el fármaco tiene un punto de fusión inferior a 37ºC",
+                        "Qué está ausente de hongos",
+                        "Ausencia de sustancias que pueden aumentar la temperatura corporal"
+                    ],
+                    "respuestaCorrecta": "Ausencia de sustancias que pueden aumentar la temperatura corporal"
+                },
+                {
+                    "id": 573,
+                    "pregunta": "¿Dónde se encuentra la información del prospecto para el paciente en las FMT y PO?",
+                    "opciones": [
+                        "La hoja de información al paciente no es obligatoria en el proceso de la dispensación",
+                        "En la monografía correspondiente del FN",
+                        "El farmacéutico debe elaborar la hoja de información al paciente",
+                        "La hoja de información al paciente forma parte del acondicionamiento primario"
+                    ],
+                    "respuestaCorrecta": "En la monografía correspondiente del FN"
+                },
+                {
+                    "id": 574,
+                    "pregunta": "NO es una función del material de acondicionamiento:",
+                    "opciones": [
+                        "Presentación",
+                        "Protección",
+                        "Reaccionar químicamente con el medicamento, cediendo componentes o modificando las características del mismo",
+                        "Identificación e información"
+                    ],
+                    "respuestaCorrecta": "Reaccionar químicamente con el medicamento, cediendo componentes o modificando las características del mismo"
+                },
+                {
+                    "id": 575,
+                    "pregunta": "¿Cuál es la vía de administración utilizada para las insulinas y heparinas?",
+                    "opciones": [
+                        "Subcutánea",
+                        "Intravenosa",
+                        "Intradérmica",
+                        "Intramuscular"
+                    ],
+                    "respuestaCorrecta": "Subcutánea"
+                },
+                {
+                    "id": 576,
+                    "pregunta": "Los comprimidos son formas farmacéuticas sólidas que se elaboran por:",
+                    "opciones": [
+                        "Fusión",
+                        "Encapsulación",
+                        "Moldeado",
+                        "Compresión mecánica"
+                    ],
+                    "respuestaCorrecta": "Compresión mecánica"
+                },
+                {
+                    "id": 577,
+                    "pregunta": "¿Qué nombre recibe las preparaciones farmacéuticas que contienen elevadas proporciones de sólidos pulverulentos dispersos en la base?",
+                    "opciones": [
+                        "Pasta",
+                        "Pomada",
+                        "Cataplasma",
+                        "Gel"
+                    ],
+                    "respuestaCorrecta": "Pasta"
+                },
+                {
+                    "id": 578,
+                    "pregunta": "¿Qué tipo de crema recomendarías a un paciente con piel normal y/o con procesos dermatológicos agudos?",
+                    "opciones": [
+                        "Cremas lipófilas",
+                        "Cremas hidrófobas",
+                        "Cremas emulsionadas",
+                        "Cremas hidrófilas"
+                    ],
+                    "respuestaCorrecta": "Cremas hidrófilas"
+                },
+                {
+                    "id": 579,
+                    "pregunta": "Un paciente acude a la farmacia buscando un producto para limpiar y vaciar el colon y recto antes de someterse a una colonoscopia, ¿qué le recomendarías?",
+                    "opciones": [
+                        "Enema emulsionado",
+                        "Enema de retención",
+                        "Supositorio de acción mecánica o de acción local",
+                        "Enema de limpieza"
+                    ],
+                    "respuestaCorrecta": "Enema de limpieza"
+                },
+                {
+                    "id": 580,
+                    "pregunta": "¿Cuál de los siguientes envases revela de forma inequívoca si el envase ha sido abierto previamente?",
+                    "opciones": [
+                        "Envase con cierre inviolable",
+                        "Envase con cierre retráctil",
+                        "Envase con cierre a prueba de niños",
+                        "Envase multidosis"
+                    ],
+                    "respuestaCorrecta": "Envase con cierre inviolable"
+                },
+                {
+                    "id": 581,
+                    "pregunta": "¿Qué tipo de forma farmacéutica semisólida tópica recomendarías para un bebé con lesiones húmedas e inflamadas, que ayude a disminuir la temperatura de la zona tratada al evaporarse el agua?",
+                    "opciones": [
+                        "Pasta al agua",
+                        "Loción tópica",
+                        "Pasta Lassar",
+                        "Pasta grasa"
+                    ],
+                    "respuestaCorrecta": "Pasta al agua"
+                },
+                {
+                    "id": 582,
+                    "pregunta": "Indica la OPCIÓN INCORRECTA respecto a los parches transdérmicos:",
+                    "opciones": [
+                        "Ejercen un efecto local mediante oclusión en la zona dónde se han aplicado",
+                        "Son preparados galénicos de administración tópica",
+                        "El principio activo se libera de forma controlada y continua",
+                        "El principio activo pasa a circulación sistémica atravesando las capas de la piel"
+                    ],
+                    "respuestaCorrecta": "Ejercen un efecto local mediante oclusión en la zona dónde se han aplicado"
+                },
+                {
+                    "id": 583,
+                    "pregunta": "Las cápsulas de gelatina blanda:",
+                    "opciones": [
+                        "Se denominan perlas y constan de una única pieza",
+                        "Se utilizan solo para administrar principios activos sólidos en polvo o granulados",
+                        "Son cápsulas gastrorresistentes",
+                        "Son las más utilizadas en formulación magistral, debido a que exigen una tecnología que es fácil rentabilizar"
+                    ],
+                    "respuestaCorrecta": "Se denominan perlas y constan de una única pieza"
+                }
+            ]
+        },
+        {
+            "evaluacion": 14,
+            "temario": "Test Repaso FM CÁLCULOS. Actividad de evaluación continua 3º Trimestre",
+            "preguntas": [
+                {
+                    "id": 584,
+                    "pregunta": "Utiliza la tabla de capacidades para preparar 25 cápsulas con 300 mg de p.a. El volumen total de principio activo ocupa 21 ml. Calcula el volumen total de excipiente que necesitas: Datos: Nº cápsula 000 (1,37 ml), nº 00 (1,00 ml), nº 0 (0,68 ml), nº 1 (0,50 ml), nº 2 (0,37 ml), nº 3 (0,30 ml), nº 4 (0,20 ml), nº 5 (0,13 ml).",
+                    "opciones": [
+                        "4 ml.",
+                        "7 ml.",
+                        "21 ml.",
+                        "17 ml."
+                    ],
+                    "respuestaCorrecta": "4 ml."
+                },
+                {
+                    "id": 585,
+                    "pregunta": "Indica qué significa el código FN/2003/PO/006:",
+                    "opciones": [
+                        "Monografía del Formulario Nacional del Preparado Oficinal número 3, aprobado en el año 2006.",
+                        "Monografía del Formulario Nacional de la Fórmula Magistral Tipificada número 6, aprobada en el año 2003.",
+                        "Monografía del Formulario Nacional del Preparado Oficinal número 6, aprobado en el año 2003.",
+                        "Monografía del Formulario Nacional del Preparado Oficinal número 6, versión tercera."
+                    ],
+                    "respuestaCorrecta": "Monografía del Formulario Nacional del Preparado Oficinal número 6, aprobado en el año 2003."
+                },
+                {
+                    "id": 586,
+                    "pregunta": "Quiero elaborar 70 ml de una solución de agua boricada. ¿Qué cantidad de ácido bórico y agua purificada necesitaré? Fórmula patrón: Ácido bórico: 3 g Agua purificada c.s.p. 100 ml.",
+                    "opciones": [
+                        "Ácido bórico 2,1 g y agua purificada c.s.p. 70 ml.",
+                        "Ácido bórico 2,1 g y agua purificada 67,9 ml.",
+                        "Ácido bórico 3 g y agua purificada 67 ml.",
+                        "Ácido bórico 3 g y agua purificada c.s.p. 70 ml."
+                    ],
+                    "respuestaCorrecta": "Ácido bórico 2,1 g y agua purificada c.s.p. 70 ml."
+                },
+                {
+                    "id": 587,
+                    "pregunta": "Nos piden elaborar 50 g de pomada de bálsamo de Perú. Teniendo en cuenta su fórmula patrón en el FN/2006/PO/041, ¿qué cantidad de vaselina blanca necesitaré? Fórmula patrón: Bálsamo del Perú 6 g Aceite de ricino virgen 6 g Cera blanca de abeja 28 g Vaselina blanca c.s.p. 100 g",
+                    "opciones": [
+                        "50 g.",
+                        "40 g.",
+                        "60 g.",
+                        "30 g."
+                    ],
+                    "respuestaCorrecta": "30 g."
+                },
+                {
+                    "id": 588,
+                    "pregunta": "Recibes la siguiente prescripción: 500 mg de p.a/12 h/20 días. Sabiendo que el volumen total de principio activo ocupa 12 ml. Calcula el volumen total de excipiente que necesitas: Datos: Nº cápsula 000 (1,37 ml), nº 00 (1,00 ml), nº 0 (0,68 ml), nº 1 (0,50 ml), nº 2 (0,37 ml), nº 3 (0,30 ml), nº 4 (0,20 ml), nº 5 (0,13 ml).",
+                    "opciones": [
+                        "12 ml.",
+                        "No tenemos que añadir excipiente (0 ml).",
+                        "8 ml.",
+                        "4 ml."
+                    ],
+                    "respuestaCorrecta": "No tenemos que añadir excipiente (0 ml)."
+                },
+                {
+                    "id": 589,
+                    "pregunta": "Realiza la valoración económica de 100 cápsulas de 500 mg de ácido acetil salicílico. Datos: Honorarios: precio de 1 a 10 unidades 17,75 € y precio por cada unidad más 0,355000 €. p.a. Ácido acetil salicílico: 0,136997 €/g. Excipientes: 0,03 €/unidad. Envase para formas farmacéuticas sólidas: 1,25 €. IVA.",
+                    "opciones": [
+                        "64,66 €.",
+                        "60,80 €.",
+                        "39,65 €.",
+                        "63,23 €."
+                    ],
+                    "respuestaCorrecta": "63,23 €."
+                },
+                {
+                    "id": 590,
+                    "pregunta": "Recibes la siguiente prescripción: 500 mg de p.a/12 h/20 días. Sabiendo que el volumen total de principio activo ocupa 12 ml. Calcula el número de cápsula que necesitas (tamaño de cápsula): Datos: Nº cápsula 000 (1,37 ml), nº 00 (1,00 ml), nº 0 (0,68 ml), nº 1 (0,50 ml), nº 2 (0,37 ml), nº 3 (0,30 ml), nº 4 (0,20 ml), nº 5 (0,13 ml).",
+                    "opciones": [
+                        "Cápsula nº 3.",
+                        "Cápsula nº 1.",
+                        "Cápsula nº 2.",
+                        "Cápsula nº 4."
+                    ],
+                    "respuestaCorrecta": "Cápsula nº 3."
+                },
+                {
+                    "id": 591,
+                    "pregunta": "Quiero preparar 150 ml de una disolución de suero glucosado al 5% para niños a partir del suero glucosado al 7,5% para adultos. ¿Qué cantidad de agua necesitaré para preparar la solución diluida (solución hija)?",
+                    "opciones": [
+                        "50 ml.",
+                        "75 ml.",
+                        "150 ml.",
+                        "100 ml."
+                    ],
+                    "respuestaCorrecta": "50 ml."
+                },
+                {
+                    "id": 592,
+                    "pregunta": "Realiza la valoración económica de 100 ml de jarabe de propranolol 2 mg/ml. Datos: Honorarios: jarabe solución de 1 a 100 ml 21,30 €. P.a. propranolol: 1,131241 €/g. Excipientes: 1,85 €/100 ml. Envase: para FF líquidas 0,90 €. IVA.",
+                    "opciones": [
+                        "29,25 €.",
+                        "25,25 €.",
+                        "25,07 €.",
+                        "25,13 €."
+                    ],
+                    "respuestaCorrecta": "25,25 €."
+                },
+                {
+                    "id": 593,
+                    "pregunta": "Nos piden elaborar 250 ml de unas gotas óticas de ácido acético. ¿Qué cantidad de ácido acético glacial y etanol al 70% necesitaré? Fórmula patrón: Ácido acético glacial 0,66 ml Etanol 70% c.s.p. 100 ml.",
+                    "opciones": [
+                        "1,65 ml de ácido acético glacial y 248,35 ml de etanol al 70%.",
+                        "0,825 ml de ácido acético glacial y c.s.p. 248,35 ml de etanol al 70%.",
+                        "1,65 ml de ácido acético glacial y 250 ml de etanol al 70%.",
+                        "0,825 ml de ácido acético glacial y 248,35 ml de etanol al 70%."
+                    ],
+                    "respuestaCorrecta": "1,65 ml de ácido acético glacial y 248,35 ml de etanol al 70%."
+                },
+                {
+                    "id": 594,
+                    "pregunta": "Quiero preparar 150 ml de una disolución de suero glucosado al 5% para niños a partir del suero glucosado al 7,5% para adultos. ¿Qué cantidad de suero glucosado concentrado (solución madre) necesitaré?",
+                    "opciones": [
+                        "50 ml.",
+                        "100 ml.",
+                        "75 ml.",
+                        "150 ml."
+                    ],
+                    "respuestaCorrecta": "100 ml."
+                },
+                {
+                    "id": 595,
+                    "pregunta": "Utiliza la tabla de capacidades para preparar 25 cápsulas con 300 mg de p.a. El volumen total de principio activo ocupa 21 ml. Calcula el número de cápsula que necesitas (tamaño de cápsula): Datos: Nº cápsula 000 (1,37 ml), nº 00 (1,00 ml), nº 0 (0,68 ml), nº 1 (0,50 ml), nº 2 (0,37 ml), nº 3 (0,30 ml), nº 4 (0,20 ml), nº 5 (0,13 ml).",
+                    "opciones": [
+                        "Cápsula nº 0.",
+                        "Cápsula nº 00.",
+                        "Cápsula nº 000.",
+                        "Cápsula nº 1."
+                    ],
+                    "respuestaCorrecta": "Cápsula nº 00."
+                },
+                {
+                    "id": 596,
+                    "pregunta": "Quiero elaborar 80 ml de alcohol de 75º necesario para una fórmula magistral, y solo dispongo de alcohol de 96º. ¿Qué cantidad de alcohol de 96º y de agua necesitas para preparar 80 ml de alcohol de 75º? Datos: tabla de alcoholimetría (tienes que mirar la tabla y luego realizar los cálculos para 80 ml).",
+                    "opciones": [
+                        "19 ml de alcohol de 96º + 61 ml de agua.",
+                        "61 ml de alcohol de 96º + 19 ml de agua.",
+                        "100 ml de alcohol de 96º + 31,08 ml de agua.",
+                        "31,08 ml de agua + 100 ml de alcohol de 96º."
+                    ],
+                    "respuestaCorrecta": "61 ml de alcohol de 96º + 19 ml de agua.",
+                    "imagen": "img/tabla-alcoholimetria.png"
+                },
+                {
+                    "id": 597,
+                    "pregunta": "Calcula la cantidad de emulgente de HLB 4 y HLB 11 que se necesitan para obtener 35 ml de un emulgente de HLB 6 necesario para elaborar una crema.",
+                    "opciones": [
+                        "25 ml del emulgente HLB11 y 10 ml del emulgente HLB4.",
+                        "25 ml del emulgente HLB11 y HLB4.",
+                        "10 ml del emulgente HLB11 y HLB4.",
+                        "25 ml del emulgente HLB4 y 10 ml del emulgente HLB11."
+                    ],
+                    "respuestaCorrecta": "25 ml del emulgente HLB4 y 10 ml del emulgente HLB11."
+                },
+                {
+                    "id": 598,
+                    "pregunta": "Recibes la siguiente prescripción: 500 mg de p.a/12 h/20 días. Sabiendo que el volumen total de principio activo ocupa 12 ml. Calcula la cantidad total de cápsulas que necesita el paciente para cumplir la posología:",
+                    "opciones": [
+                        "60 cápsulas.",
+                        "40 cápsulas.",
+                        "30 cápsulas.",
+                        "20 cápsulas."
+                    ],
+                    "respuestaCorrecta": "40 cápsulas."
+                },
+                {
+                    "id": 599,
+                    "pregunta": "Recibes la siguiente prescripción: 500 mg de ácido acetil salicílico cada 4 horas durante 10 días. Suponiendo que el volumen total del principio activo ocupa 16 ml. Calcula el número de cápsula que necesitas (tamaño de cápsula): Datos: Nº cápsula 000 (1,37 ml), nº 00 (1,00 ml), nº 0 (0,68 ml), nº 1 (0,50 ml), nº 2 (0,37 ml), nº 3 (0,30 ml), nº 4 (0,20 ml), nº 5 (0,13 ml).",
+                    "opciones": [
+                        "Cápsula nº 3.",
+                        "Cápsula nº 2.",
+                        "Cápsula nº 4.",
+                        "Cápsula nº 1."
+                    ],
+                    "respuestaCorrecta": "Cápsula nº 3."
+                },
+                {
+                    "id": 600,
+                    "pregunta": "Nos piden elaborar 125 g de pomada de bálsamo de Perú. ¿Qué cantidad de aceite de ricino necesitaré? Fórmula patrón: Bálsamo del Perú 6 g Aceite de ricino virgen 6 g Cera blanca de abeja 28 g Vaselina blanca c.s.p. 100 g",
+                    "opciones": [
+                        "35 g.",
+                        "6 g.",
+                        "75 g.",
+                        "7,5 g."
+                    ],
+                    "respuestaCorrecta": "7,5 g."
+                },
+                {
+                    "id": 601,
+                    "pregunta": "Indica qué significa el código FN/2003/FMT/005:",
+                    "opciones": [
+                        "Monografía del Formulario Nacional del Preparado Oficinal número 5, aprobado en el año 2003.",
+                        "Monografía del Formulario Nacional de la Fórmula Magistral Tipificada número 5, aprobada en el año 2003.",
+                        "Monografía del Formulario Nacional de la Fórmula Magistral número 5, aprobada en el año 2003.",
+                        "Monografía del Formulario Nacional de la Fórmula Magistral Tipificada número 5, versión tercera."
+                    ],
+                    "respuestaCorrecta": "Monografía del Formulario Nacional de la Fórmula Magistral Tipificada número 5, aprobada en el año 2003."
+                },
+                {
+                    "id": 602,
+                    "pregunta": "Indica que significa el código descrito para esta preparación: FN/2006/PO/041.",
+                    "opciones": [
+                        "Monografía del Formulario Nacional del Preparado Oficinal número 41, aprobado en el año 2006.",
+                        "Monografía del Formulario Nacional del Preparado Oficinal número 41, versión sexta.",
+                        "Monografía del Formulario Nacional de la Formula Magistral número 41, aprobada en el año 2006.",
+                        "Monografía del Formulario Nacional del Preparado Oficinal número 6, aprobado en el año 2006."
+                    ],
+                    "respuestaCorrecta": "Monografía del Formulario Nacional del Preparado Oficinal número 41, aprobado en el año 2006."
+                },
+                {
+                    "id": 603,
+                    "pregunta": "Nos piden elaborar un tubo de 250 g de pasta Lassar. Teniendo en cuenta su fórmula patrón en el FN/2003/PO/018, ¿qué cantidad de óxido de zinc necesitaré? Fórmula patrón: Óxido de zinc 25 g Almidón de arroz 25 g Parafina filante c.s.p.100 g",
+                    "opciones": [
+                        "62,5 g.",
+                        "50 g.",
+                        "100 g.",
+                        "25 g."
+                    ],
+                    "respuestaCorrecta": "62,5 g."
+                }
+            ]
         }
     ]
 }
