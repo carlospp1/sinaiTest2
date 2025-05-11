@@ -26,20 +26,41 @@ function verifyQuestion(question) {
     
     // Verificar que la respuesta correcta está en las opciones (comparación exacta)
     if (question.respuestaCorrecta && question.opciones) {
-        const respuestaExacta = question.opciones.find(opcion => 
-            opcion === question.respuestaCorrecta
-        );
-        
-        if (!respuestaExacta) {
-            // Si no hay coincidencia exacta, buscar coincidencias parciales para el reporte
-            const coincidenciasParciales = question.opciones.filter(opcion => 
-                opcion.toLowerCase().trim() === question.respuestaCorrecta.toLowerCase().trim()
+        // Si la respuesta correcta es un array (respuestas múltiples)
+        if (Array.isArray(question.respuestaCorrecta)) {
+            // Comprobar que todas las respuestas están en las opciones
+            const noCoinciden = question.respuestaCorrecta.filter(resp =>
+                !question.opciones.includes(resp)
             );
-            
-            if (coincidenciasParciales.length > 0) {
-                errors.push(`La respuesta correcta no coincide exactamente. Coincidencias parciales encontradas: ${coincidenciasParciales.join(', ')}`);
-            } else {
-                errors.push('La respuesta correcta no está en las opciones');
+            if (noCoinciden.length > 0) {
+                errors.push(`Las siguientes respuestas correctas no están en las opciones: ${noCoinciden.join(', ')}`);
+            }
+            // Comprobar coincidencias parciales para cada respuesta
+            question.respuestaCorrecta.forEach(resp => {
+                if (!question.opciones.includes(resp)) {
+                    const parciales = question.opciones.filter(opcion =>
+                        opcion.toLowerCase().trim() === resp.toLowerCase().trim()
+                    );
+                    if (parciales.length > 0) {
+                        errors.push(`La respuesta correcta "${resp}" no coincide exactamente. Coincidencias parciales encontradas: ${parciales.join(', ')}`);
+                    }
+                }
+            });
+        } else {
+            // Si es string (respuesta única)
+            const respuestaExacta = question.opciones.find(opcion =>
+                opcion === question.respuestaCorrecta
+            );
+            if (!respuestaExacta) {
+                // Si no hay coincidencia exacta, buscar coincidencias parciales para el reporte
+                const coincidenciasParciales = question.opciones.filter(opcion =>
+                    opcion.toLowerCase().trim() === question.respuestaCorrecta.toLowerCase().trim()
+                );
+                if (coincidenciasParciales.length > 0) {
+                    errors.push(`La respuesta correcta no coincide exactamente. Coincidencias parciales encontradas: ${coincidenciasParciales.join(', ')}`);
+                } else {
+                    errors.push('La respuesta correcta no está en las opciones');
+                }
             }
         }
     }

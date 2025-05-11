@@ -533,7 +533,7 @@
                         "I understand",
                         "Could you speak slowly?"
                     ],
-                    "respuestaCorrecta": "I don't understand you, Could you speak slowly?"
+                    "respuestaCorrecta": "I don't understand you"
                 },
                 {
                     "id": 44,
@@ -544,7 +544,7 @@
                         "This is totally unacceptable!",
                         "Who is in charge here?"
                     ],
-                    "respuestaCorrecta": "This is totally unacceptable!, Who is in charge here?"
+                    "respuestaCorrecta": "This is totally unacceptable!"
                 },
                 {
                     "id": 45,
@@ -777,7 +777,10 @@
                         "See you soon!",
                         "Write short and concise sentences"
                     ],
-                    "respuestaCorrecta": "I am writing in reference to your request / with regard to / in response to..., Write short and concise sentences"
+                    "respuestaCorrecta": [
+                        "Write short and concise sentences",
+                        "I am writing in reference to your request / with regard to / in response to..."
+                    ]
                 },
                 {
                     "id": 65,
@@ -787,9 +790,13 @@
                         "To whom it may concern,",
                         "I look forward to hearing from you",
                         "Best regards",
-                        "Write "Hello" in the subject line"
+                        "Write \"Hello\" in the subject line"
                     ],
-                    "respuestaCorrecta": "To whom it may concern,, Best regards, Dear Sir / Madam"
+                    "respuestaCorrecta": [
+                        "To whom it may concern,",
+                        "Best regards",
+                        "Dear Sir / Madam"
+                    ]
                 },
                 {
                     "id": 66,
