@@ -1142,6 +1142,232 @@
                     "respuestaCorrecta": "El grupo profesional abarca diversas funciones y responsabilidades en una misma clasificación, promoviendo la movilidad funcional y basándose en las tareas reales que desempeña cada trabajador."
                 }
             ]
-        }
+        },
+        {
+            "evaluacion": 7,
+            "temario": "Simulacro de Examen",
+            "preguntas": [
+                {
+                    "id": 102,
+                    "pregunta": "¿Cuál de las funciones esenciales de una empresa genera valor económico en la sociedad?:",
+                    "opciones": [
+                        "Gestionar organismos públicos descentralizados",
+                        "Legislar sobre las actividades comerciales",
+                        "Establecer la política fiscal estatal",
+                        "Transformar recursos en bienes y servicios para cubrir necesidades"
+                    ],
+                    "respuestaCorrecta": "Transformar recursos en bienes y servicios para cubrir necesidades"
+                },
+                {
+                    "id": 103,
+                    "pregunta": "¿Qué implica la responsabilidad limitada de los socios en una sociedad mercantil?:",
+                    "opciones": [
+                        "Responden de forma personal e ilimitada con su patrimonio",
+                        "Pueden ser embargados por las deudas de otros socios",
+                        "Solo responden hasta el límite del capital aportado a la sociedad",
+                        "Tienen derecho automático a beneficios fiscales"
+                    ],
+                    "respuestaCorrecta": "Solo responden hasta el límite del capital aportado a la sociedad"
+                },
+                {
+                    "id": 104,
+                    "pregunta": "¿Qué implica el liderazgo en un equipo de trabajo?:",
+                    "opciones": [
+                        "Motivar, coordinar y orientar al grupo hacia objetivos comunes",
+                        "Evitar conflictos manteniéndose al margen",
+                        "Limitarse a delegar funciones técnicas",
+                        "Aplicar normas sin considerar la opinión del grupo"
+                    ],
+                    "respuestaCorrecta": "Motivar, coordinar y orientar al grupo hacia objetivos comunes"
+                },
+                {
+                    "id": 105,
+                    "pregunta": "¿Qué efecto tiene un exceso de demanda sobre el precio del producto en un mercado competitivo?:",
+                    "opciones": [
+                        "Tiende a aumentar hasta equilibrarse con la oferta disponible",
+                        "Se produce un colapso inmediato del sistema de precios",
+                        "Se mantiene constante debido al control del estado",
+                        "Tiende a disminuir por la falta de oferta"
+                    ],
+                    "respuestaCorrecta": "Tiende a aumentar hasta equilibrarse con la oferta disponible"
+                },
+                {
+                    "id": 106,
+                    "pregunta": "¿Qué tipo de motivación se basa en el reconocimiento externo como incentivo al desempeño?:",
+                    "opciones": [
+                        "Motivación extrínseca",
+                        "Motivación innata",
+                        "Motivación trascendental",
+                        "Motivación vocacional"
+                    ],
+                    "respuestaCorrecta": "Motivación extrínseca"
+                },
+                {
+                    "id": 107,
+                    "pregunta": "¿Qué dimensión/tamaño tiene una empresa con 45 trabajadores y 8 millones de activo?:",
+                    "opciones": [
+                        "Grande.",
+                        "Pequeña.",
+                        "Mediana.",
+                        "Microempresa."
+                    ],
+                    "respuestaCorrecta": "Pequeña."
+                },
+                {
+                    "id": 108,
+                    "pregunta": "Los objetivos, según su naturaleza, se pueden clasificar en:",
+                    "opciones": [
+                        "Objetivos estratégicos, tácticos y operacionales.",
+                        "Objetivos de largo, mediano y corto plazo.",
+                        "Objetivos relevantes e insignificantes.",
+                        "Objetivos generales y específicos."
+                    ],
+                    "respuestaCorrecta": "Objetivos generales y específicos."
+                },
+                {
+                    "id": 109,
+                    "pregunta": "¿En cuál de los siguientes tipos de mercados las empresas NO tienen influencia sobre los precios?:",
+                    "opciones": [
+                        "Competencia perfecta.",
+                        "Competencia monopolística.",
+                        "Oligopolio.",
+                        "Monopolio."
+                    ],
+                    "respuestaCorrecta": "Competencia perfecta."
+                },
+                {
+                    "id": 110,
+                    "pregunta": "¿Qué diferencia clave existe entre las 4P y las 4C en estrategias de marketing?:",
+                    "opciones": [
+                        "Las 4P se usan en canales digitales, las 4C en tiendas físicas",
+                        "Las 4P aplican solo en campañas institucionales",
+                        "Las 4C se centran en las necesidades del cliente, mientras que las 4P giran en torno al producto",
+                        "Las 4C excluyen totalmente el análisis de producto"
+                    ],
+                    "respuestaCorrecta": "Las 4C se centran en las necesidades del cliente, mientras que las 4P giran en torno al producto"
+                },
+                {
+                    "id": 111,
+                    "pregunta": "¿Qué representa la \"Plaza\" dentro del marketing mix tradicional?:",
+                    "opciones": [
+                        "La red de distribución y canales de acceso al producto",
+                        "El posicionamiento del producto en buscadores",
+                        "El coste logístico del inventario",
+                        "El valor simbólico del producto para el consumidor"
+                    ],
+                    "respuestaCorrecta": "La red de distribución y canales de acceso al producto"
+                },
+                {
+                    "id": 112,
+                    "pregunta": "¿Qué documento refleja la situación patrimonial y financiera de la empresa en una fecha concreta?:",
+                    "opciones": [
+                        "Balance de situación",
+                        "Cuenta de pérdidas y ganancias",
+                        "Presupuesto operativo",
+                        "Memoria contable"
+                    ],
+                    "respuestaCorrecta": "Balance de situación"
+                },
+                {
+                    "id": 113,
+                    "pregunta": "¿Qué tipo de innovación implica cambios en la forma de organizar los recursos o el funcionamiento interno de la empresa?:",
+                    "opciones": [
+                        "Innovación tecnológica",
+                        "Innovación estructural",
+                        "Innovación organizativa",
+                        "Innovación publicitaria"
+                    ],
+                    "respuestaCorrecta": "Innovación organizativa"
+                },
+                {
+                    "id": 114,
+                    "pregunta": "¿Cuál es la finalidad principal de elaborar un plan de empresa antes de lanzar un proyecto emprendedor?:",
+                    "opciones": [
+                        "Facilitar exclusivamente el acceso a financiación bancaria",
+                        "Cumplir con la normativa de registro mercantil",
+                        "Evaluar la viabilidad técnica, económica y comercial del proyecto, y servir como hoja de ruta",
+                        "Cumplir requisitos administrativos para el alta como autónomo"
+                    ],
+                    "respuestaCorrecta": "Evaluar la viabilidad técnica, económica y comercial del proyecto, y servir como hoja de ruta"
+                },
+                {
+                    "id": 115,
+                    "pregunta": "Según la ecuación fundamental del patrimonio, si una empresa posee un pasivo por valor de 200.000€ y un patrimonio neto por valor de 280.000€, ¿Qué cantidad debería poseer de activo?:",
+                    "opciones": [
+                        "480.000€",
+                        "80.000€",
+                        "-80.000€",
+                        "200.000€"
+                    ],
+                    "respuestaCorrecta": "480.000€"
+                },
+                {
+                    "id": 116,
+                    "pregunta": "¿Cuál de los siguientes elementos se clasifica como activo no corriente?:",
+                    "opciones": [
+                        "Inmuebles propiedad de la empresa",
+                        "Facturas a pagar",
+                        "Proveedores pendientes de cobro",
+                        "Préstamos bancarios"
+                    ],
+                    "respuestaCorrecta": "Inmuebles propiedad de la empresa"
+                },
+                {
+                    "id": 117,
+                    "pregunta": "¿Qué situación puede aumentar significativamente la intensidad competitiva dentro de un sector según el análisis de las 5 fuerzas de Porter?:",
+                    "opciones": [
+                        "Altas barreras de salida que dificultan abandonar el sector",
+                        "Bajos niveles de inversión inicial",
+                        "Existencia de productos altamente diferenciados",
+                        "Elevado crecimiento del mercado"
+                    ],
+                    "respuestaCorrecta": "Altas barreras de salida que dificultan abandonar el sector"
+                },
+                {
+                    "id": 118,
+                    "pregunta": "¿Qué sociedad necesita aportar un mínimo de 60.000€ para su constitución?:",
+                    "opciones": [
+                        "Sociedad de Responsabilidad Limitada.",
+                        "Sociedad Civil.",
+                        "Sociedad Anónima.",
+                        "Sociedad Colectiva."
+                    ],
+                    "respuestaCorrecta": "Sociedad Anónima."
+                },
+                {
+                    "id": 119,
+                    "pregunta": "¿Cuál de los siguientes impuestos es indirecto?:",
+                    "opciones": [
+                        "Impuesto sobre el Patrimonio (IP).",
+                        "Impuesto sobre Sociedades (IS).",
+                        "Impuesto sobre el Valor Añadido (IVA).",
+                        "Impuesto sobre la Renta de las Personas Físicas (IRPF)."
+                    ],
+                    "respuestaCorrecta": "Impuesto sobre el Valor Añadido (IVA)."
+                },
+                {
+                    "id": 120,
+                    "pregunta": "¿En qué consiste la estrategia de enfoque según la tipología de Porter?:",
+                    "opciones": [
+                        "En competir únicamente en sectores con barreras de entrada muy altas",
+                        "En priorizar la expansión internacional mediante economías de escala",
+                        "En dirigir la oferta hacia un segmento específico del mercado con una propuesta diferenciada",
+                        "En liderar el mercado por volumen, reduciendo precios masivamente"
+                    ],
+                    "respuestaCorrecta": "En dirigir la oferta hacia un segmento específico del mercado con una propuesta diferenciada"
+                },
+                {
+                    "id": 121,
+                    "pregunta": "¿Cómo se entiende la iniciativa emprendedora en un contexto económico y social?:",
+                    "opciones": [
+                        "Como la formalización de una idea de negocio mediante la creación de una sociedad",
+                        "Como la capacidad de identificar oportunidades y transformarlas en valor a través de acciones innovadoras",
+                        "Como el proceso de obtención de financiación pública para nuevos proyectos",
+                        "Como la aplicación obligatoria de normativas empresariales a cualquier actividad económica"
+                    ],
+                    "respuestaCorrecta": "Como la capacidad de identificar oportunidades y transformarlas en valor a través de acciones innovadoras"
+                }
+            ]
+        } 
     ]
 }
