@@ -349,7 +349,7 @@
                 },
                 {
                     "id": 29,
-                    "pregunta": "Which sentence is not related to “disagreeing“?",
+                    "pregunta": "Which sentence is not related to "disagreeing"?",
                     "opciones": [
                         "It's difficult to say",
                         "I'm not sure about that",
@@ -790,7 +790,7 @@
                         "To whom it may concern,",
                         "I look forward to hearing from you",
                         "Best regards",
-                        "Write “Hello“ in the subject line"
+                        "Write "Hello" in the subject line"
                     ],
                     "respuestaCorrecta": [
                         "To whom it may concern,",
@@ -857,6 +857,395 @@
                         "will"
                     ],
                     "respuestaCorrecta": "what"
+                }
+            ]
+        },
+        {
+            "evaluacion": 8,
+            "temario": "Unit 8: Marketing and OTC products",
+            "preguntas": [
+                {
+                    "id": 71,
+                    "pregunta": "Which is not a key factor among consumers for turning to OTC medicines?",
+                    "opciones": [
+                        "The role of the pharmacy",
+                        "Time and money",
+                        "Lifestyle",
+                        "Internet"
+                    ],
+                    "respuestaCorrecta": "Internet"
+                },
+                {
+                    "id": 72,
+                    "pregunta": "Lack of time has increased the use of OTC medicines for daily needs",
+                    "opciones": [
+                        "True",
+                        "False"
+                    ],
+                    "respuestaCorrecta": "True"
+                },
+                {
+                    "id": 73,
+                    "pregunta": "Pharmaceutical companies must develop a marketing strategy to successfully advertise their goods and services.",
+                    "opciones": [
+                        "True",
+                        "False"
+                    ],
+                    "respuestaCorrecta": "True"
+                },
+                {
+                    "id": 74,
+                    "pregunta": "OTC means...",
+                    "opciones": [
+                        "Off the record",
+                        "Over the count",
+                        "On the counter",
+                        "Over-the-counter",
+                        "a medicine that can be bought with a prescription (doctor's order)"
+                    ],
+                    "respuestaCorrecta": "Over-the-counter"
+                },
+                {
+                    "id": 75,
+                    "pregunta": "Which is a key factor among consumers for turning to OTC medicines?",
+                    "opciones": [
+                        "Internet",
+                        "To combat stress",
+                        "Belief",
+                        "Decreased consumer awareness",
+                        "Over-the-counter"
+                    ],
+                    "respuestaCorrecta": "Belief"
+                },
+                {
+                    "id": 76,
+                    "pregunta": "The best OTC marketing tactics are:",
+                    "opciones": [
+                        "All the answers are correct",
+                        "Customer loyalty",
+                        "Consumer research",
+                        "Emotional connections",
+                        "Staying on consumer's mind"
+                    ],
+                    "respuestaCorrecta": "All the answers are correct"
+                },
+                {
+                    "id": 77,
+                    "pregunta": "It is the best free advertising that exists and is one of the most useful due to its high effectiveness",
+                    "opciones": [
+                        "All the answers are correct",
+                        "Online campaigns",
+                        "Social media",
+                        "Internet",
+                        "Ratings and reviews"
+                    ],
+                    "respuestaCorrecta": "Ratings and reviews"
+                },
+                {
+                    "id": 78,
+                    "pregunta": "What products are not considered OTC?",
+                    "opciones": [
+                        "Antibiotics",
+                        "Medicines for diarrea",
+                        "Hemorrhoid gels",
+                        "Antihistamines for allergies",
+                        "Flu medicines"
+                    ],
+                    "respuestaCorrecta": "Antibiotics"
+                },
+                {
+                    "id": 79,
+                    "pregunta": "There is not a growing trend to consume products based on natural herbs to combat stress or insomnia, slimming products and personal care items.",
+                    "opciones": [
+                        "True",
+                        "False"
+                    ],
+                    "respuestaCorrecta": "False"
+                },
+                {
+                    "id": 80,
+                    "pregunta": "Who is in charge to cross-sell and upsell?",
+                    "opciones": [
+                        "The company",
+                        "The pharmaceutical team",
+                        "The community",
+                        "The ministry of health",
+                        "The owner of the pharmacy"
+                    ],
+                    "respuestaCorrecta": "The pharmaceutical team"
+                }
+            ]
+        },
+        {
+            "evaluacion": 9,
+            "temario": "Unit 9: Ask for information",
+            "preguntas": [
+                {
+                    "id": 81,
+                    "pregunta": "A question can be asked in different ways. Indicate the incorrect one:",
+                    "opciones": [
+                        "This is all the information I have.",
+                        "I wonder if you could ...?",
+                        "Could you tell me ...?",
+                        "I wonder if you could tell me ...?",
+                        "I would like to know…"
+                    ],
+                    "respuestaCorrecta": "This is all the information I have."
+                },
+                {
+                    "id": 82,
+                    "pregunta": "If some information is requested from us, it could be communicated in the following way: \"Can you send me information about...?\"",
+                    "opciones": [
+                        "True",
+                        "False"
+                    ],
+                    "respuestaCorrecta": "True"
+                },
+                {
+                    "id": 83,
+                    "pregunta": "To offer a client the help he needs, we can do it with the following expressions:",
+                    "opciones": [
+                        "If you need anything else, do not hesitate to contact us again.",
+                        "I send you the information you requested.",
+                        "I'd like to receive information.",
+                        "I will contact you as soon as I can."
+                    ],
+                    "respuestaCorrecta": [
+                        "If you need anything else, do not hesitate to contact us again.",
+                        "I will contact you as soon as I can.",
+                        "I send you the information you requested."
+                    ]
+                },
+                {
+                    "id": 84,
+                    "pregunta": "When the client has doubts regarding the date or time of the appointment, he will notify us as follows:",
+                    "opciones": [
+                        "Could you confirm me when the appointment is?",
+                        "I don't know the date /schedule.",
+                        "I don't know anything about (…). Sorry."
+                    ],
+                    "respuestaCorrecta": [
+                        "I don't know the date /schedule.",
+                        "Could you confirm me when the appointment is?"
+                    ]
+                },
+                {
+                    "id": 85,
+                    "pregunta": "With what expression can information be required?",
+                    "opciones": [
+                        "There are aspects of this case where I have doubts.",
+                        "No, please do not send me any advertising. I'm not interested.",
+                        "Remember, there is no obligation to buy.",
+                        "I am sending you the information you have requested.",
+                        "Where is your cabinet located?"
+                    ],
+                    "respuestaCorrecta": "Where is your cabinet located?"
+                },
+                {
+                    "id": 86,
+                    "pregunta": "- How to express a request?\n\n- Start with a _______ formula",
+                    "opciones": [
+                        "word",
+                        "informal",
+                        "conversation",
+                        "question",
+                        "courtesy"
+                    ],
+                    "respuestaCorrecta": "courtesy"
+                },
+                {
+                    "id": 87,
+                    "pregunta": "In the case that we need to formulate an order, it is recommended to soft it with formulas such as...",
+                    "opciones": [
+                        "I want...",
+                        "Please...",
+                        "I'd like you...",
+                        "You have to..."
+                    ],
+                    "respuestaCorrecta": [
+                        "I'd like you...",
+                        "Please..."
+                    ]
+                },
+                {
+                    "id": 88,
+                    "pregunta": "The conversation is the channel that enables us... (choose the incorrect one)",
+                    "opciones": [
+                        "Resolve customer queries",
+                        "Finish the presentation",
+                        "Offer the customer the help they need",
+                        "Solve possible misunderstandings in the information",
+                        "Communicate directly with the client"
+                    ],
+                    "respuestaCorrecta": "Finish the presentation"
+                },
+                {
+                    "id": 89,
+                    "pregunta": "When requesting specific information, the type of information will condition the use of  ________, as appropriate.",
+                    "opciones": [
+                        "which or when",
+                        "where or why",
+                        "how",
+                        "who or what",
+                        "will"
+                    ],
+                    "respuestaCorrecta": [
+                        "who or what",
+                        "which or when",
+                        "where or why",
+                        "how"
+                    ]
+                },
+                {
+                    "id": 90,
+                    "pregunta": "Although our request begins with an interrogative structure, the order of the words follows the affirmative format:\nSUBJECT + VERB",
+                    "opciones": [
+                        "True",
+                        "False"
+                    ],
+                    "respuestaCorrecta": "True"
+                }
+            ]
+        },
+        {
+            "evaluacion": 10,
+            "temario": "Unit 10: Common illnesses, diseases, pathologies and injuries",
+            "preguntas": [
+                {
+                    "id": 91,
+                    "pregunta": "Which one is not a common illness?",
+                    "opciones": [
+                        "Groin pull",
+                        "Diarrhea",
+                        "Allergie",
+                        "Asthma",
+                        "Migraine"
+                    ],
+                    "respuestaCorrecta": "Groin pull"
+                },
+                {
+                    "id": 92,
+                    "pregunta": "\"Sickness\" is the stage of being ill",
+                    "opciones": [
+                        "True",
+                        "False"
+                    ],
+                    "respuestaCorrecta": "True"
+                },
+                {
+                    "id": 93,
+                    "pregunta": "Types of pathologies. Indicate which is incorrect:",
+                    "opciones": [
+                        "Physical",
+                        "Anatomical",
+                        "Surgical",
+                        "Clinical",
+                        "Molecular"
+                    ],
+                    "respuestaCorrecta": "Physical"
+                },
+                {
+                    "id": 94,
+                    "pregunta": "Other common health issues can be:",
+                    "opciones": [
+                        "Bruises",
+                        "Overweight",
+                        "Physical activity",
+                        "Substance abuse",
+                        "AIDS"
+                    ],
+                    "respuestaCorrecta": [
+                        "Physical activity",
+                        "Overweight",
+                        "Substance abuse",
+                        "AIDS"
+                    ]
+                },
+                {
+                    "id": 95,
+                    "pregunta": "Choose the injuries:",
+                    "opciones": [
+                        "Middle ear infection",
+                        "Alzheimer",
+                        "A broken bone",
+                        "A burn in the leg",
+                        "A cut in the cheek"
+                    ],
+                    "respuestaCorrecta": [
+                        "A broken bone",
+                        "A burn in the leg",
+                        "A cut in the cheek",
+                        "Middle ear infection"
+                    ]
+                },
+                {
+                    "id": 96,
+                    "pregunta": "\"An unhealthy condition of the body or the mind\" defines the word:",
+                    "opciones": [
+                        "Injury",
+                        "Disease",
+                        "Pathology",
+                        "Illness",
+                        "Sickness"
+                    ],
+                    "respuestaCorrecta": "Illness"
+                },
+                {
+                    "id": 97,
+                    "pregunta": "The \"rotator cuff injury\" is in the..",
+                    "opciones": [
+                        "Leg",
+                        "Elbow",
+                        "Shoulder",
+                        "Knee",
+                        "Ankle"
+                    ],
+                    "respuestaCorrecta": "Shoulder"
+                },
+                {
+                    "id": 98,
+                    "pregunta": "What are the most common diseases?",
+                    "opciones": [
+                        "Cancer",
+                        "Alzheimer",
+                        "Diabetes",
+                        "Lateral epicondylitis",
+                        "Hearth diseases"
+                    ],
+                    "respuestaCorrecta": [
+                        "Hearth diseases",
+                        "Cancer",
+                        "Diabetes", 
+                        "Alzheimer"
+                    ]
+                },
+                {
+                    "id": 99,
+                    "pregunta": "A pathology is concerned with the study of diseases, specifically:",
+                    "opciones": [
+                        "infectious diseases",
+                        "etiologies",
+                        "chronic respiratory diseases",
+                        "pathogenesis",
+                        "the effects on normal structure and function"
+                    ],
+                    "respuestaCorrecta": [
+                        "the effects on normal structure and function",
+                        "pathogenesis",
+                        "etiologies"
+                    ]
+                },
+                {
+                    "id": 100,
+                    "pregunta": "\"Physical harm or damage to someone's body caused by an accident\"",
+                    "opciones": [
+                        "Pathology",
+                        "Attack",
+                        "Injury",
+                        "Violence and self harm",
+                        "Disease"
+                    ],
+                    "respuestaCorrecta": "Injury"
                 }
             ]
         }
