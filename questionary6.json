@@ -1456,6 +1456,452 @@
                     "respuestaCorrecta": "Alcohol"
                 }
             ]
+        },
+        {
+            "evaluacion": 12,
+            "temario": "Simulacro examen convocatoria ordinaria",
+            "preguntas": [
+                {
+                    "id": 412,
+                    "pregunta": "¿Qué tipo de emociones son comunes en un paciente con diagnóstico de cáncer?",
+                    "opciones": [
+                        "Miedo, incertidumbre, incredulidad, enojo y tristeza.",
+                        "Felicidad y tranquilidad.",
+                        "Confusión y tristeza profunda exclusivamente.",
+                        "Ansiedad y estrés únicamente."
+                    ],
+                    "respuestaCorrecta": "Miedo, incertidumbre, incredulidad, enojo y tristeza."
+                },
+                {
+                    "id": 413,
+                    "pregunta": "¿Cuál es una diferencia fundamental entre síntomas y signos clínicos?",
+                    "opciones": [
+                        "Los signos clínicos son internos y no pueden observarse.",
+                        "Los signos clínicos solo afectan el aspecto social.",
+                        "Los síntomas son más graves que los signos.",
+                        "Los síntomas son subjetivos, mientras que los signos clínicos son objetivos."
+                    ],
+                    "respuestaCorrecta": "Los síntomas son subjetivos, mientras que los signos clínicos son objetivos."
+                },
+                {
+                    "id": 414,
+                    "pregunta": "¿Cuál de las siguientes sustancias es un producto tóxico liberado por la combustión del tabaco?",
+                    "opciones": [
+                        "Nicotina.",
+                        "Glicerina.",
+                        "Ácido acético.",
+                        "Dióxido de carbono."
+                    ],
+                    "respuestaCorrecta": "Nicotina."
+                },
+                {
+                    "id": 415,
+                    "pregunta": "¿Cuál de las siguientes afirmaciones sobre los cuidados paliativos en pacientes terminales es correcta?",
+                    "opciones": [
+                        "El principal objetivo es curar la enfermedad subyacente.",
+                        "Los cuidados paliativos se ofrecen solo en la fase final del proceso de la enfermedad.",
+                        "Los cuidados paliativos deben centrarse solo en el dolor físico, sin considerar aspectos emocionales o sociales.",
+                        "Los cuidados paliativos buscan mejorar la calidad de vida del paciente y su familia."
+                    ],
+                    "respuestaCorrecta": "Los cuidados paliativos buscan mejorar la calidad de vida del paciente y su familia."
+                },
+                {
+                    "id": 416,
+                    "pregunta": "¿Cuál de las siguientes fases del proceso de análisis de muestras biológicas es la más vulnerable a errores?",
+                    "opciones": [
+                        "Fase analítica.",
+                        "Fase preanalítica.",
+                        "Fase de transporte.",
+                        "Fase postanalítica."
+                    ],
+                    "respuestaCorrecta": "Fase preanalítica."
+                },
+                {
+                    "id": 417,
+                    "pregunta": "¿Qué tipo de estudio epidemiológico permite observar el futuro de los sujetos a partir de su exposición a un factor de riesgo?",
+                    "opciones": [
+                        "Estudio de cohortes.",
+                        "Estudio experimental.",
+                        "Estudio de casos y controles.",
+                        "Estudio transversal."
+                    ],
+                    "respuestaCorrecta": "Estudio de cohortes."
+                },
+                {
+                    "id": 418,
+                    "pregunta": "¿Cuál de las siguientes actividades pertenece a la prevención primaria?",
+                    "opciones": [
+                        "Campañas de detección precoz del cáncer de mama.",
+                        "Rehabilitación de pacientes tras un ictus.",
+                        "Seguimiento de pacientes con hipertensión.",
+                        "Vacunación contra el COVID-19."
+                    ],
+                    "respuestaCorrecta": "Vacunación contra el COVID-19."
+                },
+                {
+                    "id": 419,
+                    "pregunta": "¿Cuál es la principal ventaja de la vacunación en una población?",
+                    "opciones": [
+                        "Impide la transmisión de enfermedades únicamente a través de contactos directos.",
+                        "No tiene efectos secundarios si se aplica correctamente.",
+                        "Solo protege al individuo vacunado.",
+                        "Garantiza la protección colectiva al generar inmunidad en la población."
+                    ],
+                    "respuestaCorrecta": "Garantiza la protección colectiva al generar inmunidad en la población."
+                },
+                {
+                    "id": 420,
+                    "pregunta": "¿Cuál de las siguientes opciones corresponde a una necesidad de crecimiento en la jerarquía de Maslow?",
+                    "opciones": [
+                        "Descanso.",
+                        "Alimentación.",
+                        "Seguridad.",
+                        "Autorrealización."
+                    ],
+                    "respuestaCorrecta": "Autorrealización."
+                },
+                {
+                    "id": 421,
+                    "pregunta": "¿Qué fenómeno describe la necesidad de aumentar la dosis de una sustancia para alcanzar el mismo efecto?",
+                    "opciones": [
+                        "Dependencia psicológica.",
+                        "Adicción.",
+                        "Abstinencia.",
+                        "Tolerancia."
+                    ],
+                    "respuestaCorrecta": "Tolerancia."
+                },
+                {
+                    "id": 422,
+                    "pregunta": "En la tercera edad, la ingesta de calcio debe ser especialmente alta para prevenir:",
+                    "opciones": [
+                        "Hipertensión.",
+                        "Osteoporosis.",
+                        "Diabetes tipo II.",
+                        "Artritis."
+                    ],
+                    "respuestaCorrecta": "Osteoporosis."
+                },
+                {
+                    "id": 423,
+                    "pregunta": "¿Cuál es la técnica correcta para cepillarse los dientes?",
+                    "opciones": [
+                        "Cepillar de forma vertical, solo en la parte exterior de los dientes.",
+                        "Colocar el cepillo a 45 grados entre la encía y el diente, moviendo el cepillo en movimientos cortos.",
+                        "Colocar el cepillo perpendicular a los dientes y moverlo de atrás hacia adelante.",
+                        "Cepillar de forma horizontal, moviendo el cepillo de un lado a otro."
+                    ],
+                    "respuestaCorrecta": "Colocar el cepillo a 45 grados entre la encía y el diente, moviendo el cepillo en movimientos cortos."
+                },
+                {
+                    "id": 424,
+                    "pregunta": "¿Qué efecto grave provoca el consumo de opiáceos en una sobredosis?",
+                    "opciones": [
+                        "Estimulación del sistema nervioso.",
+                        "Aumento de la tensión.",
+                        "Hipotermia.",
+                        "Depresión respiratoria."
+                    ],
+                    "respuestaCorrecta": "Depresión respiratoria."
+                },
+                {
+                    "id": 425,
+                    "pregunta": "¿Qué modelo considera al ser humano como un ente integral con componentes biológicos, psicológicos, socioculturales y espirituales?",
+                    "opciones": [
+                        "Modelo de Maslow.",
+                        "Modelo de la OMS.",
+                        "Modelo de Virginia Henderson.",
+                        "Modelo de Kalish."
+                    ],
+                    "respuestaCorrecta": "Modelo de Virginia Henderson."
+                },
+                {
+                    "id": 426,
+                    "pregunta": "¿En qué consiste un estudio de casos y controles?",
+                    "opciones": [
+                        "Comparar dos grupos expuestos al mismo factor de riesgo.",
+                        "Comparar a personas enfermas con personas sanas para identificar factores de riesgo.",
+                        "Estudiar una población sin la necesidad de un control experimental.",
+                        "Analizar la evolución de los casos durante un período prospectivo."
+                    ],
+                    "respuestaCorrecta": "Comparar a personas enfermas con personas sanas para identificar factores de riesgo."
+                },
+                {
+                    "id": 427,
+                    "pregunta": "En relación con el VIH, ¿cuál de las siguientes afirmaciones es correcta?",
+                    "opciones": [
+                        "El VIH puede transmitirse a través de la saliva, aunque en menores cantidades.",
+                        "El VIH solo se transmite a través de relaciones sexuales.",
+                        "El VIH no se transmite de madre a hijo durante el embarazo.",
+                        "El VIH se transmite por contacto con sangre, semen y secreciones vaginales."
+                    ],
+                    "respuestaCorrecta": "El VIH se transmite por contacto con sangre, semen y secreciones vaginales."
+                },
+                {
+                    "id": 428,
+                    "pregunta": "¿Qué tipo de enfermedad se manifiesta en zonas geográficas específicas con una prevalencia constante?",
+                    "opciones": [
+                        "Epidémica.",
+                        "Endémica.",
+                        "Esporádica.",
+                        "Crónica."
+                    ],
+                    "respuestaCorrecta": "Endémica."
+                },
+                {
+                    "id": 429,
+                    "pregunta": "¿Cuál es el objetivo principal de la educación para la salud según la organización mundial de la salud?",
+                    "opciones": [
+                        "Cambiar hábitos perjudiciales para la salud y promover conductas saludables.",
+                        "Mejorar el sistema sanitario en todo el mundo.",
+                        "Incrementar la cantidad de médicos en una comunidad.",
+                        "Fomentar el consumo de medicamentos."
+                    ],
+                    "respuestaCorrecta": "Cambiar hábitos perjudiciales para la salud y promover conductas saludables."
+                },
+                {
+                    "id": 430,
+                    "pregunta": "¿Cuál es la principal diferencia entre la desinfección y la esterilización en un laboratorio clínico?",
+                    "opciones": [
+                        "La esterilización se aplica solo en materiales de vidrio.",
+                        "La desinfección elimina la mayoría de los microorganismos, pero no todas las esporas ni ciertos virus, mientras que la esterilización elimina todos los microorganismos.",
+                        "La esterilización es un proceso químico, mientras que la desinfección es un proceso físico.",
+                        "La desinfección elimina todos los microorganismos, mientras que la esterilización solo elimina algunos."
+                    ],
+                    "respuestaCorrecta": "La desinfección elimina la mayoría de los microorganismos, pero no todas las esporas ni ciertos virus, mientras que la esterilización elimina todos los microorganismos."
+                },
+                {
+                    "id": 431,
+                    "pregunta": "¿Qué debe indicarse en la etiqueta de una muestra biológica?",
+                    "opciones": [
+                        "Solo la fecha de obtención.",
+                        "Ningún dato es necesario.",
+                        "Solo el nombre del paciente.",
+                        "Identificación del paciente, fecha de obtención y pruebas solicitadas."
+                    ],
+                    "respuestaCorrecta": "Identificación del paciente, fecha de obtención y pruebas solicitadas."
+                },
+                {
+                    "id": 432,
+                    "pregunta": "¿Cuál es el objetivo de la prevención secundaria?",
+                    "opciones": [
+                        "Mejorar la calidad de vida del paciente después de la enfermedad.",
+                        "Prevenir la aparición de una enfermedad.",
+                        "Detectar una enfermedad en sus primeras etapas y tratarla precozmente.",
+                        "Eliminar los factores ambientales que causan enfermedades."
+                    ],
+                    "respuestaCorrecta": "Detectar una enfermedad en sus primeras etapas y tratarla precozmente."
+                },
+                {
+                    "id": 433,
+                    "pregunta": "Los preservativos son anticonceptivos del tipo:",
+                    "opciones": [
+                        "Métodos barrera.",
+                        "Métodos esterilizantes.",
+                        "Métodos estrogénicos.",
+                        "Métodos hormonales."
+                    ],
+                    "respuestaCorrecta": "Métodos barrera."
+                },
+                {
+                    "id": 434,
+                    "pregunta": "¿Cuál es la principal ventaja del dispositivo intrauterino como método anticonceptivo?",
+                    "opciones": [
+                        "Ofrece protección contra ITS.",
+                        "Proporciona anticoncepción de larga duración.",
+                        "Es de bajo coste.",
+                        "No requiere intervención médica."
+                    ],
+                    "respuestaCorrecta": "Proporciona anticoncepción de larga duración."
+                },
+                {
+                    "id": 435,
+                    "pregunta": "¿Qué tipo de grasas se consideran saludables y ayudan a reducir el riesgo de enfermedades cardiovasculares?",
+                    "opciones": [
+                        "Grasas insaturadas.",
+                        "Grasas saturadas.",
+                        "Grasas trans.",
+                        "Grasas trans y saturadas."
+                    ],
+                    "respuestaCorrecta": "Grasas insaturadas."
+                },
+                {
+                    "id": 436,
+                    "pregunta": "¿Cuál de las siguientes sustancias es un ejemplo de droga perturbadora?",
+                    "opciones": [
+                        "Alcohol.",
+                        "Cannabis.",
+                        "LSD.",
+                        "Café."
+                    ],
+                    "respuestaCorrecta": "LSD."
+                },
+                {
+                    "id": 437,
+                    "pregunta": "¿Qué recomendación se puede dar para evitar la soledad en las personas mayores?",
+                    "opciones": [
+                        "Fomentar una vida social activa, manteniendo relaciones interpersonales.",
+                        "Reducir el contacto con amigos y familiares para concentrarse en la salud física.",
+                        "Fomentar la soledad como forma de reflexión y descanso.",
+                        "Evitar mantener relaciones interpersonales para evitar conflictos."
+                    ],
+                    "respuestaCorrecta": "Fomentar una vida social activa, manteniendo relaciones interpersonales."
+                },
+                {
+                    "id": 438,
+                    "pregunta": "¿Qué tipo de esterilización se utiliza especialmente para materiales sensibles al calor o a la humedad, como plásticos?",
+                    "opciones": [
+                        "Irradiación con rayos gamma.",
+                        "Calor húmedo.",
+                        "Calor seco.",
+                        "Óxido de etileno."
+                    ],
+                    "respuestaCorrecta": "Irradiación con rayos gamma."
+                },
+                {
+                    "id": 439,
+                    "pregunta": "En la planificación de un proyecto de salud, ¿qué fase se encarga de analizar la situación y establecer las prioridades?",
+                    "opciones": [
+                        "Diagnóstico.",
+                        "Planificación.",
+                        "Evaluación.",
+                        "Ejecución."
+                    ],
+                    "respuestaCorrecta": "Diagnóstico."
+                },
+                {
+                    "id": 440,
+                    "pregunta": "En la atención psicológica de pacientes oncológicos, ¿cuál es un efecto secundario común de la quimioterapia que afecta la autoestima, especialmente en mujeres?",
+                    "opciones": [
+                        "Aumento de peso.",
+                        "Náuseas y vómitos.",
+                        "Pérdida de cabello.",
+                        "Desorientación mental."
+                    ],
+                    "respuestaCorrecta": "Pérdida de cabello."
+                },
+                {
+                    "id": 441,
+                    "pregunta": "¿Cuál es el principal riesgo asociado con el uso de la píldora anticonceptiva?",
+                    "opciones": [
+                        "Cambios en el ciclo menstrual.",
+                        "Dolor en la espalda.",
+                        "Embarazo ectópico.",
+                        "Trombosis."
+                    ],
+                    "respuestaCorrecta": "Trombosis."
+                },
+                {
+                    "id": 442,
+                    "pregunta": "¿Qué factor es fundamental para garantizar el bienestar emocional de un niño en edad temprana?",
+                    "opciones": [
+                        "Estímulos cognitivos intensivos.",
+                        "Relaciones afectivas con la familia y amigos.",
+                        "Factores genéticos hereditarios.",
+                        "Autonomía e independencia."
+                    ],
+                    "respuestaCorrecta": "Relaciones afectivas con la familia y amigos."
+                },
+                {
+                    "id": 443,
+                    "pregunta": "¿Cuál de las siguientes vitaminas es hidrosoluble y debe consumirse a diario?",
+                    "opciones": [
+                        "Vitamina D.",
+                        "Vitamina C.",
+                        "Vitamina K.",
+                        "Vitamina A."
+                    ],
+                    "respuestaCorrecta": "Vitamina C."
+                },
+                {
+                    "id": 444,
+                    "pregunta": "¿Qué tipo de muestra biológica se utiliza para analizar la glucosa y los triglicéridos en las pruebas de la oficina de farmacia?",
+                    "opciones": [
+                        "Líquido cefalorraquídeo.",
+                        "Sangre venosa.",
+                        "Sangre capilar.",
+                        "Orina."
+                    ],
+                    "respuestaCorrecta": "Sangre capilar."
+                },
+                {
+                    "id": 445,
+                    "pregunta": "¿Cuántas kilocalorías proporciona un gramo de grasa?",
+                    "opciones": [
+                        "6 kcal.",
+                        "7 kcal.",
+                        "9 kcal.",
+                        "4 kcal."
+                    ],
+                    "respuestaCorrecta": "9 kcal."
+                },
+                {
+                    "id": 446,
+                    "pregunta": "La candidiasis es producida por:",
+                    "opciones": [
+                        "Papilomavirus.",
+                        "Un liquen.",
+                        "Un virus.",
+                        "Un hongo."
+                    ],
+                    "respuestaCorrecta": "Un hongo."
+                },
+                {
+                    "id": 447,
+                    "pregunta": "¿Qué sustancia se utiliza en algunos programas de tratamiento para reducir el deseo de consumir drogas y controlar los síntomas de abstinencia?",
+                    "opciones": [
+                        "Cocaína.",
+                        "Metadona.",
+                        "Heroína.",
+                        "Fentanilo."
+                    ],
+                    "respuestaCorrecta": "Metadona."
+                },
+                {
+                    "id": 448,
+                    "pregunta": "¿Qué se recomienda una correcta limpieza de pies?",
+                    "opciones": [
+                        "Lavar los pies con agua fría exclusivamente.",
+                        "Lavar y secar bien los pies, prestando especial atención entre los dedos.",
+                        "Evitar aplicar crema hidratante para prevenir hongos.",
+                        "Secarlos rápidamente con una toalla."
+                    ],
+                    "respuestaCorrecta": "Lavar y secar bien los pies, prestando especial atención entre los dedos."
+                },
+                {
+                    "id": 449,
+                    "pregunta": "En los casos de hipercolesterolemia, el colesterol ideal total debe ser inferior a:",
+                    "opciones": [
+                        "150 mg/dl.",
+                        "250 mg/dl.",
+                        "200 mg/dl.",
+                        "180 mg/dl."
+                    ],
+                    "respuestaCorrecta": "200 mg/dl."
+                },
+                {
+                    "id": 450,
+                    "pregunta": "¿En qué fase de la prevención se enfoca la rehabilitación tras un ictus?",
+                    "opciones": [
+                        "Prevención secundaria.",
+                        "Prevención primaria.",
+                        "Ninguna de las anteriores.",
+                        "Prevención terciaria."
+                    ],
+                    "respuestaCorrecta": "Prevención terciaria."
+                },
+                {
+                    "id": 451,
+                    "pregunta": "¿Qué indicador de salud mide el número promedio de años que una persona se espera que viva en condiciones saludables?",
+                    "opciones": [
+                        "Esperanza de vida.",
+                        "Esperanza de vida en buena salud.",
+                        "Tasa de morbilidad.",
+                        "Tasa de mortalidad."
+                    ],
+                    "respuestaCorrecta": "Esperanza de vida en buena salud."
+                }
+            ]
         }
     ]
 }
