@@ -9,17 +9,17 @@
                     "id": 1,
                     "pregunta": "How can you introduce yourself in a formal way?",
                     "opciones": [
-                        "'Here is...?'",
-                        "'Hello, she is...'",
-                        "'Hey, how you doing?'",
-                        "'Good morning. I am...' or 'Hello, my name is…'",
-                        "'I hope to see you again' or 'I hope to see you soon'"
+                        "“Here is...?“",
+                        "“Hello, she is...“",
+                        "“Hey, how you doing?“",
+                        "“Good morning. I am...“ or “Hello, my name is…“",
+                        "“I hope to see you again“ or “I hope to see you soon“"
                     ],
-                    "respuestaCorrecta": "'Good morning. I am...' or 'Hello, my name is…'"
+                    "respuestaCorrecta": "“Good morning. I am...“ or “Hello, my name is…“"
                 },
                 {
                     "id": 2,
-                    "pregunta": "Is it correct to ask this question?: 'How are you?'",
+                    "pregunta": "Is it correct to ask this question?: “How are you?“",
                     "opciones": [
                         "True",
                         "False"
@@ -30,13 +30,13 @@
                     "id": 3,
                     "pregunta": "What would you answer after the client has introduced himself?",
                     "opciones": [
-                        "'Thank's you!'",
-                        "'An affectionate greeting to all!'",
-                        "'See you again!' or 'See you soon!'",
-                        "'Thank you!'",
-                        "'Pleased to meet you' or '(It is) nice to meet you'"
+                        "“Thank's you!“",
+                        "“An affectionate greeting to all!“",
+                        "“See you again!“ or “See you soon!“",
+                        "“Thank you!“",
+                        "“Pleased to meet you“ or “(It is) nice to meet you“"
                     ],
-                    "respuestaCorrecta": "'Pleased to meet you' or '(It is) nice to meet you'"
+                    "respuestaCorrecta": "“Pleased to meet you“ or “(It is) nice to meet you“"
                 },
                 {
                     "id": 4,
@@ -54,73 +54,73 @@
                     "id": 5,
                     "pregunta": "What is the proper treatment for a married woman?",
                     "opciones": [
-                        "'Ms'",
-                        "'Mister'",
-                        "'Misses'",
-                        "'Mrs'",
-                        "'Miss'"
+                        "“Ms“",
+                        "“Mister“",
+                        "“Misses“",
+                        "“Mrs“",
+                        "“Miss“"
                     ],
-                    "respuestaCorrecta": "'Mrs'"
+                    "respuestaCorrecta": "“Mrs“"
                 },
                 {
                     "id": 6,
                     "pregunta": "What sentences are commonly used when saying a goodbye in a formal letter?",
                     "opciones": [
-                        "'See you soon'",
-                        "'Yours sincerely / faithfully'",
-                        "'All the best'",
-                        "'Kind regards'",
-                        "'Best regards'"
+                        "“See you soon“",
+                        "“Yours sincerely / faithfully“",
+                        "“All the best“",
+                        "“Kind regards“",
+                        "“Best regards“"
                     ],
-                    "respuestaCorrecta": "'Yours sincerely / faithfully'"
+                    "respuestaCorrecta": "“Yours sincerely / faithfully“"
                 },
                 {
                     "id": 7,
                     "pregunta": "When saying goodbye, within a FORMALITY, we can use expressions such as:",
                     "opciones": [
-                        "'Bye!'",
-                        "'I'm off!'",
-                        "'Take caring!'",
-                        "'Bye, bye'",
-                        "'Have a nice day!' or 'Take care!'"
+                        "“Bye!“",
+                        "“I'm off!“",
+                        "“Take caring!“",
+                        "“Bye, bye“",
+                        "“Have a nice day!“ or “Take care!“"
                     ],
-                    "respuestaCorrecta": "'Have a nice day!' or 'Take care!'"
+                    "respuestaCorrecta": "“Have a nice day!“ or “Take care!“"
                 },
                 {
                     "id": 8,
                     "pregunta": "To which category belong these expressions? (You may rely on me, Count on me, I am at your disposal / service)",
                     "opciones": [
-                        "'To apologize'",
-                        "'To express gratitude'",
-                        "'To show interest'",
-                        "'To establish a bond'",
-                        "'Farewell'"
+                        "“To apologize“",
+                        "“To express gratitude“",
+                        "“To show interest“",
+                        "“To establish a bond“",
+                        "“Farewell“"
                     ],
-                    "respuestaCorrecta": "'To establish a bond'"
+                    "respuestaCorrecta": "“To establish a bond“"
                 },
                 {
                     "id": 9,
                     "pregunta": "When giving an apology, within a FORMALITY, we can use expressions such as:",
                     "opciones": [
-                        "'My fault'",
-                        "'I apologize'",
-                        "'Excuse me'",
-                        "'I beg your pardon'",
-                        "'I'm sorry!'"
+                        "“My fault“",
+                        "“I apologize“",
+                        "“Excuse me“",
+                        "“I beg your pardon“",
+                        "“I'm sorry!“"
                     ],
-                    "respuestaCorrecta": "'I beg your pardon'"
+                    "respuestaCorrecta": "“I beg your pardon“"
                 },
                 {
                     "id": 10,
                     "pregunta": "To which category belong these expressions? (Have a nice day!, Good bye!, See you later, I hope to see you soon)",
                     "opciones": [
-                        "'Farewell'",
-                        "'To show interest'",
-                        "'To establish a bond'",
-                        "'To express gratitude'",
-                        "'To apologize'"
+                        "“Farewell“",
+                        "“To show interest“",
+                        "“To establish a bond“",
+                        "“To express gratitude“",
+                        "“To apologize“"
                     ],
-                    "respuestaCorrecta": "'Farewell'"
+                    "respuestaCorrecta": "“Farewell“"
                 }
             ]
         },
@@ -268,7 +268,7 @@
                 },
                 {
                     "id": 22,
-                    "pregunta": "'What I'm trying to say is that'... It is used to give our opinion on something.",
+                    "pregunta": "“What I'm trying to say is that“... It is used to give our opinion on something.",
                     "opciones": [
                         "True",
                         "False"
@@ -328,7 +328,7 @@
                 },
                 {
                     "id": 27,
-                    "pregunta": "Question: - 'So, do you agree with me?'  Answer: - 'I totally agree with you'. It is a correct answer?",
+                    "pregunta": "Question: - “So, do you agree with me?“  Answer: - “I totally agree with you“. It is a correct answer?",
                     "opciones": [
                         "False",
                         "True"
@@ -349,7 +349,7 @@
                 },
                 {
                     "id": 29,
-                    "pregunta": "Which sentence is not related to 'disagreeing'?",
+                    "pregunta": "Which sentence is not related to “disagreeing“?",
                     "opciones": [
                         "It's difficult to say",
                         "I'm not sure about that",
@@ -361,7 +361,7 @@
                 },
                 {
                     "id": 30,
-                    "pregunta": "'Go ahead!' is a expression which belongs to...",
+                    "pregunta": "“Go ahead!“ is a expression which belongs to...",
                     "opciones": [
                         "Showing interest",
                         "Asking for information",
@@ -504,13 +504,13 @@
                     "id": 41,
                     "pregunta": "If we ask a polite question we use the expression:",
                     "opciones": [
-                        "'Can I have it?' or 'Could I have it?'",
-                        "'Do you mind if...?' or 'Would you let me...?'",
-                        "'Do I need to...?'",
-                        "'Have I got?'",
-                        "'What you let me...?'"
+                        "“Can I have it?“ or “Could I have it?“",
+                        "“Do you mind if...?“ or “Would you let me...?“",
+                        "“Do I need to...?“",
+                        "“Have I got?“",
+                        "“What you let me...?“"
                     ],
-                    "respuestaCorrecta": "'Do you mind if...?' or 'Would you let me...?'"
+                    "respuestaCorrecta": "“Do you mind if...?“ or “Would you let me...?“"
                 },
                 {
                     "id": 42,
@@ -548,7 +548,7 @@
                 },
                 {
                     "id": 45,
-                    "pregunta": "To deal with a complaint we use: 'Be patient and empathetic'.",
+                    "pregunta": "To deal with a complaint we use: “Be patient and empathetic“.",
                     "opciones": [
                         "True",
                         "False"
@@ -790,7 +790,7 @@
                         "To whom it may concern,",
                         "I look forward to hearing from you",
                         "Best regards",
-                        "Write 'Hello' in the subject line"
+                        "Write “Hello“ in the subject line"
                     ],
                     "respuestaCorrecta": [
                         "To whom it may concern,",
