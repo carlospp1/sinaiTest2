@@ -994,7 +994,7 @@
                 },
                 {
                     "id": 82,
-                    "pregunta": "If some information is requested from us, it could be communicated in the following way: \"Can you send me information about...?\"",
+                    "pregunta": "If some information is requested from us, it could be communicated in the following way: 'Can you send me information about...?'",
                     "opciones": [
                         "True",
                         "False"
@@ -1125,7 +1125,7 @@
                 },
                 {
                     "id": 92,
-                    "pregunta": "\"Sickness\" is the stage of being ill",
+                    "pregunta": "'Sickness' is the stage of being ill",
                     "opciones": [
                         "True",
                         "False"
@@ -1180,7 +1180,7 @@
                 },
                 {
                     "id": 96,
-                    "pregunta": "\"An unhealthy condition of the body or the mind\" defines the word:",
+                    "pregunta": "'An unhealthy condition of the body or the mind' defines the word:",
                     "opciones": [
                         "Injury",
                         "Disease",
@@ -1192,7 +1192,7 @@
                 },
                 {
                     "id": 97,
-                    "pregunta": "The \"rotator cuff injury\" is in the..",
+                    "pregunta": "The 'rotator cuff injury' is in the..",
                     "opciones": [
                         "Leg",
                         "Elbow",
@@ -1237,7 +1237,7 @@
                 },
                 {
                     "id": 100,
-                    "pregunta": "\"Physical harm or damage to someone's body caused by an accident\"",
+                    "pregunta": "'Physical harm or damage to someone's body caused by an accident'",
                     "opciones": [
                         "Pathology",
                         "Attack",
@@ -1255,7 +1255,7 @@
             "preguntas": [
                 {
                     "id": 101,
-                    "pregunta": "What does \"OTC\" stand for in the context of pharmacy products?",
+                    "pregunta": "What does 'OTC' stand for in the context of pharmacy products?",
                     "opciones": [
                         "Order Through Catalogue",
                         "On-Target Care",
@@ -1293,13 +1293,13 @@
                     "id": 104,
                     "pregunta": "What would you answer after the client has introduced himself?",
                     "opciones": [
-                        "\"See you again!\" or \"See you soon!\"",
-                        "\"An affectionate greeting to all!\"",
-                        "\"Thank's you!\"",
-                        "\"Pleased to meet you\" or \"(It is) nice to meet you\"",
-                        "\"Thank you!\""
+                        "'See you again!' or 'See you soon!'",
+                        "'An affectionate greeting to all!'",
+                        "'Thank's you!'",
+                        "'Pleased to meet you' or '(It is) nice to meet you'",
+                        "'Thank you!'"
                     ],
-                    "respuestaCorrecta": "\"Pleased to meet you\" or \"(It is) nice to meet you\""
+                    "respuestaCorrecta": "'Pleased to meet you' or '(It is) nice to meet you'"
                 },
                 {
                     "id": 105,
@@ -1365,17 +1365,17 @@
                     "id": 110,
                     "pregunta": "When saying goodbye within a formal context, we can use expressions such as:",
                     "opciones": [
-                        "\"Take caring!\"",
-                        "\"Have a nice day!\"",
-                        "\"Bye, bye\"",
-                        "\"I'm off!\"",
-                        "\"Bye, my friend!\""
+                        "'Take caring!'",
+                        "'Have a nice day!'",
+                        "'Bye, bye'",
+                        "'I'm off!'",
+                        "'Bye, my friend!'"
                     ],
-                    "respuestaCorrecta": "\"Have a nice day!\""
+                    "respuestaCorrecta": "'Have a nice day!'"
                 },
                 {
                     "id": 111,
-                    "pregunta": "How is an \"Illness\" defined in the provided medical terminology text?",
+                    "pregunta": "How is an 'Illness' defined in the provided medical terminology text?",
                     "opciones": [
                         "An unhealthy condition of the body or the mind",
                         "A severe, often chronic, medical condition",
@@ -1459,7 +1459,7 @@
                 },
                 {
                     "id": 118,
-                    "pregunta": "What is \"anamnesis\" defined as in the medical context provided?",
+                    "pregunta": "What is 'anamnesis' defined as in the medical context provided?",
                     "opciones": [
                         "The number of breaths taken per minute",
                         "The clinical exploration process carried out through questioning",
@@ -1509,13 +1509,13 @@
                     "id": 122,
                     "pregunta": "How can you introduce yourself in a formal way?",
                     "opciones": [
-                        "\"Hello, she is...\"",
-                        "\"Good morning. I am...\" or \"Hello, my name is…\"",
-                        "\"Here is...?\"",
-                        "\"I hope to see you again\" or \"I hope to see you soon\"",
-                        "\"Hey, how you doing?\""
+                        "'Hello, she is...'",
+                        "'Good morning. I am...' or 'Hello, my name is…'",
+                        "'Here is...?'",
+                        "'I hope to see you again' or 'I hope to see you soon'",
+                        "'Hey, how you doing?'"
                     ],
-                    "respuestaCorrecta": "\"Good morning. I am...\" or \"Hello, my name is…\""
+                    "respuestaCorrecta": "'Good morning. I am...' or 'Hello, my name is…'"
                 },
                 {
                     "id": 123,
