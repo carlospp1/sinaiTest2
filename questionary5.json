@@ -349,7 +349,7 @@
                 },
                 {
                     "id": 29,
-                    "pregunta": "Which sentence is not related to “disagreeing“?",
+                    "pregunta": "Which sentence is not related to "disagreeing"?",
                     "opciones": [
                         "It's difficult to say",
                         "I'm not sure about that",
@@ -790,7 +790,7 @@
                         "To whom it may concern,",
                         "I look forward to hearing from you",
                         "Best regards",
-                        "Write “Hello“ in the subject line"
+                        "Write "Hello" in the subject line"
                     ],
                     "respuestaCorrecta": [
                         "To whom it may concern,",
@@ -1246,6 +1246,312 @@
                         "Disease"
                     ],
                     "respuestaCorrecta": "Injury"
+                }
+            ]
+        },
+        {
+            "evaluacion": 11,
+            "temario": "MOCK 2025 Exam",
+            "preguntas": [
+                {
+                    "id": 101,
+                    "pregunta": "What does \"OTC\" stand for in the context of pharmacy products?",
+                    "opciones": [
+                        "Order Through Catalogue",
+                        "On-Target Care",
+                        "Official Therapeutic Compound",
+                        "Only Tested Clinically",
+                        "Over-The-Counter (available without a prescription)"
+                    ],
+                    "respuestaCorrecta": "Over-The-Counter (available without a prescription)"
+                },
+                {
+                    "id": 102,
+                    "pregunta": "Which body system is primarily responsible for hormone production, including glands like the thyroid and pituitary?",
+                    "opciones": [
+                        "Respiratory system",
+                        "Nervous system",
+                        "Cardiovascular system",
+                        "Endocrine system",
+                        "Digestive system"
+                    ],
+                    "respuestaCorrecta": "Endocrine system"
+                },
+                {
+                    "id": 103,
+                    "pregunta": "How do we ask the customer if they understand us?",
+                    "opciones": [
+                        "Could you please repeat that?",
+                        "What did you say?",
+                        "Do we the customer understand us?",
+                        "Can you repeat it?",
+                        "Do you understand me?"
+                    ],
+                    "respuestaCorrecta": "Do you understand me?"
+                },
+                {
+                    "id": 104,
+                    "pregunta": "What would you answer after the client has introduced himself?",
+                    "opciones": [
+                        "\"See you again!\" or \"See you soon!\"",
+                        "\"An affectionate greeting to all!\"",
+                        "\"Thank's you!\"",
+                        "\"Pleased to meet you\" or \"(It is) nice to meet you\"",
+                        "\"Thank you!\""
+                    ],
+                    "respuestaCorrecta": "\"Pleased to meet you\" or \"(It is) nice to meet you\""
+                },
+                {
+                    "id": 105,
+                    "pregunta": "What is generally considered the most challenging part of customer service?",
+                    "opciones": [
+                        "None of them",
+                        "Request a clarification",
+                        "Respond to their questions",
+                        "Deal with a complaint",
+                        "Ask a question"
+                    ],
+                    "respuestaCorrecta": "Deal with a complaint"
+                },
+                {
+                    "id": 106,
+                    "pregunta": "Which basic pharmacy expression asks about the recommended frequency for taking medication?",
+                    "opciones": [
+                        "Do you have a prescription for this drug?",
+                        "Does it have any side effects?",
+                        "Do you have any allergies?",
+                        "How often should I take these pills?",
+                        "What can I take for a headache?"
+                    ],
+                    "respuestaCorrecta": "How often should I take these pills?"
+                },
+                {
+                    "id": 107,
+                    "pregunta": "Which vital sign measures the number of times the heart beats per minute?",
+                    "opciones": [
+                        "Pulse rate",
+                        "Body temperature",
+                        "Blood pressure",
+                        "Respiration rate",
+                        "Oxygen saturation"
+                    ],
+                    "respuestaCorrecta": "Pulse rate"
+                },
+                {
+                    "id": 108,
+                    "pregunta": "Which marketing tactic involves encouraging customers to make repeat purchases through methods like stamp cards or promotional gifts?",
+                    "opciones": [
+                        "Consumer research",
+                        "Emotional connections",
+                        "Ratings and reviews",
+                        "Customer loyalty",
+                        "Cross-selling"
+                    ],
+                    "respuestaCorrecta": "Customer loyalty"
+                },
+                {
+                    "id": 109,
+                    "pregunta": "A question can be asked politely in different ways. Indicate the phrase below that is not a polite way to start asking for information.",
+                    "opciones": [
+                        "This is all the information I have.",
+                        "Could you tell me ...?",
+                        "I would like to know…",
+                        "I wonder if you could ...?",
+                        "I wonder if you could tell me ...?"
+                    ],
+                    "respuestaCorrecta": "This is all the information I have."
+                },
+                {
+                    "id": 110,
+                    "pregunta": "When saying goodbye within a formal context, we can use expressions such as:",
+                    "opciones": [
+                        "\"Take caring!\"",
+                        "\"Have a nice day!\"",
+                        "\"Bye, bye\"",
+                        "\"I'm off!\"",
+                        "\"Bye, my friend!\""
+                    ],
+                    "respuestaCorrecta": "\"Have a nice day!\""
+                },
+                {
+                    "id": 111,
+                    "pregunta": "How is an \"Illness\" defined in the provided medical terminology text?",
+                    "opciones": [
+                        "An unhealthy condition of the body or the mind",
+                        "A severe, often chronic, medical condition",
+                        "The study of the origin and nature of a disease",
+                        "Physical harm caused by an accident or attack",
+                        "A condition always requiring hospitalization"
+                    ],
+                    "respuestaCorrecta": "An unhealthy condition of the body or the mind"
+                },
+                {
+                    "id": 112,
+                    "pregunta": "Lateral epicondylitis is given as an example of what type of injury?",
+                    "opciones": [
+                        "Shoulder injury",
+                        "Ankle injury",
+                        "Wrist injury",
+                        "Knee injury",
+                        "Elbow injury"
+                    ],
+                    "respuestaCorrecta": "Elbow injury"
+                },
+                {
+                    "id": 113,
+                    "pregunta": "What is the term for physical harm or damage to the body caused by an accident or attack?",
+                    "opciones": [
+                        "Syndrome",
+                        "Illness",
+                        "Injury",
+                        "Pathology",
+                        "Disease"
+                    ],
+                    "respuestaCorrecta": "Injury"
+                },
+                {
+                    "id": 114,
+                    "pregunta": "If we haven't understood what the client has said, the proper way to proceed is to:",
+                    "opciones": [
+                        "Do not pay attention to it",
+                        "Start asking other questions",
+                        "Pretend you have not heard him/her",
+                        "Do nothing",
+                        "Ask for clarification"
+                    ],
+                    "respuestaCorrecta": "Ask for clarification"
+                },
+                {
+                    "id": 115,
+                    "pregunta": "Which pharmacy phrase indicates that usage instructions can be found on the medicine's container?",
+                    "opciones": [
+                        "Do you have anything for migraine?",
+                        "Which pharmacy is on duty tonight?",
+                        "Take this medicine for a sore throat.",
+                        "Take a pill after each meal.",
+                        "The dosage instructions are labelled on the package."
+                    ],
+                    "respuestaCorrecta": "The dosage instructions are labelled on the package."
+                },
+                {
+                    "id": 116,
+                    "pregunta": "Point out which greeting you would never use when addressing a client formally in a professional setting (like a cabinet/office).",
+                    "opciones": [
+                        "Good evening!",
+                        "Hi!",
+                        "Good morning!",
+                        "Hello!",
+                        "Good afternoon!"
+                    ],
+                    "respuestaCorrecta": "Hi!"
+                },
+                {
+                    "id": 117,
+                    "pregunta": "According to the pharmacy marketing document, online pharmacies can sell which type of medicines?",
+                    "opciones": [
+                        "Experimental drugs only",
+                        "Only vitamins and supplements",
+                        "Medicines that do not require a prescription (OTC)",
+                        "All types of prescription medicines",
+                        "Only medicines approved for online sale by a doctor"
+                    ],
+                    "respuestaCorrecta": "Medicines that do not require a prescription (OTC)"
+                },
+                {
+                    "id": 118,
+                    "pregunta": "What is \"anamnesis\" defined as in the medical context provided?",
+                    "opciones": [
+                        "The number of breaths taken per minute",
+                        "The clinical exploration process carried out through questioning",
+                        "The count of heartbeats per minute",
+                        "A high blood pressure reading",
+                        "The measurement of the body's core temperature"
+                    ],
+                    "respuestaCorrecta": "The clinical exploration process carried out through questioning"
+                },
+                {
+                    "id": 119,
+                    "pregunta": "Regarding making appointments, choose the phrase that is incorrectly used in that context compared to the others listed:",
+                    "opciones": [
+                        "Would you like to arrange a meeting with…?",
+                        "Would you like to arrange an appointment to...?",
+                        "Would you like to arrange an appointment with...?",
+                        "Please, confirm if this appointment is suitable / convenient for you.",
+                        "Can you spell that?"
+                    ],
+                    "respuestaCorrecta": "Can you spell that?"
+                },
+                {
+                    "id": 120,
+                    "pregunta": "According to the pharmacy vocabulary, what is the term for a medicine that requires a doctor's authorization to be dispensed?",
+                    "opciones": [
+                        "Painkiller",
+                        "Prescription",
+                        "Over-the-counter",
+                        "Vitamin",
+                        "Ointment"
+                    ],
+                    "respuestaCorrecta": "Prescription"
+                },
+                {
+                    "id": 121,
+                    "pregunta": "What condition is indicated by a blood pressure reading consistently between 140/90 mmHg or higher?",
+                    "opciones": [
+                        "Hypertension (High blood pressure)",
+                        "Hypotension (Low blood pressure)",
+                        "Bradycardia",
+                        "Normal blood pressure",
+                        "Tachycardia"
+                    ],
+                    "respuestaCorrecta": "Hypertension (High blood pressure)"
+                },
+                {
+                    "id": 122,
+                    "pregunta": "How can you introduce yourself in a formal way?",
+                    "opciones": [
+                        "\"Hello, she is...\"",
+                        "\"Good morning. I am...\" or \"Hello, my name is…\"",
+                        "\"Here is...?\"",
+                        "\"I hope to see you again\" or \"I hope to see you soon\"",
+                        "\"Hey, how you doing?\""
+                    ],
+                    "respuestaCorrecta": "\"Good morning. I am...\" or \"Hello, my name is…\""
+                },
+                {
+                    "id": 123,
+                    "pregunta": "The Integumentary system, which protects against damage, consists of:",
+                    "opciones": [
+                        "Skin, hair and nails",
+                        "Lungs and trachea",
+                        "Brain and nerves",
+                        "Kidneys and bladder",
+                        "Muscles and bones"
+                    ],
+                    "respuestaCorrecta": "Skin, hair and nails"
+                },
+                {
+                    "id": 124,
+                    "pregunta": "What is the English term for the digit on the hand used for grasping, opposite the other four fingers?",
+                    "opciones": [
+                        "Ring finger",
+                        "Middle finger",
+                        "Little finger",
+                        "Index finger",
+                        "Thumb"
+                    ],
+                    "respuestaCorrecta": "Thumb"
+                },
+                {
+                    "id": 125,
+                    "pregunta": "With what expression can information be required?",
+                    "opciones": [
+                        "No, please do not send me any advertising. I'm not interested.",
+                        "Remember, there is no obligation to buy.",
+                        "Where is your cabinet located?",
+                        "I am sending you the information you have requested.",
+                        "There are aspects of this case where I have doubts."
+                    ],
+                    "respuestaCorrecta": "Where is your cabinet located?"
                 }
             ]
         }
