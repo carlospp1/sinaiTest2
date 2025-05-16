@@ -349,7 +349,7 @@
                 },
                 {
                     "id": 29,
-                    "pregunta": "Which sentence is not related to "disagreeing"?",
+                    "pregunta": "Which sentence is not related to 'disagreeing'?",
                     "opciones": [
                         "It's difficult to say",
                         "I'm not sure about that",
@@ -790,7 +790,7 @@
                         "To whom it may concern,",
                         "I look forward to hearing from you",
                         "Best regards",
-                        "Write "Hello" in the subject line"
+                        "Write 'Hello' in the subject line"
                     ],
                     "respuestaCorrecta": [
                         "To whom it may concern,",
