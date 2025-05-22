@@ -30,7 +30,7 @@
                     "id": 3,
                     "pregunta": "What would you answer after the client has introduced himself?",
                     "opciones": [
-                        "“Thank's you!“",
+                        "“Thank“s you!“",
                         "“An affectionate greeting to all!“",
                         "“See you again!“ or “See you soon!“",
                         "“Thank you!“",
@@ -79,7 +79,7 @@
                     "pregunta": "When saying goodbye, within a FORMALITY, we can use expressions such as:",
                     "opciones": [
                         "“Bye!“",
-                        "“I'm off!“",
+                        "“i´m off!“",
                         "“Take caring!“",
                         "“Bye, bye“",
                         "“Have a nice day!“ or “Take care!“"
@@ -106,7 +106,7 @@
                         "“I apologize“",
                         "“Excuse me“",
                         "“I beg your pardon“",
-                        "“I'm sorry!“"
+                        "“i´m sorry!“"
                     ],
                     "respuestaCorrecta": "“I beg your pardon“"
                 },
@@ -260,15 +260,15 @@
                     "opciones": [
                         "Are you happy?",
                         "I see what you mean!",
-                        "Sorry I can't help you!",
+                        "Sorry I can“t help you!",
                         "You are really happy!",
-                        "Sorry, I can't help you"
+                        "Sorry, I can“t help you"
                     ],
                     "respuestaCorrecta": "I see what you mean!"
                 },
                 {
                     "id": 22,
-                    "pregunta": "“What I'm trying to say is that“... It is used to give our opinion on something.",
+                    "pregunta": "“What i´m trying to say is that“... It is used to give our opinion on something.",
                     "opciones": [
                         "True",
                         "False"
@@ -280,18 +280,18 @@
                     "pregunta": "Point out which answer does not correspond to the question asked:",
                     "opciones": [
                         "What are your own feelings about...?  /  Personally, I believe...",
-                        "Have you come to any conclusion about...?  /  I'm convinced that...",
+                        "Have you come to any conclusion about...?  /  i´m convinced that...",
                         "Are you feeling OK?  /  Yes, I feel good",
-                        "How do you see...?  /  I don't see nothing",
+                        "How do you see...?  /  I don“t see nothing",
                         "What do you think about...?  /  In my opinion..."
                     ],
-                    "respuestaCorrecta": "How do you see...?  /  I don't see nothing"
+                    "respuestaCorrecta": "How do you see...?  /  I don“t see nothing"
                 },
                 {
                     "id": 24,
                     "pregunta": "How do we show our conformity to an opinion?",
                     "opciones": [
-                        "It doesn't much matter to me",
+                        "It doesn“t much matter to me",
                         "Yes, I agree with you",
                         "You are absolutely right"
                     ],
@@ -304,14 +304,14 @@
                     "id": 25,
                     "pregunta": "Point out the expressions that express disagreement:",
                     "opciones": [
-                        "I am afraid I can't agree with you",
+                        "I am afraid I can“t agree with you",
                         "I agree with you",
                         "You are right",
                         "It depends on your point of view"
                     ],
                     "respuestaCorrecta": [
                         "It depends on your point of view",
-                        "I am afraid I can't agree with you"
+                        "I am afraid I can“t agree with you"
                     ]
                 },
                 {
@@ -349,12 +349,12 @@
                 },
                 {
                     "id": 29,
-                    "pregunta": "Which sentence is not related to 'disagreeing'?",
+                    "pregunta": "Which sentence is not related to “disagreeing“?",
                     "opciones": [
-                        "It's difficult to say",
-                        "I'm not sure about that",
-                        "Yes, but don't you think that…?",
-                        "I'm afraid I can't agree with you",
+                        "It“s difficult to say",
+                        "i´m not sure about that",
+                        "Yes, but don“t you think that…?",
+                        "i´m afraid I can“t agree with you",
                         "Yes, you have a point there"
                     ],
                     "respuestaCorrecta": "Yes, you have a point there"
@@ -529,11 +529,11 @@
                     "pregunta": "What expressions do we use if we have comprehension problems?",
                     "opciones": [
                         "I agree with you",
-                        "I don't understand you",
+                        "I don“t understand you",
                         "I understand",
                         "Could you speak slowly?"
                     ],
-                    "respuestaCorrecta": "I don't understand you"
+                    "respuestaCorrecta": "I don“t understand you"
                 },
                 {
                     "id": 44,
@@ -596,7 +596,7 @@
                 },
                 {
                     "id": 50,
-                    "pregunta": "If we haven't understood what the client has said, the proper way to proceed is to",
+                    "pregunta": "If we haven“t understood what the client has said, the proper way to proceed is to",
                     "opciones": [
                         "Pretend you have not heard him/her",
                         "Start asking other questions",
@@ -619,7 +619,7 @@
                         "It is the clinical exploration process",
                         "It is carried out through questioning to personally identify the individual",
                         "Helps to determine the relevant family, environmental and personal elements of a person",
-                        "It is to learn about the person's current ailments and obtain a retrospective of him or her",
+                        "It is to learn about the person“s current ailments and obtain a retrospective of him or her",
                         "All the answers are correct"
                     ],
                     "respuestaCorrecta": "All the answers are correct"
@@ -790,7 +790,7 @@
                         "To whom it may concern,",
                         "I look forward to hearing from you",
                         "Best regards",
-                        "Write 'Hello' in the subject line"
+                        "Write “Hello“ in the subject line"
                     ],
                     "respuestaCorrecta": [
                         "To whom it may concern,",
@@ -901,7 +901,7 @@
                         "Over the count",
                         "On the counter",
                         "Over-the-counter",
-                        "a medicine that can be bought with a prescription (doctor's order)"
+                        "a medicine that can be bought with a prescription (doctor“s order)"
                     ],
                     "respuestaCorrecta": "Over-the-counter"
                 },
@@ -925,7 +925,7 @@
                         "Customer loyalty",
                         "Consumer research",
                         "Emotional connections",
-                        "Staying on consumer's mind"
+                        "Staying on consumer“s mind"
                     ],
                     "respuestaCorrecta": "All the answers are correct"
                 },
@@ -994,7 +994,7 @@
                 },
                 {
                     "id": 82,
-                    "pregunta": "If some information is requested from us, it could be communicated in the following way: 'Can you send me information about...?'",
+                    "pregunta": "If some information is requested from us, it could be communicated in the following way: “Can you send me information about...?“",
                     "opciones": [
                         "True",
                         "False"
@@ -1007,7 +1007,7 @@
                     "opciones": [
                         "If you need anything else, do not hesitate to contact us again.",
                         "I send you the information you requested.",
-                        "I'd like to receive information.",
+                        "I“d like to receive information.",
                         "I will contact you as soon as I can."
                     ],
                     "respuestaCorrecta": [
@@ -1021,11 +1021,11 @@
                     "pregunta": "When the client has doubts regarding the date or time of the appointment, he will notify us as follows:",
                     "opciones": [
                         "Could you confirm me when the appointment is?",
-                        "I don't know the date /schedule.",
-                        "I don't know anything about (…). Sorry."
+                        "I don“t know the date /schedule.",
+                        "I don“t know anything about (…). Sorry."
                     ],
                     "respuestaCorrecta": [
-                        "I don't know the date /schedule.",
+                        "I don“t know the date /schedule.",
                         "Could you confirm me when the appointment is?"
                     ]
                 },
@@ -1034,7 +1034,7 @@
                     "pregunta": "With what expression can information be required?",
                     "opciones": [
                         "There are aspects of this case where I have doubts.",
-                        "No, please do not send me any advertising. I'm not interested.",
+                        "No, please do not send me any advertising. i´m not interested.",
                         "Remember, there is no obligation to buy.",
                         "I am sending you the information you have requested.",
                         "Where is your cabinet located?"
@@ -1059,11 +1059,11 @@
                     "opciones": [
                         "I want...",
                         "Please...",
-                        "I'd like you...",
+                        "I“d like you...",
                         "You have to..."
                     ],
                     "respuestaCorrecta": [
-                        "I'd like you...",
+                        "I“d like you...",
                         "Please..."
                     ]
                 },
@@ -1125,7 +1125,7 @@
                 },
                 {
                     "id": 92,
-                    "pregunta": "'Sickness' is the stage of being ill",
+                    "pregunta": "“Sickness“ is the stage of being ill",
                     "opciones": [
                         "True",
                         "False"
@@ -1180,7 +1180,7 @@
                 },
                 {
                     "id": 96,
-                    "pregunta": "'An unhealthy condition of the body or the mind' defines the word:",
+                    "pregunta": "“An unhealthy condition of the body or the mind“ defines the word:",
                     "opciones": [
                         "Injury",
                         "Disease",
@@ -1192,7 +1192,7 @@
                 },
                 {
                     "id": 97,
-                    "pregunta": "The 'rotator cuff injury' is in the..",
+                    "pregunta": "The “rotator cuff injury“ is in the..",
                     "opciones": [
                         "Leg",
                         "Elbow",
@@ -1237,7 +1237,7 @@
                 },
                 {
                     "id": 100,
-                    "pregunta": "'Physical harm or damage to someone's body caused by an accident'",
+                    "pregunta": "“Physical harm or damage to someone“s body caused by an accident“",
                     "opciones": [
                         "Pathology",
                         "Attack",
@@ -1255,7 +1255,7 @@
             "preguntas": [
                 {
                     "id": 101,
-                    "pregunta": "What does 'OTC' stand for in the context of pharmacy products?",
+                    "pregunta": "What does “OTC“ stand for in the context of pharmacy products?",
                     "opciones": [
                         "Order Through Catalogue",
                         "On-Target Care",
@@ -1293,13 +1293,13 @@
                     "id": 104,
                     "pregunta": "What would you answer after the client has introduced himself?",
                     "opciones": [
-                        "'See you again!' or 'See you soon!'",
-                        "'An affectionate greeting to all!'",
-                        "'Thank's you!'",
-                        "'Pleased to meet you' or '(It is) nice to meet you'",
-                        "'Thank you!'"
+                        "“See you again!“ or “See you soon!“",
+                        "“An affectionate greeting to all!“",
+                        "“Thank“s you!“",
+                        "“Pleased to meet you“ or “(It is) nice to meet you“",
+                        "“Thank you!“"
                     ],
-                    "respuestaCorrecta": "'Pleased to meet you' or '(It is) nice to meet you'"
+                    "respuestaCorrecta": "“Pleased to meet you“ or “(It is) nice to meet you“"
                 },
                 {
                     "id": 105,
@@ -1365,17 +1365,17 @@
                     "id": 110,
                     "pregunta": "When saying goodbye within a formal context, we can use expressions such as:",
                     "opciones": [
-                        "'Take caring!'",
-                        "'Have a nice day!'",
-                        "'Bye, bye'",
-                        "'I'm off!'",
-                        "'Bye, my friend!'"
+                        "“Take caring!“",
+                        "“Have a nice day!“",
+                        "“Bye, bye“",
+                        "“i´m off!“",
+                        "“Bye, my friend!“"
                     ],
-                    "respuestaCorrecta": "'Have a nice day!'"
+                    "respuestaCorrecta": "“Have a nice day!“"
                 },
                 {
                     "id": 111,
-                    "pregunta": "How is an 'Illness' defined in the provided medical terminology text?",
+                    "pregunta": "How is an “Illness“ defined in the provided medical terminology text?",
                     "opciones": [
                         "An unhealthy condition of the body or the mind",
                         "A severe, often chronic, medical condition",
@@ -1411,7 +1411,7 @@
                 },
                 {
                     "id": 114,
-                    "pregunta": "If we haven't understood what the client has said, the proper way to proceed is to:",
+                    "pregunta": "If we haven“t understood what the client has said, the proper way to proceed is to:",
                     "opciones": [
                         "Do not pay attention to it",
                         "Start asking other questions",
@@ -1423,7 +1423,7 @@
                 },
                 {
                     "id": 115,
-                    "pregunta": "Which pharmacy phrase indicates that usage instructions can be found on the medicine's container?",
+                    "pregunta": "Which pharmacy phrase indicates that usage instructions can be found on the medicine“s container?",
                     "opciones": [
                         "Do you have anything for migraine?",
                         "Which pharmacy is on duty tonight?",
@@ -1459,13 +1459,13 @@
                 },
                 {
                     "id": 118,
-                    "pregunta": "What is 'anamnesis' defined as in the medical context provided?",
+                    "pregunta": "What is “anamnesis“ defined as in the medical context provided?",
                     "opciones": [
                         "The number of breaths taken per minute",
                         "The clinical exploration process carried out through questioning",
                         "The count of heartbeats per minute",
                         "A high blood pressure reading",
-                        "The measurement of the body's core temperature"
+                        "The measurement of the body“s core temperature"
                     ],
                     "respuestaCorrecta": "The clinical exploration process carried out through questioning"
                 },
@@ -1483,7 +1483,7 @@
                 },
                 {
                     "id": 120,
-                    "pregunta": "According to the pharmacy vocabulary, what is the term for a medicine that requires a doctor's authorization to be dispensed?",
+                    "pregunta": "According to the pharmacy vocabulary, what is the term for a medicine that requires a doctor“s authorization to be dispensed?",
                     "opciones": [
                         "Painkiller",
                         "Prescription",
@@ -1509,13 +1509,13 @@
                     "id": 122,
                     "pregunta": "How can you introduce yourself in a formal way?",
                     "opciones": [
-                        "'Hello, she is...'",
-                        "'Good morning. I am...' or 'Hello, my name is…'",
-                        "'Here is...?'",
-                        "'I hope to see you again' or 'I hope to see you soon'",
-                        "'Hey, how you doing?'"
+                        "“Hello, she is...“",
+                        "“Good morning. I am...“ or “Hello, my name is…“",
+                        "“Here is...?“",
+                        "“I hope to see you again“ or “I hope to see you soon“",
+                        "“Hey, how you doing?“"
                     ],
-                    "respuestaCorrecta": "'Good morning. I am...' or 'Hello, my name is…'"
+                    "respuestaCorrecta": "“Good morning. I am...“ or “Hello, my name is…“"
                 },
                 {
                     "id": 123,
@@ -1545,7 +1545,7 @@
                     "id": 125,
                     "pregunta": "With what expression can information be required?",
                     "opciones": [
-                        "No, please do not send me any advertising. I'm not interested.",
+                        "No, please do not send me any advertising. i´m not interested.",
                         "Remember, there is no obligation to buy.",
                         "Where is your cabinet located?",
                         "I am sending you the information you have requested.",
